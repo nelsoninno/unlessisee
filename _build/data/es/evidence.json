@@ -1,0 +1,1343 @@
+{
+ "meta": {
+  "strength_convention": "En los elementos normales, la fuerza califica la afirmación a favor de la autenticidad. En los elementos cuyo id empieza con 'against-', la afirmación es lo que sostienen los escépticos, y la fuerza califica ese argumento escéptico.",
+  "last_checked": "2026-10-21"
+ },
+ "items": [
+  {
+   "id": "against-radiocarbon-1988",
+   "exhibit": 1,
+   "category": "dating",
+   "title": "La fecha del radiocarbono de 1988: 1260 a 1390 d. C.",
+   "claim": "Los escépticos sostienen: tres laboratorios independientes dataron el lino entre 1260 y 1390 d. C., con al menos un 95% de confianza. Ese rango coincide con el primer registro seguro de la tela, en Lirey, en la década de 1350.",
+   "detail": "El 21 de abril de 1988 se cortó una sola tira de una esquina de la tela, junto al punto muestreado en 1973, lejos de los remiendos y de las quemaduras. Arizona, Oxford y Zúrich recibieron cada uno un trozo de unos 50 mg, además de tres telas de control de edad conocida. Las medias de los laboratorios fueron 646 ± 31 AP (Arizona), 750 ± 30 AP (Oxford) y 676 ± 24 AP (Zúrich), con una media no ponderada de 691 ± 31 AP. Calibrado, eso da de 1273 a 1288 d. C. al 68% y de 1262 a 1312 o de 1353 a 1384 d. C. al 95%, que Nature redondeó a 1260 a 1390 d. C. Los tres controles salieron cerca de sus edades conocidas. El artículo, publicado en Nature en febrero de 1989, llamó al resultado evidencia concluyente de que el lino es medieval.",
+   "skeptic": "Esta es la prueba individual más fuerte de todo el debate. La datación por radiocarbono con AMS es un método maduro y bien probado, tres laboratorios coincidieron con un margen de cerca de un siglo y los controles funcionaron. La fecha coincide con el primer registro escrito, el memorando de d'Arcis y el comentario de Oresme sobre una sábana falsa en Champaña. Cada intento de descartar la fecha (fuego, bacterias, monóxido de carbono, neutrones, un remiendo invisible) o se puso a prueba y falló, o no tiene evidencia directa.",
+   "reply": "La mejor réplica no es que el método esté mal, sino que la muestra quizá no representa a toda la tela. Solo se muestreó una tira de una esquina, y trabajos estadísticos posteriores encontraron que los 12 resultados no son homogéneos y muestran una tendencia a lo largo de la tira. Incluso los autores de esos nuevos análisis dicen que esto no prueba una fecha antigua; solo debilita la etiqueta de \"concluyente\" y pide una prueba nueva y bien diseñada.",
+   "strength": "strong",
+   "strength_reason": "Revisada por pares, tres laboratorios, controles que funcionaron, y ningún mecanismo de contaminación puesto a prueba ha mostrado que pueda mover la fecha 13 siglos.",
+   "sources": [
+    {
+     "label": "Damon et al. 1989, Nature 337:611",
+     "url": "https://doi.org/10.1038/337611a0",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Damon et al. 1989, copia del texto completo",
+     "url": "https://shroud.com/nature.htm",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Wikipedia: Radiocarbon dating of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin",
+     "type": "website"
+    },
+    {
+     "label": "Karapanagiotis 2025, Textiles 5(1):8 (revisión)",
+     "url": "https://www.mdpi.com/2673-7248/5/1/8",
+     "type": "peer-reviewed"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "radiocarbon-heterogeneity",
+   "exhibit": 2,
+   "category": "dating",
+   "title": "Los resultados de 1988 no concuerdan bien entre sí",
+   "claim": "Varios nuevos análisis estadísticos revisados por pares muestran que las 12 mediciones de la Sábana Santa no son homogéneas y varían según la posición en la tira, así que el rango del 95% que se afirmó en 1989 no es confiable.",
+   "detail": "La propia Nature reportó para la Sábana Santa un chi cuadrado de 6,4 con 2 grados de libertad, significativo al nivel del 5%, mientras que los controles pasaron sin problema. Riani y otros (2013) encontraron diferencias significativas entre las medias de los laboratorios (p = 0,0400 sin ponderar y 0,0043 con las ponderaciones originales) y una tendencia de la edad a lo largo de la tira en las 387.072 distribuciones posibles de las submuestras. Casabianca y otros (2019) usaron los datos originales de los laboratorios que el Museo Británico liberó en 2017 y obtuvieron un valor de 15,99 en la prueba de Ward y Wilson frente a un valor crítico de 5,99, y una concordancia en OxCal de solo 41,8% para las fechas publicadas. Di Lazzaro y otros (2020) reportaron un gradiente espacial de unos 50 años de radiocarbono por centímetro. Walsh y Schwalbe (2020) encontraron que mover dos laboratorios unos 10 años devuelve la homogeneidad, y que con 88 años todos los resultados concuerdan.",
+   "skeptic": "La heterogeneidad indica que las barras de error eran demasiado pequeñas, no que la tela sea 1.300 años más antigua. Las correcciones que proponen estos autores van de decenas de años a menos de un siglo, y con eso la fecha sigue siendo medieval. Casabianca y otros afirman que sus resultados no descartan la hipótesis medieval.",
+   "reply": "Es justo, y el sitio debe decirlo con claridad. El punto honesto es más limitado: la afirmación de 1989 de \"evidencia concluyente\" se basaba en tratar 12 resultados como mediciones repetidas de una misma cantidad, y no lo son. Una tendencia según la posición implica que algo varía a lo largo de la tela, y justamente por eso hace falta una nueva prueba en varios puntos.",
+   "strength": "moderate",
+   "strength_reason": "El problema estadístico es real y está revisado por pares, pero amplía la incertidumbre en lugar de apuntar al siglo I.",
+   "sources": [
+    {
+     "label": "Riani, Atkinson, Fanti, Crosilla 2013, Statistics and Computing",
+     "url": "https://riani.unipr.it/pub/RAFC2012.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Casabianca et al. 2019, Archaeometry 61(5):1223-1231",
+     "url": "https://philarchive.org/archive/CASTRD-3",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Di Lazzaro et al. 2020, Entropy 22(9):926",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7597180",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Walsh y Schwalbe 2020, J. Archaeological Science: Reports 29",
+     "url": "https://doi.org/10.1016/j.jasrep.2019.102015",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Riani et al. 2026, Statistical Methods and Applications",
+     "url": "https://link.springer.com/article/10.1007/s10260-026-00851-2",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Columna de Chemistry World sobre Casabianca 2019",
+     "url": "https://chemistryworld.com/opinion/how-old-is-the-turin-shroud/3010341.article",
+     "type": "news"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "radiocarbon-sample-repair",
+   "exhibit": 3,
+   "category": "dating",
+   "title": "¿La esquina datada era un remiendo medieval?",
+   "claim": "Raymond Rogers (2005) reportó que los hilos de la zona del radiocarbono contienen algodón y un recubrimiento de goma vegetal y tinte que no aparece en la tela principal, así que la muestra podría ser una reparación posterior muy hábil.",
+   "detail": "Rogers, químico de STURP, publicó en Thermochimica Acta 425 (2005). Reportó un recubrimiento de goma amarillo pardo con lacas de tinte y fibras de algodón en hilos que, según se dijo, venían de la muestra del radiocarbono, y concluyó que \"se tomó la peor muestra posible para la datación por carbono\". Sus hilos se los dio Luigi Gonella en 2003, quien no estaba autorizado para retirar material de la Sábana Santa, así que su procedencia es incierta. Freer-Waters y Jull (2010) examinaron un fragmento sobrante real de Arizona y encontraron solo unas pocas fibras de algodón, sin tinte y sin recubrimiento. Otro fragmento de Arizona, guardado por el ya fallecido Douglas Donahue, se examinó en un artículo de 2026 en Heritage Science que, según la prensa, no encontró evidencia de reparación ni de material extraño.",
+   "skeptic": "La teoría exige que un tejedor medieval injertara hilo nuevo en una tela vieja con tanta habilidad que la principal restauradora de textiles del mundo, Mechthild Flury-Lemberg, no vio ninguna señal cuando trabajó en la tela en 2002. Gove (1990) señaló que un remiendo invisible se ve con facilidad al microscopio. El examen directo de fragmentos datados reales, en 2010 y otra vez en 2026, no encontró tinte, ni recubrimiento, ni reparación.",
+   "reply": "Rogers era un químico cuidadoso y de experiencia, y su artículo pasó la revisión por pares. Pero los hilos que analizó no se pueden rastrear con certeza, y los dos estudios directos posteriores de fragmentos documentados van en su contra. El sitio puede mencionar la hipótesis por su importancia histórica, no como una victoria pendiente.",
+   "strength": "disputed",
+   "strength_reason": "Revisada por pares, pero se basa en hilos de procedencia dudosa y la contradice el estudio directo de fragmentos documentados en 2010 y 2026.",
+   "sources": [
+    {
+     "label": "Rogers 2005, Thermochimica Acta 425:189-194",
+     "url": "https://zenodo.org/record/1259381",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Freer-Waters y Jull 2010, Radiocarbon 52(4):1521-1527",
+     "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8CC26C322198300E051C49A0BA5B96D9/S0033822200056277a.pdf/investigating-a-dated-piece-of-the-shroud-of-turin.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Freer-Waters y Jull 2026, Heritage Science",
+     "url": "https://www.nature.com/articles/s40494-026-02530-7",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Farey 2026, resumen del artículo de 2026",
+     "url": "https://medievalshroud.com/the-donahue-sliver-resurfaces/",
+     "type": "website"
+    },
+    {
+     "label": "IBT vía inkl 2026, nota sobre el estudio de abril de 2026",
+     "url": "https://www.inkl.com/news/turin-shroud-dna-jesus-claim-hits-a-snag-strongest-match-points-to-man-who-collected-samples",
+     "type": "news"
+    },
+    {
+     "label": "Gove 1990, Radiocarbon",
+     "url": "https://doi.org/10.1017/S0033822200039990",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Schafersman 2005, respuesta escéptica a Rogers",
+     "url": "https://web.archive.org/web/20151114044016/http://llanoestacado.org/freeinquiry/skeptic/shroud/articles/rogers-ta-response.htm",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "radiocarbon-contamination",
+   "exhibit": 4,
+   "category": "dating",
+   "title": "Explicaciones de la fecha por contaminación",
+   "claim": "El fuego, recubrimientos bacterianos, el monóxido de carbono o un estallido de neutrones podrían haber añadido carbono moderno y hecho que una tela antigua pareciera medieval.",
+   "detail": "Desde 1988 se han propuesto varios mecanismos. Una revisión en Textiles (2025) señala que haría falta un 40% o más de carbono moderno para convertir una tela del siglo I en una fecha del siglo XIV, y que tres estudios posteriores descartaron un supuesto efecto de carboxilación por el fuego. Christopher Ramsey, de Oxford, puso a prueba la idea del monóxido de carbono en 2008 y no encontró una reacción significativa, con una sensibilidad capaz de detectar desfases de menos de un año. Garza-Valdes y Mattingly propusieron en 1996 un recubrimiento bacteriano tipo \"bioplástico\". Una hipótesis de neutrones vinculada a un terremoto apareció en un artículo de revista que se retiró en 2015 porque el proceso editorial estaba comprometido.",
+   "skeptic": "El tratamiento previo en el laboratorio (ácido, álcali, blanqueador, detergente) está diseñado para quitar justamente estos contaminantes, y los tres laboratorios usaron métodos de limpieza distintos y aun así obtuvieron resultados parecidos. Las cantidades de contaminación necesarias son absurdamente grandes para un lino que se ve y se comporta con normalidad. Una explicación basada en neutrones milagrosos no se puede poner a prueba.",
+   "reply": "No hay una réplica sólida para estos mecanismos concretos. La única versión defendible es la general de la prueba 2: una contaminación no eliminada podría explicar parte de la dispersión, lo cual es cuestión de décadas, no de siglos.",
+   "strength": "debunked",
+   "strength_reason": "Cada mecanismo concreto que se puso a prueba falló, y las cantidades necesarias no son creíbles.",
+   "sources": [
+    {
+     "label": "Karapanagiotis 2025, Textiles 5(1):8",
+     "url": "https://www.mdpi.com/2673-7248/5/1/8",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Ramsey 2008, comunicado de la Oxford Radiocarbon Accelerator Unit",
+     "url": "https://c14.arch.ox.ac.uk/shroud.html",
+     "type": "official"
+    },
+    {
+     "label": "Ball 2005, noticia en Nature (mención de Garza-Valdes)",
+     "url": "https://www.nature.com/news/2005/050124/full/news050124-17.html",
+     "type": "news"
+    },
+    {
+     "label": "Retraction Watch 2015 sobre los artículos de Carpinteri",
+     "url": "https://retractionwatch.com/2015/04/16/controversial-italian-scientist-loses-11-papers-from-journal-he-used-to-edit",
+     "type": "news"
+    },
+    {
+     "label": "Wikipedia: Radiocarbon dating of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "waxs-dating-2022",
+   "exhibit": 5,
+   "category": "dating",
+   "title": "Datación de un hilo con rayos X (WAXS)",
+   "claim": "De Caro y otros (2022) midieron el envejecimiento de la celulosa de un hilo de la Sábana Santa mediante dispersión de rayos X de gran ángulo y encontraron que coincidía con un lino de Masada (55 a 74 d. C.), no con uno medieval.",
+   "detail": "El equipo usó un solo hilo de unos 0,5 mm por 1 mm, de cerca de la esquina muestreada en 1988. Su parámetro de envejecimiento fue de 0,60 ± 0,02, que según ellos no se alcanza con siete siglos en las condiciones de Turín (12,5 °C y 75% de humedad relativa, que dan 0,027 o menos). Para igualarlo se necesitan unos 20,2 ± 0,8 siglos de envejecimiento si la tela pasó 13 siglos sin registro a 22,5 °C y 55% de humedad relativa, o a unos 20 °C y 75% de humedad relativa. Si el promedio fue superior a 23 °C, la edad queda por debajo de 20 siglos. Los autores llaman al resultado \"muy probable\" y dicen que es obligatorio estudiar más muestras.",
+   "skeptic": "La respuesta depende casi por completo de una temperatura y una humedad supuestas para 13 siglos que nadie puede documentar. Si se cambia el supuesto unos pocos grados, la fecha se mueve siglos. Es un hilo, un laboratorio, con un coautor (Fanti) que lleva mucho tiempo defendiendo la autenticidad, y el método no se ha validado a ciegas con muchos textiles de edad e historia de almacenamiento conocidas.",
+   "reply": "El método es físicamente sólido y está revisado por pares, y al menos muestra que el hilo no es claramente reciente. Pero el sitio debe presentarlo como un resultado piloto interesante, nunca como una fecha que anula el radiocarbono.",
+   "strength": "weak",
+   "strength_reason": "Una sola muestra, un método no validado, y el resultado depende de condiciones de almacenamiento supuestas.",
+   "sources": [
+    {
+     "label": "De Caro et al. 2022, Heritage 5:860-870",
+     "url": "https://dsctm.cnr.it/images/Highlights/Sindone/DeCaro_Heritage_2022.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Karapanagiotis 2025, Textiles 5(1):8",
+     "url": "https://www.mdpi.com/2673-7248/5/1/8",
+     "type": "peer-reviewed"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "fanti-spectroscopic-mechanical-dating",
+   "exhibit": 6,
+   "category": "dating",
+   "title": "La datación de Fanti por FT-IR, Raman y pruebas mecánicas",
+   "claim": "El equipo de Giulio Fanti dató fibras de la Sábana Santa con tres métodos de envejecimiento y obtuvo resultados centrados cerca del siglo I.",
+   "detail": "Los resultados, con un 95% de confianza, fueron 300 a. C. ± 400 años por FT-IR (752 a. C. antes de una corrección por el incendio), 200 a. C. ± 500 por Raman y 400 d. C. ± 400 por pruebas mecánicas, con un promedio de unos 33 a. C. ± 250. Un nuevo análisis Monte Carlo de los datos mecánicos en 2015 dio 279 d. C. ± 216. La calibración usó nueve textiles antiguos y controles modernos. Las fibras venían de polvo aspirado del reverso de la tela por Giovanni Riggi.",
+   "skeptic": "Las fibras son polvo suelto, no hilos documentados, y pueden estar mezcladas con la tela del forro y con otro lino. La degradación de la celulosa no es un reloj constante; depende del almacenamiento, que es distinto en la Sábana Santa y en las telas de referencia. La corrección por el incendio se aplicó a un método pero no a otro, y la dispersión combinada va de unos 700 a. C. a 800 d. C. El arzobispo de Turín dijo que no había \"ningún grado de seguridad\" sobre el material analizado.",
+   "reply": "Los métodos están publicados (Vibrational Spectroscopy 2013, MATEC 2015) y las fibras tienen una cadena documentada a través de Riggi. Pero la procedencia, la calibración y los márgenes de error tan amplios hacen que, como mucho, sea evidencia de apoyo.",
+   "strength": "weak",
+   "strength_reason": "Procedencia incierta de las fibras, calibración no validada y márgenes de error muy amplios.",
+   "sources": [
+    {
+     "label": "Basso, Fanti, Malfi 2015, MATEC Web of Conferences 36:01003",
+     "url": "https://www.matec-conferences.org/10.1051/matecconf/20153601003",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Baraldi y Tinti 2015, MATEC 36:01002",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_01002.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Parker 2013, National Catholic Register",
+     "url": "https://www.ncregister.com/news/science-shines-new-light-on-shroud-of-turin-s-age",
+     "type": "news"
+    },
+    {
+     "label": "Crítica de Rinaldi 2013 (traducción de Farey)",
+     "url": "https://shroudstory.com/2013/04/04/a-critical-review-of-giulio-fantis-new-book-unreliable-results-because-of-inadequacy-of-methods/",
+     "type": "website"
+    },
+    {
+     "label": "Discusión sobre Fanti et al. 2013, Vibrational Spectroscopy",
+     "url": "https://shroudstory.com/2013/04/19/fanti-et-al-paper-in-vibrational-spectroscopy/",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "vanillin-age",
+   "exhibit": 7,
+   "category": "dating",
+   "title": "Falta de vainillina en la tela principal",
+   "claim": "Rogers no encontró vainillina en la lignina de la tela principal, mientras que el forro de Holanda y los linos medievales la conservan, lo que él interpretó como señal de una antigüedad mucho mayor (de 1.300 a 3.000 años).",
+   "detail": "La vainillina es un producto de la degradación de la lignina del lino que desaparece poco a poco. Rogers reportó 0% de vainillina conservada en la tela principal, frente a cerca de 37% en los hilos que atribuyó a la zona del radiocarbono. Con tasas de pérdida estimadas, calculó que la tela tenía de 1.300 a 3.000 años.",
+   "skeptic": "La pérdida de vainillina depende mucho de la temperatura, y la tela se calentó en el incendio de 1532 lo suficiente para derretir plata. La cinética nunca se validó con textiles de historia conocida. La cifra del 37% viene de los mismos hilos inciertos.",
+   "reply": "Una estimación razonable de un químico, pero demasiado sensible a una historia térmica desconocida como para tener peso.",
+   "strength": "weak",
+   "strength_reason": "Una cinética no probada y un episodio de calor conocido hacen que la estimación no sea confiable.",
+   "sources": [
+    {
+     "label": "Rogers 2005, Thermochimica Acta 425",
+     "url": "https://zenodo.org/record/1259381",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Ball 2005, noticia en Nature",
+     "url": "https://www.nature.com/news/2005/050124/full/news050124-17.html",
+     "type": "news"
+    },
+    {
+     "label": "Wikipedia: Radiocarbon dating of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "image-superficiality",
+   "exhibit": 8,
+   "category": "image",
+   "title": "Una imagen de solo unas pocas fibras de profundidad",
+   "claim": "La imagen del cuerpo es un amarilleo tenue de solo las fibras más superficiales de cada hilo, sin pintura, tinte ni aglutinante que la sostenga, y nadie ha reproducido todas sus propiedades conocidas.",
+   "detail": "El resumen de STURP de 1981 afirma que no se encontraron pigmentos, pinturas, tintes ni manchas en las fibrillas de la imagen, y que la fluorescencia de rayos X y la microquímica descartan la pintura. El color está en las dos o tres fibras más externas de un hilo; el color en sí es bastante uniforme y lo oscuro depende de cuántas fibras están coloreadas por área. Rogers y Arnoldi describen la capa coloreada como demasiado delgada para distinguirla con un microscopio óptico. Una revisión de 2025, revisada por pares, todavía llama a la formación de la imagen \"un misterio\".",
+   "skeptic": "El amarilleo superficial no es único: el frotado con pigmento ácido de Garlaschelli y el frotado con polvo de Nickell también dan color en las fibras superiores después de envejecer y lavar la tela. \"Todavía no se ha reproducido\" es un vacío de conocimiento, no evidencia de una sepultura. Muchos objetos medievales reales se resisten a una reproducción exacta.",
+   "reply": "De acuerdo en que \"sin explicación\" no es lo mismo que \"milagroso\". Pero el vacío es inusualmente grande: las réplicas igualan algunos rasgos y fallan en otros (uniformidad del color a nivel de la fibra, ausencia de imagen bajo la sangre, gama tonal fina). La afirmación cuidadosa es que no se ha mostrado que ninguna técnica medieval conocida produzca todos los rasgos a la vez.",
+   "strength": "strong",
+   "strength_reason": "Bien documentada por el estudio directo de 1978 y confirmada por revisiones posteriores; lo que implica sobre la edad es otra cuestión.",
+   "sources": [
+    {
+     "label": "Resumen de conclusiones de STURP de 1981",
+     "url": "http://www.shroud.com/78conclu.htm",
+     "type": "official"
+    },
+    {
+     "label": "Schwalbe y Rogers 1982, Analytica Chimica Acta 135 (en lista)",
+     "url": "http://www.shroud.com/78papers.htm",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Rogers y Arnoldi 2003, Melanoidins vol. 4",
+     "url": "https://shroud.com/pdfs/rogers7.pdf",
+     "type": "book"
+    },
+    {
+     "label": "Karapanagiotis 2025, Textiles 5(1):8",
+     "url": "https://www.mdpi.com/2673-7248/5/1/8",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Wikipedia: Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "against-mccrone-paint",
+   "exhibit": 9,
+   "category": "image",
+   "title": "McCrone: pintura de ocre rojo y bermellón",
+   "claim": "Los escépticos sostienen: el microscopista Walter McCrone encontró ocre rojo (óxido de hierro) en las cintas de la imagen y de la sangre, y bermellón en las cintas de la sangre, en un aglutinante de colágeno, y concluyó que la tela es una pintura del siglo XIV.",
+   "detail": "McCrone examinó fibras de 32 muestras de cinta tomadas en 1978. Reportó ocre rojo en 20 cintas de la imagen y de la sangre, bermellón solo en 11 cintas de la sangre, y ninguno de los dos en 12 cintas sin imagen. Dijo que las pruebas forenses de sangre en las fibras de la sangre y la imagen dieron negativo. Publicó en The Microscope (1980, 1981) y en Accounts of Chemical Research (1990), y fechó la pintura hacia 1355.",
+   "skeptic": "McCrone era un microscopista de primer nivel sin ningún interés religioso en juego, y la correlación entre pigmento e imagen es justamente lo que predice una pintura. Las copias pintadas de reliquias que se tocaban con el original no podrían explicar un patrón concentrado en las zonas de la imagen.",
+   "reply": "Heller y Adler (1981) distinguieron tres formas de hierro: hierro unido a la celulosa por el enriado, en toda la tela; hierro hemo en las zonas de sangre; y partículas de óxido de hierro puro concentradas en los bordes de las manchas de agua del incendio de 1532. Señalan que los ocres de los artistas contienen otros metales por encima del 1%, que no encontraron, y hallaron una sola partícula de cinabrio. La fluorescencia de rayos X de STURP no encontró elementos pesados significativos, salvo el hierro. Una revisión de 2025 señala que estudios posteriores encontraron partículas de pigmento pero también sangre, así que el pigmento por sí solo no puede explicar las manchas.",
+   "strength": "disputed",
+   "strength_reason": "Una afirmación seria de un experto, pero la contradicen varios análisis químicos y físicos independientes del mismo material de 1978.",
+   "sources": [
+    {
+     "label": "Resumen del McCrone Research Institute",
+     "url": "https://mccroneinstitute.org/research/shroud-of-turin-research-at-mccrone",
+     "type": "website"
+    },
+    {
+     "label": "McCrone 1990, Accounts of Chemical Research (archivado)",
+     "url": "https://web.archive.org/web/20230131030206/http://www.mccroneinstitute.org/uploads/the_microscope__shroud_small-1422560933.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Heller y Adler 1981, Canadian Society of Forensic Science Journal 14(3)",
+     "url": "https://www.shroud.com/pdfs/ssi43part3.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Karapanagiotis 2025, Textiles 5(1):8",
+     "url": "https://www.mdpi.com/2673-7248/5/1/8",
+     "type": "peer-reviewed"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "photographic-negative",
+   "exhibit": 10,
+   "category": "image",
+   "title": "La imagen funciona como un negativo fotográfico",
+   "claim": "Cuando Secondo Pia fotografió la tela en 1898, su placa negativa mostró una figura humana mucho más clara y con aspecto de positivo, lo que sugería que la imagen de la tela tiene los tonos invertidos.",
+   "detail": "Pia tomó las fotografías la noche del 28 de mayo de 1898 con lámparas eléctricas. El negativo reveló detalles del rostro difíciles de ver a simple vista. Algunos lo acusaron de manipularlo, hasta que las fotografías profesionales de Giuseppe Enrie en 1931 confirmaron el efecto.",
+   "skeptic": "Cualquier imagen hecha por contacto o por frotado sobre una superficie en relieve es, por naturaleza, un \"casi negativo\", porque los puntos altos se oscurecen. Nickell y Garlaschelli produjeron imágenes parecidas a un negativo con métodos disponibles en la Edad Media. Las marcas de sangre son positivas, no negativas, así que el \"negativo\" no es una fotografía.",
+   "reply": "El escéptico tiene razón en que el negativo por sí solo no es algo exótico. Lo notable es la combinación: negativo, más una superficialidad extrema, más un sombreado fino y continuo. El sitio no debe presentar el negativo como prueba de nada.",
+   "strength": "moderate",
+   "strength_reason": "Una propiedad real y llamativa, pero que se puede reproducir de forma burda con métodos sencillos de contacto.",
+   "sources": [
+    {
+     "label": "Wikipedia: Secondo Pia",
+     "url": "https://en.wikipedia.org/wiki/Secondo_Pia",
+     "type": "website"
+    },
+    {
+     "label": "Entrevista de Donnelly a Nickell, The Skeptic 1988",
+     "url": "https://www.skeptic.org.uk/?p=48809",
+     "type": "website"
+    },
+    {
+     "label": "Garlaschelli 2010, J. Imaging Science and Technology 54(4)",
+     "url": "https://library.imaging.org/jist/articles/54/4/art00002",
+     "type": "peer-reviewed"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "three-d-information",
+   "exhibit": 11,
+   "category": "imaging-3d",
+   "title": "Lo oscuro de la imagen corresponde a la distancia entre la tela y el cuerpo",
+   "claim": "Jackson, Jumper y Ercoline (1984) encontraron que la intensidad de la imagen se correlaciona con la distancia entre una tela colocada encima y un cuerpo, y por eso un analizador VP-8 convierte la imagen en un relieve natural, a diferencia de las fotos comunes.",
+   "detail": "En 1976, un VP-8 Image Analyzer mostró una fotografía de Enrie como una forma 3D coherente, mientras que las fotos comunes dan un revoltijo deformado. En Applied Optics 23 (1984), la correlación a partir de una muestra de 13 puntos fue r² = 0,60, con un intervalo del 95% de 0,13 a 0,86. La imagen se desvanece a unos 3,7 cm de distancia entre la tela y el cuerpo. Una foto común de un rostro de yeso dio r² = 0,17, mientras que una imagen de prueba codificada por distancia dio 0,98. Los autores concluyeron que ni el contacto por sí solo, ni la difusión, ni una radiación simple, ni un bajorrelieve simple encajan con todo.",
+   "skeptic": "Cualquier imagen cuya oscuridad dependa de la altura sobre una superficie, como un frotado sobre un relieve bajo, también dará un resultado 3D creíble. La correlación se basa en 13 puntos y en un modelo de cuerpo hecho a mano, y su intervalo de confianza es muy amplio. Moraes (2025) y Nicolotti insisten en que la imagen es una proyección casi ortogonal, que un relieve bajo explica de forma natural.",
+   "reply": "La propiedad 3D es real y no responde a ninguna convención artística conocida. Pero no es exclusiva de un cuerpo real, y el sitio debe citar las estadísticas modestas (r² de 0,60 a partir de 13 puntos), no solo las imágenes impactantes del VP-8.",
+   "strength": "moderate",
+   "strength_reason": "Una propiedad genuina y revisada por pares, pero las estadísticas son escasas y los relieves bajos pueden imitarla.",
+   "sources": [
+    {
+     "label": "Jackson, Jumper, Ercoline 1984, Applied Optics 23(14):2244-2270",
+     "url": "https://shroud.com/pdfs/Correlation%20of%20Image%20Intensity%20Jackson%20Jumper%20Ercoline%201984%20OCRsm.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Página de STERA sobre el descubrimiento del VP-8",
+     "url": "https://shroud.com/78strp10.htm",
+     "type": "website"
+    },
+    {
+     "label": "Live Science 2025 sobre Moraes, con comentario de Nicolotti",
+     "url": "https://www.livescience.com/archaeology/shroud-of-turin-wasnt-laid-on-jesus-body-but-rather-a-sculpture-modeling-study-suggests",
+     "type": "news"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "against-moraes-low-relief-2025",
+   "exhibit": 12,
+   "category": "imaging-3d",
+   "title": "Moraes 2025: la imagen encaja con un relieve bajo, no con un cuerpo",
+   "claim": "Los escépticos sostienen: las simulaciones en 3D muestran que una tela envuelta alrededor de un cuerpo real da una imagen ancha y deformada, mientras que una tela sobre una escultura en relieve bajo coincide mucho con la Sábana Santa, así que la imagen salió de una obra de arte.",
+   "detail": "Cicero Moraes publicó en Archaeometry el 28 de julio de 2025. Colocó una tela virtual sobre un cuerpo 3D completo y sobre un relieve bajo, y comparó ambos con las fotografías de 1931. El cuerpo 3D produjo el ensanchamiento conocido como \"efecto máscara de Agamenón\"; el relieve bajo coincidió. Llamó a la Sábana Santa una obra maestra del arte cristiano y no estudió sus materiales.",
+   "skeptic": "Es difícil esquivar la geometría. Una tela que toca un cuerpo redondeado debería registrar los lados del rostro y de las extremidades, y la Sábana Santa no lo hace. Un relieve bajo es una herramienta medieval natural y explica el aspecto plano y frontal.",
+   "reply": "El centro de Turín (CISS) dijo que el aspecto ortogonal se conoce desde los estudios de Vignon de 1902, y que el trabajo de la época de STURP ya había descartado el frotado sobre un bajorrelieve o su calentamiento, porque dejan pigmento, fluorescencia de quemadura o patrones de contacto en forma de meseta. Casabianca, Marinelli y Piana publicaron una réplica en la misma revista (reportada en febrero de 2026), en la que señalan un modelo solo frontal, un cuerpo de 180 cm, algodón en lugar de lino y ningún tratamiento de la sangre ni de la profundidad de la imagen. Incluso el escéptico Nicolotti dijo que el estudio no aporta nada nuevo. La geometría ortogonal es real; la pregunta abierta es qué proceso la produjo, sobre un cuerpo o sobre un relieve.",
+   "strength": "moderate",
+   "strength_reason": "La observación geométrica es válida y se conoce desde hace mucho, pero el estudio ignora la química y no muestra que un relieve pueda producir la imagen real a nivel de la fibra.",
+   "sources": [
+    {
+     "label": "Live Science 2025 sobre Moraes, Archaeometry",
+     "url": "https://www.livescience.com/archaeology/shroud-of-turin-wasnt-laid-on-jesus-body-but-rather-a-sculpture-modeling-study-suggests",
+     "type": "news"
+    },
+    {
+     "label": "Catholic World Report 2025, respuesta del CISS",
+     "url": "https://www.catholicworldreport.com/2025/08/05/shroud-of-turin-center-disputes-new-study-that-challenges-authenticity-of-burial-cloth/",
+     "type": "news"
+    },
+    {
+     "label": "Vatican News 2026, réplica de Casabianca et al. en Archaeometry",
+     "url": "https://www.vaticannews.va/en/church/news/2026-02/shroud-turin-medieval-bas-relief-hypothesis-challenged.html",
+     "type": "news"
+    },
+    {
+     "label": "Recopilación de STERA de respuestas a Moraes",
+     "url": "https://www.shroud.com/pdfs/Recent%20paper%20-%20Shroud%20Image%20Formation%20-%203D%20Approach.pdf",
+     "type": "website"
+    },
+    {
+     "label": "LADbible 2026 sobre la continuación del caso Moraes",
+     "url": "https://www.ladbible.com/news/expert-debunks-shroud-of-turin-jesus-099693-20260212",
+     "type": "news"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "against-artistic-reproductions",
+   "exhibit": 13,
+   "category": "image-formation",
+   "title": "Reproducciones al estilo medieval (Nickell, Garlaschelli)",
+   "claim": "Los escépticos sostienen: métodos sencillos, disponibles en la Edad Media, reproducen los rasgos principales. El frotado con polvo de Nickell sobre un bajorrelieve y la réplica de tamaño real con pigmento ácido de Garlaschelli dan imágenes en negativo, superficiales, sin fluorescencia y con algo de contenido 3D.",
+   "detail": "Nickell moldeó una tela húmeda sobre un relieve bajo y le frotó pigmento en polvo, y reportó unos 30 puntos de semejanza. Garlaschelli (2009, publicado en 2010) frotó una pasta de pigmento ácido sobre el cuerpo de un voluntario y sobre un bajorrelieve para el rostro, horneó la tela a unos 140 a 145 °C durante 3 horas y luego lavó el pigmento. Reportó una imagen superficial, solo de un lado, en negativo, que no brilla bajo la luz UV, mientras que las marcas de quemadura sí.",
+   "skeptic": "No son copias perfectas, pero muestran que los rasgos principales se pueden lograr sin ningún proceso exótico. Si se suman 600 años de envejecimiento y desgaste, las diferencias que quedan se reducen.",
+   "reply": "El propio Garlaschelli enumera lo que no reprodujo: la sangre y las marcas del flagelo se aplicaron con pincel, el cabello se pintó, las extremidades salieron deformadas por el frotado sobre el cuerpo y no se simuló el envejecimiento natural. Heimburger (2009) encontró un color que varía dentro de los hilos en lugar de un color uniforme por fibra, y un resultado 3D en forma de meseta (cerca de 60% de píxeles saturados, frente a 23% del rostro de la Sábana Santa en una prueba parecida). Ninguna réplica tiene todavía sangre sin imagen debajo.",
+   "strength": "moderate",
+   "strength_reason": "Muestra que el arte puede lograr varios rasgos, pero ninguna réplica los reproduce todos juntos.",
+   "sources": [
+    {
+     "label": "Garlaschelli 2010, J. Imaging Science and Technology 54(4):040301",
+     "url": "https://www.vof.se/wp-content/uploads/2024/09/JIST_2010_art00002_L_-Garlaschelli.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Crítica de Heimburger 2009",
+     "url": "https://www.shroud.com/pdfs/thibault-lg.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Entrevista de Donnelly a Nickell, The Skeptic 1988",
+     "url": "https://www.skeptic.org.uk/?p=48809",
+     "type": "website"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "uv-laser-coloration",
+   "exhibit": 14,
+   "category": "image-formation",
+   "title": "La coloración con láser ultravioleta de ENEA",
+   "claim": "Físicos de ENEA mostraron que pulsos muy breves de láser ultravioleta colorean el lino de una forma delgada, superficial y sin fluorescencia que se parece a la imagen de la Sábana Santa.",
+   "detail": "Di Lazzaro y sus colegas usaron un láser de 193 nm con pulsos de 12 nanosegundos. Un amarilleo parecido al de la Sábana Santa apareció solo en una franja estrecha, de unos 2 a 4 mil millones de vatios por centímetro cuadrado; con más potencia, el lino se desgastaba. La profundidad media del color en los hilos fue de unos 7 a 26 micrómetros, y una fibra mostró color solo en una pared primaria de unos 0,2 micrómetros de grosor. Al escalar el umbral a un área del tamaño de un cuerpo se obtienen unos 34 billones de vatios, que según los autores ninguna fuente UV existente puede producir.",
+   "skeptic": "Es una curiosidad de laboratorio, no un mecanismo. Los propios autores escriben que nadie puede afirmar que la imagen se hizo con destellos de un láser excímero. La cifra de los \"34 billones de vatios\" es solo el umbral del láser multiplicado por el área de un cuerpo, y los artículos populares la repiten como si midiera una resurrección.",
+   "reply": "Es justo. El resultado solo sirve como química: muestra que el tipo de color es compatible con una oxidación superficial rápida y con poco calor. No dice nada sobre qué fuente la produjo, si es que hubo alguna.",
+   "strength": "weak",
+   "strength_reason": "Buena física de laboratorio, pero sin evidencia de que existiera una fuente así; la cifra de vatios no debe usarse como \"prueba\".",
+   "sources": [
+    {
+     "label": "Di Lazzaro et al. 2010, actas del taller de ENEA Frascati",
+     "url": "https://www.sindone.info/DILAZZA1.PDF",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Página del proyecto de ENEA sobre estudios ópticos de la Sábana Santa",
+     "url": "https://eai.enea.it/archivio/knowledge-diagnostics-and-preservation-of-cultural-heritage/the-conservation-of-the-shroud-of-turin-optical-studies.html",
+     "type": "official"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "maillard-natural-hypothesis",
+   "exhibit": 15,
+   "category": "image-formation",
+   "title": "Una vía química natural (reacción de Maillard)",
+   "claim": "Rogers y Arnoldi propusieron que las aminas de un cuerpo en descomposición reaccionaron con residuos de azúcar en un lino de estilo antiguo, y dieron una capa superficial delgada y parda sin ningún milagro ni arte.",
+   "detail": "Un lino lavado con Saponaria y con residuos de almidón llevaría azúcares reductores a la superficie al secarse. El amoníaco y aminas como la cadaverina y la putrescina podrían reaccionar con ellos a temperatura moderada. En las pruebas, el vapor de amoníaco sobre lino tratado dio un color dorado en la superficie, con el centro de las fibras limpio. Los autores afirman que esto no prueba cómo se formó la imagen ni que la tela sea auténtica.",
+   "skeptic": "No se han encontrado productos de descomposición ni proteínas en la imagen, y la hipótesis nunca ha producido una imagen reconocible de un cuerpo. Los gases que se difunden deberían borrar los detalles mucho más que los labios y los dedos nítidos que se ven.",
+   "reply": "Sigue siendo la hipótesis natural que más se puede poner a prueba, y podría verificarse con nuevas muestras. Debe presentarse como una idea, no como un resultado.",
+   "strength": "weak",
+   "strength_reason": "Químicamente creíble, pero nunca se ha mostrado que produzca una imagen y carece de evidencia de residuos que la apoye.",
+   "sources": [
+    {
+     "label": "Rogers y Arnoldi 2003, Melanoidins vol. 4:106-113",
+     "url": "https://shroud.com/pdfs/rogers7.pdf",
+     "type": "book"
+    },
+    {
+     "label": "Wikipedia: Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "image-on-reverse",
+   "exhibit": 16,
+   "category": "image",
+   "title": "Un rostro tenue en el reverso de la tela",
+   "claim": "Fanti y Maggiolo (2004) reportaron una imagen superficial y tenue del rostro y de las manos en el reverso, lo que descartaría la mayoría de los métodos de pintura y de quemadura.",
+   "detail": "El análisis usó procesamiento por computadora de fotografías tomadas en 2002, cuando se había retirado la tela del forro. Se publicó en Journal of Optics A 6 (2004). Los autores sostienen que la imagen del reverso es superficial y no se debe a que algo haya traspasado la tela.",
+   "skeptic": "El método fue indirecto y la comparación de secciones pudo ser subjetiva. La restauradora Flury-Lemberg y monseñor Ghiberti, que vieron el reverso directamente en 2002, según se informa no vieron ninguna imagen. Los escaneos de alta resolución no son públicos, así que nadie puede comprobarlo.",
+   "reply": "No hay una buena réplica hasta que se publiquen los escaneos de 2002 para un análisis independiente.",
+   "strength": "disputed",
+   "strength_reason": "Un solo estudio indirecto, sin confirmación de los observadores directos ni de un nuevo análisis independiente.",
+   "sources": [
+    {
+     "label": "Reseña de Fanti y Maggiolo 2004",
+     "url": "https://sindonology.org/reviews/doubleSuperficiality.shtml",
+     "type": "website"
+    },
+    {
+     "label": "Wikipedia: History of the Shroud of Turin (entrada de 2004)",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "blood-is-real-blood",
+   "exhibit": 17,
+   "category": "blood",
+   "title": "Las manchas rojas contienen sangre",
+   "claim": "Las pruebas químicas en fibras de las manchas encontraron derivados del grupo hemo, fluorescencia de porfirinas, proteínas, albúmina y bilirrubina, que juntas indican sangre real y coagulada, no pintura.",
+   "detail": "Heller y Adler (1980, 1981) aplicaron unas 12 líneas de evidencia a las cintas de 1978: absorción de Soret cerca de 400 a 450 nm, conversión del grupo hemo en porfirina fluorescente, colores de hemocromógeno y cianometahemoglobina, pruebas de proteínas, pruebas de albúmina y enzimas que disolvieron la capa de sangre pero no afectaron las fibras de la imagen. Las fibras de la imagen y las fibras sin nada dieron negativo para proteínas por encima del nivel de nanogramos. El resumen de STURP de 1981 dice que las manchas son de hemoglobina y dan positivo para albúmina sérica.",
+   "skeptic": "Son pruebas presuntivas de los años setenta y ochenta, hechas por investigadores favorables a la autenticidad. Hasta 2025, no se ha mostrado con métodos modernos que la sangre sea humana, ni siquiera de primate. Y que la sangre sea real no prueba nada sobre la edad: un falsificador medieval podía usar sangre real.",
+   "reply": "El último punto del escéptico es correcto y el sitio debe decirlo por su cuenta. Que la sangre sea real es buena evidencia contra una simple pintura, pero es neutral sobre la fecha y la identidad. Un trabajo moderno de proteómica o de ADN sobre fibras de sangre documentadas resolvería la pregunta de si es humana.",
+   "strength": "moderate",
+   "strength_reason": "Varias pruebas químicas coherentes, pero con métodos antiguos, sin repetir con técnicas modernas y sin valor para determinar la edad.",
+   "sources": [
+    {
+     "label": "Heller y Adler 1980, Applied Optics 19(16)",
+     "url": "https://www.shroud.com/pdfs/ssi43part2.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Heller y Adler 1981, Can. Soc. Forensic Sci. J. 14(3)",
+     "url": "https://www.shroud.com/pdfs/ssi43part3.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Resumen de STURP de 1981",
+     "url": "http://www.shroud.com/78conclu.htm",
+     "type": "official"
+    },
+    {
+     "label": "Kearse 2012, revisión inmunológica",
+     "url": "https://www.shroud.com/pdfs/kearse.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Wikipedia: Shroud of Turin (sección sobre la sangre)",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "no-image-under-blood",
+   "exhibit": 18,
+   "category": "blood",
+   "title": "¿Primero la sangre y después la imagen?",
+   "claim": "Cuando se disolvió la sangre de las fibras con enzimas, no se encontró color de imagen debajo, lo que sugiere que la sangre tocó la tela antes de que se formara la imagen, al revés de como trabajaría normalmente un artista.",
+   "detail": "Heller y Adler usaron proteasas que eliminaron las capas de sangre en 30 minutos. Rogers y Arnoldi también reportan ausencia de color de imagen bajo las manchas eliminadas con enzimas. Un estudio experimental de 2026 de Kelly Kearse encontró que la sangre aplicada sobre un lino tratado con ácido impide que ese punto se coloree después.",
+   "skeptic": "Un falsificador podría pintar primero la sangre y después añadir la imagen del cuerpo, con la misma facilidad. El propio trabajo de Kearse de 2026 muestra que la sangre puede bloquear una coloración posterior, así que \"no hay imagen bajo la sangre\" es compatible con varias secuencias, y él concluye que el orden no se puede saber con certeza. La observación se basa en unas pocas muestras pequeñas de cinta.",
+   "reply": "La observación sigue siendo una condición real que toda teoría de falsificación debe cumplir, y la mayoría de las réplicas no la cumplen. Pero no es prueba de una sepultura.",
+   "strength": "disputed",
+   "strength_reason": "Se basa en muestras limitadas, y experimentos nuevos muestran que no fija por sí sola el orden de los hechos.",
+   "sources": [
+    {
+     "label": "Heller y Adler 1981",
+     "url": "https://www.shroud.com/pdfs/ssi43part3.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Rogers y Arnoldi 2003",
+     "url": "https://shroud.com/pdfs/rogers7.pdf",
+     "type": "book"
+    },
+    {
+     "label": "Kearse 2026, International Journal of Archaeology 14(2):16-26",
+     "url": "https://sciencepublishinggroup.com/article/10.11648/j.ija.20261402.11",
+     "type": "peer-reviewed"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "blood-type-ab",
+   "exhibit": 19,
+   "category": "blood",
+   "title": "Sangre de tipo AB",
+   "claim": "Baima Bollone reportó que la sangre era de tipo AB, y se afirmó lo mismo del Sudario de Oviedo, lo que vincularía las dos telas.",
+   "detail": "La tipificación directa encontró antígenos A y B, pero no O, en fibras con sangre. La tipificación inversa no encontró anticuerpos anti-A ni anti-B. Nunca se analizó el factor Rh, así que \"AB positivo\" no tiene fundamento. Garza-Valdes reportó después solo antígenos B.",
+   "skeptic": "Los antígenos A y B aparecen en bacterias y hongos comunes, y las fibras con sangre de la Sábana Santa están muy contaminadas. En una sangre antigua, los anticuerpos que faltan pueden haberse degradado sin más, así que la comprobación cruzada no puede funcionar. La tipificación nunca se publicó en una revista revisada por pares. Kearse (2025) concluye que los antígenos bacterianos son la explicación más probable.",
+   "reply": "No hay una buena réplica. Solo un trabajo a nivel de ADN (HLA o STR) podría ponerlo a prueba.",
+   "strength": "weak",
+   "strength_reason": "Sin publicar en revisión por pares y expuesta a falsos positivos por bacterias; incluso los especialistas favorables rechazan la conclusión.",
+   "sources": [
+    {
+     "label": "Kearse 2025, Forensic Science, Medicine and Pathology 21:1507-1510",
+     "url": "https://link.springer.com/article/10.1007/s12024-024-00915-3",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Kearse 2012, revisión inmunológica",
+     "url": "https://www.shroud.com/pdfs/kearse.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Kearse 2013, 'Positive for AB is not the same as AB positive'",
+     "url": "https://shroudstory.com/2013/01/08/positive-for-ab-is-not-the-same-as-ab-positive/",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "bilirubin-red-blood",
+   "exhibit": 20,
+   "category": "blood",
+   "title": "Una bilirrubina alta mantiene roja la sangre",
+   "claim": "Adler sostuvo que una bilirrubina muy alta, por un trauma grave, explica por qué la sangre antigua se ve roja y no negra.",
+   "detail": "Heller y Adler (1981) reportaron color de azobilirrubina en algunas partículas de sangre y un pico espectral cerca de 450 nm. Adler dijo que la bilirrubina mezclada con metahemoglobina se vería roja.",
+   "skeptic": "La bilirrubina es anaranjada e inestable ante la luz y el oxígeno. Nunca se midió bien su cantidad, y una prueba de 2010, según se informa, no encontró diferencia de color después de cuatro meses entre una sangre normal y una con bilirrubina alta. La sangre \"demasiado roja\" es en sí misma un argumento escéptico a favor de la pintura.",
+   "reply": "No hay una réplica sólida; el color rojo es una pregunta abierta.",
+   "strength": "weak",
+   "strength_reason": "Nunca se cuantificó ni se confirmó con experimentos.",
+   "sources": [
+    {
+     "label": "Heller y Adler 1981",
+     "url": "https://www.shroud.com/pdfs/ssi43part3.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Discusión sobre la evidencia de la bilirrubina, 2015",
+     "url": "https://shroudstory.com/2015/03/28/is-bilirubin-still-accepted-as-an-explanation-for-the-red-blood/",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "against-bloodstain-pattern-2018",
+   "exhibit": 21,
+   "category": "blood",
+   "title": "Análisis del patrón de las manchas de sangre: los flujos no encajan con un solo cuerpo",
+   "claim": "Los escépticos sostienen: Borrini y Garlaschelli (2018) mostraron que los flujos de sangre de los brazos, las manos y la espalda requieren posiciones del cuerpo distintas e incompatibles, así que las manchas parecen artísticas y no reales.",
+   "detail": "Con un voluntario vivo y métodos modernos de análisis de patrones de manchas de sangre, encontraron que los hilillos de las manos requieren los brazos a unos 45°, mientras que los flujos de los antebrazos requieren los brazos casi verticales. El flujo de la herida del costado en el pecho parecía realista para un hombre de pie, pero el \"cinturón\" de sangre que cruza la parte baja de la espalda se juzgó \"totalmente irreal\" para un cuerpo acostado.",
+   "skeptic": "La sangre real sobre un cuerpo real sigue la gravedad. Si los flujos implican posturas contradictorias, la explicación más sencilla es un artista que los colocó para causar efecto.",
+   "reply": "Un hombre crucificado cambia de posición una y otra vez, y Bucklin señaló dos hilillos en la muñeca izquierda que ya implican movimiento. El estudio usó un solo voluntario y sangre fresca, no sangre coagulada y suero post mortem sobre un cadáver que se movió. Aun así, el \"cinturón\" de la espalda es un enigma real que el sitio debe reconocer.",
+   "strength": "disputed",
+   "strength_reason": "Un trabajo forense revisado por pares, pero con un solo voluntario, un montaje que no puede captar el movimiento ni el flujo post mortem.",
+   "sources": [
+    {
+     "label": "Borrini y Garlaschelli 2019, Journal of Forensic Sciences 64:137-143",
+     "url": "https://researchonline.ljmu.ac.uk/id/eprint/8813/",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Bucklin, autopsy viewpoint",
+     "url": "https://shroud.com/bucklin.htm",
+     "type": "website"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "crucifixion-pathology",
+   "exhibit": 22,
+   "category": "anatomy",
+   "title": "Los patólogos forenses ven a un hombre crucificado real",
+   "claim": "Varios patólogos forenses han descrito la imagen como un registro médicamente coherente de una flagelación, un casco de espinas, un madero cargado, la crucifixión con clavos, la muerte y la rigidez cadavérica, con una herida en el pecho hecha después de la muerte.",
+   "detail": "El médico forense Robert Bucklin describió al menos 100 marcas bífidas del flagelo desde los hombros hasta las pantorrillas, un anillo de heridas punzantes en el cuero cabelludo, la mejilla derecha hinchada, raspones en los hombros, una herida en la muñeca con dos hilillos divergentes y una herida en el lado derecho del pecho con sangre y un líquido claro. Frederick Zugibe hizo experimentos de suspensión con voluntarios y concluyó que la muerte se debió a un choque traumático e hipovolémico. STURP concluyó en 1981 que la imagen es la de una forma humana real, la de un hombre flagelado y crucificado.",
+   "skeptic": "Los patólogos más citados son creyentes o simpatizantes, y no se ponen de acuerdo en puntos básicos (palma o muñeca, asfixia o choque). Un artista medieval informado que se basara en los Evangelios podría incluir el mismo conjunto de heridas. La verosimilitud médica muestra habilidad, no antigüedad.",
+   "reply": "El desacuerdo es real y debe mostrarse. El punto más fuerte no es una herida en particular, sino detalles pequeños, que no están en los Evangelios, y que encajan con la práctica romana y con la fisiología real mejor que con las convenciones medievales: las marcas del flagelo en forma de pesa, las heridas del cuero cabelludo repartidas como un casco y no como un anillo, la herida del clavo cerca de la muñeca y las manos con cuatro dedos.",
+   "strength": "moderate",
+   "strength_reason": "Lecturas médicas expertas y coherentes, pero de expertos favorables que discrepan en los detalles, y sin valor para determinar la fecha.",
+   "sources": [
+    {
+     "label": "Bucklin, 'An Autopsy on the Man of the Shroud'",
+     "url": "https://shroud.com/bucklin.htm",
+     "type": "website"
+    },
+    {
+     "label": "Bucklin, 'Viewpoint of a Forensic Pathologist'",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Zugibe 1995, 'Pierre Barbet Revisited', Sindon N.S. 8",
+     "url": "https://shroud.com/zugibe.htm",
+     "type": "website"
+    },
+    {
+     "label": "Resumen de STURP de 1981",
+     "url": "http://www.shroud.com/78conclu.htm",
+     "type": "official"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "nail-wound-and-thumbs",
+   "exhibit": 23,
+   "category": "anatomy",
+   "title": "La herida del clavo cerca de la muñeca y los pulgares que no se ven",
+   "claim": "La salida visible del clavo está en el extremo de la mano que da a la muñeca, no en el centro de la palma como en la mayor parte del arte medieval, y en cada mano solo se ven cuatro dedos.",
+   "detail": "Barbet sostuvo que el clavo atravesó el espacio de Destot en la muñeca y cortó el nervio mediano, lo que llevó el pulgar hacia la palma. Zugibe lo discutió: ubicó la entrada en la parte alta de la palma, a lo largo del pliegue tenar, con salida en la muñeca, y dijo que los pulgares simplemente quedan ocultos en su posición de reposo. Bevilacqua y D'Arienzo (2015) vuelven a ubicar el clavo en el espacio de Destot.",
+   "skeptic": "Los expertos no logran ponerse de acuerdo sobre por dónde pasó el clavo ni por qué no se ven los pulgares, lo que muestra cuánto se está leyendo en una mancha tenue. Algunas representaciones medievales y posteriores también muestran heridas en la muñeca, y ocultar el pulgar es una decisión artística fácil cuando las manos están cruzadas.",
+   "reply": "La ubicación de la herida de salida en la imagen no está en discusión: está en el extremo de la mano izquierda que da a la muñeca. El escéptico tiene razón en que la explicación anatómica está en disputa. El sitio debe exponer la observación y mostrar las lecturas de ambos patólogos.",
+   "strength": "moderate",
+   "strength_reason": "La observación es clara; su interpretación está en disputa entre expertos favorables.",
+   "sources": [
+    {
+     "label": "Zugibe 1995, 'Pierre Barbet Revisited'",
+     "url": "https://shroud.com/zugibe.htm",
+     "type": "website"
+    },
+    {
+     "label": "Bevilacqua y D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Bucklin, autopsy viewpoint",
+     "url": "https://shroud.com/bucklin.htm",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "scourge-marks",
+   "exhibit": 24,
+   "category": "anatomy",
+   "title": "Unas 100 a 120 marcas del flagelo en forma de pesa",
+   "claim": "El frente y la espalda tienen más de 100 pequeñas marcas en pares que coinciden con las puntas con peso de un flagrum romano, repartidas en abanicos que encajan con dos verdugos.",
+   "detail": "Bucklin contó al menos 100 marcas bífidas desde los hombros hasta las pantorrillas, que no aparecen en los antebrazos. Zugibe señaló que 40 latigazos con un látigo de tres correas dejarían unas 120 marcas. Las interpretó como pequeñas roturas de la piel con sangre, no como moretones.",
+   "skeptic": "La flagelación romana se conocía en la Edad Media, y un artista podía estampar o pintar marcas repetidas. El conteo depende de fotos realzadas. Freeman sostiene que las marcas fueron alguna vez mucho más visibles y que estaban pintadas.",
+   "reply": "Las marcas forman parte de la misma imagen tenue y superficial, con una química relacionada con la sangre, algo que un pigmento estampado no igualaría. Aun así, el número y la forma son sugerentes, no decisivos.",
+   "strength": "moderate",
+   "strength_reason": "Un patrón claro y coherente, pero compatible con un artista informado.",
+   "sources": [
+    {
+     "label": "Bucklin, 'Viewpoint of a Forensic Pathologist'",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Zugibe, conferencia 'Turin 2000'",
+     "url": "https://www.crucifixion-shroud.com/Turin2000.htm",
+     "type": "website"
+    },
+    {
+     "label": "Freeman 2014, History Today (resumen)",
+     "url": "https://arthistorynews.com/articles/3065_Turin_Shroud_debunked_again",
+     "type": "news"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "against-anatomical-oddities",
+   "exhibit": 25,
+   "category": "anatomy",
+   "title": "Proporciones y postura extrañas",
+   "claim": "Los escépticos sostienen: la figura es inusualmente alta, con una cabeza pequeña, extremidades alargadas, un cabello que cae como si estuviera de pie y unas manos que cubren, muy a propósito, la zona genital, y todo eso sugiere la figura estilizada de un artista.",
+   "detail": "Gregory S. Paul (2010) dijo que la figura era anatómicamente inverosímil, \"excepcionalmente alta\", con una cabeza \"encogida y de frente baja\". Nickell señaló el cabello que cae como si la persona estuviera erguida y zonas en blanco que una impresión verdadera no tendría. Quienes lo refutan calculan, a partir de la imagen, una estatura de unos 173 a 177 cm, aunque los métodos varían.",
+   "skeptic": "Los cuerpos reales acostados no se ven así. Las proporciones recuerdan al arte gótico, y la posición recatada de las manos es una convención devocional.",
+   "reply": "Medir una imagen tenue en una tela que estaba colocada sobre un cuerpo, no extendida, no es confiable, y la tela se ha encogido y estirado en 600 años. El cabello pudo estar sujeto por una venda en la barbilla, o por la sangre y los ungüentos. Estos puntos sirven para ambos lados y prueban poco.",
+   "strength": "disputed",
+   "strength_reason": "Las mediciones en una tela que envolvía un cuerpo y está deformada son demasiado inciertas para sostener conclusiones firmes en cualquier sentido.",
+   "sources": [
+    {
+     "label": "Discusión sobre Gregory S. Paul 2010 (Secular Web)",
+     "url": "https://shroudstory.com/2014/07/26/pseudoscience-again/",
+     "type": "website"
+    },
+    {
+     "label": "Entrevista de Donnelly a Nickell, The Skeptic 1988",
+     "url": "https://www.skeptic.org.uk/?p=48809",
+     "type": "website"
+    },
+    {
+     "label": "Vatican News 2026 (rango de estatura citado por Casabianca et al.)",
+     "url": "https://www.vaticannews.va/en/church/news/2026-02/shroud-turin-medieval-bas-relief-hypothesis-challenged.html",
+     "type": "news"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "textile-herringbone",
+   "exhibit": 26,
+   "category": "textile",
+   "title": "Una fina sarga en espiga de 3:1",
+   "claim": "La tela es un lino de alta calidad tejido en sarga en espiga de 3:1, un tejido costoso conocido en la Antigüedad.",
+   "detail": "La tela mide unos 4,4 m por 1,1 m, tiene unos 0,35 mm de grosor y sus hilos miden unos 0,15 mm de ancho. Flury-Lemberg dice que la espiga de 3:1 era señal de una calidad extraordinaria en la Antigüedad.",
+   "skeptic": "Las sargas en espiga también se tejían en la Europa medieval. La propia Flury-Lemberg se negó a fechar la tela por su tejido, y dijo que el análisis textil por sí solo no puede dar una fecha seria.",
+   "reply": "Correcto. El tejido es compatible con el siglo I, pero no es evidencia de ello.",
+   "strength": "weak",
+   "strength_reason": "Compatible con la Antigüedad, pero no sirve para identificar ninguna época.",
+   "sources": [
+    {
+     "label": "Entrevista de PBS a Mechthild Flury-Lemberg",
+     "url": "https://www.pbs.org/wnet/secrets/shroud-of-christ-interview-with-mechthild-flury-lemberg/7130",
+     "type": "video"
+    },
+    {
+     "label": "Karapanagiotis 2025, Textiles 5(1):8",
+     "url": "https://www.mdpi.com/2673-7248/5/1/8",
+     "type": "peer-reviewed"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "textile-masada-seam",
+   "exhibit": 27,
+   "category": "textile",
+   "title": "Una costura como una de Masada",
+   "claim": "La restauradora Mechthild Flury-Lemberg encontró una costura poco común que une una franja lateral a la tela principal, muy parecida a un dobladillo de una tela de la fortaleza judía de Masada (de hacia el 40 a. C. al 73 d. C.).",
+   "detail": "Ella estudió la tela de cerca durante la restauración de 2002 y consideró que la costura era profesional. La franja lateral es de la misma tela original. Es una de las restauradoras de textiles más respetadas de su generación.",
+   "skeptic": "Un solo paralelo no fecha una tela. Ningún estudio ha mostrado que este tipo de costura no existiera en siglos posteriores. La regla de la propia Flury-Lemberg, de que el análisis del tejido no puede fechar un textil, también se aplica aquí.",
+   "reply": "Es una observación experta legítima que encaja con un origen antiguo. No es una evidencia exclusiva y debe presentarse como \"compatible con\", nunca como \"prueba\".",
+   "strength": "weak",
+   "strength_reason": "Un solo paralelo de una experta, sin mostrar que sea exclusivo de la Antigüedad.",
+   "sources": [
+    {
+     "label": "Entrevista de PBS a Mechthild Flury-Lemberg",
+     "url": "https://www.pbs.org/wnet/secrets/shroud-of-christ-interview-with-mechthild-flury-lemberg/7130",
+     "type": "video"
+    },
+    {
+     "label": "Relato oficial de la restauración de 2002",
+     "url": "https://sindone.org/en/home-english/the-shroud/the-fire/the-restoration/",
+     "type": "official"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "cotton-traces-raes",
+   "exhibit": 28,
+   "category": "textile",
+   "title": "Rastros de algodón en el lino (Raes 1973)",
+   "claim": "El experto en textiles Gilbert Raes encontró rastros de algodón en hilos tomados en 1973, que según se dice eran de Gossypium herbaceum, del Medio Oriente, lo que sugeriría que el telar se había usado para algodón en el Cercano Oriente.",
+   "detail": "Raes, del instituto textil de Gante, estudió hilos cortados el 24 de noviembre de 1973 cerca de la esquina que después se usó para el radiocarbono. La identificación de la especie la reporta Ian Wilson. Raes sugirió que en el telar se había tejido algodón antes.",
+   "skeptic": "El algodón se cultivaba y se tejía en la España medieval y en otras partes de Europa. El propio Wilson llamó después a la evidencia \"ambivalente\". También se encontró algodón en la muestra de 1988, y puede venir de reparaciones o de la manipulación.",
+   "reply": "No hay una réplica sólida; no apunta a un lugar ni a una época.",
+   "strength": "weak",
+   "strength_reason": "Compatible con muchas épocas y lugares.",
+   "sources": [
+    {
+     "label": "Smith, 'Textiles and Spain', Shroud Spectrum International",
+     "url": "https://www.shroud.com/pdfs/ssi3536part5.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Marino y Prior, cronología comentada",
+     "url": "https://www.shroud.com/pdfs/chronology.pdf",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "against-treadle-loom",
+   "exhibit": 29,
+   "category": "textile",
+   "title": "El tejido podría requerir un telar de pedales medieval",
+   "claim": "Los escépticos sostienen: una sarga de espiga de 3:1 tan larga es difícil de montar en un antiguo telar de pesas y encaja con el telar de pedales, que llegó a Europa hacia el siglo XIII.",
+   "detail": "La tejedora experimental Antoinette Merete Olsen estudió la cuestión en EXARC Journal (2020/4) tras una consulta del investigador Hugh Farey. Wikipedia resume su resultado como una indicación de que se necesitaba un telar de pedales.",
+   "skeptic": "Si el tejido necesita un telar de pedales, encaja mejor con un taller europeo medieval que con la Judea del siglo I.",
+   "reply": "El argumento trata de lo práctico, no de una imposibilidad probada, y se basa en una sola experimentadora. La cuestión merece más trabajo experimental de tejido antes de que cualquiera de los dos lados se apoye en ella.",
+   "strength": "disputed",
+   "strength_reason": "Un solo estudio experimental cuyas conclusiones completas no se han discutido mucho; no pude leer el texto completo.",
+   "sources": [
+    {
+     "label": "Olsen 2020, EXARC Journal 2020/4",
+     "url": "https://doaj.org/article/a1d15cba68e645ff9073fdc8edf22dce",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Wikipedia: Shroud of Turin (sección sobre el tejido)",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin",
+     "type": "website"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "pollen-frei",
+   "exhibit": 30,
+   "category": "botany",
+   "title": "Polen del Medio Oriente (Frei)",
+   "claim": "El criminólogo Max Frei identificó polen de decenas de plantas en muestras de cinta, muchas de la zona de Jerusalén, entre ellas Gundelia tournefortii, relacionada con la corona de espinas.",
+   "detail": "Frei tomó muestras en 1973 y 1978 y afirmó haber hallado unos 57 o 58 tipos de plantas, a menudo hasta el nivel de especie. Murió antes de publicar sus datos completos. El botánico Avinoam Danin vinculó después ese conjunto de plantas con la zona de Jerusalén en primavera.",
+   "skeptic": "Por lo general, el polen no se puede identificar hasta la especie, menos aún con la microscopía óptica de los años setenta. Thomas Litt (2001) volvió a examinar las láminas y no pudo identificar ninguna hasta la especie; los granos clave se parecen más a un cardo Carduus que a Gundelia. El método de Frei, que presionaba la cinta, era distinto del de STURP, su colección está en manos privadas, y Danin transmitió después la opinión de que los datos de polen no deberían usarse en la investigación de la Sábana Santa.",
+   "reply": "Hugh Farey, un investigador que se inclina hacia el escepticismo, todavía señala que unos pocos pólenes de árboles del Medio Oriente, llevados por el viento, son difíciles de explicar. Eso es lo más que el sitio puede decir.",
+   "strength": "weak",
+   "strength_reason": "Las identificaciones de especies nunca se verificaron, y un palinólogo profesional cuestionó las más importantes.",
+   "sources": [
+    {
+     "label": "Farey 2014, 'Problems With Pollen', BSTS Newsletter 79",
+     "url": "https://shroud.com/pdfs/n79part8.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Discusión sobre Litt y Danin, 2015",
+     "url": "https://shroudstory.com/2015/09/13/doubting-the-pollen-evidence",
+     "type": "website"
+    },
+    {
+     "label": "Danin, 'Pressed Flowers'",
+     "url": "https://shroud.com/danin.htm",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "flower-images",
+   "exhibit": 31,
+   "category": "botany",
+   "title": "Imágenes de flores en la tela",
+   "claim": "Alan y Mary Whanger, con el apoyo posterior de Danin, reportaron imágenes tenues de flores como el crisantemo coronario, la jara y el alcaparro de judía alrededor del cuerpo, que apuntarían a Jerusalén en primavera.",
+   "detail": "Las imágenes se encontraron en fotografías realzadas y se compararon con los dibujos de Flora Palaestina. Danin ubicó 27 de 28 especies en la zona de Jerusalén.",
+   "skeptic": "Estas formas solo se ven después de realzar mucho las fotos y de compararlas de forma subjetiva, un caso clásico de pareidolia. Las flores propuestas no coincidían bien con la lista de polen de Frei; Farey cuenta solo 10 coincidencias de 15. Ningún equipo independiente las ha confirmado.",
+   "reply": "Ninguna que convenza a un escéptico.",
+   "strength": "weak",
+   "strength_reason": "Una lectura subjetiva y no replicada de fotografías realzadas; el sitio no debe usarla.",
+   "sources": [
+    {
+     "label": "Danin, 'Pressed Flowers'",
+     "url": "https://shroud.com/danin.htm",
+     "type": "website"
+    },
+    {
+     "label": "Farey 2014, 'Problems With Pollen'",
+     "url": "https://shroud.com/pdfs/n79part8.pdf",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "coins-and-inscriptions",
+   "exhibit": 32,
+   "category": "image",
+   "title": "Monedas sobre los ojos y letras cerca del rostro",
+   "claim": "Algunos investigadores afirman que unas letras tenues y un lituus sobre el ojo derecho coinciden con un leptón de Poncio Pilato (de hacia el 29 a 32 d. C.), y otros (Marion y Courage 1997, Frale 2009) reportan letras griegas y latinas cerca del rostro, que Frale interpretó como un documento de sepultura que nombra a Jesús el Nazareno.",
+   "detail": "La lectura de la moneda se basa en el realce fotográfico de una zona de pocos milímetros y en las letras UCAI, que se explican con un supuesto error de acuñación. Frale anunció a la prensa su reconstrucción de un certificado de defunción antes de la revisión por pares. Ambas afirmaciones dependen de fotografías realzadas, no del examen directo de la tela.",
+   "skeptic": "El historiador Antonio Lombatti no encontró evidencia de que los judíos del siglo I pusieran monedas sobre los ojos de los muertos, y señala que la ortografía griega esperada usa K, no C. Ver letras en texturas tenues es un caso de manual de pareidolia. El fotógrafo de STURP Barrie Schwortz dijo que el anuncio de Frale era ciencia por comunicado de prensa, y John Jackson advirtió que un supuesto rasgo de cuerda resultó ser una marca de agua.",
+   "reply": "Ninguna que se sostenga.",
+   "strength": "weak",
+   "strength_reason": "Lecturas por debajo de la resolución del tejido, una costumbre funeraria sin constancia y el rechazo de los principales investigadores a favor de la autenticidad; el sitio no debe usar ninguna de las dos afirmaciones.",
+   "sources": [
+    {
+     "label": "Lombatti 1997, 'Doubts Concerning the Coins Over the Eyes'",
+     "url": "https://shroud.com/lombatti.htm",
+     "type": "website"
+    },
+    {
+     "label": "EWTN 2009, Jackson advierte sobre la lectura de inscripciones",
+     "url": "https://www.ewtnnews.com/vatican/scientist-says-to-be-very-careful-when-interpreting-writing-on-shroud-of-turin",
+     "type": "news"
+    },
+    {
+     "label": "Schwortz, 'Science by Press Release (Again)'",
+     "url": "https://shroudstory.com/2009/11/23/late-breaking-website-news/",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "dirt-travertine-aragonite",
+   "exhibit": 33,
+   "category": "other",
+   "title": "Polvo de piedra caliza de Jerusalén en los pies",
+   "claim": "Kohlbeck y Nitowski reportaron partículas de aragonita de travertino en una cinta de la zona de los pies, que coincidían con la piedra caliza de una tumba de Jerusalén.",
+   "detail": "La coincidencia usó propiedades ópticas (índice de refracción de 1,680) y una comparación con microsonda iónica de Levi-Setti en unas pocas partículas de una sola cinta. El autor lo llamó \"un indicio fuerte\", no una prueba.",
+   "skeptic": "Un puñado de partículas de una cinta, comparadas por sus propiedades ópticas, no puede fijar un lugar. Los carbonatos de calcio son comunes, la tela se ha doblado y manipulado durante siglos, y el trabajo no se publicó en una revista de primera línea.",
+   "reply": "Un estudio más sistemático de isótopos y oligoelementos podría ponerlo a prueba.",
+   "strength": "weak",
+   "strength_reason": "Una muestra diminuta y un método limitado; los propios autores lo llaman sugerente.",
+   "sources": [
+    {
+     "label": "Nitowski 1986, Eastern School Shroud Journal",
+     "url": "https://www.shroud.com/pdfs/ESSJ%20Nitowski%201986.pdf",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "dna-traces",
+   "exhibit": 34,
+   "category": "other",
+   "title": "Rastros de ADN en la tela",
+   "claim": "Los estudios genéticos del polvo y de las fibras encontraron ADN humano y vegetal de muchas regiones, entre ellas el Medio Oriente y la India, compatible con un largo viaje.",
+   "detail": "Barcaccia y otros (2015) encontraron rastros de 19 taxones de plantas y linajes mitocondriales humanos diversos, y dijeron que no se descartaba un origen europeo medieval. Su estudio de 2026 en Scientific Reports sobre las muestras oficiales de 1978 encontró que el ADN humano dominante en tres muestras coincidía con el de Pierluigi Baima Bollone, quien las recogió. También encontró trigo, maíz, maní, banano, animales de granja y coral rojo, además de fechas de radiocarbono en dos hilos compatibles con las reparaciones de 1534 y 1694.",
+   "skeptic": "Miles de personas han manipulado la tela, y se ha guardado, reparado y expuesto durante siglos. El estudio de 2026 muestra que la señal humana más fuerte es la de un científico del siglo XX. El maíz y el maní son plantas del Nuevo Mundo que llegaron a Europa después de 1492. Aquí el ADN registra la manipulación, no el origen.",
+   "reply": "De acuerdo. Los propios autores dicen que estos resultados no tratan la edad ni la autenticidad.",
+   "strength": "weak",
+   "strength_reason": "Dominada por contaminación moderna; nos habla de la manipulación, no del origen.",
+   "sources": [
+    {
+     "label": "Barcaccia et al. 2026, Scientific Reports 16:21206",
+     "url": "https://www.nature.com/articles/s41598-026-60684-7",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "ScienceDaily 2026, resumen",
+     "url": "https://www.sciencedaily.com/releases/2026/08/260803080859.htm",
+     "type": "news"
+    },
+    {
+     "label": "IBT vía inkl 2026, coincidencia con el ADN del recolector",
+     "url": "https://www.inkl.com/news/turin-shroud-dna-jesus-claim-hits-a-snag-strongest-match-points-to-man-who-collected-samples",
+     "type": "news"
+    },
+    {
+     "label": "Resumen de STERA de los artículos de 2026",
+     "url": "https://www.shroud.com/pdfs/Recently%20published%20papers%20and%20articles%20Summer%202026.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Barcaccia et al. 2015, Scientific Reports 5:14484",
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4593049/",
+     "type": "peer-reviewed"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "sudarium-oviedo",
+   "exhibit": 35,
+   "category": "blood",
+   "title": "El Sudario de Oviedo",
+   "claim": "Se dice que un paño del rostro manchado de sangre, guardado en Oviedo al menos desde 1075, coincide con el patrón de sangre del rostro de la Sábana Santa, lo que sugeriría que ambos cubrieron al mismo hombre.",
+   "detail": "El Sudario no tiene imagen, solo manchas. Un comunicado de prensa de la UCAM de 2017, del investigador forense Alfonso Sánchez Hermosilla y sus colegas, dijo que las dos telas cubrieron el mismo cuerpo, con una herida en el pecho hecha después de la muerte. El registro explícito más antiguo es la apertura de su arca el 14 de marzo de 1075.",
+   "skeptic": "El Sudario se ha datado por radiocarbono varias veces (Arizona 1990, Toronto 1992, Madrid 2007) entre los siglos VI y IX, sobre todo hacia el año 700 d. C. Su historia temprana viene del obispo Pelayo, conocido como falsificador. La tipificación AB es la misma serología poco confiable. La afirmación de que es \"la misma persona\" llegó por comunicado de prensa, de investigadores que dirigen un centro dedicado a defender esa postura.",
+   "reply": "Si se acepta el radiocarbono para la Sábana Santa, el Sudario tampoco es del siglo I; si se duda del radiocarbono, no se puede usar el Sudario como apoyo independiente. En cualquier caso, aporta poco.",
+   "strength": "weak",
+   "strength_reason": "Sus propias fechas de radiocarbono son de la alta Edad Media, su historia es tardía y poco confiable, y la afirmación de coincidencia no está revisada por pares.",
+   "sources": [
+    {
+     "label": "Wikipedia: Sudarium of Oviedo",
+     "url": "https://en.wikipedia.org/wiki/Sudarium_of_Oviedo",
+     "type": "website"
+    },
+    {
+     "label": "Comunicado de prensa de la UCAM, 2017",
+     "url": "https://international.ucam.edu/university-news/scientists-identify-corpse-shrouded-santa-sindone-and-shroud-oviedo",
+     "type": "news"
+    },
+    {
+     "label": "Kearse 2025, sobre el tipo de sangre AB compartido",
+     "url": "https://link.springer.com/article/10.1007/s12024-024-00915-3",
+     "type": "peer-reviewed"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "pray-codex",
+   "exhibit": 36,
+   "category": "history",
+   "title": "El dibujo del Códice Pray (1192-1195)",
+   "claim": "Un manuscrito húngaro de antes de 1200 muestra a Cristo desnudo, con las manos cruzadas y cuatro dedos visibles, y una tela con un patrón parecido a la espiga y cuatro circulitos en forma de L, como los \"agujeros de atizador\" de la Sábana Santa anteriores a 1532.",
+   "detail": "El dibujo está en el Códice Pray, fechado por su sermón fúnebre entre 1192 y 1195. Daniel Scavone y otros sostienen que los círculos \"reproducen perfectamente\" los agujeros de quemadura en forma de L que todavía se ven en la Sábana Santa. Si eso es correcto, ubicaría a la Sábana Santa, o una copia cuidadosa, unos 70 años antes del límite más temprano del radiocarbono.",
+   "skeptic": "Rinaldi y Casabianca (2021) sostienen que la \"tela\" es una lápida rectangular como las de otras imágenes, que los círculos son una decoración que también aparece en el ala y en la ropa del ángel, y que la tela dibujada no tiene imagen de un cuerpo. Las semejanzas se escogen después de los hechos.",
+   "reply": "El conjunto de coincidencias (desnudez, manos cruzadas, sin pulgares, agujeros en L) es poco común en una sola imagen. Pero el sitio debe presentarlo como un tema en debate, y señalar que un autor a favor de la autenticidad (Casabianca) está entre los críticos.",
+   "strength": "disputed",
+   "strength_reason": "Paralelos intrigantes, pero existe una lectura creíble que no tiene que ver con la Sábana Santa, y hay estudiosos de ambos lados que no están de acuerdo.",
+   "sources": [
+    {
+     "label": "Wikipedia: Hungarian Pray Codex",
+     "url": "https://en.wikipedia.org/wiki/Hungarian_Pray_Codex",
+     "type": "website"
+    },
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "edessa-mandylion",
+   "exhibit": 37,
+   "category": "history",
+   "title": "La Imagen de Edesa (el Mandylion)",
+   "claim": "Ian Wilson propuso que el paño con un rostro venerado en Edesa, y después en Constantinopla, era la Sábana Santa, doblada de modo que solo se veía la cara, lo que llenaría el vacío anterior a la década de 1350.",
+   "detail": "Eusebio (inicios del siglo IV) registra la carta de Abgar sin ninguna imagen, y Egeria (384) vio cartas pero no una imagen. Evagrio (hacia 593) es el primero en atribuir a una imagen haber salvado a Edesa en 544. En 944 la imagen fue llevada a Constantinopla. Wilson cita un texto del siglo X que describe una impronta de cuerpo entero.",
+   "skeptic": "Todas las fuentes describen un rostro, a menudo una pintura, no una larga mortaja con un cuerpo y sangre. La leyenda misma creció a lo largo de los siglos. Historiadores como Andrea Nicolotti rechazan el vínculo. Una reliquia que se decía que era la misma imagen pasó a Luis IX en 1241 y se perdió en la Revolución francesa.",
+   "reply": "La hipótesis es coherente, pero se basa en reinterpretar las fuentes. Tiene su lugar en el sitio como hipótesis, claramente identificada.",
+   "strength": "weak",
+   "strength_reason": "Una identificación especulativa que rechaza la mayoría de los historiadores.",
+   "sources": [
+    {
+     "label": "Wikipedia: Image of Edessa",
+     "url": "https://en.wikipedia.org/wiki/Image_of_Edessa",
+     "type": "website"
+    },
+    {
+     "label": "Nicolotti 2020, The Shroud of Turin (Baylor UP)",
+     "url": "https://www.baylorpress.com/9781481311472/the-shroud-of-turin/",
+     "type": "book"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "robert-de-clari",
+   "exhibit": 38,
+   "category": "history",
+   "title": "Un cruzado vio una mortaja con una figura en 1203-1204",
+   "claim": "El caballero francés Robert de Clari escribió que en la iglesia de Blaquernas, en Constantinopla, la sábana del Señor se levantaba en posición vertical cada viernes para que se pudiera ver la figura de Cristo, antes de que desapareciera en el saqueo de 1204.",
+   "detail": "De Clari escribió su relato después de 1204. Es la única descripción occidental, al estilo de un testigo, de una tela con una figura completa en Constantinopla.",
+   "skeptic": "Los historiadores Madden y Queller creen que la confundió con otra reliquia. Nicolotti señala que ninguna otra fuente la menciona, y que los inventarios de reliquias imperiales registran una mortaja simple sin imagen. De Clari también relata otras maravillas poco creíbles.",
+   "reply": "Es una fuente primaria real, y su descripción encaja con la Sábana Santa. Pero es un relato único y sin corroborar.",
+   "strength": "disputed",
+   "strength_reason": "Una fuente genuina, pero sin corroborar y con un significado en disputa.",
+   "sources": [
+    {
+     "label": "Wikipedia: Robert de Clari",
+     "url": "https://en.wikipedia.org/wiki/Robert_de_Clari",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "against-no-record-before-1350s",
+   "exhibit": 39,
+   "category": "history",
+   "title": "No hay una historia segura antes de la década de 1350",
+   "claim": "Los escépticos sostienen: no hay ningún registro confiable de esta tela antes de Lirey en la década de 1350, que es justo cuando el radiocarbono dice que se hizo.",
+   "detail": "Los primeros relatos de peregrinos (siglo IV) y las listas de reliquias del siglo VI mencionan muchas reliquias de Tierra Santa, pero no una sábana con una figura. El primer rastro seguro empieza con la iglesia de Geoffroi de Charny en Lirey, en 1353, y con insignias de peregrino que llevan los escudos de Charny y Vergy. En la Europa medieval circulaban muchas otras \"sábanas verdaderas\".",
+   "skeptic": "Una reliquia de esta importancia debería dejar huellas. Su aparición repentina en una pequeña iglesia francesa, seguida al poco tiempo de una denuncia de fraude de un obispo, es el patrón que se esperaría de una falsificación.",
+   "reply": "El silencio es real. Los posibles rastros anteriores (Edesa, el Códice Pray, De Clari, los templarios) son todos hipótesis. La única réplica justa es que una reliquia escondida, doblada o con otro nombre podría dejar un registro ambiguo, lo cual es posible pero no está probado.",
+   "strength": "strong",
+   "strength_reason": "Un vacío documentado que encaja con la fecha del radiocarbono; las rutas alternativas son especulativas.",
+   "sources": [
+    {
+     "label": "Extracto de Nicolotti vía Shermer 2024",
+     "url": "https://michaelshermer.substack.com/p/the-shroud-of-turin",
+     "type": "book"
+    },
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin",
+     "type": "website"
+    },
+    {
+     "label": "Insignia de peregrino de Lirey, Musée de Cluny",
+     "url": "https://sindonology.org/papers/clunySouvenir.shtml",
+     "type": "website"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "against-darcis-memorandum",
+   "exhibit": 40,
+   "category": "history",
+   "title": "El obispo d'Arcis: \"pintada con astucia\", y un artista lo confesó",
+   "claim": "Los escépticos sostienen: en 1389, el obispo de Troyes le dijo al papa que un obispo anterior había investigado hacia 1355 y había encontrado a un artista que admitió haberla pintado, y que el papa luego permitió exponerla solo como \"figura o representación\".",
+   "detail": "Pierre d'Arcis escribió al antipapa Clemente VII que el deán de Lirey había conseguido, para lucrarse, una tela pintada con astucia. Las bulas de Clemente del 6 de enero de 1390 permitieron las exposiciones solo si se anunciaba como una pintura o representación, sin velas, sin incienso y sin guardia.",
+   "skeptic": "Es un testimonio casi contemporáneo del obispo local, y la decisión del papa trató la tela como una representación. Junto con el radiocarbono, es una historia coherente.",
+   "reply": "Los dos textos que se conservan son borradores sin firma y sin fecha; no existe ninguna copia enviada en los archivos vaticanos y el papa nunca lo citó. La investigación que menciona no ha dejado ningún registro, y d'Arcis llegó a Troyes en 1373 y se basó en informes de 34 años antes. STURP no encontró pintura. Todo esto debilita el memorando, pero no lo refuta.",
+   "strength": "moderate",
+   "strength_reason": "Una fuente real, temprana y hostil, con una respuesta del papa, aunque sin corroborar en el punto clave de la \"confesión\".",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin",
+     "type": "website"
+    },
+    {
+     "label": "Markwardt, 'The Medieval Hypothesis', BSTS Newsletter 99",
+     "url": "https://www.shroud.com/pdfs/n99part3.pdf",
+     "type": "website"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "against-oresme-2025",
+   "exhibit": 41,
+   "category": "history",
+   "title": "Nicole Oresme la llamó un fraude (hallazgo nuevo, 2025)",
+   "claim": "Los escépticos sostienen: un texto del teólogo Nicole Oresme, escrito entre 1355 y 1382, menciona una iglesia de Champaña que decía tener la sábana del Señor como un caso claro de clérigos que falsificaban reliquias.",
+   "detail": "El historiador Nicolas Sarzeaud publicó el hallazgo en el Journal of Medieval History en agosto de 2025. Es el rechazo escrito más antiguo que se conoce, probablemente posterior a 1370 y anterior a d'Arcis. Oresme no tenía ningún interés personal en la disputa.",
+   "skeptic": "Un estudioso eminente e independiente de la época la consideró un fraude, lo que respalda a d'Arcis.",
+   "reply": "Oresme no aporta ninguna investigación ni detalle; es un ejemplo de paso en un argumento sobre falsos milagros, y muestra una reputación más que una evidencia. Aun así, añade una segunda voz contemporánea e independiente.",
+   "strength": "moderate",
+   "strength_reason": "Independiente y temprana, pero breve y sin evidencia declarada.",
+   "sources": [
+    {
+     "label": "Classicult 2025 sobre Sarzeaud, Journal of Medieval History",
+     "url": "https://www.classicult.it/en/a-newly-discovered-medieval-document-by-nicole-oresme-is-the-earliest-written-evidence-to-reject-the-shroud-of-turin-as-authentic/",
+     "type": "news"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "against-easter-prop-freeman",
+   "exhibit": 42,
+   "category": "history",
+   "title": "Un objeto de utilería para la Pascua medieval que se desvaneció (Freeman)",
+   "claim": "Los escépticos sostienen: el historiador Charles Freeman dice que la tela se hizo como objeto de utilería para los dramas medievales de Pascua y que al principio estaba pintada de forma mucho más vistosa, como sugieren las primeras descripciones e imágenes.",
+   "detail": "Freeman (History Today, 2014) cita un grabado de Tempesta de 1613 y descripciones de los siglos XV y XVI que muestran marcas de sangre y del flagelo más claras, además de la insignia de Lirey, en la que unos clérigos sostienen la tela sobre una tumba. Lo relaciona con el rito del \"Quem quaeritis\".",
+   "skeptic": "Esto explica el aspecto de la tela, su aparición repentina y su desvanecimiento sin ningún misterio.",
+   "reply": "Si la pintura se hubiera desvanecido, deberían quedar residuos de aglutinante en las fibras de la imagen, y STURP no los encontró; además, los primeros artistas dibujaban una imagen tenue, así que es natural que sus copias la exageren. Es una hipótesis histórica interesante, no un hecho demostrado.",
+   "strength": "disputed",
+   "strength_reason": "Una idea coherente de un historiador serio, pero choca con el estudio físico de las fibras de la imagen.",
+   "sources": [
+    {
+     "label": "Art History News sobre Freeman 2014",
+     "url": "https://arthistorynews.com/articles/3065_Turin_Shroud_debunked_again",
+     "type": "news"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "against-sturp-bias",
+   "exhibit": 43,
+   "category": "other",
+   "title": "STURP era un equipo de creyentes",
+   "claim": "Los escépticos sostienen: la mayoría de los miembros de STURP simpatizaban con la autenticidad, y algunos de sus líderes formaban parte del consejo del Holy Shroud Guild, así que sus conclusiones están sesgadas.",
+   "detail": "Steven Schafersman describió a STURP como un grupo de creyentes con una excepción, Walter McCrone. Joe Nickell señaló los vínculos con el Guild. STURP no tenía expertos en arte medieval, arqueología ni textiles.",
+   "skeptic": "Los equipos que quieren una respuesta suelen encontrarla. La falta de historiadores del arte y de expertos en textiles es un vacío real.",
+   "reply": "El motivo no refuta los datos. Muchos resultados de STURP se publicaron en revistas reconocidas revisadas por pares (Applied Optics, Analytica Chimica Acta, X-Ray Spectrometry) y se pueden juzgar por su método. Las disciplinas que faltaron son una crítica justa.",
+   "strength": "weak",
+   "strength_reason": "Es, sobre todo, un argumento sobre los motivos; los datos publicados deben juzgarse por sí mismos.",
+   "sources": [
+    {
+     "label": "Wikipedia: Shroud of Turin Research Project",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin_Research_Project",
+     "type": "website"
+    },
+    {
+     "label": "Lista de artículos publicados de STURP",
+     "url": "http://www.shroud.com/78papers.htm",
+     "type": "website"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "against-gospel-linen-strips",
+   "exhibit": 44,
+   "category": "other",
+   "title": "Los Evangelios mencionan vendas de lino y un sudario aparte",
+   "claim": "Los escépticos sostienen: el Evangelio de Juan habla del cuerpo envuelto en lienzos o vendas de lino y de un paño aparte para la cabeza, no de una sola sábana grande.",
+   "detail": "Juan 19:40 y Juan 20:5-7 describen lienzos de lino (othonia) y un soudarion aparte. Los Evangelios sinópticos dicen que el cuerpo fue envuelto en una sindón de lino (Marcos 15:46).",
+   "skeptic": "Una sola sábana larga con la imagen de un cuerpo entero es difícil de conciliar con la descripción de Juan.",
+   "reply": "La palabra griega othonia es un plural que puede significar lienzos de lino en general, y los sinópticos usan sindón, una sola sábana. Una sábana, más unas vendas y un paño para el rostro, encaja con los cuatro relatos. Este argumento es débil en ambas direcciones.",
+   "strength": "weak",
+   "strength_reason": "Depende de cómo se traduzca un sustantivo griego en plural; no decide nada.",
+   "sources": [
+    {
+     "label": "Schwortz 2016, 'Five Reasons Why Some Christians are Shroud Skeptics'",
+     "url": "https://www.shroud.com/pdfs/fivereasons.pdf",
+     "type": "website"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "church-position",
+   "exhibit": 45,
+   "category": "other",
+   "title": "Lo que de verdad dice la Iglesia católica",
+   "claim": "La Iglesia no declara que la Sábana Santa sea auténtica. Permite venerarla como un ícono y deja la cuestión científica a los científicos.",
+   "detail": "Juan Pablo II dijo en Turín el 24 de mayo de 1998: \"Dado que no se trata de una materia de fe, la Iglesia no tiene competencia específica para pronunciarse sobre esas cuestiones\", y confió el asunto a los científicos. Benedicto XVI y Francisco la llamaron un ícono. El arzobispo Nosiglia dijo en 2013 que no había \"ningún grado de seguridad\" sobre el material analizado por Fanti.",
+   "skeptic": "La propia prudencia de la Iglesia muestra que la evidencia no es decisiva.",
+   "reply": "De acuerdo; el sitio debe citar la posición de la Iglesia con exactitud y no dar a entender un respaldo oficial.",
+   "strength": "strong",
+   "strength_reason": "Declaraciones oficiales documentadas.",
+   "sources": [
+    {
+     "label": "Juan Pablo II, discurso en la catedral de Turín, 24 de mayo de 1998",
+     "url": "https://www.vatican.va/content/john-paul-ii/en/travels/1998/documents/hf_jp-ii_spe_24051998_sindone.html",
+     "type": "official"
+    },
+    {
+     "label": "Vatican News 2020, carta del papa Francisco",
+     "url": "https://vaticannews.va/en/pope/news/2020-04/pope-expresses-gratitude-for-exposition-of-the-shroud-of-turin.html",
+     "type": "official"
+    },
+    {
+     "label": "Wikipedia: Shroud of Turin (posición de la Iglesia)",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin",
+     "type": "website"
+    }
+   ],
+   "lean": "neutral"
+  }
+ ]
+}

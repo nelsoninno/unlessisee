@@ -216,7 +216,7 @@ input[type=range]{width:100%;accent-color:var(--sepia)}
 .viewer--cinema{aspect-ratio:21/10;min-height:340px;background:var(--tomb);border-color:var(--tomb)}
 .viewer--cinema .viewer__ui label{background:rgba(0,0,0,.55);color:var(--white)}
 .viewer--cinema .tool{background:rgba(0,0,0,.55);color:var(--white);border-color:rgba(255,255,255,.3)}
-.viewer__caption{position:absolute;left:0;right:0;top:1.2rem;text-align:center;font-family:var(--font-serif);font-size:clamp(1rem,1.6vw,1.3rem);color:var(--light);text-shadow:0 2px 18px rgba(0,0,0,.8);pointer-events:none;transition:opacity .8s;padding:0 1rem}
+.viewer__caption{position:absolute;left:0;right:0;top:1.2rem;z-index:2;text-align:center;font-family:var(--font-serif);font-size:clamp(1rem,1.6vw,1.3rem);color:var(--light);text-shadow:0 2px 18px rgba(0,0,0,.8);pointer-events:none;transition:opacity .8s;padding:0 1rem}
 .hypo{display:inline-block;font-family:var(--font-sans);font-size:.78rem;padding:.25rem .7rem;border:1px solid var(--sepia);color:var(--sepia);border-radius:999px}
 
 /* Body map (wounds) */
@@ -422,3 +422,7 @@ html{transition:filter .6s}
 .keyreads{margin:1.2rem 0 0 1.2rem;display:grid;gap:.9rem}
 .keyreads a{font-size:1.08rem;color:var(--ink)}
 .keyreads p{font-size:.98rem;color:var(--ink-soft);margin-top:.15rem}
+.hero__face .as-pos{filter:none}
+.hero__face:not(.developing) .neg{transition:clip-path .08s linear}
+.hero__hint{left:50%;right:auto;transform:translateX(-50%);width:max-content;max-width:90%;background:rgba(255,255,255,.88);color:var(--ink);padding:.35rem .8rem;border-radius:999px}
+h1{font-size:clamp(2.5rem,5.6vw,4.6rem)}

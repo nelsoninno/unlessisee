@@ -78,24 +78,30 @@
     pg.setAttribute('position',new THREE.BufferAttribute(pp,3));
     var spr=document.createElement('canvas'); spr.width=spr.height=64; var sg=spr.getContext('2d'); var gr=sg.createRadialGradient(32,32,0,32,32,32);
     gr.addColorStop(0,'rgba(255,248,225,1)'); gr.addColorStop(.35,'rgba(255,225,160,.55)'); gr.addColorStop(1,'rgba(255,200,120,0)'); sg.fillStyle=gr; sg.fillRect(0,0,64,64);
-    var pmat=new THREE.PointsMaterial({size:0.05,map:new THREE.CanvasTexture(spr),transparent:true,depthWrite:false,blending:THREE.AdditiveBlending,opacity:0});
-    var pts=new THREE.Points(pg,pmat); scene.add(pts);
+    var pmat=new THREE.PointsMaterial({size:0.07,map:new THREE.CanvasTexture(spr),transparent:true,depthWrite:false,blending:THREE.AdditiveBlending,opacity:0});
+    var pts=new THREE.Points(pg,pmat); pts.frustumCulled=false; scene.add(pts);
     var speeds=new Float32Array(PN); for(i=0;i<PN;i++)speeds[i]=0.6+Math.random()*1.8;
+    var RN=900, rg=new THREE.BufferGeometry(), rp=new Float32Array(RN*6), rseed=new Float32Array(RN*3), rsp=new Float32Array(RN);
+    for(i=0;i<RN;i++){var v2=cand[(Math.random()*cand.length)|0];rseed[i*3]=rest[v2*3];rseed[i*3+1]=base[v2]*lift;rseed[i*3+2]=rest[v2*3+2];rsp[i]=1+Math.random()*2;}
+    rg.setAttribute('position',new THREE.BufferAttribute(rp,3));
+    var rmat=new THREE.LineBasicMaterial({color:0xf3d9a0,transparent:true,opacity:0,blending:THREE.AdditiveBlending,depthWrite:false});
+    var rays=new THREE.LineSegments(rg,rmat); rays.frustumCulled=false; scene.add(rays);
+    var dawn=new THREE.HemisphereLight(0xfff4e0,0x8a9bb0,0); scene.add(dawn);
 
     // Timeline (seconds)
     var T=20, t=0, playing=false, last=0, started=false;
     var capTimes=[0,3,6.5,10,13.5,17];
     function frame(tt){
       // camera: slow move from low side angle to above
-      var c=seg(tt,0,T);
-      var ang=-0.9+c*0.9, rad=5.4-c*1.4, hy=1.2+c*3.2;
+      var c=seg(tt,10.5,T);
+      var ang=-0.9+c*0.9, rad=5.6-c*1.6, hy=0.9+c*3.5;
       cam.position.set(Math.sin(ang)*rad*0.55, hy, Math.cos(ang)*rad); cam.lookAt(0,0.05,0);
       // glow build and burst
       var g=seg(tt,3,6)*(1-seg(tt,10,12.5));
       var burst=seg(tt,6.2,7)*(1-seg(tt,7,9.5));
-      glow.intensity=glow2.intensity=glow3.intensity=g*6+burst*30;
-      clothMat.emissiveIntensity=g*0.35+burst*0.9;
-      renderer.toneMappingExposure=1+burst*0.8;
+      glow.intensity=glow2.intensity=glow3.intensity=g*5+burst*14;
+      clothMat.emissiveIntensity=g*0.25+burst*0.35;
+      renderer.toneMappingExposure=1+burst*0.35;
       // particles rise straight up during the burst window
       var pa=seg(tt,6,7)*(1-seg(tt,9.5,11)); pmat.opacity=pa;
       var arr=pg.attributes.position.array;
@@ -103,6 +109,12 @@
         if(tt<6||pa<=0.001){arr[i*3+1]=-10;continue;}
         arr[i*3]=seed[i*3]; arr[i*3+2]=seed[i*3+2]; arr[i*3+1]=seed[i*3+1]+life*2.2;}
       pg.attributes.position.needsUpdate=true;
+      rmat.opacity=pa*0.5; var ra=rg.attributes.position.array;
+      for(var j=0;j<RN;j++){var lf=((tt-6)*rsp[j]*0.8+(j%53)/53)%1.6, len=0.4+0.5*((j%7)/7);
+        var y0=rseed[j*3+1]+lf*3.6; if(pa<=0.001){ra[j*6+1]=ra[j*6+4]=-10;continue;}
+        ra[j*6]=ra[j*6+3]=rseed[j*3]; ra[j*6+2]=ra[j*6+5]=rseed[j*3+2]; ra[j*6+1]=y0; ra[j*6+4]=y0+len;}
+      rg.attributes.position.needsUpdate=true;
+      dawn.intensity=1.6*seg(tt,13,17); amb.intensity=0.18+0.25*seg(tt,13,17);
       // image forms on the cloth
       paint(seg(tt,7,11.5));
       // cloth falls flat

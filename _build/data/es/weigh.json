@@ -1,0 +1,87 @@
+{
+ "prior": {
+  "neutral": -3,
+  "skeptic": -5,
+  "believer": -1
+ },
+ "items": [
+  {
+   "id": "c14",
+   "label": "La datación por radiocarbono de 1988: 1260 a 1390 d. C.",
+   "skeptic": -3,
+   "believer": -0.5
+  },
+  {
+   "id": "c14-flaws",
+   "label": "Los resultados de 1988 no concuerdan bien entre sí",
+   "skeptic": 0,
+   "believer": 0.5
+  },
+  {
+   "id": "history",
+   "label": "No hay un registro seguro de la tela antes de hacia 1354",
+   "skeptic": -1,
+   "believer": -0.3
+  },
+  {
+   "id": "darcis",
+   "label": "Un obispo (1389) y un estudioso (Oresme) la llamaron falsa",
+   "skeptic": -0.7,
+   "believer": -0.2
+  },
+  {
+   "id": "no-paint",
+   "label": "Ninguna pintura ni aglutinante forma la imagen",
+   "skeptic": 0.3,
+   "believer": 1
+  },
+  {
+   "id": "thin",
+   "label": "El color está solo en las fibras más externas",
+   "skeptic": 0.3,
+   "believer": 1
+  },
+  {
+   "id": "negative",
+   "label": "La imagen se comporta como un negativo fotográfico",
+   "skeptic": 0,
+   "believer": 0.7
+  },
+  {
+   "id": "three-d",
+   "label": "Lo oscuro de la imagen codifica la distancia, como un mapa 3D",
+   "skeptic": 0.2,
+   "believer": 0.8
+  },
+  {
+   "id": "blood",
+   "label": "Sangre real, al parecer en la tela antes que la imagen",
+   "skeptic": 0.2,
+   "believer": 0.7
+  },
+  {
+   "id": "wounds",
+   "label": "Las heridas coinciden con una crucifixión romana, clavos en las muñecas",
+   "skeptic": 0.3,
+   "believer": 1
+  },
+  {
+   "id": "unreproduced",
+   "label": "Nadie ha reproducido todos los rasgos de la imagen",
+   "skeptic": 0.5,
+   "believer": 1.2
+  },
+  {
+   "id": "pray",
+   "label": "El dibujo del Códice Pray, de hacia 1192",
+   "skeptic": 0,
+   "believer": 0.5
+  },
+  {
+   "id": "pollen-coins",
+   "label": "Polen, monedas sobre los ojos, imágenes de flores",
+   "skeptic": 0,
+   "believer": 0.2
+  }
+ ]
+}

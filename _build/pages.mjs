@@ -172,7 +172,7 @@ function home(ctx, page) {
     <div class="btn-row"><a class="btn btn--solid" href="${ctx.href('explore')}">${esc(p.cta1)}</a><a class="btn" href="${ctx.href('evidence')}">${esc(p.cta2)}</a></div>
   </div>
   <figure>
-    <div class="hero__face" tabindex="0" role="img" aria-label="${attr(p.faceAlt)}">
+    <div class="hero__face" tabindex="0" role="img" aria-label="${attr(p.faceAlt)}" data-hint2="${attr(p.hint2)}">
       <img class="pos" src="${ctx.asset(IMG + 'hero/face-positive-shroud-of-turin-unlessisee.org.webp')}" alt="" width="900" height="1200" fetchpriority="high">
       <img class="neg" src="${ctx.asset(IMG + 'hero/face-negative-shroud-of-turin-unlessisee.org.webp')}" alt="" width="900" height="1200">
       <span class="ring"></span>
@@ -227,6 +227,11 @@ function home(ctx, page) {
 <section class="plate band" id="weigh" style="border-top:1px solid var(--plate-edge)"><div class="wrap split">
   <div><h2>${p.weighH}</h2>${p.weighText}<div class="btn-row"><a class="btn btn--solid" href="${ctx.href('evidence')}#weigh">${esc(p.weighCta)}</a></div></div>
   <div><blockquote class="pull">${p.quote}</blockquote><span class="cite">${p.quoteCite}</span></div>
+</div></section>
+
+<section class="plate band" id="freedom"><div class="wrap split" style="align-items:center">
+  <div><h2>${p.freeH}</h2>${p.freeText}</div>
+  <div><blockquote class="pull">${p.freeQuote}</blockquote><span class="cite">${p.freeCite}</span></div>
 </div></section>
 
 <section class="linen band faq" id="faq"><div class="wrap"><div class="measure"><h2>${p.faqH}</h2>${faq}</div></div></section>

@@ -96,7 +96,8 @@ export default {
       lede: 'A linen cloth, 4.4 meters long, carries the faint image of a man who was scourged and crucified. Some call it a medieval forgery. Others call it the burial cloth of Jesus. Here is the evidence from both sides, with every source, so you can judge it yourself.',
       cta1: 'Explore the cloth', cta2: 'Read the case file',
       faceAlt: 'The face on the Shroud of Turin. Move over it to see it as a photographic negative.',
-      hint: 'Move over the face to see the negative',
+      hint: 'Watch the plate develop',
+      hint2: 'Move over the face to see it as the eye sees it',
       faceCaption: 'The face on the Shroud. Photograph by Giuseppe Enrie, 1931.',
       thomasText: `<h2>Thomas asked to see the marks</h2>
 <p>This site is named after the most honest skeptic in the Gospels. Thomas did not believe what his friends told him. He wanted evidence he could see and touch: the marks of the nails, the wound in the side.</p>
@@ -150,6 +151,11 @@ export default {
       weighCta: 'Open the calculator',
       quote: 'Unless I see in his hands the print of the nails, I will not believe.',
       quoteCite: 'Thomas, in John 20:25',
+      freeH: 'Why it is not proof',
+      freeText: `<p>If God wanted to force belief, he could. A sign that left no room for doubt would also leave no room to choose. The Shroud does something quieter: it gives a serious mind enough to take the question seriously, and leaves the last step to you.</p>
+<p>The Truthly video we checked ends on this idea, and we think it is the right place to end. Thomas got to see the marks. The answer he received was about everyone who comes after him.</p>`,
+      freeQuote: 'Blessed are those who have not seen and have believed.',
+      freeCite: 'Jesus to Thomas, John 20:29',
       faqH: 'Questions people ask',
       faq: [
         { q: 'Is the Shroud of Turin real?', a: 'It is a real, very old linen cloth. Whether it is the burial cloth of Jesus is disputed. The 1988 carbon dating placed it between 1260 and 1390 AD. Many researchers dispute that result, and no one has explained how the image was made. This site lays out both sides with sources.' },

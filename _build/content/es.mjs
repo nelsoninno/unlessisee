@@ -14,12 +14,13 @@ export default {
     prev: 'Anterior', next: 'Siguiente', problems: 'Problemas de esta idea'
   },
   nav: [
-    { slug: 'explore', label: 'Explora la tela' },
-    { slug: 'evidence', label: 'El expediente' },
-    { slug: 'wounds', label: 'Las heridas' },
-    { slug: 'dating', label: 'Carbono 14' },
-    { slug: 'image', label: '¿Cómo se formó?' },
+    { slug: 'explore', label: 'Explora' },
+    { slug: 'evidence', label: 'Expediente' },
+    { slug: 'wounds', label: 'Heridas' },
+    { slug: 'dating', label: 'Datación' },
+    { slug: 'image', label: 'Cómo se formó' },
     { slug: 'timeline', label: 'Cronología' },
+    { slug: 'videos', label: 'Videos' },
     { slug: 'library', label: 'Biblioteca' },
     { slug: 'about', label: 'Acerca de' }
   ],
@@ -96,7 +97,8 @@ export default {
       lede: 'Una tela de lino de 4,4 metros de largo lleva la imagen tenue de un hombre que fue flagelado y crucificado. Algunos la llaman una falsificación medieval. Otros, la mortaja de Jesús. Aquí está la evidencia de ambos lados, con todas las fuentes, para que la juzgues tú mismo.',
       cta1: 'Explora la tela', cta2: 'Lee el expediente',
       faceAlt: 'El rostro de la Sábana Santa de Turín. Pasa el cursor sobre él para verlo como negativo fotográfico.',
-      hint: 'Pasa el cursor sobre el rostro para ver el negativo',
+      hint: 'Mira cómo se revela la placa',
+      hint2: 'Pasa el cursor sobre el rostro para verlo como lo ve el ojo',
       faceCaption: 'El rostro de la Sábana Santa. Fotografía de Giuseppe Enrie, 1931.',
       thomasText: `<h2>Tomás pidió ver las marcas</h2>
 <p>Este sitio lleva el nombre del escéptico más honesto de los Evangelios. Tomás no creyó lo que le contaron sus amigos. Quería evidencia que pudiera ver y tocar: las marcas de los clavos, la herida del costado.</p>
@@ -119,6 +121,7 @@ export default {
       negH: 'La noche en que una fotografía cambió la pregunta',
       negText: `<p>A Secondo Pia, abogado y fotógrafo aficionado, le permitieron tomar las primeras fotografías de la tela. Al revelar su placa de vidrio, esperaba ver una imagen invertida y fantasmal. En cambio, el negativo mostró un retrato claro y natural de un hombre.</p>
 <p>La imagen de la tela se comporta como un negativo fotográfico: la luz y la sombra están invertidas. Nadie lo había notado antes, porque la fotografía no existía. Por esto comenzó el estudio moderno de la Sábana Santa.</p>`,
+      invertBtn: 'Invierte esta página, como la placa de vidrio de Pia', invertBack: 'Volver a lo normal',
       negSkeptic: 'La respuesta escéptica: una imagen hecha presionando una tela sobre un relieve, o frotando polvo sobre ella, también sale con los tonos invertidos. Así que una imagen en negativo no exige, por sí sola, una fotografía ni un milagro. La verdadera pregunta es si esos métodos coinciden con todo lo demás de la imagen.',
       reliefAlt: 'El rostro de la Sábana Santa convertido en un relieve 3D a partir del brillo de la imagen',
       d3H: 'Contiene información en 3D',
@@ -149,6 +152,11 @@ export default {
       weighCta: 'Abre la calculadora',
       quote: 'Si no viere en sus manos la señal de los clavos, […] no creeré.',
       quoteCite: 'Tomás, en Juan 20:25',
+      freeH: 'Por qué no es una prueba',
+      freeText: `<p>Si Dios quisiera obligar a creer, podría hacerlo. Una señal que no dejara lugar a la duda tampoco dejaría lugar para elegir. La Sábana Santa hace algo más discreto: le da a una mente seria lo suficiente para tomarse la pregunta en serio, y te deja a ti el último paso.</p>
+<p>El video de Truthly que verificamos termina con esta idea, y creemos que es el lugar correcto para terminar. Tomás pudo ver las marcas. La respuesta que recibió hablaba de todos los que vienen después de él.</p>`,
+      freeQuote: 'Bienaventurados los que no vieron y creyeron.',
+      freeCite: 'Jesús a Tomás, Juan 20:29',
       faqH: 'Preguntas frecuentes',
       faq: [
         { q: '¿Es real la Sábana Santa de Turín?', a: 'Es una tela de lino real y muy antigua. Si es la mortaja de Jesús está en disputa. La prueba del carbono 14 de 1988 la ubicó entre 1260 y 1390 d. C. Muchos investigadores cuestionan ese resultado, y nadie ha explicado cómo se formó la imagen. Este sitio presenta ambos lados con sus fuentes.' },
@@ -213,6 +221,14 @@ export default {
       lede: 'Haz clic en un número sobre la tela o en una herida de la lista. Cada marca se explica como la describen los patólogos forenses, junto al versículo del Evangelio al que corresponde y, cuando la hay, la nota del escéptico.',
       front: 'Frente', back: 'Espalda', alt_front: 'Imagen frontal del hombre de la Sábana Santa, vista en negativo', alt_back: 'Imagen dorsal del hombre de la Sábana Santa, vista en negativo',
       figNote: 'Las posiciones son aproximadas. Vista en negativo, donde las marcas de sangre se ven claras.',
+      breath: {
+        alt: 'Diagrama de un hombre crucificado que alterna entre dejarse caer y empujarse hacia arriba para respirar',
+        h: 'Por qué la sangre de los brazos corre en dos direcciones',
+        text: `<p>En los antebrazos, unos hilillos delgados de sangre corren en dos ángulos un poco distintos, separados unos diez grados. Patólogos como Robert Bucklin lo interpretan como señal de que los brazos estuvieron en dos posiciones mientras corría la sangre.</p>
+<p>Eso encaja con la forma en que mata la crucifixión. Colgar de los brazos hace difícil sacar el aire, así que la víctima tiene que empujarse hacia arriba sobre los pies clavados para tomar cada respiración, y luego vuelve a dejarse caer. La sangre siempre corre en línea recta hacia abajo, así que cuando los brazos cambian de ángulo, el rastro sobre la piel cambia de dirección. Presiona el botón para verlo.</p>`,
+        up: 'Empujarse para respirar', down: 'Dejarse caer',
+        skeptic: 'La mejor respuesta escéptica: un estudio de 2018 sobre el patrón de las manchas de sangre, de Matteo Borrini y Luigi Garlaschelli, con un voluntario y flujos de sangre reales, encontró que los rastros de los antebrazos requieren posiciones de los brazos distintas de una sola postura de crucifixión, y consideró irreales algunos flujos. Los defensores responden que un cuerpo que se movió durante horas dejaría justamente rastros así de variados.'
+      },
       intro: '<p>Una crucifixión romana era una ejecución pública pensada para humillar. Los Evangelios describen con detalle sencillo la que aquí importa. La tela registra una ejecución con los mismos rasgos, incluidos algunos que el arte medieval representó mal.</p>',
       after: `<h2>Por qué importa</h2>
 <p>Un falsificador del siglo XIV habría tenido que conocer detalles que su propia cultura no conocía o no mostraba: que los clavos atravesaban la muñeca, que un flagrum romano dejaba marcas en forma de pesa, que la sangre de un cuerpo muerto se separa en coágulo y suero. Los escépticos responden que algunos de estos detalles están en disputa, y que las propias marcas de sangre se han estudiado con resultados mixtos. Ambos lados están en el <a href="evidence.html">expediente</a>.</p>`
@@ -312,14 +328,31 @@ export default {
       tracks: { cloth: 'La tela', science: 'Ciencia', church: 'Iglesia', world: 'Mundo' },
       legend: { cloth: 'Hecho documentado', science: 'Estudio científico', hyp: 'Hipotético o legendario' },
       cert: { documented: 'Documentado', probable: 'Probable', hypothesized: 'Hipotético', legendary: 'Leyenda' },
-      listH: 'Todos los hechos'
+      listH: 'Todos los hechos',
+      map: { h: 'Dónde ha estado la tela', alt: 'Mapa de las rutas documentadas e hipotéticas de la Sábana Santa, de Jerusalén a Turín',
+        keyDoc: 'Documentada', keyHyp: 'Hipotética',
+        jerusalem: 'Jerusalén, ¿30 d. C.?', edessa: 'Edesa (Urfa), ¿siglos VI a X?', constantinople: 'Constantinopla, ¿944 a 1204?', athens: 'Atenas, ¿después de 1204?',
+        lirey: 'Lirey, hacia 1354', chambery: 'Chambéry, 1502 a 1578', turin: 'Turín, desde 1578',
+        caption: 'Las líneas continuas están documentadas. La ruta punteada es una hipótesis, sobre todo del historiador Ian Wilson, que identifica la Sábana Santa con la Imagen de Edesa (el Mandylion). La mayoría de los historiadores no acepta esa identificación. Entre 1453 y 1578 la tela también viajó con la Casa de Saboya, así que el recorrido documentado real tiene más paradas de las que se muestran.' }
+    },
+
+    videos: {
+      title: 'Videos sobre la Sábana Santa de Turín, verificados afirmación por afirmación | Si no veo',
+      description: 'Tres videos populares sobre la Sábana Santa de Turín, verificados afirmación por afirmación y con marcas de tiempo: qué se sostiene, qué está en disputa y qué es falso.',
+      h1: 'Videos populares, verificados',
+      lede: 'La mayoría de la gente conoce la Sábana Santa por medio de videos. Vimos tres videos populares de principio a fin, incluidas sus transcripciones, y verificamos sus afirmaciones principales. Varias son excelentes. Algunas son falsas. Haz clic en un tiempo para saltar a ese momento.',
+      play: 'Reproducir el video (carga YouTube)', watch: 'Ver en YouTube',
+      rate: { strong: 'Se sostiene', disputed: 'En disputa', weak: 'Falso o exagerado' },
+      missingH: 'Lo que ninguno de los tres menciona',
+      missingAfter: 'Un caso justo también tiene que ocuparse de esto. Encontrarás cada punto en el <a href="evidence.html">expediente</a>.'
     },
 
     library: {
       title: 'Biblioteca de investigación sobre la Sábana Santa de Turín: artículos y estudios | Si no veo',
       description: 'Una biblioteca con buscador de artículos científicos, estudios y textos sobre la Sábana Santa de Turín, a favor y en contra, con enlaces directos a los originales en shroud.com y en revistas.',
       h1: 'Biblioteca',
-      lede: 'Todos los artículos y estudios que pudimos encontrar, la mayoría del archivo de shroud.com que Barrie Schwortz mantuvo desde 1996. Busca por palabra, filtra por tema y ve directo al original.',
+      lede: 'Más de 2.400 artículos, estudios, textos y boletines, casi todos del archivo que Barrie Schwortz creó en shroud.com a partir de 1996. Empieza por las 25 lecturas clave; luego busca por palabra, filtra por tema y ve directo al original.',
+      keyH: 'Empieza aquí: 25 lecturas clave, de ambos lados', keyLede: 'Elegidas para que un lector escéptico conozca el trabajo más sólido de cada lado, más o menos en el orden en que se desarrolló el debate.', allH: 'La biblioteca completa',
       search: 'Busca títulos, autores y revistas',
       count: 'artículos mostrados',
       peer: 'Revisado por pares',
