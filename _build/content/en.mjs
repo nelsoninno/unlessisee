@@ -13,12 +13,13 @@ export default {
     prev: 'Previous', next: 'Next', problems: 'Problems with this idea'
   },
   nav: [
-    { slug: 'explore', label: 'Explore the cloth' },
-    { slug: 'evidence', label: 'The case file' },
-    { slug: 'wounds', label: 'The wounds' },
-    { slug: 'dating', label: 'Carbon dating' },
-    { slug: 'image', label: 'How was it made?' },
+    { slug: 'explore', label: 'Explore' },
+    { slug: 'evidence', label: 'Case file' },
+    { slug: 'wounds', label: 'Wounds' },
+    { slug: 'dating', label: 'Dating' },
+    { slug: 'image', label: 'How it formed' },
     { slug: 'timeline', label: 'Timeline' },
+    { slug: 'videos', label: 'Videos' },
     { slug: 'library', label: 'Library' },
     { slug: 'about', label: 'About' }
   ],
@@ -118,6 +119,7 @@ export default {
       negH: 'The night a photograph changed the question',
       negText: `<p>Secondo Pia, a lawyer and amateur photographer, was allowed to take the first photographs of the cloth. When he developed his glass plate, he expected to see a reversed, ghostly image. Instead, the negative showed a clear, natural portrait of a man.</p>
 <p>The image on the cloth behaves like a photographic negative: light and dark are reversed. Nobody had noticed this before, because photography did not exist. It is the reason modern study of the Shroud began.</p>`,
+      invertBtn: 'Invert this page, like Pia\'s glass plate', invertBack: 'Back to normal',
       negSkeptic: 'The skeptic\'s answer: an image made by pressing cloth onto a relief, or by rubbing powder over it, is also tonally reversed. So a negative image does not by itself require a photograph or a miracle. The real question is whether such methods match everything else about the image.',
       reliefAlt: 'The face on the Shroud turned into a 3D relief from the brightness of the image',
       d3H: 'It holds 3D information',
@@ -311,9 +313,24 @@ export default {
       tracks: { cloth: 'The cloth', science: 'Science', church: 'Church', world: 'World' },
       legend: { cloth: 'Documented event', science: 'Scientific study', hyp: 'Hypothesized or legendary' },
       cert: { documented: 'Documented', probable: 'Probable', hypothesized: 'Hypothesized', legendary: 'Legend' },
-      listH: 'Every event'
+      listH: 'Every event',
+      map: { h: 'Where the cloth has been', alt: 'Map of the documented and hypothesized routes of the Shroud, from Jerusalem to Turin',
+        keyDoc: 'Documented', keyHyp: 'Hypothesized',
+        jerusalem: 'Jerusalem, AD 30?', edessa: 'Edessa (Urfa), 6th to 10th c.?', constantinople: 'Constantinople, 944 to 1204?', athens: 'Athens, after 1204?',
+        lirey: 'Lirey, about 1354', chambery: 'Chambéry, 1502 to 1578', turin: 'Turin, since 1578',
+        caption: 'Solid lines are documented. The dashed route is a hypothesis, mostly from the historian Ian Wilson, that identifies the Shroud with the Image of Edessa (the Mandylion). Most historians do not accept that identification. Between 1453 and 1578 the cloth also traveled with the House of Savoy, so the real documented path has more stops than shown.' }
     },
 
+    videos: {
+      title: 'Shroud of Turin Videos, Fact-Checked Claim by Claim | Unless I See',
+      description: 'Three popular videos about the Shroud of Turin, checked claim by claim with timestamps: what holds up, what is disputed and what is wrong.',
+      h1: 'Popular videos, checked',
+      lede: 'Most people meet the Shroud through videos. We watched three popular ones from start to finish, including the transcripts, and checked their main claims. Several are excellent. Some are wrong. Click a time to jump to that moment.',
+      play: 'Play video (loads YouTube)', watch: 'Watch on YouTube',
+      rate: { strong: 'Holds up', disputed: 'Disputed', weak: 'Wrong or overstated' },
+      missingH: 'What none of the three mentions',
+      missingAfter: 'A fair case has to deal with these too. You will find each of them in the <a href="evidence.html">case file</a>.'
+    },
     library: {
       title: 'Shroud of Turin Research Library: Papers and Studies | Unless I See',
       description: 'A searchable library of research papers, studies and articles on the Shroud of Turin, for and against, with direct links to the originals on shroud.com and journals.',

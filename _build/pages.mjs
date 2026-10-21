@@ -2,7 +2,7 @@
 import { layout, esc, attr, json, CONFIG } from './build.mjs';
 
 const IMG = 'assets/images/';
-const strengthN = { strong: 4, moderate: 3, weak: 2, disputed: 2, debunked: 1 };
+const strengthN = { strong: 4, moderate: 3, disputed: 2, weak: 1, debunked: 0 };
 const leanOf = it => it.lean || (String(it.id).startsWith('against') ? 'against' : 'for');
 
 function srcList(sources) {
@@ -198,7 +198,7 @@ function home(ctx, page) {
 
 <section class="plate band" id="negative"><div class="wrap split">
   ${compare(ctx, c, { src: IMG + 'hero/face-positive-shroud-of-turin-unlessisee.org.webp', alt: p.cmpPosAlt, label: p.cmpPos, w: 900, h: 1200, caption: p.cmpCaption }, { src: IMG + 'hero/face-negative-shroud-of-turin-unlessisee.org.webp', alt: p.cmpNegAlt, label: p.cmpNeg }, p.cmpLabel)}
-  <div><p class="chapter__year">${p.negYear}</p><h2>${p.negH}</h2>${p.negText}<p class="note" style="margin-top:1.5rem">${p.negSkeptic}</p></div>
+  <div><p class="chapter__year">${p.negYear}</p><h2>${p.negH}</h2>${p.negText}<p class="note" style="margin-top:1.5rem">${p.negSkeptic}</p><div class="btn-row"><button class="btn" type="button" data-invert-page data-labels='${attr(JSON.stringify([p.invertBtn, p.invertBack]))}'>${esc(p.invertBtn)}</button></div></div>
 </div></section>
 
 <section class="plate band band--tight" id="three-d"><div class="wrap split split--wide-left">
@@ -399,6 +399,20 @@ function image(ctx, page) {
   return layout(ctx, page, { title: p.title, description: p.description, jsonld: siteGraph(ctx, page, p) }, body, ['assets/js/lists.js', ...v3d, 'assets/js/data/relief-body.js', 'assets/js/emanation.js']);
 }
 
+function provenanceMap(ctx, c) {
+  const M = ctx.L.map; if (!M) return '';
+  const P = c.pages.timeline.map, q = M.pts;
+  const leg = (a, b, doc, bend = 0.18) => { const [x1, y1] = q[a], [x2, y2] = q[b]; const mx = (x1 + x2) / 2, my = (y1 + y2) / 2, dx = x2 - x1, dy = y2 - y1; const cx = mx - dy * bend, cy = my + dx * bend; return `<path d="M${x1} ${y1} Q${cx} ${cy} ${x2} ${y2}" class="${doc ? 'rt-doc' : 'rt-hyp'}"/>`; };
+  const dot = (k, label, dx = 8, dy = -8, anchor = 'start', doc = true) => `<g class="${doc ? 'pl-doc' : 'pl-hyp'}"><circle cx="${q[k][0]}" cy="${q[k][1]}" r="5"/><text x="${q[k][0] + dx}" y="${q[k][1] + dy}" text-anchor="${anchor}">${esc(label)}</text></g>`;
+  return `<figure class="pmap"><svg viewBox="0 0 ${M.W} ${M.H}" role="img" aria-label="${attr(P.alt)}">
+<rect width="${M.W}" height="${M.H}" class="sea"/><path d="${M.land}" class="land"/>
+${leg('Jerusalem', 'Edessa', false, -0.2)}${leg('Edessa', 'Constantinople', false, 0.15)}${leg('Constantinople', 'Athens', false, 0.2)}${leg('Athens', 'Lirey', false, 0.12)}
+${leg('Lirey', 'Chambery', true, 0.2)}${leg('Chambery', 'Turin', true, 0.3)}
+${dot('Jerusalem', P.jerusalem, -10, 18, 'end', false)}${dot('Edessa', P.edessa, -8, -10, 'end', false)}${dot('Constantinople', P.constantinople, 8, -10, 'start', false)}${dot('Athens', P.athens, -8, 18, 'end', false)}
+${dot('Lirey', P.lirey, 10, -6)}${dot('Chambery', P.chambery, -10, 4, 'end')}${dot('Turin', P.turin, 10, 14)}
+</svg><figcaption><span class="pm-key"><i class="k-doc"></i>${esc(P.keyDoc)}</span> <span class="pm-key"><i class="k-hyp"></i>${esc(P.keyHyp)}</span><br>${P.caption}</figcaption></figure>`;
+}
+
 // ===================================================================== TIMELINE
 function timeline(ctx, page) {
   const c = ctx.L.copy, p = c.pages.timeline, T = ctx.L.data.timeline || { events: [] };
@@ -412,8 +426,30 @@ function timeline(ctx, page) {
   <div class="tl__legend"><span><i style="background:var(--silver)"></i>${esc(p.legend.cloth)}</span><span><i style="background:var(--light)"></i>${esc(p.legend.science)}</span><span><i style="border:2px dashed var(--silver-soft)"></i>${esc(p.legend.hyp)}</span></div>
   <div class="tl__card" aria-live="polite"></div>
   <script type="application/json" id="tl-data">${json({ events: ev, start: startIdx, ui: { prev: c.ui.prev, next: c.ui.next, cert: p.cert } })}</script>
+  <h2 style="margin-top:3rem;font-size:1.8rem">${p.map.h}</h2>
+  ${provenanceMap(ctx, c)}
   <h2 style="margin-top:3rem;font-size:1.8rem">${p.listH}</h2>
   <ol class="tl-list">${ev.map(e => `<li><span class="yr">${esc(e.date_label)}</span><div><h3 style="font-size:1.15rem">${esc(e.title)} <span class="meta">(${esc(p.cert[e.certainty] || e.certainty)})</span></h3><p>${esc(e.text)}</p>${srcList(e.sources)}</div></li>`).join('')}</ol>
+</div></section>`;
+  return layout(ctx, page, { title: p.title, description: p.description, jsonld: siteGraph(ctx, page, p) }, body, ['assets/js/lists.js']);
+}
+
+// ===================================================================== VIDEOS
+function videos(ctx, page) {
+  const c = ctx.L.copy, p = c.pages.videos, V = ctx.L.data.videos || { videos: [] };
+  const secs = t => t.split(':').reduce((a, b) => a * 60 + parseInt(b, 10), 0);
+  const rate = { strong: p.rate.strong, disputed: p.rate.disputed, weak: p.rate.weak };
+  const body = `${pageHead(ctx, p)}
+<section class="linen band band--tight" style="padding-top:0"><div class="wrap">
+${V.videos.map(v => `<article class="vid" id="v-${attr(v.id)}">
+  <div class="vid__head">
+    <button class="vid__facade" type="button" data-yt="${attr(v.id)}" aria-label="${attr(p.play + ': ' + v.title)}" style="background-image:url(https://i.ytimg.com/vi/${attr(v.id)}/hqdefault.jpg)"><span>${esc(p.play)}</span></button>
+    <div><p class="meta">${esc(v.channel)} &middot; ${v.year} &middot; ${esc(v.length)}</p><h2 class="vid__title">${esc(v.title)}</h2><p>${esc(v.summary)}</p>
+    <p class="meta" style="margin-top:.8rem"><a href="https://www.youtube.com/watch?v=${attr(v.id)}" target="_blank" rel="noopener">${esc(p.watch)}</a></p></div>
+  </div>
+  <ol class="vclaims">${v.claims.map(cl => `<li><a class="vt" href="https://www.youtube.com/watch?v=${attr(v.id)}&amp;t=${secs(cl.t)}s" target="_blank" rel="noopener">${esc(cl.t)}</a><div><div>${meter({ strength: rate }, cl.r)}</div><p class="vc">${esc(cl.c)}</p><p class="meta">${esc(cl.n)}</p></div></li>`).join('')}</ol>
+</article>`).join('')}
+<div class="note measure" style="margin-top:3rem"><p><strong style="font-weight:600">${esc(p.missingH)}</strong></p><ul style="margin:.6rem 0 0 1.1rem">${(V.missing || []).map(m => `<li>${esc(m)}</li>`).join('')}</ul><p style="margin-top:.8rem">${p.missingAfter}</p></div>
 </div></section>`;
   return layout(ctx, page, { title: p.title, description: p.description, jsonld: siteGraph(ctx, page, p) }, body, ['assets/js/lists.js']);
 }
@@ -468,6 +504,7 @@ export const pages = [
   { slug: 'dating', render: dating, schemaType: 'Article' },
   { slug: 'image', render: image, schemaType: 'Article' },
   { slug: 'timeline', render: timeline },
+  { slug: 'videos', render: videos, schemaType: 'CollectionPage' },
   { slug: 'library', render: library, schemaType: 'CollectionPage' },
   { slug: 'about', render: about, schemaType: 'AboutPage' },
 ];

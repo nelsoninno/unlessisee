@@ -19,10 +19,20 @@ export const json = o => JSON.stringify(o).replace(/</g, '\\u003c');
 
 function readJSON(p, fallback) { try { return JSON.parse(fs.readFileSync(p, 'utf8')); } catch (e) { return fallback; } }
 
+function deepMerge(base, over) {
+  if (Array.isArray(base) || Array.isArray(over) || typeof base !== 'object' || typeof over !== 'object' || !base || !over) return over === undefined ? base : over;
+  const out = { ...base };
+  for (const k of Object.keys(over)) out[k] = deepMerge(base[k], over[k]);
+  return out;
+}
 async function loadLang(lang) {
-  const copy = (await import(path.join(__dirname, 'content', lang + '.mjs') + '?t=' + Date.now())).default;
+  let copy = (await import(path.join(__dirname, 'content', lang + '.mjs') + '?t=' + Date.now())).default;
+  if (lang !== CONFIG.defaultLang) {
+    const en = (await import(path.join(__dirname, 'content', CONFIG.defaultLang + '.mjs') + '?t=' + Date.now())).default;
+    copy = deepMerge(en, copy); // missing keys fall back to English until translated
+  }
   const d = n => readJSON(path.join(__dirname, 'data', lang, n + '.json'), readJSON(path.join(__dirname, 'data', 'en', n + '.json'), null));
-  return { copy, data: { evidence: d('evidence'), timeline: d('timeline'), wounds: d('wounds'), radiocarbon: d('radiocarbon'), spots: d('spots'), weigh: d('weigh') }, library: readJSON(path.join(__dirname, 'data', 'library.json'), { items: [] }), images: readJSON(path.join(__dirname, 'data', 'images.json'), {}), thomas: (readJSON(path.join(__dirname, 'data', 'thomas.json'), {})[lang] || readJSON(path.join(__dirname, 'data', 'thomas.json'), {}).en) };
+  return { copy, data: { evidence: d('evidence'), timeline: d('timeline'), wounds: d('wounds'), radiocarbon: d('radiocarbon'), spots: d('spots'), weigh: d('weigh'), videos: d('videos') }, map: readJSON(path.join(__dirname, 'data', 'map.json'), null), library: readJSON(path.join(__dirname, 'data', 'library.json'), { items: [] }), images: readJSON(path.join(__dirname, 'data', 'images.json'), {}), thomas: (readJSON(path.join(__dirname, 'data', 'thomas.json'), {})[lang] || readJSON(path.join(__dirname, 'data', 'thomas.json'), {}).en) };
 }
 
 // URL helpers

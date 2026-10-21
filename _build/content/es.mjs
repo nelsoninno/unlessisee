@@ -1,357 +1,358 @@
-// English copy. Plain language, no em dashes. HTML allowed in long fields.
+// Spanish copy (Latin American, El Salvador). Plain language, no em dashes. HTML allowed in long fields.
 export default {
-  brand: 'Unless I See',
-  locale: 'en_US',
-  keywords: 'Shroud of Turin, Turin Shroud, Shroud of Turin evidence, Shroud of Turin carbon dating, Shroud of Turin negative image, Shroud of Turin 3D, is the Shroud of Turin real, Jesus burial cloth, sindonology, Sábana Santa de Turín, STURP, Secondo Pia',
-  shareAlt: 'The face on the Shroud of Turin as a photographic negative',
-  orgDescription: 'Unless I See is a free, non-commercial educational project that presents the evidence for and against the authenticity of the Shroud of Turin, with sources, in many languages.',
+  brand: 'Si no veo',
+  locale: 'es_SV',
+  shareImage: 'social-share-si-no-veo-unlessisee.org.jpg',
+  keywords: 'Sábana Santa de Turín, Síndone de Turín, evidencia de la Sábana Santa, datación de la Sábana Santa, carbono 14 Sábana Santa, negativo de la Sábana Santa, Sábana Santa en 3D, es real la Sábana Santa, sudario de Jesús, sindonología, Shroud of Turin, STURP, Secondo Pia',
+  shareAlt: 'El rostro de la Sábana Santa de Turín como negativo fotográfico',
+  orgDescription: 'Si no veo es un proyecto educativo gratuito y sin fines de lucro que presenta la evidencia a favor y en contra de la autenticidad de la Sábana Santa de Turín, con sus fuentes, en varios idiomas.',
   ui: {
-    skip: 'Skip to content', menu: 'Menu', mainNav: 'Main', language: 'Language',
-    exhibit: 'Exhibit', detail: 'The details', skeptic: 'The skeptic\'s best answer', reply: 'The reply',
-    theCase: 'The full argument', replyAgainst: 'How defenders answer', whyRating: 'Why this rating:',
-    all: 'All', allTopics: 'All topics', shown: 'shown', openAll: 'Open or close all',
-    prev: 'Previous', next: 'Next', problems: 'Problems with this idea'
+    skip: 'Ir al contenido', menu: 'Menú', mainNav: 'Principal', language: 'Idioma',
+    exhibit: 'Prueba', detail: 'Los detalles', skeptic: 'La mejor respuesta escéptica', reply: 'La réplica',
+    theCase: 'El argumento completo', replyAgainst: 'Cómo responden los defensores', whyRating: 'Por qué esta calificación:',
+    all: 'Todo', allTopics: 'Todos los temas', shown: 'mostradas', openAll: 'Abrir o cerrar todo',
+    prev: 'Anterior', next: 'Siguiente', problems: 'Problemas de esta idea'
   },
   nav: [
-    { slug: 'explore', label: 'Explore the cloth' },
-    { slug: 'evidence', label: 'The case file' },
-    { slug: 'wounds', label: 'The wounds' },
-    { slug: 'dating', label: 'Carbon dating' },
-    { slug: 'image', label: 'How was it made?' },
-    { slug: 'timeline', label: 'Timeline' },
-    { slug: 'library', label: 'Library' },
-    { slug: 'about', label: 'About' }
+    { slug: 'explore', label: 'Explora la tela' },
+    { slug: 'evidence', label: 'El expediente' },
+    { slug: 'wounds', label: 'Las heridas' },
+    { slug: 'dating', label: 'Carbono 14' },
+    { slug: 'image', label: '¿Cómo se formó?' },
+    { slug: 'timeline', label: 'Cronología' },
+    { slug: 'library', label: 'Biblioteca' },
+    { slug: 'about', label: 'Acerca de' }
   ],
   footer: {
-    about: 'A free, non-commercial project. Every claim on this site links to its source, including the sources that disagree with us.',
-    explore: 'Explore', more: 'Go deeper', extra: [],
-    rights: 'Text {year} Unless I See. Free to share with a link back. Image credits on the About page.',
-    eky: 'Website made with love, by', ekyAria: 'Website made with love by everybodyknowsyou.com'
+    about: 'Un proyecto gratuito y sin fines de lucro. Cada afirmación de este sitio enlaza a su fuente, incluidas las fuentes que no están de acuerdo con nosotros.',
+    explore: 'Explora', more: 'Profundiza', extra: [],
+    rights: 'Texto {year} Si no veo. Puedes compartirlo libremente con un enlace a este sitio. Créditos de las imágenes en la página Acerca de.',
+    eky: 'Sitio web hecho con amor, por', ekyAria: 'Sitio web hecho con amor por everybodyknowsyou.com'
   },
-  strength: { strong: 'Strong', moderate: 'Moderate', weak: 'Weak', disputed: 'Disputed', debunked: 'Debunked' },
-  lean: { for: 'Points to authenticity', against: 'Points to a medieval origin', neutral: 'Context' },
-  categories: { image: 'The image', blood: 'Blood', anatomy: 'Anatomy and wounds', textile: 'The linen', dating: 'Dating', history: 'History', botany: 'Pollen and plants', 'imaging-3d': '3D information', 'image-formation': 'How the image formed', other: 'Other' },
+  strength: { strong: 'Sólida', moderate: 'Moderada', weak: 'Débil', disputed: 'Disputada', debunked: 'Descartada' },
+  lean: { for: 'Apunta a la autenticidad', against: 'Apunta a un origen medieval', neutral: 'Contexto' },
+  categories: { image: 'La imagen', blood: 'La sangre', anatomy: 'Anatomía y heridas', textile: 'El lino', dating: 'Datación', history: 'Historia', botany: 'Polen y plantas', 'imaging-3d': 'Información 3D', 'image-formation': 'Cómo se formó la imagen', other: 'Otros' },
   fig: {
-    scaleAlt: 'Diagram of the 4.4 meter cloth with front and back images of a man, head to head',
-    scaleFront: 'Front image', scaleBack: 'Back image', scaleLen: 'about 4.4 meters', scaleWid: 'about 1.1 m',
-    scaleCaption: 'The whole cloth, as photographed by Giuseppe Enrie in 1931. The body lay on one half. The other half was folded over the head and down the front to the feet. That is why the front and back images meet at the heads.',
-    foldFrontAlt: 'Front half of the Shroud, with the front image of the man', foldBackAlt: 'Back half of the Shroud, with the back image of the man',
-    foldBtn: 'Fold it the way it wrapped the body', unfoldBtn: 'Unfold it again'
+    scaleAlt: 'Diagrama de la tela de 4,4 metros con las imágenes frontal y dorsal de un hombre, cabeza con cabeza',
+    scaleFront: 'Imagen frontal', scaleBack: 'Imagen dorsal', scaleLen: 'unos 4,4 metros', scaleWid: 'unos 1,1 m',
+    scaleCaption: 'La tela completa, fotografiada por Giuseppe Enrie en 1931. El cuerpo descansaba sobre una mitad. La otra mitad se dobló sobre la cabeza y bajó por el frente hasta los pies. Por eso las imágenes frontal y dorsal se encuentran en las cabezas.',
+    foldFrontAlt: 'Mitad frontal de la Sábana Santa, con la imagen frontal del hombre', foldBackAlt: 'Mitad dorsal de la Sábana Santa, con la imagen dorsal del hombre',
+    foldBtn: 'Dóblala como envolvía el cuerpo', unfoldBtn: 'Desdóblala otra vez'
   },
-  ui3d: { depth: 'Depth', light: 'Light', clay: 'Clay', negative: 'Negative', fallback: 'This 3D view needs WebGL, which your browser has turned off.' },
+  ui3d: { depth: 'Profundidad', light: 'Luz', clay: 'Arcilla', negative: 'Negativo', fallback: 'Esta vista en 3D necesita WebGL, y tu navegador lo tiene desactivado.' },
   emanation: {
-    label: 'One hypothesis, visualized. Not evidence.',
-    alt: 'Animation: light rises from a body beneath a linen cloth, the image forms on the cloth, and the cloth falls flat',
+    label: 'Una hipótesis, visualizada. No es evidencia.',
+    alt: 'Animación: una luz sube desde un cuerpo bajo una tela de lino, la imagen se forma en la tela y la tela cae plana',
     captions: [
-      'A body lies under a linen cloth, in the dark.',
-      'Hypothesis: a short, intense release of energy from the body itself.',
-      'The light travels straight up and straight down, not in all directions.',
-      'Only the outermost surface of the fibers darkens. No paint, no scorch.',
-      'Physicist John Jackson proposed that the cloth then fell through a body that was no longer there.',
-      'What remains is a faint image that no experiment has yet matched in every detail.'
+      'Un cuerpo yace bajo una tela de lino, en la oscuridad.',
+      'Hipótesis: una liberación de energía breve e intensa, desde el propio cuerpo.',
+      'La luz viaja en línea recta hacia arriba y hacia abajo, no en todas las direcciones.',
+      'Solo se oscurece la superficie más externa de las fibras. Sin pintura, sin quemadura.',
+      'El físico John Jackson propuso que la tela cayó luego a través de un cuerpo que ya no estaba.',
+      'Lo que queda es una imagen tenue que ningún experimento ha igualado todavía en todos sus detalles.'
     ],
-    ui: { play: 'Play', pause: 'Pause', replay: 'Replay', time: 'Time' }
+    ui: { play: 'Reproducir', pause: 'Pausa', replay: 'Repetir', time: 'Tiempo' }
   },
   powers: {
-    label: 'Zoom level', prev: 'Zoom out', next: 'Zoom in',
-    fiberNote: 'A thread is a bundle of fibers. Only the top fibers are colored.',
-    layerLabel: 'colored layer, about 0.2 µm', lumen: 'inside of the fiber',
+    label: 'Nivel de acercamiento', prev: 'Alejar', next: 'Acercar',
+    fiberNote: 'Un hilo es un haz de fibras. Solo las fibras de arriba tienen color.',
+    layerLabel: 'capa coloreada, unos 0,2 µm', lumen: 'interior de la fibra',
     steps: [
-      { size: '4.4 m', title: 'The whole cloth', text: 'Front and back images, head to head. From a few steps away, the man is barely visible. The image is that faint.' },
-      { size: '25 cm', title: 'The face', text: 'Up close, the face has no outlines, no brush strokes, no direction of light. Light and dark are reversed, like a photographic negative.' },
-      { size: '0.25 mm', title: 'A single thread', text: 'Each thread is about a quarter of a millimeter thick, woven three over one. Where the image is, only the tops of the threads facing the body are colored. The threads underneath stay white.' },
-      { size: '15 µm', title: 'The fibers in a thread', text: 'A thread is made of roughly 100 to 200 flax fibers. In image areas, only the topmost two or three fibers are colored. Darker areas of the image do not have darker fibers, they have more colored fibers.' },
-      { size: '0.2 µm', title: 'The colored layer', text: 'Inside one fiber, the color is confined to the outermost layer, about 200 billionths of a meter thick, the thickness of the fiber\'s primary cell wall. The inside of the fiber is untouched. This is the single property that makes the image so hard to reproduce.' }
+      { size: '4,4 m', title: 'La tela completa', text: 'Imágenes frontal y dorsal, cabeza con cabeza. A unos pasos de distancia, el hombre apenas se distingue. Así de tenue es la imagen.' },
+      { size: '25 cm', title: 'El rostro', text: 'De cerca, el rostro no tiene contornos, ni pinceladas, ni una dirección de luz. La luz y la sombra están invertidas, como en un negativo fotográfico.' },
+      { size: '0,25 mm', title: 'Un solo hilo', text: 'Cada hilo mide cerca de un cuarto de milímetro de grosor, tejido tres sobre uno. Donde está la imagen, solo tienen color las partes altas de los hilos que miraban al cuerpo. Los hilos de abajo siguen blancos.' },
+      { size: '15 µm', title: 'Las fibras de un hilo', text: 'Un hilo está hecho de unas 100 a 200 fibras de lino. En las zonas de la imagen, solo tienen color las dos o tres fibras de más arriba. Las zonas más oscuras de la imagen no tienen fibras más oscuras: tienen más fibras coloreadas.' },
+      { size: '0,2 µm', title: 'La capa coloreada', text: 'Dentro de una fibra, el color se limita a la capa más externa, de unas 200 milmillonésimas de metro de grosor, el grosor de la pared celular primaria de la fibra. El interior de la fibra está intacto. Esta es la propiedad que hace tan difícil reproducir la imagen.' }
     ]
   },
   grid: {
-    caption: 'Which of the image properties each hypothesis can explain',
-    corner: 'Hypothesis',
-    cols: ['0.2 µm thin', 'No paint', 'Negative', '3D', 'Blood first', 'No UV glow', 'Not only contact', 'Half-tone', 'Full image made in a lab'],
-    legend: { y: 'Explains it', p: 'Partly, or disputed', n: 'Does not explain it', u: 'Untested' },
+    caption: 'Qué propiedades de la imagen puede explicar cada hipótesis',
+    corner: 'Hipótesis',
+    cols: ['Solo 0,2 µm', 'Sin pintura', 'Negativo', '3D', 'Primero la sangre', 'Sin brillo UV', 'No solo contacto', 'Semitono', 'Imagen completa hecha en laboratorio'],
+    legend: { y: 'Lo explica', p: 'En parte, o en disputa', n: 'No lo explica', u: 'Sin probar' },
     rows: [
-      { name: 'A painting', v: 'nnpnpyyny' },
-      { name: 'Scorch from a hot statue', v: 'pyypnnnpy' },
-      { name: 'Rubbing over a relief', v: 'ppypppppy' },
-      { name: 'Early photography', v: 'pnynuyynp' },
-      { name: 'Reaction with body gases', v: 'yyypyyppn' },
-      { name: 'A burst of radiation', v: 'yyyuyuyun' }
+      { name: 'Una pintura', v: 'nnpnpyyny' },
+      { name: 'Quemadura con una estatua caliente', v: 'pyypnnnpy' },
+      { name: 'Frotado sobre un relieve', v: 'ppypppppy' },
+      { name: 'Fotografía primitiva', v: 'pnynuyynp' },
+      { name: 'Reacción con gases del cuerpo', v: 'yyypyyppn' },
+      { name: 'Un estallido de radiación', v: 'yyyuyuyun' }
     ],
-    note: 'This is our summary of what proponents and critics of each idea report. Reasonable people score some cells differently. Note the last column: the hypotheses that explain the most properties are also the ones that have never produced a full image in a lab.'
+    note: 'Este es nuestro resumen de lo que reportan quienes defienden y quienes critican cada idea. Personas razonables califican algunas casillas de otra manera. Fíjate en la última columna: las hipótesis que explican más propiedades son también las que nunca han producido una imagen completa en un laboratorio.'
   },
   dating: {
-    bc: 'BC', crucifixion: 'Crucifixion, about AD 30 to 33', documented: 'Documented history, from about 1354',
-    chartAlt: 'Chart comparing the 1988 radiocarbon date range with other dating methods on a calendar axis',
-    labsAlt: 'Chart of the twelve published radiocarbon measurements from Arizona, Oxford and Zurich, with error bars',
-    bpAxis: 'Radiocarbon age, years before 1950 (BP). Lower means younger.', bpShort: 'radiocarbon years BP', labMean: 'Lab mean', combined: 'Combined'
+    bc: 'a. C.', crucifixion: 'Crucifixión, hacia el 30 a 33 d. C.', documented: 'Documentada, desde hacia 1354',
+    chartAlt: 'Gráfico que compara el rango de la datación por radiocarbono de 1988 con otros métodos de datación en un eje de años',
+    labsAlt: 'Gráfico de las doce mediciones de radiocarbono publicadas por Arizona, Oxford y Zúrich, con sus barras de error',
+    bpAxis: 'Edad por radiocarbono, años antes de 1950 (AP). Menos significa más reciente.', bpShort: 'años de radiocarbono AP', labMean: 'Media del laboratorio', combined: 'Combinada'
   },
-  notFound: { title: 'Page not found | Unless I See', h1: 'This page is not here', text: 'The link may be old, or the address may have a typo. Everything on the site starts from the home page.', cta: 'Go to the home page' },
+  notFound: { title: 'Página no encontrada | Si no veo', h1: 'Esta página no está aquí', text: 'Puede que el enlace sea antiguo o que la dirección tenga un error. Todo el sitio parte de la página de inicio.', cta: 'Ir a la página de inicio' },
 
   pages: {
     index: {
-      title: 'Shroud of Turin: The Evidence For and Against | Unless I See',
-      description: 'Is the Shroud of Turin real? Explore the cloth in high resolution, see the negative and the 3D image, and weigh the evidence on both sides, with every source.',
-      h1: 'Examine the Shroud of Turin for yourself',
-      lede: 'A linen cloth, 4.4 meters long, carries the faint image of a man who was scourged and crucified. Some call it a medieval forgery. Others call it the burial cloth of Jesus. Here is the evidence from both sides, with every source, so you can judge it yourself.',
-      cta1: 'Explore the cloth', cta2: 'Read the case file',
-      faceAlt: 'The face on the Shroud of Turin. Move over it to see it as a photographic negative.',
-      hint: 'Move over the face to see the negative',
-      faceCaption: 'The face on the Shroud. Photograph by Giuseppe Enrie, 1931.',
-      thomasText: `<h2>Thomas asked to see the marks</h2>
-<p>This site is named after the most honest skeptic in the Gospels. Thomas did not believe what his friends told him. He wanted evidence he could see and touch: the marks of the nails, the wound in the side.</p>
-<p>The Shroud of Turin shows a man with exactly those marks. Whether it is what many believe it is, is the question this site leaves to you. We will show you the marks, the tests, the doubts and the answers, and point you to every source.</p>`,
-      thomasCta: 'See the marks',
-      objH: 'What it is',
-      objLede: 'A single piece of linen with a front and a back image of a naked man, head to head, plus blood stains, burn marks and water stains from its long history. It has been kept in Turin, Italy, since 1578.',
+      title: 'Sábana Santa de Turín: la evidencia a favor y en contra | Si no veo',
+      description: '¿Es real la Sábana Santa de Turín? Explora la tela en alta resolución, mira el negativo y la imagen en 3D, y pesa la evidencia de ambos lados, con todas las fuentes.',
+      h1: 'Examina tú mismo la Sábana Santa de Turín',
+      lede: 'Una tela de lino de 4,4 metros de largo lleva la imagen tenue de un hombre que fue flagelado y crucificado. Algunos la llaman una falsificación medieval. Otros, la mortaja de Jesús. Aquí está la evidencia de ambos lados, con todas las fuentes, para que la juzgues tú mismo.',
+      cta1: 'Explora la tela', cta2: 'Lee el expediente',
+      faceAlt: 'El rostro de la Sábana Santa de Turín. Pasa el cursor sobre él para verlo como negativo fotográfico.',
+      hint: 'Pasa el cursor sobre el rostro para ver el negativo',
+      faceCaption: 'El rostro de la Sábana Santa. Fotografía de Giuseppe Enrie, 1931.',
+      thomasText: `<h2>Tomás pidió ver las marcas</h2>
+<p>Este sitio lleva el nombre del escéptico más honesto de los Evangelios. Tomás no creyó lo que le contaron sus amigos. Quería evidencia que pudiera ver y tocar: las marcas de los clavos, la herida del costado.</p>
+<p>La Sábana Santa de Turín muestra a un hombre con exactamente esas marcas. Si es lo que muchos creen que es, esa pregunta este sitio te la deja a ti. Te mostraremos las marcas, las pruebas, las dudas y las respuestas, y te indicaremos cada fuente.</p>`,
+      thomasCta: 'Mira las marcas',
+      objH: 'Qué es',
+      objLede: 'Una sola pieza de lino con una imagen frontal y otra dorsal de un hombre desnudo, cabeza con cabeza, además de manchas de sangre, marcas de quemaduras y manchas de agua de su larga historia. Se guarda en Turín, Italia, desde 1578.',
       facts: [
-        { n: '4.4 m', t: 'long, and about 1.1 m wide' },
-        { n: '3 : 1', t: 'herringbone twill weave, a costly pattern' },
-        { n: '0.2 µm', t: 'approximate depth of the color in the image fibers. A hair is about 70 µm.' },
-        { n: '1354', t: 'around this year it first appears in the historical record, in Lirey, France' },
-        { n: '1260 to 1390', t: 'the date range from the 1988 carbon dating' }
+        { n: '4,4 m', t: 'de largo, y cerca de 1,1 m de ancho' },
+        { n: '3 : 1', t: 'tejido de sarga en espiga, un patrón costoso' },
+        { n: '0,2 µm', t: 'profundidad aproximada del color en las fibras de la imagen. Un cabello mide unos 70 µm.' },
+        { n: '1354', t: 'hacia este año aparece por primera vez en los registros históricos, en Lirey, Francia' },
+        { n: '1260 a 1390', t: 'el rango de fechas de la prueba del carbono 14 de 1988' }
       ],
-      cmpPos: 'As the eye sees it', cmpNeg: 'As the 1898 negative showed it',
-      cmpPosAlt: 'The face on the Shroud as it appears to the eye', cmpNegAlt: 'The face on the Shroud as a photographic negative',
-      cmpLabel: 'Slide to compare the positive and the negative',
-      cmpCaption: 'Drag the line. Left: the photographic negative. Right: what you see on the cloth.',
-      negYear: 'Turin, 28 May 1898',
-      negH: 'The night a photograph changed the question',
-      negText: `<p>Secondo Pia, a lawyer and amateur photographer, was allowed to take the first photographs of the cloth. When he developed his glass plate, he expected to see a reversed, ghostly image. Instead, the negative showed a clear, natural portrait of a man.</p>
-<p>The image on the cloth behaves like a photographic negative: light and dark are reversed. Nobody had noticed this before, because photography did not exist. It is the reason modern study of the Shroud began.</p>`,
-      negSkeptic: 'The skeptic\'s answer: an image made by pressing cloth onto a relief, or by rubbing powder over it, is also tonally reversed. So a negative image does not by itself require a photograph or a miracle. The real question is whether such methods match everything else about the image.',
-      reliefAlt: 'The face on the Shroud turned into a 3D relief from the brightness of the image',
-      d3H: 'It holds 3D information',
-      d3Text: `<p>In 1976, physicists John Jackson and Eric Jumper put a photograph of the Shroud into a VP-8 Image Analyzer, a device built to turn brightness into height. Ordinary photographs come out distorted. The Shroud came out as a coherent body in relief.</p>
-<p>The reason: how dark the image is at each point seems to track how far the cloth was from the body at that point. The original measurement was statistically modest, based on 13 points, but the effect is easy to see. This 3D view is built the same way, live in your browser, straight from the image. Drag it to turn it.</p>`,
-      d3Skeptic: 'The skeptic\'s answer: images made from a shallow relief, such as a bas-relief rubbing, also carry some depth information. In 2025 a 3D designer, Cicero Moraes, argued from computer simulation that the image fits a low relief better than a full body. The debate is over how well each method matches the real cloth.',
-      d3Cta: 'Compare it with a painting in 3D',
-      marksH: 'The marks of a crucifixion',
-      marksText: `<p>Forensic pathologists who studied the image describe more than a hundred small wounds from a Roman scourge, puncture wounds around the head, a swollen face, abrasions on the shoulders, a nail wound in the wrist rather than the palm, and a wound in the side between the ribs that bled after death.</p>
-<p>Each of these matches what the Gospels say happened to Jesus. Several of them, like the nail in the wrist, go against how medieval artists painted the crucifixion.</p>`,
-      marksAlt: 'Detail of the crossed hands on the Shroud, with the wrist wound', marksCaption: 'The crossed hands. The blood flow comes from the wrist, not the palm. Negative view.',
-      marksCta: 'See every wound, next to the Gospel text',
-      dateH: 'The test that said medieval',
-      dateText: `<p>In 1988, three laboratories in Arizona, Oxford and Zurich carbon dated small samples from one corner of the cloth. Their combined result, published in the journal Nature in 1989, was 1260 to 1390 AD, with 95% confidence. This is the strongest single argument against authenticity, and we put it first.</p>
-<p>Since then, researchers have questioned where the sample was taken from, whether the samples were consistent with each other, and whether the raw data supported the published precision. Other dating methods have given older dates, though none is as established as radiocarbon dating.</p>`,
-      dateCta: 'Read the full dating story',
-      howH: 'How did the image get there?',
-      howLede: 'After more than a century of study, nobody has a complete answer. That is not a slogan, it is where the science stands. Here is one of the boldest hypotheses, shown as an animation.',
-      howText: `<p>The image is a straw-yellow color on the very top fibers of the linen. There is no paint, no brush strokes and no sign of the image soaking into the threads. It is not a scorch: real scorch marks from a 1532 fire glow under ultraviolet light, and the body image does not.</p>
-<p>Researchers have proposed paint, a heated statue, powder rubbed over a relief, an early form of photography, a chemical reaction with gases from a body, and a burst of radiation. Each idea explains some features and struggles with others.</p>`,
-      howEnea: `<h3>The 34 trillion watts</h3>
-<p>Between 2005 and 2010, scientists at ENEA, Italy's national agency for new technologies, fired very short pulses of ultraviolet laser light at linen. They managed to color the linen in a way that matched the Shroud closely: only the outermost layer of the fibers, with no burning.</p>
-<p>They estimated that coloring a whole body's worth of image in one go would need ultraviolet light with a power of about 34 trillion watts, far beyond any laser that exists. The team was careful: they did not reproduce the image itself, only small colored samples, and they did not claim a miracle. They said their results show how hard it is to make the image by ordinary means.</p>`,
-      howCta: 'Compare every hypothesis',
-      weighH: 'Weigh it yourself',
-      weighText: `<p>Most debates about the Shroud are really debates about how much each piece of evidence should count. So we built a small calculator. You decide how strongly each item points one way or the other, and it shows you where your own judgments add up.</p>
-<p>It will not tell you the answer. It will show you which assumptions your answer depends on.</p>`,
-      weighCta: 'Open the calculator',
-      quote: 'Unless I see in his hands the print of the nails, I will not believe.',
-      quoteCite: 'Thomas, in John 20:25',
-      faqH: 'Questions people ask',
+      cmpPos: 'Como la ve el ojo', cmpNeg: 'Como la mostró el negativo de 1898',
+      cmpPosAlt: 'El rostro de la Sábana Santa tal como se ve a simple vista', cmpNegAlt: 'El rostro de la Sábana Santa como negativo fotográfico',
+      cmpLabel: 'Desliza para comparar el positivo y el negativo',
+      cmpCaption: 'Arrastra la línea. A la izquierda: el negativo fotográfico. A la derecha: lo que ves en la tela.',
+      negYear: 'Turín, 28 de mayo de 1898',
+      negH: 'La noche en que una fotografía cambió la pregunta',
+      negText: `<p>A Secondo Pia, abogado y fotógrafo aficionado, le permitieron tomar las primeras fotografías de la tela. Al revelar su placa de vidrio, esperaba ver una imagen invertida y fantasmal. En cambio, el negativo mostró un retrato claro y natural de un hombre.</p>
+<p>La imagen de la tela se comporta como un negativo fotográfico: la luz y la sombra están invertidas. Nadie lo había notado antes, porque la fotografía no existía. Por esto comenzó el estudio moderno de la Sábana Santa.</p>`,
+      negSkeptic: 'La respuesta escéptica: una imagen hecha presionando una tela sobre un relieve, o frotando polvo sobre ella, también sale con los tonos invertidos. Así que una imagen en negativo no exige, por sí sola, una fotografía ni un milagro. La verdadera pregunta es si esos métodos coinciden con todo lo demás de la imagen.',
+      reliefAlt: 'El rostro de la Sábana Santa convertido en un relieve 3D a partir del brillo de la imagen',
+      d3H: 'Contiene información en 3D',
+      d3Text: `<p>En 1976, los físicos John Jackson y Eric Jumper pasaron una fotografía de la Sábana Santa por un VP-8 Image Analyzer, un aparato hecho para convertir el brillo en altura. Las fotografías comunes salen deformadas. La Sábana Santa salió como un cuerpo coherente en relieve.</p>
+<p>La razón: lo oscura que es la imagen en cada punto parece corresponder a la distancia entre la tela y el cuerpo en ese punto. La medición original era modesta en términos estadísticos, basada en 13 puntos, pero el efecto se ve con facilidad. Esta vista en 3D se construye de la misma manera, en vivo en tu navegador, directamente a partir de la imagen. Arrástrala para girarla.</p>`,
+      d3Skeptic: 'La respuesta escéptica: las imágenes hechas a partir de un relieve poco profundo, como un frotado sobre un bajorrelieve, también contienen algo de información de profundidad. En 2025, un diseñador 3D, Cicero Moraes, argumentó con simulaciones por computadora que la imagen encaja mejor con un relieve bajo que con un cuerpo completo. El debate es qué tan bien coincide cada método con la tela real.',
+      d3Cta: 'Compárala con una pintura en 3D',
+      marksH: 'Las marcas de una crucifixión',
+      marksText: `<p>Los patólogos forenses que estudiaron la imagen describen más de cien pequeñas heridas de un flagelo romano, heridas punzantes alrededor de la cabeza, un rostro hinchado, raspones en los hombros, una herida de clavo en la muñeca y no en la palma, y una herida en el costado, entre las costillas, que sangró después de la muerte.</p>
+<p>Cada una coincide con lo que los Evangelios dicen que le pasó a Jesús. Varias de ellas, como el clavo en la muñeca, van en contra de cómo los artistas medievales pintaban la crucifixión.</p>`,
+      marksAlt: 'Detalle de las manos cruzadas en la Sábana Santa, con la herida de la muñeca', marksCaption: 'Las manos cruzadas. La sangre sale de la muñeca, no de la palma. Vista en negativo.',
+      marksCta: 'Mira cada herida, junto al texto del Evangelio',
+      dateH: 'La prueba que dijo medieval',
+      dateText: `<p>En 1988, tres laboratorios en Arizona, Oxford y Zúrich dataron con carbono 14 pequeñas muestras de una esquina de la tela. Su resultado combinado, publicado en la revista Nature en 1989, fue de 1260 a 1390 d. C., con un 95% de confianza. Es el argumento individual más fuerte contra la autenticidad, y por eso lo ponemos primero.</p>
+<p>Desde entonces, varios investigadores han cuestionado de dónde se tomó la muestra, si las muestras eran coherentes entre sí y si los datos originales justificaban la precisión publicada. Otros métodos de datación han dado fechas más antiguas, aunque ninguno está tan establecido como la datación por radiocarbono.</p>`,
+      dateCta: 'Lee toda la historia de la datación',
+      howH: '¿Cómo llegó ahí la imagen?',
+      howLede: 'Después de más de un siglo de estudio, nadie tiene una respuesta completa. No es un eslogan: así está la ciencia hoy. Aquí tienes una de las hipótesis más audaces, en forma de animación.',
+      howText: `<p>La imagen es de un color amarillo pajizo y está en las fibras más superficiales del lino. No hay pintura, ni pinceladas, ni señales de que la imagen haya penetrado en los hilos. No es una quemadura: las quemaduras reales de un incendio de 1532 brillan bajo la luz ultravioleta, y la imagen del cuerpo no.</p>
+<p>Los investigadores han propuesto pintura, una estatua caliente, polvo frotado sobre un relieve, una forma primitiva de fotografía, una reacción química con gases de un cuerpo y un estallido de radiación. Cada idea explica algunos rasgos y tiene problemas con otros.</p>`,
+      howEnea: `<h3>Los 34 billones de vatios</h3>
+<p>Entre 2005 y 2010, científicos de ENEA, la agencia nacional italiana de nuevas tecnologías, dispararon pulsos muy breves de láser ultravioleta sobre lino. Lograron colorear el lino de una forma muy parecida a la Sábana Santa: solo la capa más externa de las fibras, sin quemarlas.</p>
+<p>Calcularon que colorear de una sola vez una imagen del tamaño de un cuerpo entero requeriría luz ultravioleta con una potencia de unos 34 billones de vatios, muy por encima de cualquier láser que exista. El equipo fue prudente: no reprodujo la imagen en sí, solo pequeñas muestras coloreadas, y no habló de un milagro. Dijeron que sus resultados muestran lo difícil que es producir la imagen por medios comunes.</p>`,
+      howCta: 'Compara todas las hipótesis',
+      weighH: 'Pésalo tú mismo',
+      weighText: `<p>La mayoría de los debates sobre la Sábana Santa son, en realidad, debates sobre cuánto debe contar cada prueba. Por eso hicimos una pequeña calculadora. Tú decides con cuánta fuerza apunta cada elemento hacia un lado o hacia el otro, y ella te muestra a dónde suman tus propios juicios.</p>
+<p>No te dirá la respuesta. Te mostrará de qué supuestos depende tu respuesta.</p>`,
+      weighCta: 'Abre la calculadora',
+      quote: 'Si no viere en sus manos la señal de los clavos, […] no creeré.',
+      quoteCite: 'Tomás, en Juan 20:25',
+      faqH: 'Preguntas frecuentes',
       faq: [
-        { q: 'Is the Shroud of Turin real?', a: 'It is a real, very old linen cloth. Whether it is the burial cloth of Jesus is disputed. The 1988 carbon dating placed it between 1260 and 1390 AD. Many researchers dispute that result, and no one has explained how the image was made. This site lays out both sides with sources.' },
-        { q: 'What did the carbon dating find?', a: 'Laboratories in Arizona, Oxford and Zurich dated samples from one corner in 1988 and reported 1260 to 1390 AD with 95% confidence (Damon and others, Nature, 1989). Critics argue the corner may have been repaired, and a 2019 reanalysis of the raw data found the samples were not as consistent as reported.' },
-        { q: 'Is the image painted?', a: 'The 1978 scientific team (STURP) concluded it is not a painting: they found no pigment forming the image, no brush strokes and no binder. Microscopist Walter McCrone disagreed and reported iron oxide and other materials. Most later studies sided with STURP on the image, while agreeing that tiny particles of many materials are present on the cloth.' },
-        { q: 'Why is the image a negative?', a: 'On the cloth, light and dark are reversed compared with a normal picture, so a photographic negative of it looks like a natural portrait. This was discovered by Secondo Pia in 1898. Skeptics point out that images made by contact with a relief are also reversed.' },
-        { q: 'What does the Catholic Church say?', a: 'The Church has never officially declared the Shroud authentic, and does not require anyone to believe it is. Recent popes have called it an icon of the suffering of Christ and have prayed before it. The Holy See has owned it since 1983, and the Archbishop of Turin is its custodian.' },
-        { q: 'Can I see it in person?', a: 'It is kept in the Cathedral of Saint John the Baptist in Turin, in a climate-controlled case, and is usually not on public view. It is shown during rare public exhibitions, such as those in 2010 and 2015, and in a 2020 live broadcast.' }
+        { q: '¿Es real la Sábana Santa de Turín?', a: 'Es una tela de lino real y muy antigua. Si es la mortaja de Jesús está en disputa. La prueba del carbono 14 de 1988 la ubicó entre 1260 y 1390 d. C. Muchos investigadores cuestionan ese resultado, y nadie ha explicado cómo se formó la imagen. Este sitio presenta ambos lados con sus fuentes.' },
+        { q: '¿Qué encontró la datación por radiocarbono?', a: 'En 1988, laboratorios de Arizona, Oxford y Zúrich dataron muestras de una esquina y reportaron de 1260 a 1390 d. C., con un 95% de confianza (Damon y otros, Nature, 1989). Los críticos sostienen que esa esquina pudo haber sido reparada, y un nuevo análisis de los datos originales en 2019 encontró que las muestras no eran tan coherentes como se informó.' },
+        { q: '¿La imagen está pintada?', a: 'El equipo científico de 1978 (STURP) concluyó que no es una pintura: no encontró pigmento que formara la imagen, ni pinceladas, ni aglutinante. El microscopista Walter McCrone no estuvo de acuerdo y reportó óxido de hierro y otros materiales. La mayoría de los estudios posteriores dieron la razón a STURP sobre la imagen, aunque aceptan que en la tela hay partículas diminutas de muchos materiales.' },
+        { q: '¿Por qué la imagen es un negativo?', a: 'En la tela, la luz y la sombra están invertidas respecto a una imagen normal, así que un negativo fotográfico de ella parece un retrato natural. Lo descubrió Secondo Pia en 1898. Los escépticos señalan que las imágenes hechas por contacto con un relieve también salen invertidas.' },
+        { q: '¿Qué dice la Iglesia católica?', a: 'La Iglesia nunca ha declarado oficialmente que la Sábana Santa sea auténtica, y no obliga a nadie a creerlo. Los papas recientes la han llamado un ícono del sufrimiento de Cristo y han orado ante ella. La Santa Sede es su dueña desde 1983, y el arzobispo de Turín es su custodio.' },
+        { q: '¿Puedo verla en persona?', a: 'Se guarda en la catedral de San Juan Bautista, en Turín, en una urna con clima controlado, y por lo general no está expuesta al público. Se muestra en exposiciones públicas poco frecuentes, como las de 2010 y 2015, y en una transmisión en vivo en 2020.' }
       ],
-      pathsH: 'Where to go next',
+      pathsH: 'A dónde ir ahora',
       paths: [
-        { slug: 'evidence', h: 'If you doubt it', t: 'Start with the case file. Every argument, for and against, rated by strength.' },
-        { slug: 'explore', h: 'If you want to see it', t: 'Zoom into the whole cloth, switch to negative, and find each mark.' },
-        { slug: 'library', h: 'If you want to go deep', t: 'Hundreds of papers and studies, searchable, with links to the originals.' },
-        { slug: 'about', h: 'If you are wondering who made this', t: 'Why this site exists, how we rate evidence, and image credits.' }
+        { slug: 'evidence', h: 'Si tienes dudas', t: 'Empieza por el expediente. Cada argumento, a favor y en contra, calificado según su fuerza.' },
+        { slug: 'explore', h: 'Si quieres verla', t: 'Acércate a la tela completa, cambia al negativo y encuentra cada marca.' },
+        { slug: 'library', h: 'Si quieres profundizar', t: 'Cientos de artículos y estudios, con buscador y enlaces a los originales.' },
+        { slug: 'about', h: 'Si te preguntas quién hizo esto', t: 'Por qué existe este sitio, cómo calificamos la evidencia y los créditos de las imágenes.' }
       ]
     },
 
     explore: {
-      title: 'Explore the Shroud of Turin in High Resolution | Unless I See',
-      description: 'Zoom into the full Shroud of Turin, switch to the photographic negative, enhance the image, and find each wound, burn and patch, with explanations.',
-      h1: 'Explore the cloth',
-      lede: 'This is the whole Shroud, front and back image, head to head. Drag to move, scroll or pinch to zoom. Switch to the negative to see what Secondo Pia saw in 1898. The numbered marks explain what you are looking at.',
-      imgAlt: 'The full Shroud of Turin, front and back image',
-      ui: { tools: 'Viewing tools', negative: 'Negative', enhance: 'Enhance', layerWounds: 'Wounds', layerDamage: 'Fire and water', layerLinen: 'The linen', tour: 'Guided tour', fit: 'Whole cloth', zoomIn: 'Zoom in', zoomOut: 'Zoom out', help: 'Drag to move. Scroll or pinch to zoom. Press N for negative.', close: 'Close', prev: 'Previous', next: 'Next', more: 'Read more', skeptic: 'The skeptic\'s answer' },
-      reliefH: 'The image in 3D',
-      reliefText: `<p>When you turn the brightness of a normal photograph into height, you get a distorted mess: the nose sinks, the shadows rise, the background bulges. When you do the same with the Shroud, you get a coherent face and body. Compare them yourself. Both views below use exactly the same method.</p>`,
-      reliefFaceAlt: '3D relief of the face on the Shroud', reliefFaceCap: 'The Shroud face, brightness turned into height.',
-      reliefPaintAlt: '3D relief of a painted face using the same method', reliefPaintCap: 'A painted face, same method. Painting: Head of Christ, public domain.',
-      reliefBodyAlt: '3D relief of the full front image of the Shroud', reliefBodyCap: 'The full front image in relief. Turn it to see the shape of the body.',
-      reliefSkeptic: 'Fair warning: our 3D views are a simple re-creation of the VP-8 idea, smoothed for the web. They show the principle. They are not a scientific measurement.',
-      photosH: 'About these photographs',
-      photosText: `<p>The full-cloth images here are public domain photographs. The finest photographs of the Shroud, taken by Barrie Schwortz for the 1978 scientific team, and the very high resolution scans from 2002 and 2008, are protected by copyright. You can see many of them at <a href="https://www.shroud.com/" target="_blank" rel="noopener">shroud.com</a> and <a href="https://shroudphotos.com/" target="_blank" rel="noopener">shroudphotos.com</a>. We have asked for permission to show them here.</p>`
+      title: 'Explora la Sábana Santa de Turín en alta resolución | Si no veo',
+      description: 'Acércate a toda la Sábana Santa de Turín, cambia al negativo fotográfico, realza la imagen y encuentra cada herida, quemadura y remiendo, con explicaciones.',
+      h1: 'Explora la tela',
+      lede: 'Esta es la Sábana Santa completa, imagen frontal y dorsal, cabeza con cabeza. Arrastra para moverte, usa la rueda o pellizca para acercar. Cambia al negativo para ver lo que vio Secondo Pia en 1898. Las marcas numeradas explican lo que estás viendo.',
+      imgAlt: 'La Sábana Santa de Turín completa, imagen frontal y dorsal',
+      ui: { tools: 'Herramientas de visualización', negative: 'Negativo', enhance: 'Realzar', layerWounds: 'Heridas', layerDamage: 'Fuego y agua', layerLinen: 'El lino', tour: 'Recorrido guiado', fit: 'Tela completa', zoomIn: 'Acercar', zoomOut: 'Alejar', help: 'Arrastra para moverte. Usa la rueda o pellizca para acercar. Presiona N para ver el negativo.', close: 'Cerrar', prev: 'Anterior', next: 'Siguiente', more: 'Leer más', skeptic: 'La respuesta escéptica' },
+      reliefH: 'La imagen en 3D',
+      reliefText: `<p>Cuando conviertes el brillo de una fotografía normal en altura, obtienes un desorden deformado: la nariz se hunde, las sombras se elevan, el fondo se abomba. Cuando haces lo mismo con la Sábana Santa, obtienes un rostro y un cuerpo coherentes. Compáralos tú mismo. Las dos vistas de abajo usan exactamente el mismo método.</p>`,
+      reliefFaceAlt: 'Relieve 3D del rostro de la Sábana Santa', reliefFaceCap: 'El rostro de la Sábana Santa, con el brillo convertido en altura.',
+      reliefPaintAlt: 'Relieve 3D de un rostro pintado, con el mismo método', reliefPaintCap: 'Un rostro pintado, con el mismo método. Pintura: Cabeza de Cristo, dominio público.',
+      reliefBodyAlt: 'Relieve 3D de la imagen frontal completa de la Sábana Santa', reliefBodyCap: 'La imagen frontal completa en relieve. Gírala para ver la forma del cuerpo.',
+      reliefSkeptic: 'Una advertencia justa: nuestras vistas en 3D son una recreación sencilla de la idea del VP-8, suavizada para la web. Muestran el principio. No son una medición científica.',
+      photosH: 'Sobre estas fotografías',
+      photosText: `<p>Las imágenes de la tela completa que ves aquí son fotografías de dominio público. Las mejores fotografías de la Sábana Santa, tomadas por Barrie Schwortz para el equipo científico de 1978, y los escaneos de altísima resolución de 2002 y 2008, están protegidos por derechos de autor. Puedes ver muchos de ellos en <a href="https://www.shroud.com/" target="_blank" rel="noopener">shroud.com</a> y <a href="https://shroudphotos.com/" target="_blank" rel="noopener">shroudphotos.com</a>. Hemos pedido permiso para mostrarlos aquí.</p>`
     },
 
     evidence: {
-      title: 'Shroud of Turin Evidence, For and Against | Unless I See',
-      description: 'Every major argument about the Shroud of Turin, for and against authenticity, rated by strength, with the skeptic\'s best answer and links to the sources.',
-      h1: 'The case file',
-      lede: 'Every major argument about the Shroud, for and against. Each one is rated by how strong it is, with the best objection, the best reply and the sources. We include the arguments against authenticity at full strength, because you should hear them from us first.',
-      counts: '{n} exhibits: {f} pointing toward authenticity, {a} pointing toward a medieval origin.',
-      method: 'How we rate: Strong means the facts are well documented and the inference is hard to avoid. Moderate means real evidence with a fair objection. Weak means suggestive at best. Disputed means serious researchers disagree about the facts themselves. Debunked means it should not be used. We rate claims on both sides with the same rules.',
-      filterLean: 'Filter by direction', filterCat: 'Filter by topic',
-      weighH: 'Weigh it yourself',
-      weighText: `<p>Start with your prior: before any evidence, how likely is it that a cloth like this is the real burial cloth of Jesus? Then, for each item, decide how much more likely you would be to see that evidence if the cloth were authentic than if it were a medieval work. Move a slider right if the evidence fits authenticity better, left if it fits a medieval origin better.</p>
-<p>This is Bayes' rule, the standard way to combine evidence. Try the skeptic and believer presets to see how far apart two reasonable people can start, and where the evidence moves them.</p>`,
+      title: 'Evidencia sobre la Sábana Santa de Turín, a favor y en contra | Si no veo',
+      description: 'Cada argumento importante sobre la Sábana Santa de Turín, a favor y en contra de su autenticidad, calificado según su fuerza, con la mejor respuesta escéptica y enlaces a las fuentes.',
+      h1: 'El expediente',
+      lede: 'Cada argumento importante sobre la Sábana Santa, a favor y en contra. Cada uno está calificado según su fuerza, con la mejor objeción, la mejor réplica y las fuentes. Incluimos los argumentos contra la autenticidad con toda su fuerza, porque debes escucharlos primero de nosotros.',
+      counts: '{n} pruebas: {f} apuntan a la autenticidad y {a} apuntan a un origen medieval.',
+      method: 'Cómo calificamos: Sólida significa que los hechos están bien documentados y que la conclusión es difícil de evitar. Moderada significa evidencia real con una objeción razonable. Débil significa, como mucho, algo sugerente. Disputada significa que investigadores serios no se ponen de acuerdo sobre los hechos mismos. Descartada significa que no se debe usar. Calificamos las afirmaciones de ambos lados con las mismas reglas.',
+      filterLean: 'Filtrar por dirección', filterCat: 'Filtrar por tema',
+      weighH: 'Pésalo tú mismo',
+      weighText: `<p>Empieza por tu punto de partida: antes de ver cualquier evidencia, ¿qué tan probable es que una tela como esta sea la verdadera mortaja de Jesús? Luego, para cada elemento, decide cuánto más probable sería ver esa evidencia si la tela fuera auténtica que si fuera una obra medieval. Mueve el control hacia la derecha si la evidencia encaja mejor con la autenticidad, y hacia la izquierda si encaja mejor con un origen medieval.</p>
+<p>Esta es la regla de Bayes, la forma estándar de combinar evidencia. Prueba los ajustes del escéptico y del creyente para ver qué tan lejos pueden empezar dos personas razonables, y hacia dónde las mueve la evidencia.</p>`,
       wui: {
-        neutral: 'Reset to neutral', skeptic: 'A skeptic\'s settings', believer: 'A believer\'s settings',
-        prior: 'Your starting point (prior odds)', priorHelp: 'Most medieval relics were not what they claimed to be, so a low starting point is reasonable.',
-        result: 'Your result: chance the cloth is authentic', medieval: 'Medieval', authentic: 'Authentic',
-        noEffect: 'No effect',
-        favorsA: '{x} times more likely if authentic', favorsM: '{x} times more likely if medieval',
-        oddsFor: 'Odds: {x} to 1 for authenticity', oddsAgainst: 'Odds: 1 in {x}',
-        caveat: 'This treats each item as independent, which is a simplification. Some items are linked, for example several depend on the same photographs. The calculator shows how your judgments combine. It does not replace them.'
+        neutral: 'Volver a neutral', skeptic: 'Ajustes de un escéptico', believer: 'Ajustes de un creyente',
+        prior: 'Tu punto de partida (probabilidad previa)', priorHelp: 'La mayoría de las reliquias medievales no eran lo que decían ser, así que un punto de partida bajo es razonable.',
+        result: 'Tu resultado: probabilidad de que la tela sea auténtica', medieval: 'Medieval', authentic: 'Auténtica',
+        noEffect: 'Sin efecto',
+        favorsA: '{x} veces más probable si es auténtica', favorsM: '{x} veces más probable si es medieval',
+        oddsFor: 'Probabilidad: {x} a 1 a favor de la autenticidad', oddsAgainst: 'Probabilidad: 1 entre {x}',
+        caveat: 'Esto trata cada elemento como independiente, lo cual es una simplificación. Algunos elementos están relacionados; por ejemplo, varios dependen de las mismas fotografías. La calculadora muestra cómo se combinan tus juicios. No los reemplaza.'
       }
     },
 
     wounds: {
-      title: 'The Wounds on the Shroud of Turin and the Gospels | Unless I See',
-      description: 'Each wound on the Shroud of Turin, from the scourge marks to the nail in the wrist and the side wound, shown on the cloth next to the Gospel text that describes it.',
-      h1: 'The wounds, and what the Gospels say',
-      lede: 'Click a number on the cloth or a wound in the list. Each mark is explained the way forensic pathologists describe it, next to the Gospel verse it corresponds to, and the skeptic\'s note where there is one.',
-      front: 'Front', back: 'Back', alt_front: 'Front image of the man on the Shroud, negative view', alt_back: 'Back image of the man on the Shroud, negative view',
-      figNote: 'Positions are approximate. Negative view, where the blood marks appear light.',
-      intro: '<p>A Roman crucifixion was a public execution meant to humiliate. The Gospels describe the one that matters here in plain detail. The cloth records an execution with the same features, including some that medieval art got wrong.</p>',
-      after: `<h2>Why this matters</h2>
-<p>A forger in the 1300s would have to know details that his own culture did not know or did not show: that nails went through the wrist, that a Roman flagrum left dumbbell-shaped marks, that blood from a dead body separates into clot and serum. Skeptics answer that some of these details are disputed, and that the blood marks themselves have been studied with mixed results. Both sides are in the <a href="evidence.html">case file</a>.</p>`
+      title: 'Las heridas de la Sábana Santa de Turín y los Evangelios | Si no veo',
+      description: 'Cada herida de la Sábana Santa de Turín, desde las marcas del flagelo hasta el clavo en la muñeca y la herida del costado, mostrada en la tela junto al texto del Evangelio que la describe.',
+      h1: 'Las heridas, y lo que dicen los Evangelios',
+      lede: 'Haz clic en un número sobre la tela o en una herida de la lista. Cada marca se explica como la describen los patólogos forenses, junto al versículo del Evangelio al que corresponde y, cuando la hay, la nota del escéptico.',
+      front: 'Frente', back: 'Espalda', alt_front: 'Imagen frontal del hombre de la Sábana Santa, vista en negativo', alt_back: 'Imagen dorsal del hombre de la Sábana Santa, vista en negativo',
+      figNote: 'Las posiciones son aproximadas. Vista en negativo, donde las marcas de sangre se ven claras.',
+      intro: '<p>Una crucifixión romana era una ejecución pública pensada para humillar. Los Evangelios describen con detalle sencillo la que aquí importa. La tela registra una ejecución con los mismos rasgos, incluidos algunos que el arte medieval representó mal.</p>',
+      after: `<h2>Por qué importa</h2>
+<p>Un falsificador del siglo XIV habría tenido que conocer detalles que su propia cultura no conocía o no mostraba: que los clavos atravesaban la muñeca, que un flagrum romano dejaba marcas en forma de pesa, que la sangre de un cuerpo muerto se separa en coágulo y suero. Los escépticos responden que algunos de estos detalles están en disputa, y que las propias marcas de sangre se han estudiado con resultados mixtos. Ambos lados están en el <a href="evidence.html">expediente</a>.</p>`
     },
 
     dating: {
-      title: 'Shroud of Turin Carbon Dating: 1988 Results and the Debate | Unless I See',
-      description: 'The 1988 radiocarbon dating of the Shroud of Turin gave AD 1260 to 1390. See all 12 lab measurements, where the sample came from, the raw data reanalyses and other dating methods.',
-      h1: 'The carbon dating',
-      lede: 'This is the strongest single argument that the Shroud is medieval, and it deserves a careful look. Here is what was done, what was found, what critics have found since, and what it does and does not prove.',
-      compareH: 'Every date ever proposed, on one line',
-      chartNote: 'Red: the 1988 radiocarbon result at 95% confidence. Hatched green: other methods, all applied to loose fibres of uncertain origin and none of them established dating techniques. The circle marks the X-ray study, which compared one thread with first-century linen and did not produce a date range. Hover or tap any bar for the details.',
-      labsH: 'The twelve measurements behind the date',
-      labsText: 'Each line is one published measurement, with its stated error. The shaded band is the combined weighted mean, 689 plus or minus 16 radiocarbon years. Notice how Oxford sits apart from Arizona. That spread is what later statisticians questioned.',
-      body: `<h2>What was done</h2>
-<p>On 21 April 1988, in the sacristy of Turin Cathedral, textile expert Giovanni Riggi cut a single strip from one corner of the cloth, at the edge near the feet of the front image, just above where a sample had been removed in 1973. Pieces of about 50 milligrams went to three laboratories using accelerator mass spectrometry: the University of Arizona, Oxford University and ETH Zurich. Each lab also received three control samples of known age, without being told which was which.</p>
-<p>The controls came out right: linen from a Nubian tomb, linen from a second-century mummy, and threads from a 13th-century cope were all dated correctly. The Shroud samples came out at 689 radiocarbon years before 1950, plus or minus 16. Converted to calendar years, that is AD 1262 to 1312 or AD 1353 to 1384, published rounded as AD 1260 to 1390. The paper in Nature, signed by 21 scientists, called this conclusive evidence that the linen is medieval.</p>
-<h2>Why it matters so much</h2>
-<p>Radiocarbon dating is a mature, well-tested method. The controls worked. And the date lands exactly where the documented history begins: the cloth appears in Lirey, France, in the 1350s, and a bishop wrote in 1389 that an artist had confessed to painting it. For many scientists, that coincidence closed the case.</p>`,
-      sampleH: 'One strip, one corner',
-      sampleText: `<p>Every result came from a single strip, about 7 to 8 centimeters long, cut from one corner. That corner had been handled for centuries during public showings, and lies near old seams and repairs. The original plan agreed with the Vatican in 1986 called for seven laboratories and several sampling sites. It was cut down to three labs and one site.</p>
-<p>Critics say a single corner cannot speak for a 4.4 meter cloth. Defenders reply that the labs examined the sample under the microscope, that it looked like the main cloth, and that two later examinations of leftover Arizona fragments, in 2010 and again in 2026, found no dye, no coating and no sign of a repair.</p>`,
-      sampleAlt: 'The corner of the Shroud where the 1988 sample was cut', sampleCap: 'The sample corner (approximate), at the feet end of the front image. Enrie 1931 photograph.',
-      debateH: 'Why critics question it',
-      defenseH: 'Why it is still the strongest argument against',
-      debateFor: `<p>The results do not agree with each other as well as the paper implied. The three lab means fail a standard consistency test, and the authors reported a chi-squared value of 6.4, just past the 5% threshold. In 2017 the raw data were released after a legal request, and in 2019 a team led by Tristan Casabianca published a reanalysis in Archaeometry. Their consistency test gave 15.99 against a critical value of 5.99, and they concluded the samples were not homogeneous.</p>
-<p>Statisticians Marco Riani and colleagues (2013) found that the measured age drifts along the length of the strip, as if something varies across the sample. Other researchers suggested a medieval reweave, contamination, or fire damage from 1532.</p>`,
-      debateAgainst: `<p>None of these critiques points to the first century. The largest correction anyone has proposed in a peer-reviewed paper is 88 radiocarbon years (Walsh and Schwalbe, 2020), which still leaves the cloth medieval. Every specific mechanism offered to explain the date away, such as fire, bacteria, carbon monoxide or a burst of neutrons, has either failed a test or cannot be tested.</p>
-<p>The repair theory, once popular, is weaker than it was in 2005: the leftover fragments studied in 2010 and 2026 showed no dye or reweaving. In short, the reanalyses show the 1988 test was smaller and less clean than it claimed. They do not show the date is wrong.</p>`,
-      verdict: `<h2>Our honest summary</h2>
-<p>The radiocarbon date says medieval, and it is the best single piece of evidence anyone has. The 1988 test also had real design flaws: one strip, one corner, three labs, and results that do not sit together as neatly as reported. That justifies a new test, with several samples from several places on the cloth, done openly. It does not justify ignoring the result.</p>
-<p>If you are a skeptic, this is your strongest card, and you should hold it. If you believe the cloth is authentic, this is the question you have to answer honestly. Either way, the rest of the evidence still has to be explained, starting with <a href="image.html">how the image was made</a>.</p>`
+      title: 'Datación por radiocarbono de la Sábana Santa de Turín: los resultados de 1988 y el debate | Si no veo',
+      description: 'La datación por radiocarbono de 1988 dio para la Sábana Santa de Turín de 1260 a 1390 d. C. Mira las 12 mediciones de los laboratorios, de dónde salió la muestra, los nuevos análisis de los datos originales y otros métodos de datación.',
+      h1: 'La prueba del carbono 14',
+      lede: 'Este es el argumento individual más fuerte de que la Sábana Santa es medieval, y merece una mirada cuidadosa. Aquí está lo que se hizo, lo que se encontró, lo que los críticos han encontrado desde entonces y lo que prueba y no prueba.',
+      compareH: 'Todas las fechas propuestas, en una sola línea',
+      chartNote: 'En rojo: el resultado del radiocarbono de 1988, con un 95% de confianza. En verde rayado: otros métodos, todos aplicados a fibras sueltas de origen incierto y ninguno de ellos una técnica de datación establecida. El círculo marca el estudio con rayos X, que comparó un hilo con lino del siglo I y no produjo un rango de fechas. Pasa el cursor o toca cualquier barra para ver los detalles.',
+      labsH: 'Las doce mediciones detrás de la fecha',
+      labsText: 'Cada línea es una medición publicada, con su margen de error declarado. La franja sombreada es la media ponderada combinada: 689 más o menos 16 años de radiocarbono. Fíjate en cómo Oxford queda aparte de Arizona. Esa dispersión es lo que después cuestionaron los estadísticos.',
+      body: `<h2>Qué se hizo</h2>
+<p>El 21 de abril de 1988, en la sacristía de la catedral de Turín, el experto en textiles Giovanni Riggi cortó una sola tira de una esquina de la tela, en el borde cerca de los pies de la imagen frontal, justo encima de donde se había retirado una muestra en 1973. Trozos de unos 50 miligramos fueron a tres laboratorios que usaban espectrometría de masas con acelerador: la Universidad de Arizona, la Universidad de Oxford y el ETH de Zúrich. Cada laboratorio recibió además tres muestras de control de edad conocida, sin que se le dijera cuál era cuál.</p>
+<p>Los controles salieron bien: lino de una tumba de Nubia, lino de una momia del siglo II e hilos de una capa pluvial del siglo XIII se dataron correctamente. Las muestras de la Sábana Santa dieron 689 años de radiocarbono antes de 1950, más o menos 16. En años de calendario, eso es de 1262 a 1312 d. C. o de 1353 a 1384 d. C., publicado redondeado como de 1260 a 1390 d. C. El artículo en Nature, firmado por 21 científicos, lo llamó evidencia concluyente de que el lino es medieval.</p>
+<h2>Por qué importa tanto</h2>
+<p>La datación por radiocarbono es un método maduro y bien probado. Los controles funcionaron. Y la fecha cae justo donde comienza la historia documentada: la tela aparece en Lirey, Francia, en la década de 1350, y un obispo escribió en 1389 que un artista había confesado haberla pintado. Para muchos científicos, esa coincidencia cerró el caso.</p>`,
+      sampleH: 'Una tira, una esquina',
+      sampleText: `<p>Todos los resultados salieron de una sola tira, de unos 7 a 8 centímetros de largo, cortada de una esquina. Esa esquina había sido manipulada durante siglos en las exposiciones públicas, y está cerca de costuras y reparaciones antiguas. El plan original, acordado con el Vaticano en 1986, contemplaba siete laboratorios y varios puntos de muestreo. Se redujo a tres laboratorios y un solo punto.</p>
+<p>Los críticos dicen que una sola esquina no puede representar a una tela de 4,4 metros. Los defensores responden que los laboratorios examinaron la muestra al microscopio, que se veía igual que la tela principal, y que dos exámenes posteriores de fragmentos sobrantes de Arizona, en 2010 y de nuevo en 2026, no encontraron tinte, ni recubrimiento, ni señales de reparación.</p>`,
+      sampleAlt: 'La esquina de la Sábana Santa donde se cortó la muestra de 1988', sampleCap: 'La esquina de la muestra (aproximada), en el extremo de los pies de la imagen frontal. Fotografía de Enrie, 1931.',
+      debateH: 'Por qué los críticos la cuestionan',
+      defenseH: 'Por qué sigue siendo el argumento más fuerte en contra',
+      debateFor: `<p>Los resultados no concuerdan entre sí tan bien como dio a entender el artículo. Las medias de los tres laboratorios no pasan una prueba estándar de coherencia, y los autores reportaron un valor de chi cuadrado de 6,4, apenas por encima del umbral del 5%. En 2017 se liberaron los datos originales tras una solicitud legal, y en 2019 un equipo dirigido por Tristan Casabianca publicó un nuevo análisis en Archaeometry. Su prueba de coherencia dio 15,99 frente a un valor crítico de 5,99, y concluyeron que las muestras no eran homogéneas.</p>
+<p>El estadístico Marco Riani y sus colegas (2013) encontraron que la edad medida cambia a lo largo de la tira, como si algo variara a través de la muestra. Otros investigadores sugirieron un remiendo medieval, contaminación o daños del incendio de 1532.</p>`,
+      debateAgainst: `<p>Ninguna de estas críticas apunta al siglo I. La mayor corrección que alguien ha propuesto en un artículo revisado por pares es de 88 años de radiocarbono (Walsh y Schwalbe, 2020), y con eso la tela sigue siendo medieval. Cada mecanismo concreto que se ha ofrecido para descartar la fecha, como el fuego, las bacterias, el monóxido de carbono o un estallido de neutrones, o falló en una prueba o no se puede probar.</p>
+<p>La teoría del remiendo, popular en su momento, es más débil que en 2005: los fragmentos sobrantes estudiados en 2010 y 2026 no mostraron tinte ni remiendos. En resumen, los nuevos análisis muestran que la prueba de 1988 fue más pequeña y menos limpia de lo que afirmó. No muestran que la fecha esté equivocada.</p>`,
+      verdict: `<h2>Nuestro resumen honesto</h2>
+<p>La fecha del radiocarbono dice medieval, y es la mejor prueba individual que alguien tiene. La prueba de 1988 también tuvo fallas reales de diseño: una tira, una esquina, tres laboratorios y resultados que no encajan entre sí tan bien como se informó. Eso justifica una nueva prueba, con varias muestras de varios lugares de la tela, hecha de forma abierta. No justifica ignorar el resultado.</p>
+<p>Si eres escéptico, esta es tu carta más fuerte, y debes conservarla. Si crees que la tela es auténtica, esta es la pregunta que tienes que responder con honestidad. En cualquier caso, el resto de la evidencia todavía necesita una explicación, empezando por <a href="image.html">cómo se formó la imagen</a>.</p>`
     },
 
     image: {
-      title: 'How Was the Image on the Shroud of Turin Made? | Unless I See',
-      description: 'Paint, scorch, rubbing, early photography, a chemical reaction or a burst of light? Every hypothesis for the Shroud of Turin image, with what it explains and where it fails.',
-      h1: 'How was the image made?',
-      lede: 'This is the deepest open question about the Shroud. Any explanation, natural or not, has to account for a list of very strange properties. Here they are, followed by every major hypothesis and its problems.',
-      propsH: 'What any explanation must account for',
-      propsLede: 'These are the properties reported by the scientific teams that studied the cloth directly. Some are disputed in detail. Together, they are why no one has reproduced the image in every respect.',
-      hypH: 'The hypotheses',
-      hypLede: 'Ordered roughly from the most natural to the least. Each one is rated by how well it fits the properties above.',
+      title: '¿Cómo se formó la imagen de la Sábana Santa de Turín? | Si no veo',
+      description: '¿Pintura, quemadura, frotado, fotografía primitiva, una reacción química o un estallido de luz? Todas las hipótesis sobre la imagen de la Sábana Santa de Turín, con lo que explican y dónde fallan.',
+      h1: '¿Cómo se formó la imagen?',
+      lede: 'Esta es la pregunta abierta más profunda sobre la Sábana Santa. Cualquier explicación, natural o no, tiene que dar cuenta de una lista de propiedades muy extrañas. Aquí están, seguidas de cada hipótesis importante y sus problemas.',
+      propsH: 'Lo que cualquier explicación debe explicar',
+      propsLede: 'Estas son las propiedades que reportaron los equipos científicos que estudiaron la tela directamente. Algunas están en disputa en sus detalles. Juntas, son la razón por la que nadie ha reproducido la imagen en todos sus aspectos.',
+      hypH: 'Las hipótesis',
+      hypLede: 'Ordenadas, más o menos, de la más natural a la menos natural. Cada una está calificada según qué tan bien encaja con las propiedades de arriba.',
       props: [
-        { n: '0.2 µm', t: 'The color sits only on the outermost layer of the top fibers. A hair is about 70 µm thick.' },
-        { n: 'No paint', t: 'No pigment, binder or brush strokes form the image, according to the 1978 team.' },
-        { n: 'Negative', t: 'Light and dark are reversed, so the photographic negative looks natural.' },
-        { n: '3D', t: 'Image darkness tracks cloth-to-body distance, so it can be turned into a relief.' },
-        { n: 'Blood first?', t: 'Tests found no body image under the blood stains, which most researchers read as blood first, image second. A 2026 paper argues this does not settle the order.' },
-        { n: 'No glow', t: 'Under ultraviolet light the 1532 scorches glow and the body image does not. It is not a simple scorch.' },
-        { n: 'Gaps too', t: 'Some image areas were not touching the body, such as between nose and cheek. It is not only a contact print.' },
-        { n: 'Half-tone', t: 'Each image fiber is either colored or not. Darker areas just have more colored fibers, like a newspaper photo.' }
+        { n: '0,2 µm', t: 'El color está solo en la capa más externa de las fibras superiores. Un cabello mide unos 70 µm de grosor.' },
+        { n: 'Sin pintura', t: 'Ningún pigmento, aglutinante ni pincelada forma la imagen, según el equipo de 1978.' },
+        { n: 'Negativo', t: 'La luz y la sombra están invertidas, así que el negativo fotográfico se ve natural.' },
+        { n: '3D', t: 'Lo oscuro de la imagen corresponde a la distancia entre la tela y el cuerpo, así que se puede convertir en un relieve.' },
+        { n: '¿Primero la sangre?', t: 'Las pruebas no encontraron imagen del cuerpo bajo las manchas de sangre, lo que la mayoría de los investigadores interpreta como primero la sangre y después la imagen. Un artículo de 2026 sostiene que esto no resuelve el orden.' },
+        { n: 'Sin brillo', t: 'Bajo la luz ultravioleta, las quemaduras de 1532 brillan y la imagen del cuerpo no. No es una simple quemadura.' },
+        { n: 'También huecos', t: 'Algunas zonas de la imagen no estaban en contacto con el cuerpo, como entre la nariz y la mejilla. No es solo una impresión por contacto.' },
+        { n: 'Semitono', t: 'Cada fibra de la imagen está coloreada o no lo está. Las zonas más oscuras solo tienen más fibras coloreadas, como una foto de periódico.' }
       ],
       hypotheses: [
-        { kind: 'Art', name: 'A painting', strength: 'weak',
-          text: 'Microscopist Walter McCrone reported iron oxide and vermilion particles and concluded in 1980 that the image was painted by a medieval artist, possibly using a thin watercolor.',
-          problems: 'The STURP team, using X-ray fluorescence, spectroscopy and chemistry on the cloth itself, found no pigment forming the image and no binder, and concluded it is not a painting. Paint would soak between threads; the image does not. Particles of many materials exist on the cloth, plausibly from artists who pressed copies of their paintings against it, as was done for centuries.',
-          sources: [{ label: 'Schwalbe and Rogers 1982, Analytica Chimica Acta', url: 'https://www.shroud.com/pdfs/Schwalbe%20and%20Rogers%201982.pdf' }, { label: 'STURP final summary, 1981', url: 'https://www.shroud.com/78conclu.htm' }] },
-        { kind: 'Heat', name: 'A scorch from a heated statue', strength: 'weak',
-          text: 'A metal statue or relief, heated and covered with the cloth, would leave a brownish, tonally reversed scorch with some depth information.',
-          problems: 'Scorches glow reddish under ultraviolet light. The real scorches from the 1532 fire do, and the body image does not. A hot object would also scorch through the cloth and could not color areas it did not touch.',
-          sources: [{ label: 'STURP final summary, 1981', url: 'https://www.shroud.com/78conclu.htm' }] },
-        { kind: 'Contact', name: 'Powder or acid rubbed over a relief', strength: 'disputed',
-          text: 'Joe Nickell in the 1980s, and chemist Luigi Garlaschelli in 2009, made full-size images by rubbing pigment or acid onto linen laid over a person or a bas-relief, then aging the cloth. The results are negative and carry some 3D information. In 2025, Cicero Moraes argued from 3D simulation that the image fits a low relief better than a full body.',
-          problems: 'Defenders answer that these copies are visible to the naked eye in ways the Shroud is not, that their color penetrates the fibers rather than staying on the outer 0.2 µm, that they leave material behind, and that they do not explain why the blood came first. Supporters reply that aging and washing over centuries could close part of that gap.',
-          sources: [{ label: 'Garlaschelli 2010, Journal of Imaging Science and Technology', url: 'https://www.imaging.org/common/uploaded%20files/pdfs/Papers/2010/JIST/JIST0040301.pdf' }, { label: 'Wikipedia: Shroud of Turin, image analysis', url: 'https://en.wikipedia.org/wiki/Shroud_of_Turin' }] },
-        { kind: 'Optics', name: 'Medieval proto-photography', strength: 'weak',
-          text: 'Art historian Nicholas Allen proposed in the 1990s that a medieval workshop used a camera obscura with a quartz lens and linen treated with silver salts to "photograph" a corpse or statue.',
-          problems: 'There is no historical record of such a technology for another 450 years, no silver residue has been found in the image, and a photograph would not encode cloth-to-body distance the way the Shroud does.',
+        { kind: 'Arte', name: 'Una pintura', strength: 'weak',
+          text: 'El microscopista Walter McCrone reportó partículas de óxido de hierro y bermellón, y concluyó en 1980 que la imagen la pintó un artista medieval, quizá con una acuarela diluida.',
+          problems: 'El equipo de STURP, usando fluorescencia de rayos X, espectroscopia y química sobre la tela misma, no encontró pigmento que formara la imagen ni aglutinante, y concluyó que no es una pintura. La pintura se filtraría entre los hilos; la imagen no lo hace. En la tela hay partículas de muchos materiales, probablemente de artistas que presionaron copias de sus pinturas contra ella, como se hizo durante siglos.',
+          sources: [{ label: 'Schwalbe y Rogers 1982, Analytica Chimica Acta', url: 'https://www.shroud.com/pdfs/Schwalbe%20and%20Rogers%201982.pdf' }, { label: 'Resumen final de STURP, 1981', url: 'https://www.shroud.com/78conclu.htm' }] },
+        { kind: 'Calor', name: 'Una quemadura con una estatua caliente', strength: 'weak',
+          text: 'Una estatua o un relieve de metal, calentado y cubierto con la tela, dejaría una quemadura parda, con los tonos invertidos y algo de información de profundidad.',
+          problems: 'Las quemaduras brillan con un tono rojizo bajo la luz ultravioleta. Las quemaduras reales del incendio de 1532 lo hacen, y la imagen del cuerpo no. Además, un objeto caliente quemaría la tela de lado a lado y no podría colorear zonas que no tocaba.',
+          sources: [{ label: 'Resumen final de STURP, 1981', url: 'https://www.shroud.com/78conclu.htm' }] },
+        { kind: 'Contacto', name: 'Polvo o ácido frotado sobre un relieve', strength: 'disputed',
+          text: 'Joe Nickell en la década de 1980, y el químico Luigi Garlaschelli en 2009, hicieron imágenes de tamaño real frotando pigmento o ácido sobre un lino colocado encima de una persona o de un bajorrelieve, y luego envejecieron la tela. Los resultados salen en negativo y contienen algo de información en 3D. En 2025, Cicero Moraes argumentó con simulaciones 3D que la imagen encaja mejor con un relieve bajo que con un cuerpo completo.',
+          problems: 'Los defensores responden que estas copias se ven a simple vista de una forma en que la Sábana Santa no se ve, que su color penetra las fibras en vez de quedarse en los 0,2 µm externos, que dejan material encima y que no explican por qué la sangre llegó primero. Quienes apoyan la idea replican que el envejecimiento y los lavados durante siglos podrían cerrar parte de esa brecha.',
+          sources: [{ label: 'Garlaschelli 2010, Journal of Imaging Science and Technology', url: 'https://www.imaging.org/common/uploaded%20files/pdfs/Papers/2010/JIST/JIST0040301.pdf' }, { label: 'Wikipedia: Shroud of Turin, análisis de la imagen', url: 'https://en.wikipedia.org/wiki/Shroud_of_Turin' }] },
+        { kind: 'Óptica', name: 'Protofotografía medieval', strength: 'weak',
+          text: 'El historiador del arte Nicholas Allen propuso en la década de 1990 que un taller medieval usó una cámara oscura con una lente de cuarzo y un lino tratado con sales de plata para "fotografiar" un cadáver o una estatua.',
+          problems: 'No hay registro histórico de una tecnología así sino hasta 450 años después, no se ha encontrado residuo de plata en la imagen, y una fotografía no codificaría la distancia entre la tela y el cuerpo como lo hace la Sábana Santa.',
           sources: [{ label: 'Wikipedia: Shroud of Turin', url: 'https://en.wikipedia.org/wiki/Shroud_of_Turin' }] },
-        { kind: 'Chemistry', name: 'A natural reaction with gases from a body', strength: 'disputed',
-          text: 'Chemist Raymond Rogers, a STURP member, proposed a Maillard reaction: gases released by a dead body react with a thin layer of starch and sugar residues left on the linen by ancient weaving methods, producing a faint yellow color only on the surface.',
-          problems: 'This would explain the superficiality and the lack of paint. It struggles to explain the sharpness and the clean distance coding, since gases spread in all directions, and it requires the body to leave the cloth before decay stains formed. No one has produced a full image this way.',
-          sources: [{ label: 'Rogers and Arnoldi 2003, Melanoidins', url: 'https://www.shroud.com/pdfs/rogers5.pdf' }] },
-        { kind: 'Physics', name: 'A short burst of radiation', strength: 'disputed',
-          text: 'Several physicists suggest the image was caused by a brief, intense burst of energy from the body. ENEA scientists colored linen with ultraviolet laser pulses in a way close to the Shroud. Giulio Fanti proposed a corona discharge. John Jackson proposed that the cloth collapsed through the body as it became mechanically "transparent", recording the image as it fell.',
-          problems: 'There is no known natural source for such radiation from a human body. The energy estimates are enormous. Laser experiments colored only small samples, not an image. Skeptics point out that a hypothesis that requires a miracle cannot be tested like a natural one. Supporters reply that this is exactly why it remains on the table.',
-          sources: [{ label: 'Di Lazzaro and others 2012, ENEA', url: 'https://www.shroud.com/pdfs/dilazzaro2012.pdf' }, { label: 'Jackson 1991, Foundations of Physics', url: 'https://doi.org/10.1007/BF00733262' }] }
+        { kind: 'Química', name: 'Una reacción natural con gases de un cuerpo', strength: 'disputed',
+          text: 'El químico Raymond Rogers, miembro de STURP, propuso una reacción de Maillard: los gases que libera un cuerpo muerto reaccionan con una capa delgada de residuos de almidón y azúcar que dejaron en el lino los métodos antiguos de tejido, y producen un color amarillo tenue solo en la superficie.',
+          problems: 'Esto explicaría lo superficial de la imagen y la ausencia de pintura. Le cuesta explicar la nitidez y la codificación limpia de la distancia, porque los gases se dispersan en todas las direcciones, y exige que el cuerpo saliera de la tela antes de que se formaran manchas de descomposición. Nadie ha producido una imagen completa de esta manera.',
+          sources: [{ label: 'Rogers y Arnoldi 2003, Melanoidins', url: 'https://www.shroud.com/pdfs/rogers5.pdf' }] },
+        { kind: 'Física', name: 'Un breve estallido de radiación', strength: 'disputed',
+          text: 'Varios físicos sugieren que la imagen se debió a un estallido de energía breve e intenso desde el cuerpo. Científicos de ENEA colorearon lino con pulsos de láser ultravioleta de una forma parecida a la Sábana Santa. Giulio Fanti propuso una descarga de corona. John Jackson propuso que la tela se desplomó a través del cuerpo cuando este se volvió mecánicamente "transparente", y registró la imagen mientras caía.',
+          problems: 'No se conoce ninguna fuente natural de una radiación así en un cuerpo humano. Los cálculos de energía son enormes. Los experimentos con láser colorearon solo muestras pequeñas, no una imagen. Los escépticos señalan que una hipótesis que requiere un milagro no se puede poner a prueba como una natural. Quienes la apoyan responden que justamente por eso sigue sobre la mesa.',
+          sources: [{ label: 'Di Lazzaro y otros 2012, ENEA', url: 'https://www.shroud.com/pdfs/dilazzaro2012.pdf' }, { label: 'Jackson 1991, Foundations of Physics', url: 'https://doi.org/10.1007/BF00733262' }] }
       ],
-      emText: `<p>The animation above shows the hypothesis many people find most compelling: a burst of light from the body, traveling straight up and down, coloring only the surface of the fibers, followed by the cloth falling through. We made it to help you picture the idea. It is a picture of a hypothesis, not a reconstruction of an event and not evidence for it.</p>
-<p>A good test of any explanation, natural or supernatural, is whether it accounts for all eight properties at the top of this page at once. So far, none has been demonstrated in the lab to do so.</p>`,
-      enea: `<h3>The ENEA laser experiments</h3>
-<p>From 2005 to 2010, a team led by Paolo Di Lazzaro at ENEA in Frascati fired ultra-short pulses of ultraviolet light at linen. Within a narrow range of settings, the linen took on a straw-yellow color confined to the outermost surface of the fibers, very close to the Shroud's color and depth. Longer or stronger pulses burned the linen, and weaker ones did nothing.</p>
-<p>Scaling up, they estimated that coloring an area the size of a human body in one go would take about 34 thousand billion watts (34 trillion) of ultraviolet power, far more than any existing ultraviolet source. In their own words, the results do not prove a miracle and do not explain how the image formed. They show how difficult it is to produce this kind of coloring at all.</p>`,
-      emH: 'The light hypothesis, visualized',
-      zoomH: 'How thin is the image?',
-      zoomLede: 'Use the slider to zoom from the whole cloth down to a single fiber. This is the property that defeats most explanations.',
-      gridH: 'Test each explanation',
-      gridLede: 'Here are the six main ideas against the properties above, plus one more question: has anyone made a full image this way?'
+      emText: `<p>La animación de arriba muestra la hipótesis que a muchas personas les parece más convincente: un estallido de luz desde el cuerpo, que viaja en línea recta hacia arriba y hacia abajo, colorea solo la superficie de las fibras, y después la tela cae a través del cuerpo. La hicimos para ayudarte a imaginar la idea. Es la imagen de una hipótesis, no la reconstrucción de un hecho ni una evidencia a su favor.</p>
+<p>Una buena prueba para cualquier explicación, natural o sobrenatural, es si da cuenta de las ocho propiedades del inicio de esta página al mismo tiempo. Hasta ahora, ninguna lo ha logrado en un laboratorio.</p>`,
+      enea: `<h3>Los experimentos con láser de ENEA</h3>
+<p>De 2005 a 2010, un equipo dirigido por Paolo Di Lazzaro en ENEA, en Frascati, disparó pulsos ultracortos de luz ultravioleta sobre lino. Dentro de un rango estrecho de ajustes, el lino tomó un color amarillo pajizo limitado a la superficie más externa de las fibras, muy cercano al color y la profundidad de la Sábana Santa. Los pulsos más largos o más fuertes quemaron el lino, y los más débiles no hicieron nada.</p>
+<p>Al escalar el resultado, calcularon que colorear de una sola vez un área del tamaño de un cuerpo humano requeriría unos 34 billones de vatios (34 millones de millones) de potencia ultravioleta, mucho más que cualquier fuente ultravioleta que exista. En sus propias palabras, los resultados no prueban un milagro y no explican cómo se formó la imagen. Muestran lo difícil que es producir este tipo de coloración.</p>`,
+      emH: 'La hipótesis de la luz, visualizada',
+      zoomH: '¿Qué tan delgada es la imagen?',
+      zoomLede: 'Usa el control para acercarte desde la tela completa hasta una sola fibra. Esta es la propiedad que derrota a la mayoría de las explicaciones.',
+      gridH: 'Pon a prueba cada explicación',
+      gridLede: 'Aquí están las seis ideas principales frente a las propiedades de arriba, más una pregunta adicional: ¿alguien ha hecho una imagen completa de esta manera?'
     },
 
     timeline: {
-      title: 'Shroud of Turin Timeline: History From Lirey to Today | Unless I See',
-      description: 'An interactive timeline of the Shroud of Turin: the hypothesized early history, the documented record since about 1354, the fires, the photographs and the scientific tests.',
-      h1: 'Timeline',
-      lede: 'The documented history of the Shroud starts in France around 1354. Before that, its history is a hypothesis, built from images and texts that may or may not describe this cloth. The timeline keeps the two apart.',
-      tracks: { cloth: 'The cloth', science: 'Science', church: 'Church', world: 'World' },
-      legend: { cloth: 'Documented event', science: 'Scientific study', hyp: 'Hypothesized or legendary' },
-      cert: { documented: 'Documented', probable: 'Probable', hypothesized: 'Hypothesized', legendary: 'Legend' },
-      listH: 'Every event'
+      title: 'Cronología de la Sábana Santa de Turín: su historia desde Lirey hasta hoy | Si no veo',
+      description: 'Una cronología interactiva de la Sábana Santa de Turín: la historia temprana hipotética, el registro documentado desde hacia 1354, los incendios, las fotografías y las pruebas científicas.',
+      h1: 'Cronología',
+      lede: 'La historia documentada de la Sábana Santa comienza en Francia hacia 1354. Antes de eso, su historia es una hipótesis, construida con imágenes y textos que pueden o no describir esta tela. La cronología mantiene separadas las dos cosas.',
+      tracks: { cloth: 'La tela', science: 'Ciencia', church: 'Iglesia', world: 'Mundo' },
+      legend: { cloth: 'Hecho documentado', science: 'Estudio científico', hyp: 'Hipotético o legendario' },
+      cert: { documented: 'Documentado', probable: 'Probable', hypothesized: 'Hipotético', legendary: 'Leyenda' },
+      listH: 'Todos los hechos'
     },
 
     library: {
-      title: 'Shroud of Turin Research Library: Papers and Studies | Unless I See',
-      description: 'A searchable library of research papers, studies and articles on the Shroud of Turin, for and against, with direct links to the originals on shroud.com and journals.',
-      h1: 'Library',
-      lede: 'Every paper and study we could find, most of them from the archive at shroud.com that Barrie Schwortz has kept since 1996. Search by word, filter by topic, and go straight to the original.',
-      search: 'Search titles, authors and journals',
-      count: 'papers shown',
-      peer: 'Peer reviewed',
-      topics: { radiocarbon: 'Carbon dating', blood: 'Blood', 'image-formation': 'Image formation', history: 'History', textile: 'The linen', 'anatomy-medical': 'Medical', 'pollen-botany': 'Pollen and plants', 'photography-imaging': 'Photography', '3d-vp8': '3D', coins: 'Coins', sudarium: 'Sudarium', 'art-history': 'Art history', critique: 'Critiques', overview: 'Overviews', conference: 'Conferences' },
-      stances: { 'pro-authenticity': 'Favors authenticity', skeptical: 'Skeptical', neutral: 'Neutral' },
-      more: `<h2>In memory of Barrie M. Schwortz (1946 to 2024)</h2>
-<p>Barrie Schwortz was the official documenting photographer of the 1978 Shroud of Turin Research Project. He was Jewish, began as a skeptic, and spent the rest of his life making the research available to everyone, for free, at shroud.com. Most of this library exists because he kept it. We dedicate this page to him.</p>
-<p>Want to go further? The <a href="https://www.shroud.com/" target="_blank" rel="noopener">shroud.com archive</a>, the official site of the <a href="https://www.sindone.org/" target="_blank" rel="noopener">Archdiocese of Turin</a>, and Wikipedia's <a href="https://en.wikipedia.org/wiki/Shroud_of_Turin" target="_blank" rel="noopener">Shroud of Turin</a> article, which leans skeptical and is a good test of your conclusions.</p>`
+      title: 'Biblioteca de investigación sobre la Sábana Santa de Turín: artículos y estudios | Si no veo',
+      description: 'Una biblioteca con buscador de artículos científicos, estudios y textos sobre la Sábana Santa de Turín, a favor y en contra, con enlaces directos a los originales en shroud.com y en revistas.',
+      h1: 'Biblioteca',
+      lede: 'Todos los artículos y estudios que pudimos encontrar, la mayoría del archivo de shroud.com que Barrie Schwortz mantuvo desde 1996. Busca por palabra, filtra por tema y ve directo al original.',
+      search: 'Busca títulos, autores y revistas',
+      count: 'artículos mostrados',
+      peer: 'Revisado por pares',
+      topics: { radiocarbon: 'Carbono 14', blood: 'La sangre', 'image-formation': 'Formación de la imagen', history: 'Historia', textile: 'El lino', 'anatomy-medical': 'Medicina', 'pollen-botany': 'Polen y plantas', 'photography-imaging': 'Fotografía', '3d-vp8': '3D', coins: 'Monedas', sudarium: 'Sudario', 'art-history': 'Historia del arte', critique: 'Críticas', overview: 'Panoramas generales', conference: 'Congresos' },
+      stances: { 'pro-authenticity': 'A favor de la autenticidad', skeptical: 'Escéptico', neutral: 'Neutral' },
+      more: `<h2>En memoria de Barrie M. Schwortz (1946 a 2024)</h2>
+<p>Barrie Schwortz fue el fotógrafo oficial de documentación del Shroud of Turin Research Project de 1978. Era judío, empezó como escéptico y dedicó el resto de su vida a poner la investigación al alcance de todos, gratis, en shroud.com. La mayor parte de esta biblioteca existe porque él la conservó. Le dedicamos esta página.</p>
+<p>¿Quieres ir más lejos? El <a href="https://www.shroud.com/" target="_blank" rel="noopener">archivo de shroud.com</a>, el sitio oficial de la <a href="https://www.sindone.org/" target="_blank" rel="noopener">Arquidiócesis de Turín</a> y el artículo de Wikipedia sobre la <a href="https://en.wikipedia.org/wiki/Shroud_of_Turin" target="_blank" rel="noopener">Sábana Santa de Turín</a> (en inglés), que se inclina hacia el escepticismo y es una buena prueba para tus conclusiones.</p>`
     },
 
     about: {
-      title: 'About Unless I See: Why This Site Exists | Unless I See',
-      description: 'Unless I See is a free, non-commercial site about the Shroud of Turin. How we rate evidence, where our images come from, and who built it.',
-      h1: 'About this site',
-      lede: 'Why it exists, how we work, and where everything comes from.',
-      body: `<h2>Why this site exists</h2>
-<p>The Shroud of Turin is either one of the most remarkable forgeries ever made, or the most direct physical trace we have of the death and resurrection of Jesus of Nazareth. Either way, it deserves a better hearing than a ten-second headline. Most of what people find online is written to win: one side shouts "proof", the other shouts "fake". This site is written to inform.</p>
-<p>It is named after Thomas, who refused to believe until he could see the marks of the nails. We think doubt like his is honest, and that it deserves evidence, not pressure.</p>
-<h2>Who made it</h2>
-<p>Unless I See was created by Nelson Inno, a Salvadoran founder, as a free, pro bono project. Full disclosure: Nelson believes the Shroud is authentic. That is exactly why the site holds itself to one rule: the strongest arguments against authenticity are shown at full strength, right next to the arguments for it. If we ever fall short of that, we want to know.</p>
-<h2>How we work</h2>
+      title: 'Acerca de Si no veo: por qué existe este sitio | Si no veo',
+      description: 'Si no veo es un sitio gratuito y sin fines de lucro sobre la Sábana Santa de Turín. Cómo calificamos la evidencia, de dónde vienen nuestras imágenes y quién lo hizo.',
+      h1: 'Acerca de este sitio',
+      lede: 'Por qué existe, cómo trabajamos y de dónde viene todo.',
+      body: `<h2>Por qué existe este sitio</h2>
+<p>La Sábana Santa de Turín es, o una de las falsificaciones más notables jamás hechas, o el rastro físico más directo que tenemos de la muerte y la resurrección de Jesús de Nazaret. En cualquier caso, merece algo mejor que un titular de diez segundos. Casi todo lo que la gente encuentra en internet está escrito para ganar: un lado grita "prueba", el otro grita "falso". Este sitio está escrito para informar.</p>
+<p>Lleva el nombre de Tomás, que se negó a creer hasta poder ver las marcas de los clavos. Creemos que una duda como la suya es honesta, y que merece evidencia, no presión.</p>
+<h2>Quién lo hizo</h2>
+<p>Si no veo fue creado por Nelson Inno, un fundador salvadoreño, como un proyecto gratuito y pro bono. Para ser totalmente transparentes: Nelson cree que la Sábana Santa es auténtica. Justamente por eso el sitio se exige una regla: los argumentos más fuertes contra la autenticidad se muestran con toda su fuerza, justo al lado de los argumentos a favor. Si alguna vez no cumplimos con eso, queremos saberlo.</p>
+<h2>Cómo trabajamos</h2>
 <ul>
-<li>Every factual claim links to a source. Where possible, the source is a peer-reviewed paper or a primary document.</li>
-<li>Arguments on both sides are rated with the same scale: strong, moderate, weak, disputed or debunked.</li>
-<li>Popular claims that do not hold up are labeled as such, even when they would help the case for authenticity.</li>
-<li>Artistic visualizations, like the light animation, are always labeled as visualizations of a hypothesis.</li>
-<li>No ads, no tracking, nothing for sale.</li>
+<li>Cada afirmación sobre hechos enlaza a una fuente. Cuando es posible, la fuente es un artículo revisado por pares o un documento original.</li>
+<li>Los argumentos de ambos lados se califican con la misma escala: sólida, moderada, débil, disputada o descartada.</li>
+<li>Las afirmaciones populares que no se sostienen se señalan como tales, aunque ayudarían a la causa de la autenticidad.</li>
+<li>Las visualizaciones artísticas, como la animación de la luz, siempre se identifican como visualizaciones de una hipótesis.</li>
+<li>Sin anuncios, sin rastreo, nada a la venta.</li>
 </ul>
-<h2>Found an error?</h2>
-<p>Write to <a href="mailto:hey@everybodyknowsyou.com">hey@everybodyknowsyou.com</a> with the page, the claim and your source. Corrections from skeptics are especially welcome.</p>
-<h2>Coming soon</h2>
-<p>Nelson's own story, and a reflection on what he calls the pattern to God, will live on their own page. The evidence stays here, separate, so you can weigh it on its own terms.</p>`,
-      creditsH: 'Image credits', sourceLink: 'source'
+<h2>¿Encontraste un error?</h2>
+<p>Escribe a <a href="mailto:hey@everybodyknowsyou.com">hey@everybodyknowsyou.com</a> con la página, la afirmación y tu fuente. Las correcciones de los escépticos son especialmente bienvenidas.</p>
+<h2>Muy pronto</h2>
+<p>La historia de Nelson, y una reflexión sobre lo que él llama el patrón hacia Dios, tendrán su propia página. La evidencia se queda aquí, aparte, para que puedas pesarla en sus propios términos.</p>`,
+      creditsH: 'Créditos de las imágenes', sourceLink: 'fuente'
     }
   }
 };

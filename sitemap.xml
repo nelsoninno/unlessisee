@@ -35,6 +35,11 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://unlessisee.org/es/timeline.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://unlessisee.org/timeline.html"/>
   </url>
+  <url><loc>https://unlessisee.org/videos.html</loc><lastmod>2026-10-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://unlessisee.org/videos.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://unlessisee.org/es/videos.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://unlessisee.org/videos.html"/>
+  </url>
   <url><loc>https://unlessisee.org/library.html</loc><lastmod>2026-10-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://unlessisee.org/library.html"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://unlessisee.org/es/library.html"/>
@@ -79,6 +84,11 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://unlessisee.org/timeline.html"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://unlessisee.org/es/timeline.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://unlessisee.org/timeline.html"/>
+  </url>
+  <url><loc>https://unlessisee.org/es/videos.html</loc><lastmod>2026-10-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://unlessisee.org/videos.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://unlessisee.org/es/videos.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://unlessisee.org/videos.html"/>
   </url>
   <url><loc>https://unlessisee.org/es/library.html</loc><lastmod>2026-10-21</lastmod><changefreq>monthly</changefreq><priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://unlessisee.org/library.html"/>

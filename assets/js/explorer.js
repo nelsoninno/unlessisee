@@ -39,6 +39,10 @@
   }
   function fit(){
     var r=stage.getBoundingClientRect();
+    if(r.width<r.height){ // portrait phone: fill the height and start on the front face
+      s=r.height*0.9/H; minS=Math.min(r.width/W,r.height/H)*0.9;
+      tx=r.width/2-0.43*W*s; ty=(r.height-H*s)/2; apply(); return;
+    }
     s=Math.min(r.width/W,r.height/H)*0.94; minS=s*0.6;
     tx=(r.width-W*s)/2; ty=(r.height-H*s)/2; apply();
   }

@@ -104,3 +104,22 @@
     p.querySelector('[data-pw=next]').addEventListener('click',function(){go(+r.value+1);});
   });
 })();
+/* video facades (load YouTube only on click) + invert the page */
+(function(){
+  'use strict';
+  document.querySelectorAll('[data-yt]').forEach(function(b){
+    b.addEventListener('click',function(){
+      var f=document.createElement('iframe');
+      f.src='https://www.youtube-nocookie.com/embed/'+b.getAttribute('data-yt')+'?autoplay=1&rel=0';
+      f.title=b.getAttribute('aria-label')||'Video'; f.allow='autoplay; encrypted-media; picture-in-picture'; f.allowFullscreen=true; f.className='vid__frame';
+      b.replaceWith(f);
+    });
+  });
+  document.querySelectorAll('[data-invert-page]').forEach(function(b){
+    var labels=JSON.parse(b.getAttribute('data-labels')||'null');
+    b.addEventListener('click',function(){
+      var on=document.documentElement.classList.toggle('inverted');
+      if(labels)b.textContent=on?labels[1]:labels[0];
+    });
+  });
+})();
