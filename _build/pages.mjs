@@ -512,6 +512,17 @@ ${i.summary && ctx.lang === 'en' ? `<p class="by" style="margin-top:.2rem">${esc
   return layout(ctx, page, { title: p.title, description: p.description, jsonld: siteGraph(ctx, page, p) }, body, ['assets/js/lists.js']);
 }
 
+// ===================================================================== WHAT NOW
+function next(ctx, page) {
+  const c = ctx.L.copy, p = c.pages.next;
+  const body = `${pageHead(ctx, p)}
+<section class="linen band band--tight" style="padding-top:0"><div class="wrap"><div class="paths paths--3">
+${p.paths.map(x => `<article class="path" id="${attr(x.id)}"><h2 style="font-size:1.6rem;margin-bottom:.6rem">${esc(x.h)}</h2>${x.body}</article>`).join('')}
+</div></div></section>
+<section class="plate band"><div class="wrap split" style="align-items:center"><div>${p.story}</div><div><blockquote class="pull">${p.quote}</blockquote><span class="cite">${p.quoteCite}</span></div></div></section>`;
+  return layout(ctx, page, { title: p.title, description: p.description, jsonld: siteGraph(ctx, page, p) }, body, []);
+}
+
 // ===================================================================== ABOUT
 function about(ctx, page) {
   const c = ctx.L.copy, p = c.pages.about, imgs = ctx.L.images.credits || [];
@@ -541,5 +552,6 @@ export const pages = [
   { slug: 'timeline', render: timeline },
   { slug: 'videos', render: videos, schemaType: 'CollectionPage' },
   { slug: 'library', render: library, schemaType: 'CollectionPage' },
+  { slug: 'next', render: next },
   { slug: 'about', render: about, schemaType: 'AboutPage' },
 ];

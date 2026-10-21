@@ -32,7 +32,7 @@ async function loadLang(lang) {
     copy = deepMerge(en, copy); // missing keys fall back to English until translated
   }
   const d = n => readJSON(path.join(__dirname, 'data', lang, n + '.json'), readJSON(path.join(__dirname, 'data', 'en', n + '.json'), null));
-  return { copy, data: { evidence: d('evidence'), timeline: d('timeline'), wounds: d('wounds'), radiocarbon: d('radiocarbon'), spots: d('spots'), weigh: d('weigh'), videos: d('videos'), keyreads: d('keyreads') }, map: readJSON(path.join(__dirname, 'data', 'map.json'), null), library: readJSON(path.join(__dirname, 'data', 'library.json'), { items: [] }), images: readJSON(path.join(__dirname, 'data', lang, 'images.json'), readJSON(path.join(__dirname, 'data', 'images.json'), {})), thomas: (readJSON(path.join(__dirname, 'data', 'thomas.json'), {})[lang] || readJSON(path.join(__dirname, 'data', 'thomas.json'), {}).en) };
+  return { copy, data: { evidence: d('evidence'), timeline: d('timeline'), wounds: d('wounds'), radiocarbon: d('radiocarbon'), spots: d('spots'), weigh: d('weigh'), videos: d('videos'), keyreads: d('keyreads') }, map: readJSON(path.join(__dirname, 'data', 'map.json'), null), library: readJSON(path.join(__dirname, 'data', 'library.json'), { items: [] }), images: readJSON(path.join(__dirname, 'data', lang, 'images.json'), readJSON(path.join(__dirname, 'data', 'images.json'), {})), thomas: readJSON(path.join(__dirname, 'data', lang, 'thomas.json'), null) || readJSON(path.join(__dirname, 'data', 'thomas.json'), {})[lang] || readJSON(path.join(__dirname, 'data', 'thomas.json'), {}).en };
 }
 
 // URL helpers
@@ -104,15 +104,19 @@ ${meta.preload ? `<link rel="preload" as="image" href="${ctx.asset(meta.preload)
 <noscript><link rel="stylesheet" href="${fontUrl}"></noscript>
 <link rel="stylesheet" href="${ctx.asset('assets/css/tokens.css')}">
 <link rel="stylesheet" href="${ctx.asset('assets/css/styles.css')}">
+${c.fontUrl ? `<link rel="stylesheet" href="${c.fontUrl}"><style>:root{${c.fontVars || ''}}</style>` : ''}
 ${ld}
 </head>`;
 }
 
 const mark = `<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="7" y="1.5" width="10" height="21" rx="1" fill="none" stroke="currentColor" stroke-width="1.3"/><ellipse cx="12" cy="7" rx="2" ry="2.6" fill="currentColor" opacity=".55"/><path d="M9.6 10.5h4.8l-.6 9h-3.6z" fill="currentColor" opacity=".35"/></svg>`;
 
-function langSwitch(ctx, page) {
-  return `<div class="lang" aria-label="${attr(ctx.L.copy.ui.language)}">` + CONFIG.langs.map((l, i) =>
+function langSwitch(ctx, page, inFooter = false) {
+  const cur = CONFIG.langs.find(l => l.code === ctx.lang);
+  if (CONFIG.langs.length <= 3) return `<div class="lang" aria-label="${attr(ctx.L.copy.ui.language)}">` + CONFIG.langs.map((l, i) =>
     (i ? '<span aria-hidden="true">/</span>' : '') + (l.code === ctx.lang ? `<span class="active" lang="${l.code}">${l.short}</span>` : `<a href="${ctx.href(page.slug, l.code)}" lang="${l.code}" hreflang="${l.code}">${l.short}</a>`)).join('') + `</div>`;
+  return `<details class="langmenu${inFooter ? ' langmenu--up' : ''}"><summary aria-label="${attr(ctx.L.copy.ui.language)}">${cur.short}</summary><ul>` + CONFIG.langs.map(l =>
+    `<li>${l.code === ctx.lang ? `<span class="active" lang="${l.code}">${esc(l.name)}</span>` : `<a href="${ctx.href(page.slug, l.code)}" lang="${l.code}" hreflang="${l.code}">${esc(l.name)}</a>`}</li>`).join('') + `</ul></details>`;
 }
 
 function header(ctx, page) {
@@ -138,7 +142,7 @@ ${col(c.footer.more, c.nav.slice(5).concat(c.footer.extra || []))}
 </div>
 <div class="foot-base">
 <div>${c.footer.rights.replace('{year}', '<span data-year>2026</span>')}</div>
-${langSwitch(ctx, page)}
+${langSwitch(ctx, page, true)}
 <a class="eky-credit" href="https://everybodyknowsyou.com" target="_blank" rel="noopener" aria-label="${attr(c.footer.ekyAria)}"><span class="eky-credit__text">${esc(c.footer.eky)}</span>${ekySvg}</a>
 </div>
 </div></footer>`;

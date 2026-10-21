@@ -21,6 +21,7 @@ export default {
     { slug: 'timeline', label: 'Timeline' },
     { slug: 'videos', label: 'Videos' },
     { slug: 'library', label: 'Library' },
+    { slug: 'next', label: 'What now?' },
     { slug: 'about', label: 'About' }
   ],
   footer: {
@@ -170,7 +171,7 @@ export default {
         { slug: 'evidence', h: 'If you doubt it', t: 'Start with the case file. Every argument, for and against, rated by strength.' },
         { slug: 'explore', h: 'If you want to see it', t: 'Zoom into the whole cloth, switch to negative, and find each mark.' },
         { slug: 'library', h: 'If you want to go deep', t: 'Hundreds of papers and studies, searchable, with links to the originals.' },
-        { slug: 'about', h: 'If you are wondering who made this', t: 'Why this site exists, how we rate evidence, and image credits.' }
+        { slug: 'next', h: 'If you are wondering what now', t: 'Honest next steps, whether you doubt, wonder or believe.' }
       ]
     },
 
@@ -367,6 +368,20 @@ export default {
 <p>Want to go further? The <a href="https://www.shroud.com/" target="_blank" rel="noopener">shroud.com archive</a>, the official site of the <a href="https://www.sindone.org/" target="_blank" rel="noopener">Archdiocese of Turin</a>, and Wikipedia's <a href="https://en.wikipedia.org/wiki/Shroud_of_Turin" target="_blank" rel="noopener">Shroud of Turin</a> article, which leans skeptical and is a good test of your conclusions.</p>`
     },
 
+    next: {
+      title: 'What Now? After the Shroud of Turin | Unless I See',
+      description: 'You have seen the evidence on the Shroud of Turin. Whether you doubt, wonder or believe, here are honest next steps.',
+      h1: 'What now?',
+      lede: 'Wherever you landed after looking at the evidence, there is a sensible next step. None of them require you to pretend to be more certain than you are.',
+      paths: [
+        { id: 'doubt', h: 'If you still doubt', body: `<p>Good. Doubt that keeps looking is honest. Thomas doubted, and he was not turned away.</p><ul><li>Read the strongest case against in the <a href="evidence.html">case file</a>, and the sources behind it.</li><li>Try the calculator with your own numbers, and notice which assumption decides your answer.</li><li>Ask yourself what evidence would change your mind, and whether it could exist.</li></ul>` },
+        { id: 'wonder', h: 'If you are wondering', body: `<p>The Shroud is a question about one man. The best next step is to meet him where he is described most fully.</p><ul><li>Read the Gospel of John. It takes about two hours, and it ends with Thomas.</li><li>Talk with someone you trust who believes, and ask your hardest question.</li><li>If you have never prayed, try a simple, honest one: if you are there, show me.</li></ul>` },
+        { id: 'believe', h: 'If you believe', body: `<p>Then the question is no longer what the cloth proves, but how you live.</p><ul><li>Be someone a skeptic can trust: fair, curious and kind, especially with people who disagree.</li><li>Share this site with the most thoughtful skeptic you know, and listen to what they say.</li><li>Serve someone in need this week. Faith that takes action is the best evidence most people will ever see.</li></ul>` }
+      ],
+      story: `<h2>Coming soon: one person's story</h2><p>Nelson Inno, who created this site, will share his own story here, and a reflection on what he calls the pattern to God. It will live on its own page, separate from the evidence, so you can weigh each on its own terms.</p>`,
+      quote: 'These are written that you may believe that Jesus is the Christ, the Son of God.',
+      quoteCite: 'John 20:31'
+    },
     about: {
       title: 'About Unless I See: Why This Site Exists | Unless I See',
       description: 'Unless I See is a free, non-commercial site about the Shroud of Turin. How we rate evidence, where our images come from, and who built it.',

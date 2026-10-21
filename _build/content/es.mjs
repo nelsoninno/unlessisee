@@ -22,6 +22,7 @@ export default {
     { slug: 'timeline', label: 'Cronología' },
     { slug: 'videos', label: 'Videos' },
     { slug: 'library', label: 'Biblioteca' },
+    { slug: 'next', label: '¿Y ahora qué?' },
     { slug: 'about', label: 'Acerca de' }
   ],
   footer: {
@@ -171,7 +172,7 @@ export default {
         { slug: 'evidence', h: 'Si tienes dudas', t: 'Empieza por el expediente. Cada argumento, a favor y en contra, calificado según su fuerza.' },
         { slug: 'explore', h: 'Si quieres verla', t: 'Acércate a la tela completa, cambia al negativo y encuentra cada marca.' },
         { slug: 'library', h: 'Si quieres profundizar', t: 'Cientos de artículos y estudios, con buscador y enlaces a los originales.' },
-        { slug: 'about', h: 'Si te preguntas quién hizo esto', t: 'Por qué existe este sitio, cómo calificamos la evidencia y los créditos de las imágenes.' }
+        { slug: 'next', h: 'Si te preguntas qué sigue', t: 'Pasos honestos para seguir, ya sea que dudes, te preguntes o creas.' }
       ]
     },
 
@@ -369,6 +370,20 @@ export default {
 <p>¿Quieres ir más lejos? El <a href="https://www.shroud.com/" target="_blank" rel="noopener">archivo de shroud.com</a>, el sitio oficial de la <a href="https://www.sindone.org/" target="_blank" rel="noopener">Arquidiócesis de Turín</a> y el artículo de Wikipedia sobre la <a href="https://en.wikipedia.org/wiki/Shroud_of_Turin" target="_blank" rel="noopener">Sábana Santa de Turín</a> (en inglés), que se inclina hacia el escepticismo y es una buena prueba para tus conclusiones.</p>`
     },
 
+    next: {
+      title: '¿Y ahora qué? Después de la Sábana Santa de Turín | Si no veo',
+      description: 'Ya viste la evidencia sobre la Sábana Santa de Turín. Ya sea que dudes, te lo preguntes o creas, aquí hay pasos honestos para seguir.',
+      h1: '¿Y ahora qué?',
+      lede: 'Dondequiera que hayas llegado después de ver la evidencia, hay un siguiente paso sensato. Ninguno te pide fingir más certeza de la que tienes.',
+      paths: [
+        { id: 'doubt', h: 'Si todavía dudas', body: `<p>Bien. La duda que sigue buscando es honesta. Tomás dudó, y no lo rechazaron.</p><ul><li>Lee el caso más fuerte en contra en el <a href="evidence.html">expediente</a>, y las fuentes que lo respaldan.</li><li>Prueba la calculadora con tus propios números y fíjate qué supuesto decide tu respuesta.</li><li>Pregúntate qué evidencia te haría cambiar de opinión, y si podría existir.</li></ul>` },
+        { id: 'wonder', h: 'Si te lo estás preguntando', body: `<p>La Sábana Santa es una pregunta sobre un hombre. El mejor paso siguiente es conocerlo donde se le describe con más detalle.</p><ul><li>Lee el Evangelio de Juan. Toma unas dos horas y termina con Tomás.</li><li>Habla con alguien de confianza que crea, y hazle tu pregunta más difícil.</li><li>Si nunca has orado, prueba con algo sencillo y honesto: si estás ahí, muéstramelo.</li></ul>` },
+        { id: 'believe', h: 'Si crees', body: `<p>Entonces la pregunta ya no es qué prueba la tela, sino cómo vives.</p><ul><li>Sé alguien en quien un escéptico pueda confiar: justo, curioso y amable, sobre todo con quien no piensa igual.</li><li>Comparte este sitio con el escéptico más reflexivo que conozcas, y escucha lo que te diga.</li><li>Sirve a alguien que lo necesite esta semana. Una fe que actúa es la mejor evidencia que la mayoría de personas llegará a ver.</li></ul>` }
+      ],
+      story: `<h2>Muy pronto: la historia de una persona</h2><p>Nelson Inno, quien creó este sitio, compartirá aquí su propia historia y una reflexión sobre lo que él llama el patrón hacia Dios. Tendrá su propia página, separada de la evidencia, para que puedas valorar cada cosa por sí misma.</p>`,
+      quote: 'Estas empero son escritas, para que creáis que Jesús es el Cristo, el Hijo de Dios.',
+      quoteCite: 'Juan 20:31'
+    },
     about: {
       title: 'Acerca de Si no veo: por qué existe este sitio | Si no veo',
       description: 'Si no veo es un sitio gratuito y sin fines de lucro sobre la Sábana Santa de Turín. Cómo calificamos la evidencia, de dónde vienen nuestras imágenes y quién lo hizo.',
