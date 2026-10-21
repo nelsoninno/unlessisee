@@ -1,87 +1,60 @@
 {
- "prior": {
-  "neutral": -3,
-  "skeptic": -5,
-  "believer": -1
- },
  "items": [
   {
    "id": "c14",
-   "label": "The 1988 carbon dating: AD 1260 to 1390",
-   "skeptic": -3,
-   "believer": -0.5
+   "statement": "The 1988 carbon dating is right: the linen was made between about 1260 and 1390."
+  },
+  {
+   "id": "image-unique",
+   "statement": "No one has made an image with all of its features, and no other burial cloth carries one like it."
   },
   {
    "id": "c14-flaws",
-   "label": "The 1988 results do not agree well with each other",
-   "skeptic": 0,
-   "believer": 0.5
+   "statement": "The 1988 results disagree with each other too much to settle the question."
   },
   {
    "id": "history",
-   "label": "No secure record of the cloth before about 1354",
-   "skeptic": -1,
-   "believer": -0.3
-  },
-  {
-   "id": "darcis",
-   "label": "A bishop (1389) and a scholar (Oresme) called it a fake",
-   "skeptic": -0.7,
-   "believer": -0.2
+   "statement": "The cloth has no secure history before the 1350s, which suggests it was made then."
   },
   {
    "id": "no-paint",
-   "label": "No paint or binder forms the image",
-   "skeptic": 0.3,
-   "believer": 1
+   "statement": "The image is not made of paint, dye or any binder."
   },
   {
-   "id": "thin",
-   "label": "The color sits only on the outermost fibers",
-   "skeptic": 0.3,
-   "believer": 1
+   "id": "darcis",
+   "statement": "The bishop who called it a painting in 1389, and a leading scholar of the time, were right."
   },
   {
    "id": "negative",
-   "label": "The image behaves like a photographic negative",
-   "skeptic": 0,
-   "believer": 0.7
+   "statement": "The image works like a photographic negative, which no medieval artist had a reason to make."
+  },
+  {
+   "id": "relief",
+   "statement": "The image fits a low relief, a shallow carving, better than a real body."
   },
   {
    "id": "three-d",
-   "label": "Image darkness encodes distance, like a 3D map",
-   "skeptic": 0.2,
-   "believer": 0.8
+   "statement": "The shading of the image records distance from a body, like a 3D map."
+  },
+  {
+   "id": "replicas",
+   "statement": "Medieval methods can make an image close enough to explain the Shroud."
   },
   {
    "id": "blood",
-   "label": "Stains that test as blood, apparently on the cloth before the image",
-   "skeptic": 0.2,
-   "believer": 0.7
+   "statement": "The red stains are real blood."
+  },
+  {
+   "id": "bloodflows",
+   "statement": "The blood flows do not fit one body position, as if an artist placed them."
   },
   {
    "id": "wounds",
-   "label": "Wounds match a Roman crucifixion, nails in the wrists",
-   "skeptic": 0.3,
-   "believer": 1
-  },
-  {
-   "id": "unreproduced",
-   "label": "No one has reproduced all the image's features",
-   "skeptic": 0.5,
-   "believer": 1.2
+   "statement": "The wounds match a real Roman crucifixion, including details the Gospels never mention."
   },
   {
    "id": "pray",
-   "label": "The Pray Codex drawing of about 1192",
-   "skeptic": 0,
-   "believer": 0.5
-  },
-  {
-   "id": "pollen-coins",
-   "label": "Pollen, coins over the eyes, flower images (rated weak or debunked)",
-   "skeptic": 0,
-   "believer": 0
+   "statement": "A drawing in the Pray Codex, from about 1192, shows this cloth before the carbon date."
   }
  ]
 }

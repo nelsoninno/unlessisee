@@ -1,87 +1,60 @@
 {
- "prior": {
-  "neutral": -3,
-  "skeptic": -5,
-  "believer": -1
- },
  "items": [
   {
    "id": "c14",
-   "label": "La datación por radiocarbono de 1988: 1260 a 1390 d. C.",
-   "skeptic": -3,
-   "believer": -0.5
+   "statement": "La datación por carbono de 1988 es correcta: el lino se hizo entre 1260 y 1390, aproximadamente."
+  },
+  {
+   "id": "image-unique",
+   "statement": "Nadie ha logrado una imagen con todas sus características, y ningún otro lienzo funerario tiene una igual."
   },
   {
    "id": "c14-flaws",
-   "label": "Los resultados de 1988 no concuerdan bien entre sí",
-   "skeptic": 0,
-   "believer": 0.5
+   "statement": "Los resultados de 1988 no concuerdan lo suficiente entre sí como para cerrar la cuestión."
   },
   {
    "id": "history",
-   "label": "No hay un registro seguro de la tela antes de hacia 1354",
-   "skeptic": -1,
-   "believer": -0.3
-  },
-  {
-   "id": "darcis",
-   "label": "Un obispo (1389) y un estudioso (Oresme) la llamaron falsa",
-   "skeptic": -0.7,
-   "believer": -0.2
+   "statement": "No hay una historia segura de la tela antes de la década de 1350, lo que sugiere que se hizo entonces."
   },
   {
    "id": "no-paint",
-   "label": "Ninguna pintura ni aglutinante forma la imagen",
-   "skeptic": 0.3,
-   "believer": 1
+   "statement": "La imagen no está hecha de pintura, tinte ni aglutinante alguno."
   },
   {
-   "id": "thin",
-   "label": "El color está solo en las fibras más externas",
-   "skeptic": 0.3,
-   "believer": 1
+   "id": "darcis",
+   "statement": "El obispo que en 1389 dijo que era una pintura, y un gran erudito de la época, tenían razón."
   },
   {
    "id": "negative",
-   "label": "La imagen se comporta como un negativo fotográfico",
-   "skeptic": 0,
-   "believer": 0.7
+   "statement": "La imagen funciona como un negativo fotográfico, algo que ningún artista medieval tenía motivo para hacer."
+  },
+  {
+   "id": "relief",
+   "statement": "La imagen encaja mejor con un bajorrelieve, una talla poco profunda, que con un cuerpo real."
   },
   {
    "id": "three-d",
-   "label": "Lo oscuro de la imagen codifica la distancia, como un mapa 3D",
-   "skeptic": 0.2,
-   "believer": 0.8
+   "statement": "El sombreado de la imagen registra la distancia a un cuerpo, como un mapa en 3D."
+  },
+  {
+   "id": "replicas",
+   "statement": "Con métodos medievales se puede hacer una imagen lo bastante parecida como para explicar la Sábana Santa."
   },
   {
    "id": "blood",
-   "label": "Manchas que dan positivo como sangre, al parecer en la tela antes que la imagen",
-   "skeptic": 0.2,
-   "believer": 0.7
+   "statement": "Las manchas rojas son sangre real."
+  },
+  {
+   "id": "bloodflows",
+   "statement": "Los regueros de sangre no encajan con una sola posición del cuerpo, como si un artista los hubiera colocado."
   },
   {
    "id": "wounds",
-   "label": "Las heridas coinciden con una crucifixión romana, clavos en las muñecas",
-   "skeptic": 0.3,
-   "believer": 1
-  },
-  {
-   "id": "unreproduced",
-   "label": "Nadie ha reproducido todos los rasgos de la imagen",
-   "skeptic": 0.5,
-   "believer": 1.2
+   "statement": "Las heridas coinciden con una crucifixión romana real, incluso en detalles que los Evangelios nunca mencionan."
   },
   {
    "id": "pray",
-   "label": "El dibujo del Códice Pray, de hacia 1192",
-   "skeptic": 0,
-   "believer": 0.5
-  },
-  {
-   "id": "pollen-coins",
-   "label": "Polen, monedas sobre los ojos, imágenes de flores (calificadas como débiles o descartadas)",
-   "skeptic": 0,
-   "believer": 0
+   "statement": "Un dibujo del Códice Pray, de hacia 1192, muestra esta tela antes de la fecha del carbono."
   }
  ]
 }

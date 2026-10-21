@@ -1,87 +1,60 @@
 {
- "prior": {
-  "neutral": -3,
-  "skeptic": -5,
-  "believer": -1
- },
  "items": [
   {
    "id": "c14",
-   "label": "A datação por carbono de 1988: de 1260 a 1390 d.C.",
-   "skeptic": -3,
-   "believer": -0.5
+   "statement": "A datação por carbono de 1988 está certa: o linho foi feito entre cerca de 1260 e 1390."
+  },
+  {
+   "id": "image-unique",
+   "statement": "Ninguém conseguiu fazer uma imagem com todas as suas características, e nenhum outro pano funerário tem uma igual."
   },
   {
    "id": "c14-flaws",
-   "label": "Os resultados de 1988 não concordam bem entre si",
-   "skeptic": 0,
-   "believer": 0.5
+   "statement": "Os resultados de 1988 divergem demais entre si para encerrar a questão."
   },
   {
    "id": "history",
-   "label": "Nenhum registro seguro do pano antes de cerca de 1354",
-   "skeptic": -1,
-   "believer": -0.3
-  },
-  {
-   "id": "darcis",
-   "label": "Um bispo (1389) e um erudito (Oresme) o chamaram de falso",
-   "skeptic": -0.7,
-   "believer": -0.2
+   "statement": "O pano não tem uma história segura antes da década de 1350, o que sugere que foi feito nessa época."
   },
   {
    "id": "no-paint",
-   "label": "Nenhuma tinta ou aglutinante forma a imagem",
-   "skeptic": 0.3,
-   "believer": 1
+   "statement": "A imagem não é feita de tinta, corante nem de qualquer aglutinante."
   },
   {
-   "id": "thin",
-   "label": "A cor fica só nas fibras mais externas",
-   "skeptic": 0.3,
-   "believer": 1
+   "id": "darcis",
+   "statement": "O bispo que em 1389 disse que era uma pintura, e um grande estudioso da época, estavam certos."
   },
   {
    "id": "negative",
-   "label": "A imagem se comporta como um negativo fotográfico",
-   "skeptic": 0,
-   "believer": 0.7
+   "statement": "A imagem funciona como um negativo fotográfico, algo que nenhum artista medieval tinha motivo para fazer."
+  },
+  {
+   "id": "relief",
+   "statement": "A imagem combina mais com um baixo-relevo, uma escultura rasa, do que com um corpo real."
   },
   {
    "id": "three-d",
-   "label": "O escuro da imagem codifica a distância, como um mapa 3D",
-   "skeptic": 0.2,
-   "believer": 0.8
+   "statement": "O sombreado da imagem registra a distância até um corpo, como um mapa em 3D."
+  },
+  {
+   "id": "replicas",
+   "statement": "Com métodos medievais é possível fazer uma imagem parecida o bastante para explicar o Sudário."
   },
   {
    "id": "blood",
-   "label": "Manchas que dão positivo para sangue, ao que parece no pano antes da imagem",
-   "skeptic": 0.2,
-   "believer": 0.7
+   "statement": "As manchas vermelhas são sangue de verdade."
+  },
+  {
+   "id": "bloodflows",
+   "statement": "Os escorrimentos de sangue não se encaixam em uma única posição do corpo, como se um artista os tivesse colocado."
   },
   {
    "id": "wounds",
-   "label": "As feridas correspondem a uma crucificação romana, com cravos nos pulsos",
-   "skeptic": 0.3,
-   "believer": 1
-  },
-  {
-   "id": "unreproduced",
-   "label": "Ninguém reproduziu todas as características da imagem",
-   "skeptic": 0.5,
-   "believer": 1.2
+   "statement": "As feridas correspondem a uma crucificação romana real, inclusive em detalhes que os Evangelhos nunca mencionam."
   },
   {
    "id": "pray",
-   "label": "O desenho do Códice Pray, de cerca de 1192",
-   "skeptic": 0,
-   "believer": 0.5
-  },
-  {
-   "id": "pollen-coins",
-   "label": "Pólen, moedas sobre os olhos, imagens de flores (classificados como fracos ou refutados)",
-   "skeptic": 0,
-   "believer": 0
+   "statement": "Um desenho do Códice Pray, de cerca de 1192, mostra este pano antes da data do carbono."
   }
  ]
 }

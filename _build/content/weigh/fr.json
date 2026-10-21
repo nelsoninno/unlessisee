@@ -1,0 +1,38 @@
+{
+ "nav": "Votre verdict",
+ "page": {
+  "title": "Pesez vous-même : quel camp l’emporte pour vous ? | Si je ne vois",
+  "description": "Passez en revue les faits clés sur le Saint-Suaire de Turin, dites ce que vous en pensez et voyez quel camp, authentique ou médiéval, l’emporte pour vous.",
+  "h1": "Pesez vous-même",
+  "lede": "Quatorze points clés du dossier. Pour chacun, dites ce que vous en pensez. Au fil de vos réponses, vous verrez quel camp l’emporte pour vous, ainsi que l’argument le plus fort contre chaque point.",
+  "scale": [
+   "C’est un fait",
+   "Probablement vrai",
+   "Je ne sais pas",
+   "Probablement pas",
+   "Je ne suis pas d’accord"
+  ],
+  "topAgainst": "L’argument le plus fort contre l’authenticité",
+  "topFor": "L’argument le plus fort en faveur de l’authenticité",
+  "obj": "L’argument le plus fort contre ce point",
+  "more": "Lire la pièce complète",
+  "resultH": "Quel camp l’emporte pour vous",
+  "sideFor": "Authentique",
+  "sideForLong": "Un linceul du Ier siècle",
+  "sideAgainst": "Médiéval",
+  "sideAgainstLong": "Fabriqué vers 1260 à 1390",
+  "answered": "Réponses : {n} sur {t}",
+  "strongest": "Ce qui pèse le plus dans vos réponses :",
+  "reset": "Recommencer",
+  "caveat": "Ce n’est ni une probabilité ni une preuve. L’outil additionne seulement vos propres réponses. Les deux arguments les plus forts comptent trois fois plus qu’un point ordinaire. Être en désaccord avec un point compte pour l’autre camp.",
+  "see": "Voir le résultat",
+  "teaser": "<p>La plupart des débats sur le Saint-Suaire se ramènent à une poignée de faits et au poids que chacun doit avoir. Nous avons donc conçu un outil simple. Passez en revue les points clés, dites si vous pensez que chacun est vrai, et voyez quel camp l’emporte pour vous.</p>\n<p>À côté de chaque point se trouve l’argument le plus fort contre lui, pour que vous puissiez mettre votre propre réponse à l’épreuve.</p>",
+  "cta": "Pesez vous-même",
+  "verdict": {
+   "none": "Répondez à quelques points pour voir de quel côté vous penchez.",
+   "for": "Pour vous, l’authenticité l’emporte.",
+   "against": "Pour vous, l’origine médiévale l’emporte.",
+   "close": "Pour vous, c’est serré. Aucun camp ne se détache nettement."
+  }
+ }
+}

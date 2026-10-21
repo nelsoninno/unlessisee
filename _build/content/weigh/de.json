@@ -1,0 +1,38 @@
+{
+ "nav": "Ihr Urteil",
+ "page": {
+  "title": "Wägen Sie selbst ab: Welche Seite gewinnt für Sie? | Wenn ich nicht sehe",
+  "description": "Gehen Sie die wichtigsten Fakten zum Grabtuch von Turin durch, sagen Sie, was Sie davon halten, und sehen Sie, ob für Sie echt oder mittelalterlich gewinnt.",
+  "h1": "Wägen Sie selbst ab",
+  "lede": "Vierzehn zentrale Punkte aus der Fallakte. Sagen Sie zu jedem, was Sie denken. Während Sie antworten, sehen Sie, welche Seite für Sie gewinnt, und das stärkste Gegenargument zu jedem Punkt.",
+  "scale": [
+   "Das ist eine Tatsache",
+   "Wahrscheinlich wahr",
+   "Nicht sicher",
+   "Eher nicht",
+   "Ich widerspreche"
+  ],
+  "topAgainst": "Das stärkste Argument gegen die Echtheit",
+  "topFor": "Das stärkste Argument für die Echtheit",
+  "obj": "Das stärkste Gegenargument",
+  "more": "Das ganze Beweisstück lesen",
+  "resultH": "Welche Seite für Sie gewinnt",
+  "sideFor": "Echt",
+  "sideForLong": "Ein Grabtuch aus dem 1. Jahrhundert",
+  "sideAgainst": "Mittelalterlich",
+  "sideAgainstLong": "Entstanden um 1260 bis 1390",
+  "answered": "{n} von {t} beantwortet",
+  "strongest": "Was in Ihren Antworten am meisten wiegt:",
+  "reset": "Neu beginnen",
+  "caveat": "Das ist weder eine Wahrscheinlichkeit noch ein Beweis. Es zählt nur Ihre eigenen Antworten zusammen. Die zwei stärksten Argumente zählen dreimal so viel wie ein gewöhnlicher Punkt. Wer einem Punkt widerspricht, stärkt die andere Seite.",
+  "see": "Ergebnis ansehen",
+  "teaser": "<p>Die meisten Debatten über das Grabtuch laufen auf eine Handvoll Fakten hinaus und darauf, wie viel jeder davon zählen sollte. Deshalb haben wir ein einfaches Werkzeug gebaut. Gehen Sie die wichtigsten Punkte durch, sagen Sie, ob Sie jeden für wahr halten, und sehen Sie, welche Seite für Sie gewinnt.</p>\n<p>Neben jedem Punkt finden Sie das stärkste Argument dagegen, damit Sie Ihre eigene Antwort prüfen können.</p>",
+  "cta": "Selbst abwägen",
+  "verdict": {
+   "none": "Beantworten Sie ein paar Punkte, um zu sehen, wohin Sie neigen.",
+   "for": "Für Sie gewinnt die Echtheit.",
+   "against": "Für Sie gewinnt der mittelalterliche Ursprung.",
+   "close": "Für Sie ist es knapp. Keine Seite liegt klar vorn."
+  }
+ }
+}

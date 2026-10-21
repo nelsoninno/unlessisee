@@ -1,87 +1,60 @@
 {
- "prior": {
-  "neutral": -3,
-  "skeptic": -5,
-  "believer": -1
- },
  "items": [
   {
    "id": "c14",
-   "label": "Datowanie radiowęglowe z 1988 roku: 1260 do 1390 n.e.",
-   "skeptic": -3,
-   "believer": -0.5
+   "statement": "Datowanie radiowęglowe z 1988 roku jest trafne: len powstał mniej więcej między 1260 a 1390 rokiem."
+  },
+  {
+   "id": "image-unique",
+   "statement": "Nikomu nie udało się wykonać obrazu o wszystkich jego cechach i żadne inne płótno grobowe nie nosi podobnego."
   },
   {
    "id": "c14-flaws",
-   "label": "Wyniki z 1988 roku słabo się ze sobą zgadzają",
-   "skeptic": 0,
-   "believer": 0.5
+   "statement": "Wyniki z 1988 roku zbyt słabo się ze sobą zgadzają, by rozstrzygnąć sprawę."
   },
   {
    "id": "history",
-   "label": "Brak pewnego zapisu o płótnie przed około 1354 rokiem",
-   "skeptic": -1,
-   "believer": -0.3
-  },
-  {
-   "id": "darcis",
-   "label": "Biskup (1389) i uczony (Oresme) nazwali je fałszerstwem",
-   "skeptic": -0.7,
-   "believer": -0.2
+   "statement": "Płótno nie ma pewnej historii sprzed lat 50. XIV wieku, co sugeruje, że wtedy powstało."
   },
   {
    "id": "no-paint",
-   "label": "Obrazu nie tworzy farba ani spoiwo",
-   "skeptic": 0.3,
-   "believer": 1
+   "statement": "Obraz nie jest wykonany farbą, barwnikiem ani żadnym spoiwem."
   },
   {
-   "id": "thin",
-   "label": "Barwa jest tylko na najbardziej zewnętrznych włóknach",
-   "skeptic": 0.3,
-   "believer": 1
+   "id": "darcis",
+   "statement": "Biskup, który w 1389 roku nazwał je malowidłem, i wybitny uczony tamtych czasów mieli rację."
   },
   {
    "id": "negative",
-   "label": "Obraz zachowuje się jak negatyw fotograficzny",
-   "skeptic": 0,
-   "believer": 0.7
+   "statement": "Obraz działa jak negatyw fotograficzny, a żaden średniowieczny artysta nie miał powodu, by taki tworzyć."
+  },
+  {
+   "id": "relief",
+   "statement": "Obraz lepiej pasuje do płaskorzeźby niż do prawdziwego ciała."
   },
   {
    "id": "three-d",
-   "label": "Ciemność obrazu koduje odległość, jak mapa 3D",
-   "skeptic": 0.2,
-   "believer": 0.8
+   "statement": "Odcienie obrazu zapisują odległość od ciała, jak mapa 3D."
+  },
+  {
+   "id": "replicas",
+   "statement": "Metodami średniowiecznymi da się wykonać obraz na tyle podobny, by wyjaśnić Całun."
   },
   {
    "id": "blood",
-   "label": "Plamy, które w testach okazują się krwią, najwyraźniej na płótnie przed obrazem",
-   "skeptic": 0.2,
-   "believer": 0.7
+   "statement": "Czerwone plamy to prawdziwa krew."
+  },
+  {
+   "id": "bloodflows",
+   "statement": "Strugi krwi nie pasują do jednej pozycji ciała, jakby rozmieścił je artysta."
   },
   {
    "id": "wounds",
-   "label": "Rany odpowiadają rzymskiemu ukrzyżowaniu, gwoździe w nadgarstkach",
-   "skeptic": 0.3,
-   "believer": 1
-  },
-  {
-   "id": "unreproduced",
-   "label": "Nikt nie odtworzył wszystkich cech obrazu",
-   "skeptic": 0.5,
-   "believer": 1.2
+   "statement": "Rany odpowiadają prawdziwemu rzymskiemu ukrzyżowaniu, także w szczegółach, o których Ewangelie nie wspominają."
   },
   {
    "id": "pray",
-   "label": "Rysunek w Kodeksie Praya z około 1192 roku",
-   "skeptic": 0,
-   "believer": 0.5
-  },
-  {
-   "id": "pollen-coins",
-   "label": "Pyłki, monety na oczach, obrazy kwiatów (ocenione jako słabe lub obalone)",
-   "skeptic": 0,
-   "believer": 0
+   "statement": "Rysunek w Kodeksie Praya, z około 1192 roku, przedstawia to płótno jeszcze przed datą radiowęglową."
   }
  ]
 }

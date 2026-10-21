@@ -1,87 +1,60 @@
 {
- "prior": {
-  "neutral": -3,
-  "skeptic": -5,
-  "believer": -1
- },
  "items": [
   {
    "id": "c14",
-   "label": "La datation au carbone 14 de 1988 : 1260 à 1390 apr. J.-C.",
-   "skeptic": -3,
-   "believer": -0.5
+   "statement": "La datation au carbone 14 de 1988 est juste : le lin a été fabriqué entre 1260 et 1390 environ."
+  },
+  {
+   "id": "image-unique",
+   "statement": "Personne n’a réussi à produire une image réunissant toutes ses caractéristiques, et aucun autre linceul n’en porte une semblable."
   },
   {
    "id": "c14-flaws",
-   "label": "Les résultats de 1988 concordent mal entre eux",
-   "skeptic": 0,
-   "believer": 0.5
+   "statement": "Les résultats de 1988 concordent trop mal entre eux pour trancher la question."
   },
   {
    "id": "history",
-   "label": "Aucune trace sûre du linge avant 1354 environ",
-   "skeptic": -1,
-   "believer": -0.3
-  },
-  {
-   "id": "darcis",
-   "label": "Un évêque (1389) et un savant (Oresme) l’ont qualifié de faux",
-   "skeptic": -0.7,
-   "believer": -0.2
+   "statement": "Le linge n’a pas d’histoire sûre avant les années 1350, ce qui suggère qu’il a été fabriqué à cette époque."
   },
   {
    "id": "no-paint",
-   "label": "Aucune peinture ni aucun liant ne forme l’image",
-   "skeptic": 0.3,
-   "believer": 1
+   "statement": "L’image n’est faite ni de peinture, ni de teinture, ni d’aucun liant."
   },
   {
-   "id": "thin",
-   "label": "La couleur ne se trouve que sur les fibres les plus externes",
-   "skeptic": 0.3,
-   "believer": 1
+   "id": "darcis",
+   "statement": "L’évêque qui, en 1389, parlait d’une peinture, et un grand savant de l’époque avaient raison."
   },
   {
    "id": "negative",
-   "label": "L’image se comporte comme un négatif photographique",
-   "skeptic": 0,
-   "believer": 0.7
+   "statement": "L’image se comporte comme un négatif photographique, ce qu’aucun artiste médiéval n’avait de raison de faire."
+  },
+  {
+   "id": "relief",
+   "statement": "L’image correspond mieux à un bas-relief, une sculpture peu profonde, qu’à un vrai corps."
   },
   {
    "id": "three-d",
-   "label": "La densité de l’image code la distance, comme une carte 3D",
-   "skeptic": 0.2,
-   "believer": 0.8
+   "statement": "Les nuances de l’image enregistrent la distance à un corps, comme une carte en 3D."
+  },
+  {
+   "id": "replicas",
+   "statement": "Des méthodes médiévales peuvent produire une image assez proche pour expliquer le Saint-Suaire."
   },
   {
    "id": "blood",
-   "label": "Des taches qui réagissent comme du sang, apparemment présentes sur le linge avant l’image",
-   "skeptic": 0.2,
-   "believer": 0.7
+   "statement": "Les taches rouges sont du vrai sang."
+  },
+  {
+   "id": "bloodflows",
+   "statement": "Les coulées de sang ne correspondent pas à une seule position du corps, comme si un artiste les avait placées."
   },
   {
    "id": "wounds",
-   "label": "Des blessures conformes à une crucifixion romaine, clous dans les poignets",
-   "skeptic": 0.3,
-   "believer": 1
-  },
-  {
-   "id": "unreproduced",
-   "label": "Personne n’a reproduit toutes les caractéristiques de l’image",
-   "skeptic": 0.5,
-   "believer": 1.2
+   "statement": "Les blessures correspondent à une vraie crucifixion romaine, jusque dans des détails que les Évangiles ne mentionnent jamais."
   },
   {
    "id": "pray",
-   "label": "Le dessin du Codex Pray, vers 1192",
-   "skeptic": 0,
-   "believer": 0.5
-  },
-  {
-   "id": "pollen-coins",
-   "label": "Pollen, pièces sur les yeux, images de fleurs (notés faibles ou réfutés)",
-   "skeptic": 0,
-   "believer": 0
+   "statement": "Un dessin du Codex Pray, vers 1192, montre ce linge avant la date du carbone 14."
   }
  ]
 }

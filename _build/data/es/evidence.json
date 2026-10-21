@@ -98,7 +98,7 @@
    "sources": [
     {
      "label": "Rogers 2005, Thermochimica Acta 425:189-194",
-     "url": "https://zenodo.org/record/1259381",
+     "url": "https://zenodo.org/records/1259381",
      "type": "peer-reviewed"
     },
     {
@@ -253,7 +253,7 @@
    "sources": [
     {
      "label": "Rogers 2005, Thermochimica Acta 425",
-     "url": "https://zenodo.org/record/1259381",
+     "url": "https://zenodo.org/records/1259381",
      "type": "peer-reviewed"
     },
     {
@@ -283,12 +283,12 @@
    "sources": [
     {
      "label": "Resumen de conclusiones de STURP de 1981",
-     "url": "http://www.shroud.com/78conclu.htm",
+     "url": "https://www.shroud.com/78conclu.htm",
      "type": "official"
     },
     {
      "label": "Schwalbe y Rogers 1982, Analytica Chimica Acta 135 (en lista)",
-     "url": "http://www.shroud.com/78papers.htm",
+     "url": "https://www.shroud.com/78papers.htm",
      "type": "peer-reviewed"
     },
     {
@@ -573,7 +573,7 @@
     },
     {
      "label": "Resumen de STURP de 1981",
-     "url": "http://www.shroud.com/78conclu.htm",
+     "url": "https://www.shroud.com/78conclu.htm",
      "type": "official"
     },
     {
@@ -728,7 +728,7 @@
     },
     {
      "label": "Resumen de STURP de 1981",
-     "url": "http://www.shroud.com/78conclu.htm",
+     "url": "https://www.shroud.com/78conclu.htm",
      "type": "official"
     }
    ],
@@ -909,7 +909,7 @@
    "skeptic": "Si el tejido necesita un telar de pedales, encaja mejor con un taller europeo medieval que con la Judea del siglo I.",
    "reply": "El argumento trata de lo práctico, no de una imposibilidad probada, y se basa en una sola experimentadora. La cuestión merece más trabajo experimental de tejido antes de que cualquiera de los dos lados se apoye en ella.",
    "strength": "disputed",
-   "strength_reason": "Un solo estudio experimental cuyas conclusiones completas no se han discutido mucho; no pude leer el texto completo.",
+   "strength_reason": "Un solo estudio experimental cuyas conclusiones completas no se han discutido mucho; el artículo completo no es de libre acceso.",
    "sources": [
     {
      "label": "Olsen 2020, EXARC Journal 2020/4",
@@ -1063,7 +1063,7 @@
     },
     {
      "label": "Barcaccia et al. 2015, Scientific Reports 5:14484",
-     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4593049/",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4593049/",
      "type": "peer-reviewed"
     }
    ],
@@ -1113,7 +1113,7 @@
    "sources": [
     {
      "label": "Wikipedia: Hungarian Pray Codex",
-     "url": "https://en.wikipedia.org/wiki/Hungarian_Pray_Codex",
+     "url": "https://en.wikipedia.org/wiki/Pray_Codex",
      "type": "website"
     },
     {
@@ -1283,7 +1283,7 @@
     },
     {
      "label": "Lista de artículos publicados de STURP",
-     "url": "http://www.shroud.com/78papers.htm",
+     "url": "https://www.shroud.com/78papers.htm",
      "type": "website"
     }
    ],
@@ -1328,7 +1328,7 @@
     },
     {
      "label": "Vatican News 2020, carta del papa Francisco",
-     "url": "https://vaticannews.va/en/pope/news/2020-04/pope-expresses-gratitude-for-exposition-of-the-shroud-of-turin.html",
+     "url": "https://www.vaticannews.va/en/pope/news/2020-04/pope-expresses-gratitude-for-exposition-of-the-shroud-of-turin.html",
      "type": "official"
     },
     {

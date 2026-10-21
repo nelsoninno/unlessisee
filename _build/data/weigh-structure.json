@@ -1,0 +1,102 @@
+[
+ {
+  "id": "c14",
+  "ev": "against-radiocarbon-1988",
+  "obj": "reply",
+  "side": "against",
+  "w": 3,
+  "top": true
+ },
+ {
+  "id": "image-unique",
+  "ev": "image-superficiality",
+  "obj": "skeptic",
+  "side": "for",
+  "w": 3,
+  "top": true
+ },
+ {
+  "id": "c14-flaws",
+  "ev": "radiocarbon-heterogeneity",
+  "obj": "skeptic",
+  "side": "for",
+  "w": 1
+ },
+ {
+  "id": "history",
+  "ev": "against-no-record-before-1350s",
+  "obj": "reply",
+  "side": "against",
+  "w": 2
+ },
+ {
+  "id": "no-paint",
+  "ev": "against-mccrone-paint",
+  "obj": "skeptic",
+  "side": "for",
+  "w": 2
+ },
+ {
+  "id": "darcis",
+  "ev": "against-darcis-memorandum",
+  "obj": "reply",
+  "side": "against",
+  "w": 1.5
+ },
+ {
+  "id": "negative",
+  "ev": "photographic-negative",
+  "obj": "skeptic",
+  "side": "for",
+  "w": 1
+ },
+ {
+  "id": "relief",
+  "ev": "against-moraes-low-relief-2025",
+  "obj": "reply",
+  "side": "against",
+  "w": 1.5
+ },
+ {
+  "id": "three-d",
+  "ev": "three-d-information",
+  "obj": "skeptic",
+  "side": "for",
+  "w": 1
+ },
+ {
+  "id": "replicas",
+  "ev": "against-artistic-reproductions",
+  "obj": "reply",
+  "side": "against",
+  "w": 1.5
+ },
+ {
+  "id": "blood",
+  "ev": "blood-is-real-blood",
+  "obj": "skeptic",
+  "side": "for",
+  "w": 1.5
+ },
+ {
+  "id": "bloodflows",
+  "ev": "against-bloodstain-pattern-2018",
+  "obj": "reply",
+  "side": "against",
+  "w": 1
+ },
+ {
+  "id": "wounds",
+  "ev": "crucifixion-pathology",
+  "obj": "skeptic",
+  "side": "for",
+  "w": 1.5
+ },
+ {
+  "id": "pray",
+  "ev": "pray-codex",
+  "obj": "skeptic",
+  "side": "for",
+  "w": 1
+ }
+]

@@ -1,87 +1,60 @@
 {
- "prior": {
-  "neutral": -3,
-  "skeptic": -5,
-  "believer": -1
- },
  "items": [
   {
    "id": "c14",
-   "label": "1988년 탄소 연대 측정: 서기 1260~1390년",
-   "skeptic": -3,
-   "believer": -0.5
+   "statement": "1988년 탄소 연대 측정이 옳다. 이 아마포는 대략 1260년에서 1390년 사이에 만들어졌다."
+  },
+  {
+   "id": "image-unique",
+   "statement": "이 형상의 모든 특징을 갖춘 형상을 만든 사람은 아무도 없으며, 이런 형상이 남은 다른 수의도 없다."
   },
   {
    "id": "c14-flaws",
-   "label": "1988년 결과들이 서로 잘 일치하지 않는다",
-   "skeptic": 0,
-   "believer": 0.5
+   "statement": "1988년의 결과들은 서로 너무 맞지 않아 문제를 결론짓기에 부족하다."
   },
   {
    "id": "history",
-   "label": "1354년경 이전에는 천에 대한 확실한 기록이 없다",
-   "skeptic": -1,
-   "believer": -0.3
-  },
-  {
-   "id": "darcis",
-   "label": "한 주교(1389)와 한 학자(오렘)가 가짜라고 했다",
-   "skeptic": -0.7,
-   "believer": -0.2
+   "statement": "1350년대 이전에는 이 천에 대한 확실한 기록이 없으며, 이는 그 무렵에 만들어졌음을 시사한다."
   },
   {
    "id": "no-paint",
-   "label": "형상을 이루는 물감이나 접착제가 없다",
-   "skeptic": 0.3,
-   "believer": 1
+   "statement": "이 형상은 물감이나 염료, 어떤 접착제로도 이루어져 있지 않다."
   },
   {
-   "id": "thin",
-   "label": "색이 가장 바깥 섬유에만 있다",
-   "skeptic": 0.3,
-   "believer": 1
+   "id": "darcis",
+   "statement": "1389년에 이것을 그림이라고 한 주교와 당대의 뛰어난 학자 한 사람의 말이 옳았다."
   },
   {
    "id": "negative",
-   "label": "형상이 사진 음화처럼 작용한다",
-   "skeptic": 0,
-   "believer": 0.7
+   "statement": "이 형상은 사진 음화처럼 작동하는데, 중세 화가에게는 그렇게 만들 이유가 없었다."
+  },
+  {
+   "id": "relief",
+   "statement": "이 형상은 실제 몸보다 얕은 부조에 더 잘 들어맞는다."
   },
   {
    "id": "three-d",
-   "label": "형상의 어두운 정도가 3D 지도처럼 거리를 담고 있다",
-   "skeptic": 0.2,
-   "believer": 0.8
+   "statement": "형상의 명암은 몸과의 거리를 기록하고 있어 3D 지도와 같다."
+  },
+  {
+   "id": "replicas",
+   "statement": "중세의 방법으로도 수의를 설명할 만큼 비슷한 형상을 만들 수 있다."
   },
   {
    "id": "blood",
-   "label": "혈액 반응이 나오는 얼룩이 형상보다 먼저 천에 있었던 것으로 보인다",
-   "skeptic": 0.2,
-   "believer": 0.7
+   "statement": "붉은 얼룩은 진짜 피다."
+  },
+  {
+   "id": "bloodflows",
+   "statement": "피 흐름이 한 가지 자세와 맞지 않아, 마치 화가가 배치한 것 같다."
   },
   {
    "id": "wounds",
-   "label": "상처가 로마식 십자가 처형과 일치하고, 못은 손목에 있다",
-   "skeptic": 0.3,
-   "believer": 1
-  },
-  {
-   "id": "unreproduced",
-   "label": "형상의 모든 특징을 재현한 사람이 없다",
-   "skeptic": 0.5,
-   "believer": 1.2
+   "statement": "상처들은 복음서가 언급하지 않은 세부까지 실제 로마식 십자가형과 일치한다."
   },
   {
    "id": "pray",
-   "label": "1192년경의 프레이 코덱스 그림",
-   "skeptic": 0,
-   "believer": 0.5
-  },
-  {
-   "id": "pollen-coins",
-   "label": "꽃가루, 눈 위의 동전, 꽃 형상 (약함 또는 반박됨으로 평가)",
-   "skeptic": 0,
-   "believer": 0
+   "statement": "1192년경 프레이 코덱스의 그림은 탄소 연대보다 앞서 이 천을 보여 준다."
   }
  ]
 }

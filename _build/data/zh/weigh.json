@@ -1,87 +1,60 @@
 {
- "prior": {
-  "neutral": -3,
-  "skeptic": -5,
-  "believer": -1
- },
  "items": [
   {
    "id": "c14",
-   "label": "1988年碳定年：公元1260年至1390年",
-   "skeptic": -3,
-   "believer": -0.5
+   "statement": "1988年的碳十四测年是正确的：这块亚麻布制成于约1260年至1390年之间。"
+  },
+  {
+   "id": "image-unique",
+   "statement": "至今无人能做出具备其全部特征的图像，也没有任何其他裹尸布带有类似的图像。"
   },
   {
    "id": "c14-flaws",
-   "label": "1988年的各项结果彼此吻合得不好",
-   "skeptic": 0,
-   "believer": 0.5
+   "statement": "1988年的各项结果彼此差异太大，不足以定论。"
   },
   {
    "id": "history",
-   "label": "约1354年之前没有关于这块布的可靠记载",
-   "skeptic": -1,
-   "believer": -0.3
-  },
-  {
-   "id": "darcis",
-   "label": "一位主教（1389年）和一位学者（Oresme）称它是伪造品",
-   "skeptic": -0.7,
-   "believer": -0.2
+   "statement": "这块布在1350年代之前没有可靠的历史记录，这表明它是在那时制成的。"
   },
   {
    "id": "no-paint",
-   "label": "构成图像的不是颜料或黏合剂",
-   "skeptic": 0.3,
-   "believer": 1
+   "statement": "这幅图像不是由颜料、染料或任何黏合剂构成的。"
   },
   {
-   "id": "thin",
-   "label": "颜色只附着在最外层的纤维上",
-   "skeptic": 0.3,
-   "believer": 1
+   "id": "darcis",
+   "statement": "1389年称它为画作的主教，以及当时一位重要学者，说得没错。"
   },
   {
    "id": "negative",
-   "label": "图像的表现就像一张照相底片",
-   "skeptic": 0,
-   "believer": 0.7
+   "statement": "这幅图像如同照相底片，而中世纪画家没有理由画出这样的图像。"
+  },
+  {
+   "id": "relief",
+   "statement": "这幅图像更像是浅浮雕留下的，而不是真实人体。"
   },
   {
    "id": "three-d",
-   "label": "图像的深浅记录了距离，就像一张3D地图",
-   "skeptic": 0.2,
-   "believer": 0.8
+   "statement": "图像的深浅记录了与人体之间的距离，就像一张3D地图。"
+  },
+  {
+   "id": "replicas",
+   "statement": "用中世纪的方法可以做出足够接近的图像，足以解释这块裹尸布。"
   },
   {
    "id": "blood",
-   "label": "检测为血迹的污渍，似乎先于图像留在布上",
-   "skeptic": 0.2,
-   "believer": 0.7
+   "statement": "那些红色斑迹是真正的血。"
+  },
+  {
+   "id": "bloodflows",
+   "statement": "这些血流无法与同一个身体姿势吻合，仿佛是画家安排的。"
   },
   {
    "id": "wounds",
-   "label": "伤痕符合罗马式钉十字架，钉子穿过手腕",
-   "skeptic": 0.3,
-   "believer": 1
-  },
-  {
-   "id": "unreproduced",
-   "label": "至今没有人复制出图像的全部特征",
-   "skeptic": 0.5,
-   "believer": 1.2
+   "statement": "这些伤痕与真实的罗马十字架刑相符，甚至包括福音书从未提及的细节。"
   },
   {
    "id": "pray",
-   "label": "约1192年普雷抄本中的图画",
-   "skeptic": 0,
-   "believer": 0.5
-  },
-  {
-   "id": "pollen-coins",
-   "label": "花粉、眼上的钱币、花朵图像（评为薄弱或已被推翻）",
-   "skeptic": 0,
-   "believer": 0
+   "statement": "约1192年的普雷抄本中有一幅图，描绘的正是这块布，早于碳十四测定的年代。"
   }
  ]
 }

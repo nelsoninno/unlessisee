@@ -1,0 +1,38 @@
+{
+ "nav": "Tu veredicto",
+ "page": {
+  "title": "Pésalo tú mismo: ¿qué lado gana para ti? | Si no veo",
+  "description": "Repasa los datos clave sobre la Sábana Santa de Turín, di qué piensas de cada uno y mira qué lado, auténtica o medieval, va ganando para ti.",
+  "h1": "Pésalo tú mismo",
+  "lede": "Catorce puntos clave del expediente. En cada uno, di lo que piensas. Mientras respondes, verás qué lado va ganando para ti y el argumento más fuerte en contra de cada punto.",
+  "scale": [
+   "Es un hecho",
+   "Probablemente cierto",
+   "No estoy seguro",
+   "Probablemente no",
+   "No estoy de acuerdo"
+  ],
+  "topAgainst": "El argumento más fuerte contra la autenticidad",
+  "topFor": "El argumento más fuerte a favor de la autenticidad",
+  "obj": "El argumento más fuerte en contra de esto",
+  "more": "Leer la prueba completa",
+  "resultH": "Qué lado gana para ti",
+  "sideFor": "Auténtica",
+  "sideForLong": "Un sudario del siglo I",
+  "sideAgainst": "Medieval",
+  "sideAgainstLong": "Hecha hacia 1260 a 1390",
+  "answered": "{n} de {t} respondidos",
+  "strongest": "Lo que más pesa en tus respuestas:",
+  "reset": "Empezar de nuevo",
+  "caveat": "Esto no es una probabilidad ni una prueba. Solo suma tus propias respuestas. Los dos argumentos más fuertes cuentan el triple que un punto normal. Estar en desacuerdo con un punto suma para el otro lado.",
+  "see": "Ver resultado",
+  "teaser": "<p>La mayoría de los debates sobre la Sábana Santa se reducen a unos pocos datos y a cuánto debe contar cada uno. Por eso hicimos una herramienta sencilla. Repasa los puntos clave, di si crees que cada uno es cierto y mira qué lado va ganando para ti.</p>\n<p>Junto a cada punto encontrarás el argumento más fuerte en su contra, para que pongas a prueba tu propia respuesta.</p>",
+  "cta": "Pésalo tú mismo",
+  "verdict": {
+   "none": "Responde algunos puntos para ver hacia dónde te inclinas.",
+   "for": "Para ti, va ganando la autenticidad.",
+   "against": "Para ti, va ganando el origen medieval.",
+   "close": "Para ti, está parejo. Ningún lado gana con claridad."
+  }
+ }
+}

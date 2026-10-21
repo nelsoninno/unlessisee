@@ -1,0 +1,38 @@
+{
+ "nav": "Twój werdykt",
+ "page": {
+  "title": "Oceń samodzielnie: która strona wygrywa u Ciebie? | Jeśli nie zobaczę",
+  "description": "Przejdź przez kluczowe fakty o Całunie Turyńskim, powiedz, co o każdym myślisz, i zobacz, która strona, autentyczność czy średniowiecze, wygrywa u Ciebie.",
+  "h1": "Oceń samodzielnie",
+  "lede": "Czternaście kluczowych punktów z akt sprawy. Przy każdym powiedz, co myślisz. W miarę odpowiadania zobaczysz, która strona wygrywa u Ciebie, a także najmocniejszy argument przeciwko każdemu punktowi.",
+  "scale": [
+   "To fakt",
+   "Raczej prawda",
+   "Nie wiem",
+   "Raczej nie",
+   "Nie zgadzam się"
+  ],
+  "topAgainst": "Najmocniejszy argument przeciw autentyczności",
+  "topFor": "Najmocniejszy argument za autentycznością",
+  "obj": "Najmocniejszy argument przeciwko temu",
+  "more": "Przeczytaj cały dowód",
+  "resultH": "Która strona wygrywa u Ciebie",
+  "sideFor": "Autentyczny",
+  "sideForLong": "Płótno grobowe z I wieku",
+  "sideAgainst": "Średniowieczny",
+  "sideAgainstLong": "Wykonany między ok. 1260 a 1390 r.",
+  "answered": "Odpowiedzi: {n} z {t}",
+  "strongest": "Co najbardziej waży w Twoich odpowiedziach:",
+  "reset": "Zacznij od nowa",
+  "caveat": "To nie jest prawdopodobieństwo ani dowód. Narzędzie tylko sumuje Twoje własne odpowiedzi. Dwa najmocniejsze argumenty liczą się trzy razy bardziej niż zwykły punkt. Niezgoda z punktem liczy się na korzyść drugiej strony.",
+  "see": "Zobacz wynik",
+  "teaser": "<p>Większość sporów o Całun sprowadza się do kilku faktów i do tego, ile każdy z nich powinien ważyć. Dlatego zbudowaliśmy proste narzędzie. Przejdź przez kluczowe punkty, powiedz, czy uważasz każdy z nich za prawdziwy, i zobacz, która strona wygrywa u Ciebie.</p>\n<p>Przy każdym punkcie znajdziesz najmocniejszy argument przeciwko niemu, aby sprawdzić własną odpowiedź.</p>",
+  "cta": "Oceń samodzielnie",
+  "verdict": {
+   "none": "Odpowiedz na kilka punktów, aby zobaczyć, ku czemu się skłaniasz.",
+   "for": "U Ciebie wygrywa autentyczność.",
+   "against": "U Ciebie wygrywa średniowieczne pochodzenie.",
+   "close": "U Ciebie jest blisko. Żadna strona nie prowadzi wyraźnie."
+  }
+ }
+}

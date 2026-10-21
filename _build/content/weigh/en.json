@@ -1,0 +1,38 @@
+{
+ "nav": "Your verdict",
+ "page": {
+  "title": "Weigh it yourself: which side is winning for you? | Unless I See",
+  "description": "Go through the key facts about the Shroud of Turin, say what you think of each, and see which side, authentic or medieval, is winning for you.",
+  "h1": "Weigh it yourself",
+  "lede": "Fourteen key points from the case file. For each one, say what you think. As you answer, you will see which side is winning for you, and the strongest argument against each point.",
+  "scale": [
+   "It's a fact",
+   "Probably true",
+   "Not sure",
+   "Probably not",
+   "I disagree"
+  ],
+  "topAgainst": "The strongest argument against authenticity",
+  "topFor": "The strongest argument for authenticity",
+  "obj": "The strongest argument against this",
+  "more": "Read the full exhibit",
+  "resultH": "Which side is winning for you",
+  "sideFor": "Authentic",
+  "sideForLong": "A first-century burial cloth",
+  "sideAgainst": "Medieval",
+  "sideAgainstLong": "Made around 1260 to 1390",
+  "answered": "{n} of {t} answered",
+  "strongest": "What weighs most in your answers:",
+  "reset": "Start over",
+  "caveat": "This is not a probability and not a proof. It only adds up your own answers. The two strongest arguments count three times as much as an ordinary point. Disagreeing with a point counts for the other side.",
+  "see": "See result",
+  "teaser": "<p>Most debates about the Shroud come down to a handful of facts and how much each one should count. So we built a simple tool. Go through the key points, say whether you think each one is true, and see which side is winning for you.</p>\n<p>Next to each point you will find the strongest argument against it, so you can test your own answer.</p>",
+  "cta": "Weigh it yourself",
+  "verdict": {
+   "none": "Answer a few points to see where you land.",
+   "for": "For you, the case for authenticity is winning.",
+   "against": "For you, the case for a medieval origin is winning.",
+   "close": "For you, it is close. Neither side is clearly ahead."
+  }
+ }
+}

@@ -55,7 +55,14 @@
       cx.globalCompositeOperation='source-over'; cx.globalAlpha=1; ctex.needsUpdate=true;
     }
     paint(0);
-    var clothMat=new THREE.MeshStandardMaterial({map:ctex,roughness:.95,metalness:0,side:THREE.DoubleSide,emissive:new THREE.Color(0xffe7b0),emissiveIntensity:0});
+    // Glow map: where the body is, light shines evenly through the linen (soft at the edges)
+    var gcv=document.createElement('canvas'); gcv.width=R.w; gcv.height=R.h;
+    (function(){var g=gcv.getContext('2d'),id=g.createImageData(R.w,R.h),d=id.data;
+      for(var k=0;k<R.w*R.h;k++){var v=hm[k]/255,a=smooth((v-0.05)/0.22);a=Math.pow(a,0.7)*(0.62+0.38*Math.min(1,v/0.7));var c=Math.round(255*a);d[k*4]=c;d[k*4+1]=c;d[k*4+2]=c;d[k*4+3]=255;}
+      g.putImageData(id,0,0);
+      var b=document.createElement('canvas');b.width=R.w;b.height=R.h;var bg=b.getContext('2d');bg.filter='blur(2px)';bg.drawImage(gcv,0,0);g.clearRect(0,0,R.w,R.h);g.drawImage(b,0,0);})();
+    var gtex=new THREE.CanvasTexture(gcv);
+    var clothMat=new THREE.MeshStandardMaterial({map:ctex,roughness:.95,metalness:0,side:THREE.DoubleSide,emissive:new THREE.Color(0xffe2a8),emissiveMap:gtex,emissiveIntensity:0});
     var cloth=new THREE.Mesh(geo,clothMat); scene.add(cloth);
 
     // Stone slab
@@ -67,9 +74,9 @@
     // Lights
     var amb=new THREE.AmbientLight(0x8fa3b8,.18); scene.add(amb);
     var moon=new THREE.DirectionalLight(0x9fb3c8,.55); moon.position.set(-3,5,2); scene.add(moon);
-    var glow=new THREE.PointLight(0xffe2a0,0,8,1.6); glow.position.set(0,0.15,0); scene.add(glow);
-    var glow2=new THREE.PointLight(0xffe2a0,0,8,1.6); glow2.position.set(-1.2,0.2,0); scene.add(glow2);
-    var glow3=new THREE.PointLight(0xffe2a0,0,8,1.6); glow3.position.set(1.2,0.15,0); scene.add(glow3);
+    var glow=new THREE.PointLight(0xffe2a0,0,8,1.6); glow.position.set(0,0.03,0); scene.add(glow);
+    var glow2=new THREE.PointLight(0xffe2a0,0,8,1.6); glow2.position.set(-1.2,0.03,0); scene.add(glow2);
+    var glow3=new THREE.PointLight(0xffe2a0,0,8,1.6); glow3.position.set(1.2,0.03,0); scene.add(glow3);
 
     // Particles: collimated light rising from the body shape
     var PN=5200, pg=new THREE.BufferGeometry(), pp=new Float32Array(PN*3), seed=new Float32Array(PN*3);
@@ -87,6 +94,10 @@
     var rmat=new THREE.LineBasicMaterial({color:0xf3d9a0,transparent:true,opacity:0,blending:THREE.AdditiveBlending,depthWrite:false});
     var rays=new THREE.LineSegments(rg,rmat); rays.frustumCulled=false; scene.add(rays);
     var dawn=new THREE.HemisphereLight(0xfff4e0,0x8a9bb0,0); scene.add(dawn);
+    var bgeo=new THREE.PlaneGeometry(L,Wd,R.w-1,R.h-1); bgeo.rotateX(-Math.PI/2);
+    (function(){var p=bgeo.attributes.position;for(var i=0;i<n;i++)p.setY(i,base[i]*lift*0.96+0.004);p.needsUpdate=true;bgeo.computeVertexNormals();})();
+    var bmat=new THREE.MeshBasicMaterial({color:0xffe0a0,alphaMap:gtex,transparent:true,opacity:0,blending:THREE.AdditiveBlending,depthWrite:false,side:THREE.DoubleSide});
+    var bodyLight=new THREE.Mesh(bgeo,bmat); scene.add(bodyLight);
 
     // Timeline (seconds)
     var T=20, t=0, playing=false, last=0, started=false;
@@ -97,17 +108,22 @@
       var ang=-0.9+c*0.9, rad=5.6-c*1.6, hy=0.9+c*3.5;
       cam.position.set(Math.sin(ang)*rad*0.55, hy, Math.cos(ang)*rad); cam.lookAt(0,0.05,0);
       // glow build and burst
-      var g=seg(tt,3,6)*(1-seg(tt,10,12.5));
+      // the body glows evenly through the cloth from the start, until it passes out (about 3/4 of the way)
+      var leave=seg(tt,13.6,15.6);              // the body of light leaves; the cloth falls through it
+      var g=seg(tt,0.8,3)*(1-0.55*seg(tt,8.5,11))*(1-leave);
       var burst=seg(tt,6.2,7)*(1-seg(tt,7,9.5));
-      glow.intensity=glow2.intensity=glow3.intensity=g*5+burst*14;
-      clothMat.emissiveIntensity=g*0.25+burst*0.35;
+      glow.intensity=glow2.intensity=glow3.intensity=g*3+burst*14;
+      clothMat.emissiveIntensity=g*0.62+burst*0.7;
+      var up=seg(tt,14.6,17.5);
+      bmat.opacity=seg(tt,13.4,14.4)*(1-up)*0.55;
+      bodyLight.position.y=up*0.9;
       renderer.toneMappingExposure=1+burst*0.35;
       // particles rise straight up during the burst window
-      var pa=seg(tt,6,7)*(1-seg(tt,9.5,11)); pmat.opacity=pa;
+      var pa=Math.max(seg(tt,6,7)*(1-seg(tt,9.5,11)),0.55*seg(tt,14.4,15.2)*(1-seg(tt,16.6,17.8))); pmat.opacity=pa;
       var arr=pg.attributes.position.array;
-      for(var i=0;i<PN;i++){var life=((tt-6)*speeds[i]+ (i%97)/97)%1.4;
+      for(var i=0;i<PN;i++){var life=((tt-6)*speeds[i]+ (i%97)/97)%1.4, lift2=tt>13?up*0.9:0;
         if(tt<6||pa<=0.001){arr[i*3+1]=-10;continue;}
-        arr[i*3]=seed[i*3]; arr[i*3+2]=seed[i*3+2]; arr[i*3+1]=seed[i*3+1]+life*2.2;}
+        arr[i*3]=seed[i*3]; arr[i*3+2]=seed[i*3+2]; arr[i*3+1]=seed[i*3+1]+lift2+life*2.2;}
       pg.attributes.position.needsUpdate=true;
       rmat.opacity=pa*0.5; var ra=rg.attributes.position.array;
       for(var j=0;j<RN;j++){var lf=((tt-6)*rsp[j]*0.8+(j%53)/53)%1.6, len=0.4+0.5*((j%7)/7);
@@ -118,7 +134,7 @@
       // image forms on the cloth
       paint(seg(tt,7,11.5));
       // cloth falls flat
-      drapeR(1-seg(tt,12.5,15.5));
+      drapeR(1-seg(tt,13.8,15.8));
       // caption
       var ci=0; for(var k=0;k<capTimes.length;k++)if(tt>=capTimes[k])ci=k;
       if(capEl&&caps[ci]!==capEl.dataset.cur){capEl.style.opacity=0;(function(txt){setTimeout(function(){capEl.textContent=txt||'';capEl.dataset.cur=txt;capEl.style.opacity=1;},350);})(caps[ci]);capEl.dataset.cur=caps[ci];}

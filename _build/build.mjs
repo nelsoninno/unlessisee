@@ -31,6 +31,13 @@ async function loadLang(lang) {
     const en = (await import(path.join(__dirname, 'content', CONFIG.defaultLang + '.mjs') + '?t=' + Date.now())).default;
     copy = deepMerge(en, copy); // missing keys fall back to English until translated
   }
+  // "Weigh it yourself" copy lives in content/weigh/<lang>.json (nav label + page copy), English as fallback
+  const wEn = readJSON(path.join(__dirname, 'content', 'weigh', CONFIG.defaultLang + '.json'), null);
+  const wLoc = readJSON(path.join(__dirname, 'content', 'weigh', lang + '.json'), null) || wEn;
+  if (wEn) {
+    copy.pages = { ...copy.pages, weigh: deepMerge(wEn.page, wLoc.page) };
+    if (!copy.nav.some(n => n.slug === 'weigh')) { const i = copy.nav.findIndex(n => n.slug === 'evidence'); copy.nav = [...copy.nav]; copy.nav.splice(i + 1, 0, { slug: 'weigh', label: wLoc.nav || wEn.nav }); }
+  }
   const d = n => readJSON(path.join(__dirname, 'data', lang, n + '.json'), readJSON(path.join(__dirname, 'data', 'en', n + '.json'), null));
   // Positions, zoom levels and layers always come from the English data, so translations never drift.
   const enD = n => readJSON(path.join(__dirname, 'data', 'en', n + '.json'), null);

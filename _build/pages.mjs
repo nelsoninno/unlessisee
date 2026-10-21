@@ -1,5 +1,10 @@
 // pages.mjs: one render function per page. Copy comes from content/<lang>.mjs, facts from data/<lang>/*.json.
 import { layout, esc, attr, json, CONFIG } from './build.mjs';
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+const DATA = path.join(path.dirname(fileURLToPath(import.meta.url)), 'data');
+const readJ = (f, fb) => { try { return JSON.parse(fs.readFileSync(path.join(DATA, f), 'utf8')); } catch (e) { return fb; } };
 
 const IMG = 'assets/images/';
 const strengthN = { strong: 4, moderate: 3, disputed: 2, weak: 1, debunked: 0 };
@@ -225,7 +230,7 @@ function home(ctx, page) {
 </div></section>
 
 <section class="plate band" id="weigh" style="border-top:1px solid var(--plate-edge)"><div class="wrap split">
-  <div><h2>${p.weighH}</h2>${p.weighText}<div class="btn-row"><a class="btn btn--solid" href="${ctx.href('evidence')}#weigh">${esc(p.weighCta)}</a></div></div>
+  <div><h2>${p.weighH}</h2>${c.pages.weigh.teaser}<div class="btn-row"><a class="btn btn--solid" href="${ctx.href('weigh')}">${esc(c.pages.weigh.cta)}</a></div></div>
   <div><blockquote class="pull">${p.quote}</blockquote><span class="cite">${p.quoteCite}</span></div>
 </div></section>
 
@@ -287,7 +292,7 @@ function explore(ctx, page) {
 
 // ===================================================================== EVIDENCE
 function evidence(ctx, page) {
-  const c = ctx.L.copy, p = c.pages.evidence, E = ctx.L.data.evidence || { items: [] }, Wd = ctx.L.data.weigh;
+  const c = ctx.L.copy, p = c.pages.evidence, E = ctx.L.data.evidence || { items: [] };
   const items = E.items.slice().sort((a, b) => (a.exhibit || 0) - (b.exhibit || 0));
   const cats = [...new Set(items.map(i => i.category))];
   const nFor = items.filter(i => leanOf(i) === 'for').length, nAg = items.filter(i => leanOf(i) === 'against').length;
@@ -306,29 +311,12 @@ ${srcList(it.sources)}
 </div></article>`;
   }).join('\n');
   const chip = (g, v, label, on) => `<button class="chip" type="button" data-filter="${g}" data-value="${v}" aria-pressed="${on ? 'true' : 'false'}">${esc(label)}</button>`;
-  const weigh = Wd ? `
-<section class="plate band" id="weigh"><div class="wrap">
-  <div class="measure"><h2>${p.weighH}</h2>${p.weighText}</div>
-  <div class="btn-row" style="margin-bottom:2rem">
-    <button class="tool" type="button" data-preset="neutral">${esc(p.wui.neutral)}</button>
-    <button class="tool" type="button" data-preset="skeptic">${esc(p.wui.skeptic)}</button>
-    <button class="tool" type="button" data-preset="believer">${esc(p.wui.believer)}</button>
-  </div>
-  <div class="weigh">
-    <div>
-      <div class="weigh__row" style="border-bottom-color:var(--silver-soft)"><div><label for="w-prior">${esc(p.wui.prior)}</label><output data-prior-out></output><p class="meta" style="margin-top:.4rem">${p.wui.priorHelp}</p></div><input id="w-prior" type="range" min="-7" max="0" step="0.1" data-prior></div>
-      <div class="weigh__list"></div>
-    </div>
-    <aside class="weigh__panel" aria-live="polite">
-      <p class="meta">${esc(p.wui.result)}</p>
-      <p class="weigh__big" data-post>50%</p>
-      <p class="meta" data-odds style="margin-top:.6rem"></p>
-      <svg class="scale-beam" viewBox="0 0 320 120" aria-hidden="true"><polygon points="150,110 170,110 160,62" fill="var(--silver-soft)"/><g data-beam><line x1="40" y1="60" x2="280" y2="60" stroke="var(--silver)" stroke-width="3"/><circle cx="40" cy="60" r="4" fill="var(--silver)"/><circle cx="280" cy="60" r="4" fill="var(--silver)"/><text x="40" y="45" text-anchor="middle" font-size="12" fill="var(--silver-soft)">${esc(p.wui.medieval)}</text><text x="280" y="45" text-anchor="middle" font-size="12" fill="var(--silver-soft)">${esc(p.wui.authentic)}</text></g></svg>
-      <p class="meta">${p.wui.caveat}</p>
-    </aside>
-  </div>
-  <script type="application/json" id="weigh-data">${json({ prior: Wd.prior, items: Wd.items, ui: p.wui })}</script>
-</div></section>` : '';
+  const hp = c.pages.index, wp = c.pages.weigh;
+  const weigh = `
+<section class="plate band" id="weigh"><div class="wrap split">
+  <div><h2>${hp.weighH}</h2>${wp.teaser}<div class="btn-row"><a class="btn btn--solid" href="${ctx.href('weigh')}">${esc(wp.cta)}</a></div></div>
+  <div><blockquote class="pull">${hp.quote}</blockquote><span class="cite">${hp.quoteCite}</span></div>
+</div></section>`;
   const body = `${pageHead(ctx, p, `<p class="meta" style="margin-top:1.5rem">${p.counts.replace('{n}', items.length).replace('{f}', nFor).replace('{a}', nAg)}</p>`)}
 <section class="linen band band--tight" style="padding-top:0"><div class="wrap">
   <div class="note measure">${p.method}</div>
@@ -338,6 +326,49 @@ ${srcList(it.sources)}
   <div class="exhibits">${ex}</div>
 </div></section>${weigh}`;
   return layout(ctx, page, { title: p.title, description: p.description, jsonld: siteGraph(ctx, page, p) }, body, ['assets/js/evidence.js']);
+}
+
+// ===================================================================== WEIGH IT YOURSELF
+function weigh(ctx, page) {
+  const c = ctx.L.copy, p = c.pages.weigh, hp = c.pages.index, E = ctx.L.data.evidence || { items: [] };
+  const S = readJ('weigh-structure.json', []);
+  const stOf = f => Object.fromEntries(((f && f.items) || []).filter(i => i.statement).map(i => [i.id, i.statement]));
+  const st = { ...stOf(readJ('en/weigh.json', null)), ...stOf(ctx.L.data.weigh) };
+  const ev = Object.fromEntries(E.items.map(i => [i.id, i]));
+  const vals = [1, 0.5, 0, -0.5, -1];
+  const cards = S.map(s => {
+    const e = ev[s.ev] || {}, obj = e[s.obj] || '';
+    return `<article class="claim${s.top ? ' claim--top' : ''}" id="w-${attr(s.id)}" data-id="${attr(s.id)}" data-side="${s.side}" data-w="${s.w}">
+${s.top ? `<p class="claim__top claim__top--${s.side}">${esc(s.side === 'for' ? p.topFor : p.topAgainst)}</p>` : ''}
+<p class="claim__lean claim__lean--${s.side}">${esc(c.lean[s.side])}</p>
+<h2 class="claim__text">${esc(st[s.id] || s.id)}</h2>
+<div class="likert" role="group" aria-label="${attr(st[s.id] || s.id)}">${vals.map((v, k) => `<button type="button" data-v="${v}" aria-pressed="false">${esc(p.scale[k])}</button>`).join('')}</div>
+${obj ? `<details class="claim__obj"><summary>${esc(p.obj)}</summary><p>${esc(obj)}</p><p><a href="${ctx.href('evidence')}#${attr(s.ev)}">${esc(p.more)}</a></p></details>` : ''}
+</article>`;
+  }).join('\n');
+  const ui = { verdict: p.verdict, answered: p.answered, total: S.length };
+  const body = `${pageHead(ctx, p)}
+<section class="linen band band--tight" style="padding-top:0"><div class="wrap">
+<div class="weigh2" data-weigh='${attr(JSON.stringify(ui))}'>
+  <div class="claims">${cards}</div>
+  <aside class="verdict" id="verdict" aria-live="polite">
+    <h2 class="verdict__h">${esc(p.resultH)}</h2>
+    <div class="tug" aria-hidden="true"><i class="tug__for" data-bar></i><b class="tug__mid"></b></div>
+    <div class="tug__labels"><p><b data-pct-for>50%</b> ${esc(p.sideFor)}<small>${esc(p.sideForLong)}</small></p><p><b data-pct-against>50%</b> ${esc(p.sideAgainst)}<small>${esc(p.sideAgainstLong)}</small></p></div>
+    <p class="verdict__text" data-verdict>${esc(p.verdict.none)}</p>
+    <p class="meta" data-answered>${esc(p.answered.replace('{n}', 0).replace('{t}', S.length))}</p>
+    <p class="verdict__strong" data-strong hidden><span class="meta">${esc(p.strongest)}</span> <span data-strong-text></span></p>
+    <button class="tool" type="button" data-reset>${esc(p.reset)}</button>
+    <p class="meta verdict__caveat">${esc(p.caveat)}</p>
+  </aside>
+</div>
+</div></section>
+<a class="verdict-mini" href="#verdict" hidden><span class="tug" aria-hidden="true"><i class="tug__for" data-bar></i><b class="tug__mid"></b></span><span data-mini>50% / 50%</span><span class="verdict-mini__go">${esc(p.see)}</span></a>
+<section class="plate band" id="freedom"><div class="wrap split" style="align-items:center">
+  <div><h2>${hp.freeH}</h2>${hp.freeText}</div>
+  <div><blockquote class="pull">${hp.freeQuote}</blockquote><span class="cite">${hp.freeCite}</span></div>
+</div></section>`;
+  return layout(ctx, page, { title: p.title, description: p.description, jsonld: siteGraph(ctx, page, p) }, body, ['assets/js/weigh.js']);
 }
 
 // ===================================================================== WOUNDS
@@ -546,6 +577,7 @@ export const pages = [
   { slug: 'index', render: home },
   { slug: 'explore', render: explore },
   { slug: 'evidence', render: evidence, schemaType: 'CollectionPage' },
+  { slug: 'weigh', render: weigh },
   { slug: 'wounds', render: wounds, schemaType: 'Article' },
   { slug: 'dating', render: dating, schemaType: 'Article' },
   { slug: 'image', render: image, schemaType: 'Article' },

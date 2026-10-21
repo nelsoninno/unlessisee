@@ -1,0 +1,38 @@
+{
+ "nav": "Seu veredito",
+ "page": {
+  "title": "Pese você mesmo: qual lado está ganhando para você? | Se eu não vir",
+  "description": "Percorra os fatos-chave sobre o Santo Sudário de Turim, diga o que pensa de cada um e veja qual lado, autêntico ou medieval, está ganhando para você.",
+  "h1": "Pese você mesmo",
+  "lede": "Catorze pontos-chave do dossiê. Em cada um, diga o que você pensa. Conforme responde, você vê qual lado está ganhando para você e o argumento mais forte contra cada ponto.",
+  "scale": [
+   "É um fato",
+   "Provavelmente verdade",
+   "Não tenho certeza",
+   "Provavelmente não",
+   "Discordo"
+  ],
+  "topAgainst": "O argumento mais forte contra a autenticidade",
+  "topFor": "O argumento mais forte a favor da autenticidade",
+  "obj": "O argumento mais forte contra isto",
+  "more": "Ler o item completo",
+  "resultH": "Qual lado está ganhando para você",
+  "sideFor": "Autêntico",
+  "sideForLong": "Um sudário do século I",
+  "sideAgainst": "Medieval",
+  "sideAgainstLong": "Feito por volta de 1260 a 1390",
+  "answered": "{n} de {t} respondidos",
+  "strongest": "O que mais pesa nas suas respostas:",
+  "reset": "Recomeçar",
+  "caveat": "Isto não é uma probabilidade nem uma prova. Apenas soma as suas próprias respostas. Os dois argumentos mais fortes contam o triplo de um ponto comum. Discordar de um ponto conta para o outro lado.",
+  "see": "Ver resultado",
+  "teaser": "<p>A maioria dos debates sobre o Sudário se resume a alguns fatos e a quanto cada um deve pesar. Por isso fizemos uma ferramenta simples. Percorra os pontos-chave, diga se acha que cada um é verdadeiro e veja qual lado está ganhando para você.</p>\n<p>Ao lado de cada ponto está o argumento mais forte contra ele, para você testar a sua própria resposta.</p>",
+  "cta": "Pese você mesmo",
+  "verdict": {
+   "none": "Responda alguns pontos para ver para onde você tende.",
+   "for": "Para você, a autenticidade está ganhando.",
+   "against": "Para você, a origem medieval está ganhando.",
+   "close": "Para você, está equilibrado. Nenhum lado está claramente à frente."
+  }
+ }
+}
