@@ -214,6 +214,14 @@ export default {
       lede: 'Click a number on the cloth or a wound in the list. Each mark is explained the way forensic pathologists describe it, next to the Gospel verse it corresponds to, and the skeptic\'s note where there is one.',
       front: 'Front', back: 'Back', alt_front: 'Front image of the man on the Shroud, negative view', alt_back: 'Back image of the man on the Shroud, negative view',
       figNote: 'Positions are approximate. Negative view, where the blood marks appear light.',
+      breath: {
+        alt: 'Diagram of a crucified man moving between slumping and pushing up to breathe',
+        h: 'Why the blood on the arms runs two ways',
+        text: `<p>On the forearms, thin rivulets of blood run at two slightly different angles, about ten degrees apart. Pathologists such as Robert Bucklin read this as the arms being held at two positions while the blood was flowing.</p>
+<p>That fits how crucifixion kills. Hanging by the arms makes it hard to breathe out, so the victim has to push up on the nailed feet to take each breath, then slump again. Blood always runs straight down, so when the arms change angle, the trail on the skin changes direction. Press the button to see it.</p>`,
+        up: 'Push up to breathe', down: 'Slump down',
+        skeptic: 'The skeptic\'s best answer: a 2018 bloodstain pattern study by Matteo Borrini and Luigi Garlaschelli, using a volunteer and real blood flows, found the forearm trails need different arm positions than a single crucifixion pose, and judged some flows unrealistic. Defenders reply that a body that moved for hours would leave exactly such varied trails.'
+      },
       intro: '<p>A Roman crucifixion was a public execution meant to humiliate. The Gospels describe the one that matters here in plain detail. The cloth records an execution with the same features, including some that medieval art got wrong.</p>',
       after: `<h2>Why this matters</h2>
 <p>A forger in the 1300s would have to know details that his own culture did not know or did not show: that nails went through the wrist, that a Roman flagrum left dumbbell-shaped marks, that blood from a dead body separates into clot and serum. Skeptics answer that some of these details are disputed, and that the blood marks themselves have been studied with mixed results. Both sides are in the <a href="evidence.html">case file</a>.</p>`
@@ -335,7 +343,8 @@ export default {
       title: 'Shroud of Turin Research Library: Papers and Studies | Unless I See',
       description: 'A searchable library of research papers, studies and articles on the Shroud of Turin, for and against, with direct links to the originals on shroud.com and journals.',
       h1: 'Library',
-      lede: 'Every paper and study we could find, most of them from the archive at shroud.com that Barrie Schwortz has kept since 1996. Search by word, filter by topic, and go straight to the original.',
+      lede: 'More than 2,400 papers, studies, articles and newsletters, almost all from the archive Barrie Schwortz built at shroud.com from 1996. Start with the 25 key readings, then search by word, filter by topic, and go straight to the original.',
+      keyH: 'Start here: 25 key readings, both sides', keyLede: 'Chosen so a skeptical reader meets the strongest work on each side, in roughly the order the debate unfolded.', allH: 'The full library',
       search: 'Search titles, authors and journals',
       count: 'papers shown',
       peer: 'Peer reviewed',

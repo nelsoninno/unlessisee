@@ -1,0 +1,104 @@
+{
+ "items": [
+  {
+   "id": "sturp-1981-summary-sturps-conclusions",
+   "why": "the STURP team's official verdict. It is the baseline every later debate starts from."
+  },
+  {
+   "id": "schwalbe-1982-physics-chemistry-summary-1978",
+   "why": "the peer-reviewed technical summary of the 1978 tests."
+  },
+  {
+   "id": "heller-1981-chemical-investigation",
+   "why": "the main chemical case that the stains are real blood and the image is not pigment."
+  },
+  {
+   "id": "jackson-1984-correlation-image-intensity-3d",
+   "why": "the origin of the 3D and cloth-to-body distance claim."
+  },
+  {
+   "id": "damon-1989-radiocarbon-dating",
+   "why": "the Nature paper dating the linen to AD 1260 to 1390. This is the core skeptical evidence."
+  },
+  {
+   "id": "meacham-1983-authentication-issue-archaeological-epistemolog",
+   "why": "an archaeologist frames how authenticity could even be judged, with critics' responses alongside."
+  },
+  {
+   "id": "craig-1994-image-formation",
+   "why": "a proposed medieval artistic technique, which shows how a forger might have worked."
+  },
+  {
+   "id": "vikan-1998-debunking-made-human-hands",
+   "why": "an art-historical skeptic's case, with the researchers' rebuttals on the same page."
+  },
+  {
+   "id": "schwortz-2000-medieval-photograph-critical-examination",
+   "why": "tests the popular \"medieval photograph\" theory."
+  },
+  {
+   "id": "marino-2000-evidence-skewing-c14-dating",
+   "why": "the origin of the \"invisible reweave\" hypothesis."
+  },
+  {
+   "id": "rogers-2005-studies-radiocarbon-sample",
+   "why": "the strongest peer-reviewed challenge to whether the 1988 sample is representative."
+  },
+  {
+   "id": "flury-lemberg-2007-invisible-mending-theory-reality",
+   "why": "the 2002 restoration's textile expert argues against the reweave idea."
+  },
+  {
+   "id": "freer-waters-2010-investigating-dated-piece",
+   "why": "the Arizona lab re-examines its own sample and finds no repair."
+  },
+  {
+   "id": "fanti-2010-microscopic-macroscopic-characteristics-image",
+   "why": "how superficial the image really is, a key constraint on any explanation."
+  },
+  {
+   "id": "dilazzaro-2012-superficial-shroudlike-coloration-linen",
+   "why": "the best laboratory attempt to reproduce the colour, and its limits."
+  },
+  {
+   "id": "kearse-2012-blood-immunological-review",
+   "why": "a careful appraisal of how strong the blood claims really are."
+  },
+  {
+   "id": "nicolotti-2014-mandylion-edessa-metamorphosis-manipulation",
+   "why": "a skeptical historian on the \"Edessa = Shroud\" early-history link."
+  },
+  {
+   "id": "bella-2015-there-no-mass-spectrometry",
+   "why": "a skeptical peer-reviewed rebuttal of Rogers."
+  },
+  {
+   "id": "barcaccia-2015-uncovering-sources-dna-found",
+   "why": "the DNA evidence, which shows heavy contamination from many regions."
+  },
+  {
+   "id": "borrini-2018-bpa-approach",
+   "why": "a skeptical bloodstain-pattern experiment. Read it with `hermosilla-2019-commentary-borrini-m-garlaschelli`, a reply in the same journal."
+  },
+  {
+   "id": "casabianca-2019-radiocarbon-dating-new-evidence",
+   "why": "the 1988 raw data, released and reanalysed."
+  },
+  {
+   "id": "dilazzaro-2020-statistical-proactive-analysis-interlaborator",
+   "why": "an independent statistical check of the 1988 results."
+  },
+  {
+   "id": "wilson-2021-earliest-pilgrim-badges-produced",
+   "why": "peer-reviewed study of the 14th-century Lirey badges. It anchors the cloth's first secure appearance."
+  },
+  {
+   "id": "sarzeaud-2025-new-document-appearance-nicole",
+   "why": "a newly found 14th-century source calling the cloth a fraud (listing-only link)."
+  },
+  {
+   "id": "freer-waters-2026-analysis-textile-fragments-1988",
+   "why": "the newest lab analysis of the dated fragments."
+  }
+ ]
+}

@@ -410,3 +410,15 @@ html{transition:filter .6s}
 .pm-key{display:inline-flex;align-items:center;gap:.4rem;margin-right:1rem}
 .pm-key i{display:inline-block;width:26px;height:0;border-top:2.5px solid var(--ink)}
 .pm-key .k-hyp{border-top:2px dashed var(--sepia)}
+
+/* Breathing diagram */
+.breath__fig svg{width:100%;max-width:420px;height:auto;margin:0 auto;display:block;background:var(--white);border:1px solid var(--linen-edge);border-radius:16px}
+.breath .wood{fill:var(--linen-deep);stroke:var(--linen-edge)}
+.breath .skin{fill:var(--linen-edge);stroke:var(--ink-soft);stroke-width:1.2}
+.breath .arm{stroke:var(--ink-soft);stroke-width:9;stroke-linecap:round}
+.breath .leg{stroke:var(--ink-soft);stroke-width:12;stroke-linecap:round;fill:none}
+.breath .drip{stroke:var(--blood);stroke-width:2.5;stroke-linecap:round}
+.breath .nail{fill:var(--ink)}
+.keyreads{margin:1.2rem 0 0 1.2rem;display:grid;gap:.9rem}
+.keyreads a{font-size:1.08rem;color:var(--ink)}
+.keyreads p{font-size:.98rem;color:var(--ink-soft);margin-top:.15rem}

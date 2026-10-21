@@ -123,3 +123,20 @@
     });
   });
 })();
+/* breathing diagram: body rises and falls, arms re-angle, blood keeps running straight down */
+(function(){
+  'use strict';
+  var svg=document.querySelector('[data-breath]'), btn=document.querySelector('[data-breath-btn]');
+  if(!svg||!btn)return;
+  var body=svg.querySelector('[data-body]'), arms=svg.querySelectorAll('.arm'), drips=svg.querySelectorAll('.drip');
+  var labels=JSON.parse(btn.getAttribute('data-labels')); var up=0, target=0, raf=null;
+  function draw(k){ // k: 0 slumped, 1 pushed up
+    var dy=-34*k; body.setAttribute('transform','translate(0,'+dy+')');
+    var sy=128+dy; arms[0].setAttribute('y2',sy); arms[1].setAttribute('y2',sy);
+    // blood runs straight down from a point on the forearm near the wrist
+    [[62,70,135],[258,70,185]].forEach(function(a,i){var x=a[0]+(a[2]-a[0])*0.15, y=a[1]+(sy-a[1])*0.15; drips[i].setAttribute('x1',x); drips[i].setAttribute('y1',y); drips[i].setAttribute('x2',x); drips[i].setAttribute('y2',y+34);});
+  }
+  function step(){up+=(target-up)*0.12; if(Math.abs(target-up)<0.003)up=target; draw(up); if(up!==target)raf=requestAnimationFrame(step); else raf=null;}
+  btn.addEventListener('click',function(){target=target?0:1;btn.textContent=target?labels[1]:labels[0];if(!raf)step();});
+  draw(0);
+})();

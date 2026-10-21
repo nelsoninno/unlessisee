@@ -32,7 +32,7 @@ async function loadLang(lang) {
     copy = deepMerge(en, copy); // missing keys fall back to English until translated
   }
   const d = n => readJSON(path.join(__dirname, 'data', lang, n + '.json'), readJSON(path.join(__dirname, 'data', 'en', n + '.json'), null));
-  return { copy, data: { evidence: d('evidence'), timeline: d('timeline'), wounds: d('wounds'), radiocarbon: d('radiocarbon'), spots: d('spots'), weigh: d('weigh'), videos: d('videos') }, map: readJSON(path.join(__dirname, 'data', 'map.json'), null), library: readJSON(path.join(__dirname, 'data', 'library.json'), { items: [] }), images: readJSON(path.join(__dirname, 'data', 'images.json'), {}), thomas: (readJSON(path.join(__dirname, 'data', 'thomas.json'), {})[lang] || readJSON(path.join(__dirname, 'data', 'thomas.json'), {}).en) };
+  return { copy, data: { evidence: d('evidence'), timeline: d('timeline'), wounds: d('wounds'), radiocarbon: d('radiocarbon'), spots: d('spots'), weigh: d('weigh'), videos: d('videos'), keyreads: d('keyreads') }, map: readJSON(path.join(__dirname, 'data', 'map.json'), null), library: readJSON(path.join(__dirname, 'data', 'library.json'), { items: [] }), images: readJSON(path.join(__dirname, 'data', 'images.json'), {}), thomas: (readJSON(path.join(__dirname, 'data', 'thomas.json'), {})[lang] || readJSON(path.join(__dirname, 'data', 'thomas.json'), {}).en) };
 }
 
 // URL helpers

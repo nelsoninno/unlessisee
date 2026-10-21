@@ -350,8 +350,23 @@ function wounds(ctx, page) {
   </div>
   <div><div class="measure" style="margin-bottom:1.5rem">${p.intro}</div><div class="wound-list">${list}</div></div>
 </div></section>
-<section class="linen band band--tight"><div class="wrap prose">${p.after}</div></section>`;
+<section class="linen band"><div class="wrap">${breathFigure(ctx, c)}</div></section>
+<section class="linen band band--tight" style="border-top:1px solid var(--linen-edge)"><div class="wrap prose">${p.after}</div></section>`;
   return layout(ctx, page, { title: p.title, description: p.description, jsonld: siteGraph(ctx, page, p) }, body, ['assets/js/lists.js']);
+}
+
+function breathFigure(ctx, c) {
+  const B = c.pages.wounds.breath;
+  return `<div class="breath split" style="align-items:center">
+<figure class="breath__fig"><svg viewBox="0 0 320 360" role="img" aria-label="${attr(B.alt)}" data-breath>
+  <rect x="152" y="20" width="16" height="330" rx="2" class="wood"/><rect x="40" y="62" width="240" height="14" rx="2" class="wood"/>
+  <g class="fig"><line class="arm" data-arm="l" x1="62" y1="70" x2="135" y2="128"/><line class="arm" data-arm="r" x1="258" y1="70" x2="185" y2="128"/>
+  <g data-body><circle cx="160" cy="106" r="15" class="skin"/><path d="M135 128 Q160 122 185 128 L178 210 Q160 216 142 210 Z" class="skin"/><path d="M144 210 L150 300 M176 210 L170 300" class="leg"/></g></g>
+  <g data-drips><line x1="72" y1="78" x2="72" y2="112" class="drip"/><line x1="248" y1="78" x2="248" y2="112" class="drip"/></g>
+  <circle cx="62" cy="70" r="4" class="nail"/><circle cx="258" cy="70" r="4" class="nail"/>
+</svg></figure>
+<div><h2>${B.h}</h2>${B.text}<div class="btn-row"><button class="btn btn--solid" type="button" data-breath-btn data-labels='${attr(JSON.stringify([B.up, B.down]))}'>${esc(B.up)}</button></div><p class="note" style="margin-top:1.5rem">${B.skeptic}</p></div>
+</div>`;
 }
 
 // ===================================================================== DATING
@@ -454,6 +469,13 @@ ${V.videos.map(v => `<article class="vid" id="v-${attr(v.id)}">
   return layout(ctx, page, { title: p.title, description: p.description, jsonld: siteGraph(ctx, page, p) }, body, ['assets/js/lists.js']);
 }
 
+function keyReads(ctx, c, Lb) {
+  const K = ctx.L.data.keyreads; if (!K) return '';
+  const by = {}; (Lb.items || []).forEach(i => by[i.id] = i);
+  return `<h2 style="font-size:1.6rem;margin:1rem 0 .4rem">${esc(c.pages.library.keyH)}</h2><p class="meta measure">${esc(c.pages.library.keyLede)}</p>
+<ol class="keyreads">${K.items.map(k => { const i = by[k.id]; if (!i) return ''; return `<li><a href="${attr(i.url)}" target="_blank" rel="noopener">${esc(i.title)}</a> <span class="meta">${esc((i.authors || []).slice(0, 2).join(', '))}${i.year ? ', ' + i.year : ''}</span><p>${esc(k.why)}</p></li>`; }).join('')}</ol>`;
+}
+
 // ===================================================================== LIBRARY
 function library(ctx, page) {
   const c = ctx.L.copy, p = c.pages.library, Lb = ctx.L.library;
@@ -467,6 +489,8 @@ ${i.summary && ctx.lang === 'en' ? `<p class="by" style="margin-top:.2rem">${esc
 <div>${(i.topics || []).filter(t => p.topics[t]).map(t => `<span class="tag">${esc(p.topics[t])}</span>`).join('')}${i.peer_reviewed ? `<span class="tag tag--pr">${esc(p.peer)}</span>` : ''}${i.stance && p.stances[i.stance] ? `<span class="tag">${esc(p.stances[i.stance])}</span>` : ''}</div></div></li>`).join('\n');
   const body = `${pageHead(ctx, p)}
 <section class="linen band band--tight" style="padding-top:0"><div class="wrap">
+  ${keyReads(ctx, c, Lb)}
+  <h2 style="font-size:1.6rem;margin:3rem 0 1rem">${esc(p.allH)}</h2>
   <label class="sr" for="lib-q">${esc(p.search)}</label><input id="lib-q" class="search" type="search" placeholder="${attr(p.search)}" data-lib-search>
   <div class="filters">${chip('topic', 'all', c.ui.allTopics, true)}${topics.map(t => chip('topic', t, p.topics[t])).join('')}</div>
   <div class="filters" style="margin-top:-1rem">${chip('stance', 'all', c.ui.all, true)}${Object.entries(p.stances).map(([k, v]) => chip('stance', k, v)).join('')}${chip('pr', 'true', p.peer)}</div>
