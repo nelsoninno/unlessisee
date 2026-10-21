@@ -84,6 +84,7 @@
   // Pointer pan and pinch
   var pts=new Map(), last=null, pinch=null, moved=false;
   stage.addEventListener('pointerdown',function(e){
+    if(e.pointerType==='touch')return; // touch is handled below: one finger scrolls the page, two fingers move the cloth
     if(e.target.closest('.explorer__panel,.explorer__zoom,.explorer__minimap'))return;
     stage.setPointerCapture(e.pointerId); pts.set(e.pointerId,{x:e.clientX,y:e.clientY}); moved=false;
     canvas.style.transition='none'; stage.classList.add('dragging');
@@ -101,6 +102,24 @@
   });
   function up(e){pts.delete(e.pointerId);if(pts.size<2)pinch=null;if(pts.size===0){last=null;stage.classList.remove('dragging');}else{var a=Array.from(pts.values())[0];last={x:a.x,y:a.y};}}
   stage.addEventListener('pointerup',up); stage.addEventListener('pointercancel',up);
+  // Touch: cooperative gestures, so the page can always be scrolled past the viewer
+  var HINTS={en:'Use two fingers to move or zoom the cloth',es:'Usa dos dedos para mover o ampliar la tela',pt:'Use dois dedos para mover ou ampliar o pano',fr:'Utilisez deux doigts pour déplacer ou agrandir le linge',it:'Usa due dita per spostare o ingrandire il telo',de:'Mit zwei Fingern verschieben oder vergrößern',pl:'Użyj dwóch palców, aby przesunąć lub powiększyć płótno',fil:'Gumamit ng dalawang daliri para igalaw o i-zoom ang tela',zh:'用两根手指移动或缩放这块布',ko:'두 손가락으로 천을 움직이거나 확대하십시오',ar:'استخدم إصبعين لتحريك القماش أو تكبيره',hi:'कपड़े को खिसकाने या बड़ा करने के लिए दो उंगलियों का इस्तेमाल करें'};
+  var hl=(document.documentElement.lang||'en').split('-')[0], hint=document.createElement('div'), hintT=0, tp=null;
+  hint.className='explorer__twofinger'; hint.textContent=HINTS[hl]||HINTS.en; hint.setAttribute('aria-hidden','true'); stage.appendChild(hint);
+  function mid(t){return {x:(t[0].clientX+t[1].clientX)/2,y:(t[0].clientY+t[1].clientY)/2,d:Math.hypot(t[0].clientX-t[1].clientX,t[0].clientY-t[1].clientY)};}
+  stage.addEventListener('touchstart',function(e){
+    if(e.touches.length>=2){tp=mid(e.touches);canvas.style.transition='none';hint.classList.remove('on');if(help)help.style.opacity=0;}
+  },{passive:true});
+  stage.addEventListener('touchmove',function(e){
+    if(e.touches.length>=2&&tp){
+      e.preventDefault();
+      var m=mid(e.touches),r=stage.getBoundingClientRect();
+      tx+=m.x-tp.x; ty+=m.y-tp.y; zoomAt(m.d/tp.d,m.x-r.left,m.y-r.top,false); tp=m;
+    } else if(e.touches.length===1&&!e.target.closest('.explorer__panel')){
+      hint.classList.add('on'); clearTimeout(hintT); hintT=setTimeout(function(){hint.classList.remove('on');},1400);
+    }
+  },{passive:false});
+  stage.addEventListener('touchend',function(e){if(e.touches.length<2)tp=null;},{passive:true});
   stage.addEventListener('wheel',function(e){e.preventDefault();var r=stage.getBoundingClientRect();zoomAt(Math.exp(-e.deltaY*0.0015),e.clientX-r.left,e.clientY-r.top,false);},{passive:false});
   stage.addEventListener('dblclick',function(e){if(e.target.closest('.explorer__panel'))return;var r=stage.getBoundingClientRect();zoomAt(2,e.clientX-r.left,e.clientY-r.top,true);});
 

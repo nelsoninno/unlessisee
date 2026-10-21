@@ -379,7 +379,7 @@ function wounds(ctx, page) {
   const list = Wn.items.map((w, i) => `<div class="wound" tabindex="0" data-id="${attr(w.id)}" data-side="${w.side}"><p class="meta">${i + 1} &middot; ${esc(w.side === 'front' ? p.front : p.back)}${w.body_region ? ' &middot; ' + esc(w.body_region) : ''}</p><h3>${esc(w.name)}</h3><p>${esc(w.description)}</p>${w.verse ? `<p class="gospel">${esc(w.verse)} <span class="meta">(${esc(w.gospel)})</span></p>` : (w.gospel ? `<p class="meta" style="margin-top:.5rem">${esc(w.gospel)}</p>` : '')}${w.skeptic ? `<p class="meta" style="margin-top:.6rem">${esc(c.ui.skeptic)}: ${esc(w.skeptic)}</p>` : ''}${srcList(w.sources)}</div>`).join('');
   const body = `${pageHead(ctx, p)}
 <section class="plate band"><div class="wrap bodymap">
-  <div style="position:sticky;top:80px">
+  <div class="bodymap__stick">
     <div class="bodymap__toggle"><button class="tool" type="button" data-side-btn="front" aria-pressed="true">${esc(p.front)}</button><button class="tool" type="button" data-side-btn="back" aria-pressed="false">${esc(p.back)}</button><button class="tool" type="button" data-neg-btn aria-pressed="true">${esc(c.pages.explore.ui.negative)}</button></div>
     ${fig('front')}${fig('back')}
     <p class="meta" style="margin-top:.8rem">${p.figNote}</p>

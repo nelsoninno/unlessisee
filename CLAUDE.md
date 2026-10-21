@@ -5,7 +5,7 @@ Pro bono EKY project for Nelson Inno. A bilingual (EN at /, ES at /es/) educatio
 
 ## Repo and deploy
 - Repo: github.com/nelsoninno/unlessisee (branch main). Commits authored as "Nelson Inno" with a non-personal email.
-- Hosting: Cloudflare Pages (to be connected). Domain unlessisee.org at Namecheap (Nelson buying; suggested extras sinoveo.org, unlessisee.net).
+- Hosting: Cloudflare Pages, live at unlessisee.pages.dev (deploys on push to main). Domain unlessisee.org at Namecheap (Nelson buying; suggested extras sinoveo.org, unlessisee.net).
 - Tokens are supplied at runtime and never written to any file.
 
 ## Build
@@ -31,5 +31,6 @@ This session's GitHub proxy cannot push to the repo, so pushes go through Nelson
 - RTL: logical CSS properties; SVG charts and the before/after slider stay left-to-right; nothing may be parked off-screen with left:-999px (it widens RTL pages).
 - Weigh it yourself: 14 statements, five answer buttons each, a two-sided bar for the result, and the strongest counter-argument per point (pulled from that language's evidence.json skeptic/reply field). Structure and weights: `_build/data/weigh-structure.json`. Statements: `_build/data/<lang>/weigh.json`. Page copy and menu label: `_build/content/weigh/<lang>.json` (merged in by build.mjs). The two strongest arguments (carbon date against, unreproduced image for) weigh 3.
 - Emanation animation: the body glows evenly through the cloth from the start; at about 3/4 the cloth falls through a body of light that rises and fades.
+- Touch screens: nothing may trap scrolling. Sticky elements are wide-screen only; the explorer uses one finger to scroll the page and two fingers to move or zoom; 3D viewers use touch-action pan-y on touch screens.
 - The header nav collapses into the Menu button whenever a language's labels do not fit (main.js measures it).
-- Pending: Cloudflare Pages + unlessisee.org, permission replies for STURP and 2002/2008 photos, Nelson's story page.
+- Pending: custom domain unlessisee.org, permission replies for STURP and 2002/2008 photos, Nelson's story page.

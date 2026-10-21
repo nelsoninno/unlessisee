@@ -272,7 +272,8 @@ input[type=range]{width:100%;accent-color:var(--sepia)}
 .wound h3{font-size:1.2rem;color:var(--ink)}
 .wound .gospel{margin-top:.6rem;padding-inline-start:.8rem;border-inline-start:2px solid var(--blood);font-style:italic;font-size:1rem}
 .wound.active{background:linear-gradient(90deg,rgba(155,58,46,.10),transparent)}
-@media (max-width:860px){.bodymap{grid-template-columns:1fr}}
+.bodymap__stick{position:sticky;top:80px}
+@media (max-width:860px){.bodymap{grid-template-columns:1fr}.bodymap__stick{position:static}.bodymap__fig{max-width:min(100%,62vh);margin-inline:auto}}
 
 /* Charts */
 .chart{width:100%;height:auto;font-family:var(--font-sans)}
@@ -499,3 +500,11 @@ h1{font-size:clamp(2.5rem,5.6vw,4.6rem)}
 /* Right-to-left: charts and maps keep their drawn geometry; the text inside still reads right to left */
 [dir="rtl"] svg{direction:ltr}
 [dir="rtl"] .compare,[dir="rtl"] .compare__labels{direction:ltr}
+
+/* Touch screens: never trap the page. One finger scrolls; two fingers move the cloth; 3D views turn sideways only */
+.explorer__twofinger{position:absolute;inset:auto 0 50% 0;margin-inline:auto;width:max-content;max-width:80%;padding:.7rem 1rem;border-radius:12px;background:rgba(28,38,51,.82);color:var(--white);font-family:var(--font-sans);font-size:.9rem;text-align:center;opacity:0;transition:opacity .25s;pointer-events:none;z-index:5}
+.explorer__twofinger.on{opacity:1}
+@media (pointer:coarse){
+  .explorer__stage{touch-action:pan-x pan-y;height:72svh;min-height:420px}
+  .viewer{touch-action:pan-y}
+}
