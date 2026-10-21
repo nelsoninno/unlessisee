@@ -1,0 +1,40 @@
+/* tokens.css: colors + fonts ONLY. The one file to edit to re-skin the site.
+   Concept: light, calm and clear. Soft white like clean linen, gold like light,
+   a sky band for "seeing", deep navy ink. The only dark scene is the tomb animation. */
+:root{
+  /* Base (named "linen" in the stylesheet) */
+  --linen:       #FBFAF6;  /* page background, soft white */
+  --linen-deep:  #F3EFE6;  /* notes, quiet surfaces */
+  --linen-edge:  #E3DDCF;  /* hairlines */
+  --ink:         #1C2633;  /* deep navy text */
+  --ink-soft:    #566170;  /* secondary text */
+  --sepia:       #976F1F;  /* gold, readable: links and accents */
+
+  /* Sky band (named "plate" in the stylesheet) */
+  --plate:       #EDF2F7;  /* soft sky blue band */
+  --plate-2:     #FFFFFF;  /* raised surfaces on the sky band */
+  --plate-edge:  #D6DFE8;  /* hairlines on the sky band */
+  --silver:      #1C2633;  /* text on the sky band */
+  --silver-soft: #566170;  /* secondary text on the sky band */
+
+  /* Signal colors, used sparingly */
+  --blood:       #9B3A2E;  /* wound markers, the radiocarbon sample */
+  --light:       #E2B85C;  /* the light: glows, handles, highlights */
+  --for:         #3D6E58;  /* evidence leaning toward authenticity */
+  --against:     #9B3A2E;  /* evidence leaning toward a medieval origin */
+  --white:       #FFFFFF;
+  --stage:       #E8EDF2;  /* background of 3D views */
+  --tomb:        #07090B;  /* the tomb animation only */
+
+  /* Footer credit */
+  --footer-bg:   #1C2633;
+  --footer-fg:   #EEF1F4;
+
+  /* Fonts */
+  --font-serif:  'Spectral', 'Noto Serif', Georgia, serif;
+  --font-sans:   'Schibsted Grotesk', 'Noto Sans', system-ui, sans-serif;
+
+  /* Layout */
+  --max: 1180px;
+  --measure: 66ch;
+}

@@ -1,0 +1,348 @@
+{
+ "items": [
+  {
+   "id": "crown-of-thorns-forehead",
+   "name": "Forehead puncture flows",
+   "body_region": "Forehead and front of the scalp",
+   "side": "front",
+   "x": 0.485,
+   "y": 0.11,
+   "description": "Several blood flows run down the forehead from puncture points. One flow is shaped like the figure 3 (often called the epsilon), which Bucklin explains as blood following the creases of the skin.",
+   "gospel": "John 19:2",
+   "verse": "The soldiers twisted thorns into a crown and put it on his head, and dressed him in a purple garment.",
+   "skeptic": "A crown of thorns is a Gospel detail any artist would include. The shapes of individual flows are read from photographs.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    }
+   ]
+  },
+  {
+   "id": "face-injuries",
+   "name": "Face injuries",
+   "body_region": "Right cheek, right eye, nose",
+   "side": "front",
+   "x": 0.47,
+   "y": 0.145,
+   "description": "Bucklin reports swelling over the right cheek, partial closing of the right eye, a slight bend in the nose and an abrasion at the nose tip. Bevilacqua and D'Arienzo instead describe the right eye as sunken from nerve injury.",
+   "gospel": "Matthew 27:30",
+   "verse": "They spat on him, and took the reed and struck him on the head.",
+   "skeptic": "Facial detail is faint and read from enhanced images; pathologists already disagree on the right eye.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Bevilacqua and D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    }
+   ]
+  },
+  {
+   "id": "nose-dirt-fall",
+   "name": "Scratches and dirt at the nose",
+   "body_region": "Nose",
+   "side": "front",
+   "x": 0.515,
+   "y": 0.16,
+   "description": "Bucklin describes scratches and dirt in the nose area, consistent with the face striking the ground in a fall. Falls on the way to execution are tradition, not Gospel.",
+   "gospel": null,
+   "verse": null,
+   "skeptic": "The only published mineral study (Kohlbeck and Nitowski 1986) reports limestone particles from a tape at the feet, not the nose. Dirt at the nose has not been independently confirmed by analysis.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Nitowski 1986",
+     "url": "https://www.shroud.com/pdfs/ESSJ%20Nitowski%201986.pdf"
+    }
+   ]
+  },
+  {
+   "id": "right-shoulder-dislocation",
+   "name": "Lowered right shoulder",
+   "body_region": "Right shoulder and arm",
+   "side": "front",
+   "x": 0.62,
+   "y": 0.21,
+   "description": "Bevilacqua and D'Arienzo report the right shoulder lowered by about 15 degrees and read it as a dislocated right humerus, perhaps from a fall while carrying the beam.",
+   "gospel": null,
+   "verse": null,
+   "skeptic": "A single team's reading, published in conference proceedings and a low-impact journal; other pathologists do not describe it.",
+   "sources": [
+    {
+     "label": "Bevilacqua and D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    },
+    {
+     "label": "Bevilacqua, Fanti, D'Arienzo 2017, Open Journal of Trauma",
+     "url": "https://oalib-perpustakaan.upi.edu/Record/peertech__10_17352_ojt_000009/Description"
+    }
+   ]
+  },
+  {
+   "id": "wrist-nail-wound",
+   "name": "Nail wound at the wrist",
+   "body_region": "Back of the left hand at the wrist end (the right is covered)",
+   "side": "front",
+   "x": 0.445,
+   "y": 0.47,
+   "description": "A blood mark on the back of the left hand sits toward the wrist, with two rivulets about 10 degrees apart running from it. Bucklin calculates the arms were raised about 65 degrees and that the man shifted position. Barbet placed the nail in Destot's space in the wrist; Zugibe argues it entered the upper palm and exited at the wrist.",
+   "gospel": "John 20:25",
+   "verse": "Unless I see in his hands the print of the nails, put my finger into the print of the nails, and put my hand into his side, I will not believe.",
+   "skeptic": "Leading pathologists disagree on the nail path. The wound position differs from most medieval art, but wrist placement is not unknown in art.",
+   "sources": [
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    },
+    {
+     "label": "Zugibe 1995, Pierre Barbet Revisited",
+     "url": "https://shroud.com/zugibe.htm"
+    }
+   ]
+  },
+  {
+   "id": "missing-thumbs",
+   "name": "Thumbs not visible",
+   "body_region": "Both hands",
+   "side": "front",
+   "x": 0.5,
+   "y": 0.495,
+   "description": "Each hand shows only four fingers. Barbet and Bucklin explain this by nerve damage pulling the thumbs into the palms; Zugibe says the thumbs simply rest in front of the index fingers and did not touch the cloth.",
+   "gospel": null,
+   "verse": null,
+   "skeptic": "Two incompatible medical explanations exist. An artist painting crossed hands could also hide the thumbs.",
+   "sources": [
+    {
+     "label": "Zugibe 1995, Pierre Barbet Revisited",
+     "url": "https://shroud.com/zugibe.htm"
+    },
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    }
+   ]
+  },
+  {
+   "id": "forearm-blood-flows",
+   "name": "Blood flows along the forearms",
+   "body_region": "Both forearms",
+   "side": "front",
+   "x": 0.66,
+   "y": 0.43,
+   "description": "Streams of blood run from the wrists along the forearms toward the elbows, as expected if the arms were raised above the head while bleeding.",
+   "gospel": "John 19:18",
+   "verse": "where they crucified him, and with him two others, on either side one, and Jesus in the middle.",
+   "skeptic": "Borrini and Garlaschelli (2018) found the forearm flows need nearly vertical arms, while the hand rivulets need arms at about 45 degrees, which they read as inconsistent and artistic.",
+   "sources": [
+    {
+     "label": "Borrini and Garlaschelli, J. Forensic Sciences",
+     "url": "https://researchonline.ljmu.ac.uk/id/eprint/8813/"
+    },
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    }
+   ]
+  },
+  {
+   "id": "side-wound",
+   "name": "Side wound with blood and clear fluid",
+   "body_region": "Right side of the chest, about the 5th to 6th rib",
+   "side": "front",
+   "x": 0.64,
+   "y": 0.334,
+   "description": "The largest bloodstain lies on the right chest with an oval skin wound at its upper edge. Bucklin sees blood with clear watery fluid and suggests pleural fluid from heart failure; Bevilacqua and D'Arienzo place the wound in the 6th intercostal space, about 4.5 cm wide.",
+   "gospel": "John 19:34",
+   "verse": "However, one of the soldiers pierced his side with a spear, and immediately blood and water came out.",
+   "skeptic": "The 'water' is an interpretation of lighter zones in the stain. A right-side lance wound is also the standard position in medieval art.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Bevilacqua and D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    }
+   ]
+  },
+  {
+   "id": "scourge-marks-front",
+   "name": "Scourge marks (front)",
+   "body_region": "Chest and front of the legs",
+   "side": "front",
+   "x": 0.42,
+   "y": 0.66,
+   "description": "Similar paired marks appear on the chest and the front of the legs, wrapping round from the back. Bucklin notes they are absent from the arms and forearms.",
+   "gospel": "John 19:1",
+   "verse": "So Pilate then took Jesus and flogged him.",
+   "skeptic": "Same caveats as the back marks.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "knee-abrasions",
+   "name": "Knee abrasions",
+   "body_region": "Knees, especially the left",
+   "side": "front",
+   "x": 0.45,
+   "y": 0.73,
+   "description": "Popular accounts describe swelling and scraping on the knees from repeated falls. Bucklin notes only that the left knee is slightly bent.",
+   "gospel": null,
+   "verse": null,
+   "skeptic": "Weakly documented: not described by Bucklin or by Bevilacqua and D'Arienzo, and the falls are tradition, not Gospel. Do not present as established.",
+   "sources": [
+    {
+     "label": "Graves 2021, National Catholic Register",
+     "url": "https://www.ncregister.com/commentaries/clues-on-the-shroud-of-turin-tell-us-what-christ-endured-on-good-friday"
+    },
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "rigor-mortis-posture",
+   "name": "Rigor mortis posture",
+   "body_region": "Whole body: head, legs, feet",
+   "side": "front",
+   "x": 0.47,
+   "y": 0.83,
+   "description": "Bucklin reads overall stiffness as rigor mortis, with the left knee slightly bent and the leg position kept after death. Bevilacqua and D'Arienzo describe the head bent forward and turned, and argue a body in rigor could not be fully straightened.",
+   "gospel": "John 19:30",
+   "verse": "When Jesus therefore had received the vinegar, he said, “It is finished.” Then he bowed his head, and gave up his spirit.",
+   "skeptic": "Rigor is inferred from posture on a faint image; a sculptor or artist could also pose a figure this way.",
+   "sources": [
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    },
+    {
+     "label": "Bevilacqua and D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    }
+   ]
+  },
+  {
+   "id": "crown-of-thorns-back-of-head",
+   "name": "Puncture wounds on the back of the head",
+   "body_region": "Back and top of the scalp",
+   "side": "back",
+   "x": 0.5,
+   "y": 0.035,
+   "description": "A row of blood marks circles the back of the scalp, with more marks high on the crown. Bucklin argues this fits a cap of thorns covering the whole head rather than the narrow ring shown in most European art.",
+   "gospel": "John 19:2",
+   "verse": "The soldiers twisted thorns into a crown and put it on his head, and dressed him in a purple garment.",
+   "skeptic": "The cap versus ring argument rests on the spread of faint stains, and some later art also shows heavy head wounds.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "shoulder-abrasions",
+   "name": "Shoulder blade abrasions",
+   "body_region": "Upper back, over both shoulder blades",
+   "side": "back",
+   "x": 0.62,
+   "y": 0.12,
+   "description": "Two broad discoloured areas over the shoulder blades look like abrasions from a heavy, rough object. Pathologists read them as marks from carrying the crossbeam.",
+   "gospel": "John 19:17",
+   "verse": "He went out, bearing his cross, to the place called “The Place of a Skull”, which is called in Hebrew, “Golgotha”,",
+   "skeptic": "The areas are faint and their reading depends on expectations. Mark, Matthew and Luke say Simon of Cyrene carried the cross for part of the way (Luke 23:26).",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    }
+   ]
+  },
+  {
+   "id": "scourge-marks-back",
+   "name": "Scourge marks (back)",
+   "body_region": "Shoulders, back, buttocks and backs of the legs",
+   "side": "back",
+   "x": 0.45,
+   "y": 0.22,
+   "description": "More than 100 small paired or dumbbell-shaped marks spread from the shoulders down to the calves. Bucklin calls them bifid and hard to count; Zugibe notes a three-thonged whip giving 40 lashes would leave about 120 marks. They read as small skin breaks with blood, not bruises.",
+   "gospel": "John 19:1",
+   "verse": "So Pilate then took Jesus and flogged him.",
+   "skeptic": "Counts come from enhanced photographs and vary by author. An informed medieval artist could reproduce a pattern of Roman scourging; Freeman argues the marks were once painted more vividly.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Zugibe, Turin 2000 lecture",
+     "url": "https://www.crucifixion-shroud.com/Turin2000.htm"
+    },
+    {
+     "label": "Freeman 2014 (summary)",
+     "url": "https://arthistorynews.com/articles/3065_Turin_Shroud_debunked_again"
+    }
+   ]
+  },
+  {
+   "id": "lower-back-blood-belt",
+   "name": "Blood across the lower back",
+   "body_region": "Lower back, small of the back",
+   "side": "back",
+   "x": 0.5,
+   "y": 0.345,
+   "description": "A band of blood crosses the lower back. It is usually explained as blood and fluid that ran from the side wound when the body was moved and laid down.",
+   "gospel": "John 19:34",
+   "verse": "However, one of the soldiers pierced his side with a spear, and immediately blood and water came out.",
+   "skeptic": "Borrini and Garlaschelli judged this band 'totally unrealistic' for post-mortem flow from the side wound on a body lying down.",
+   "sources": [
+    {
+     "label": "Borrini and Garlaschelli, J. Forensic Sciences",
+     "url": "https://researchonline.ljmu.ac.uk/id/eprint/8813/"
+    }
+   ]
+  },
+  {
+   "id": "feet-wound",
+   "name": "Nail wound in the feet",
+   "body_region": "Soles, mainly the right foot",
+   "side": "back",
+   "x": 0.48,
+   "y": 0.88,
+   "description": "The back image shows the right foot with a clear puncture mark near the centre of the sole, and a less distinct left foot. Bevilacqua and D'Arienzo place the nail through the tarsal bones.",
+   "gospel": "Luke 24:39",
+   "verse": "See my hands and my feet, that it is truly me. Touch me and see, for a spirit doesn’t have flesh and bones, as you see that I have.",
+   "skeptic": "The left foot is unclear and whether one or two nails were used is debated.",
+   "sources": [
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    },
+    {
+     "label": "Bevilacqua and D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    }
+   ]
+  }
+ ]
+}

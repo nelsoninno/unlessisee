@@ -1,0 +1,7 @@
+# robots.txt for unlessisee.org
+# Every page is open and indexable, including AI search and user-fetch agents.
+User-agent: *
+Allow: /
+
+# AI guide: https://unlessisee.org/llms.txt
+Sitemap: https://unlessisee.org/sitemap.xml

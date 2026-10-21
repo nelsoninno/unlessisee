@@ -1,0 +1,1343 @@
+{
+ "meta": {
+  "strength_convention": "For normal items, strength rates the pro-authenticity claim. For items whose id starts with 'against-', the claim is what skeptics argue, and strength rates that skeptic argument.",
+  "last_checked": "2026-10-21"
+ },
+ "items": [
+  {
+   "id": "against-radiocarbon-1988",
+   "exhibit": 1,
+   "category": "dating",
+   "title": "The 1988 radiocarbon date: AD 1260-1390",
+   "claim": "Skeptics argue: three independent labs dated the linen to AD 1260-1390 with at least 95% confidence. That range fits the first secure record of the cloth at Lirey in the 1350s.",
+   "detail": "On 21 April 1988 a single strip was cut from one corner of the cloth, next to the spot sampled in 1973, away from patches and burn marks. Arizona, Oxford and Zurich each got a piece of about 50 mg, plus three control cloths of known age. The lab means were 646 ± 31 BP (Arizona), 750 ± 30 BP (Oxford) and 676 ± 24 BP (Zurich), giving an unweighted mean of 691 ± 31 BP. Calibrated, that is AD 1273-1288 at 68% and AD 1262-1312 or 1353-1384 at 95%, which Nature rounded to AD 1260-1390. All three controls came out close to their known ages. The paper, published in Nature in February 1989, called the result conclusive evidence that the linen is medieval.",
+   "skeptic": "This is the strongest single piece of evidence in the whole debate. AMS radiocarbon dating is a mature, well-tested method, three labs agreed within about a century, and the controls worked. The date matches the first written record, the d'Arcis memo, and Oresme's remark on a fake shroud in Champagne. Every attempt to explain the date away (fire, bacteria, carbon monoxide, neutrons, invisible repair) has either been tested and failed or has no direct evidence.",
+   "reply": "The best reply is not that the method is wrong but that the sample may not represent the whole cloth. Only one strip from one corner was sampled, and later statistical work found the 12 results are not homogeneous and show a trend along the strip. Even the authors of those reanalyses say this does not prove an ancient date; it only weakens the 'conclusive' label and calls for a new, well-designed test.",
+   "strength": "strong",
+   "strength_reason": "Peer-reviewed, three labs, working controls, and no tested contamination mechanism has been shown to shift the date by 13 centuries.",
+   "sources": [
+    {
+     "label": "Damon et al. 1989, Nature 337:611",
+     "url": "https://doi.org/10.1038/337611a0",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Damon et al. 1989, full text mirror",
+     "url": "https://shroud.com/nature.htm",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Wikipedia: Radiocarbon dating of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin",
+     "type": "website"
+    },
+    {
+     "label": "Karapanagiotis 2025, Textiles 5(1):8 (review)",
+     "url": "https://www.mdpi.com/2673-7248/5/1/8",
+     "type": "peer-reviewed"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "radiocarbon-heterogeneity",
+   "exhibit": 2,
+   "category": "dating",
+   "title": "The 1988 results do not agree with each other well",
+   "claim": "Several peer-reviewed statistical reanalyses show the 12 shroud measurements are not homogeneous and drift with position on the strip, so the 95% range claimed in 1989 is not reliable.",
+   "detail": "Nature itself reported a chi-squared of 6.4 on 2 degrees of freedom for the shroud, significant at the 5% level, while the controls passed easily. Riani et al. (2013) found significant differences in lab means (p = 0.0400 unweighted, 0.0043 with original weights) and an age trend along the strip across all 387,072 possible subsample layouts. Casabianca et al. (2019) used raw lab data released by the British Museum in 2017 and found a Ward and Wilson test value of 15.99 against a critical value of 5.99, and an OxCal agreement of only 41.8% on the published dates. Di Lazzaro et al. (2020) reported a spatial gradient of roughly 50 radiocarbon years per cm. Walsh and Schwalbe (2020) found that shifting two labs by about 10 years restores homogeneity, and 88 years brings all results into agreement.",
+   "skeptic": "Heterogeneity tells you the error bars were too small, not that the cloth is 1,300 years older. The corrections these authors propose are tens of years to under a century, which still leaves a medieval date. Casabianca et al. state that their results do not rule out the medieval hypothesis.",
+   "reply": "That is fair, and the site should say so plainly. The honest point is narrower: the 1989 claim of 'conclusive evidence' rested on treating 12 results as repeat measurements of one quantity, and they are not. A positional trend implies something varies across the cloth, which is exactly why a new multi-site test is needed.",
+   "strength": "moderate",
+   "strength_reason": "The statistical problem is real and peer-reviewed, but it widens the uncertainty rather than pointing to the first century.",
+   "sources": [
+    {
+     "label": "Riani, Atkinson, Fanti, Crosilla 2013, Statistics and Computing",
+     "url": "https://riani.unipr.it/pub/RAFC2012.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Casabianca et al. 2019, Archaeometry 61(5):1223-1231",
+     "url": "https://philarchive.org/archive/CASTRD-3",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Di Lazzaro et al. 2020, Entropy 22(9):926",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7597180",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Walsh and Schwalbe 2020, J. Archaeological Science: Reports 29",
+     "url": "https://doi.org/10.1016/j.jasrep.2019.102015",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Riani et al. 2026, Statistical Methods and Applications",
+     "url": "https://link.springer.com/article/10.1007/s10260-026-00851-2",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Chemistry World column on Casabianca 2019",
+     "url": "https://chemistryworld.com/opinion/how-old-is-the-turin-shroud/3010341.article",
+     "type": "news"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "radiocarbon-sample-repair",
+   "exhibit": 3,
+   "category": "dating",
+   "title": "Was the dated corner a medieval repair?",
+   "claim": "Raymond Rogers (2005) reported that threads from the radiocarbon area contain cotton and a plant-gum and dye coating not found on the main cloth, so the sample may be a skilful later repair.",
+   "detail": "Rogers, a STURP chemist, published in Thermochimica Acta 425 (2005). He reported a yellow-brown gum coating with dye lakes and cotton fibres in threads said to come from the radiocarbon sample, and concluded 'the worst possible sample for carbon dating was taken.' His threads came from Luigi Gonella in 2003, who was not authorised to remove shroud material, so their provenance is uncertain. Freer-Waters and Jull (2010) examined an actual leftover Arizona fragment and found only a few cotton fibres, no dye and no coating. A further Arizona fragment, kept by the late Douglas Donahue, was examined in a 2026 Heritage Science paper, which press reports say found no evidence of a repair or foreign material.",
+   "skeptic": "The theory requires a medieval weaver to splice new thread into an old cloth so well that the world's leading textile conservator, Mechthild Flury-Lemberg, saw no sign of it when she worked on the cloth in 2002. Gove (1990) noted invisible reweaving is readily seen under a microscope. Direct examination of real dated fragments, in 2010 and again in 2026, found no dye, no coating and no repair.",
+   "reply": "Rogers was a careful, senior chemist and his paper passed peer review. But the threads he tested cannot be traced with certainty, and the two later direct studies of documented fragments go against him. The site can mention the hypothesis as historically important, not as an open win.",
+   "strength": "disputed",
+   "strength_reason": "Peer-reviewed, but rests on threads of doubtful provenance and is contradicted by direct study of documented fragments in 2010 and 2026.",
+   "sources": [
+    {
+     "label": "Rogers 2005, Thermochimica Acta 425:189-194",
+     "url": "https://zenodo.org/record/1259381",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Freer-Waters and Jull 2010, Radiocarbon 52(4):1521-1527",
+     "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8CC26C322198300E051C49A0BA5B96D9/S0033822200056277a.pdf/investigating-a-dated-piece-of-the-shroud-of-turin.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Freer-Waters and Jull 2026, Heritage Science",
+     "url": "https://www.nature.com/articles/s40494-026-02530-7",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Farey 2026, summary of the 2026 paper",
+     "url": "https://medievalshroud.com/the-donahue-sliver-resurfaces/",
+     "type": "website"
+    },
+    {
+     "label": "IBT via inkl 2026, report noting the April 2026 study",
+     "url": "https://www.inkl.com/news/turin-shroud-dna-jesus-claim-hits-a-snag-strongest-match-points-to-man-who-collected-samples",
+     "type": "news"
+    },
+    {
+     "label": "Gove 1990, Radiocarbon",
+     "url": "https://doi.org/10.1017/S0033822200039990",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Schafersman 2005, skeptical response to Rogers",
+     "url": "https://web.archive.org/web/20151114044016/http://llanoestacado.org/freeinquiry/skeptic/shroud/articles/rogers-ta-response.htm",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "radiocarbon-contamination",
+   "exhibit": 4,
+   "category": "dating",
+   "title": "Contamination explanations for the date",
+   "claim": "Fire, bacterial coatings, carbon monoxide or a burst of neutrons could have added modern carbon and made an ancient cloth look medieval.",
+   "detail": "Several mechanisms have been proposed since 1988. A review in Textiles (2025) notes that roughly 40% or more modern carbon would be needed to turn a first-century cloth into a 14th-century date, and that a proposed fire carboxylation effect was ruled out by three later studies. Oxford's Christopher Ramsey tested the carbon monoxide idea in 2008 and found no significant reaction, with sensitivity to offsets of under a year. A bacterial 'bioplastic' coating was proposed by Garza-Valdes and Mattingly in 1996. A neutron hypothesis linked to an earthquake appeared in a journal paper later withdrawn in 2015 over a compromised editorial process.",
+   "skeptic": "Lab pretreatment (acid, alkali, bleach, detergent) is designed to strip exactly these contaminants, and the three labs used different cleaning methods yet got similar results. The amounts of contamination needed are absurdly large for linen that looks and behaves normally. A miracle-neutron explanation cannot be tested.",
+   "reply": "No strong reply exists for these specific mechanisms. The only defensible version is the general one in exhibit 2: unremoved contamination might explain part of the scatter, which is a matter of decades, not centuries.",
+   "strength": "debunked",
+   "strength_reason": "Each specific mechanism that has been tested failed, and the amounts required are implausible.",
+   "sources": [
+    {
+     "label": "Karapanagiotis 2025, Textiles 5(1):8",
+     "url": "https://www.mdpi.com/2673-7248/5/1/8",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Ramsey 2008, Oxford Radiocarbon Accelerator Unit statement",
+     "url": "https://c14.arch.ox.ac.uk/shroud.html",
+     "type": "official"
+    },
+    {
+     "label": "Ball 2005, Nature news (Garza-Valdes mention)",
+     "url": "https://www.nature.com/news/2005/050124/full/news050124-17.html",
+     "type": "news"
+    },
+    {
+     "label": "Retraction Watch 2015 on Carpinteri papers",
+     "url": "https://retractionwatch.com/2015/04/16/controversial-italian-scientist-loses-11-papers-from-journal-he-used-to-edit",
+     "type": "news"
+    },
+    {
+     "label": "Wikipedia: Radiocarbon dating of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "waxs-dating-2022",
+   "exhibit": 5,
+   "category": "dating",
+   "title": "X-ray (WAXS) dating of one thread",
+   "claim": "De Caro et al. (2022) measured cellulose ageing in one shroud thread by wide-angle X-ray scattering and found it matched a linen from Masada (AD 55-74), not a medieval one.",
+   "detail": "The team used a single thread about 0.5 mm by 1 mm from near the 1988 sampling corner. Its ageing parameter was 0.60 ± 0.02, which they say cannot be reached by seven centuries at Turin conditions (12.5 °C, 75% RH, giving 0.027 or less). Matching it needs about 20.2 ± 0.8 centuries of ageing if the cloth spent 13 unrecorded centuries at 22.5 °C and 55% RH, or at about 20 °C and 75% RH. If the average was above 23 °C, the age falls under 20 centuries. The authors call the result 'very probable' and say more samples are mandatory.",
+   "skeptic": "The answer depends almost entirely on an assumed temperature and humidity for 13 centuries nobody can document. Shift the assumption a few degrees and the date moves by centuries. It is one thread, one lab, with a co-author (Fanti) who has long argued for authenticity, and the method has not been validated blind on many textiles of known age and storage history.",
+   "reply": "The method is physically sound and peer-reviewed, and it at least shows the thread is not obviously young. But the site should present it as an interesting pilot result, never as a date that overturns radiocarbon.",
+   "strength": "weak",
+   "strength_reason": "Single sample, unvalidated method, and the result is driven by assumed storage conditions.",
+   "sources": [
+    {
+     "label": "De Caro et al. 2022, Heritage 5:860-870",
+     "url": "https://dsctm.cnr.it/images/Highlights/Sindone/DeCaro_Heritage_2022.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Karapanagiotis 2025, Textiles 5(1):8",
+     "url": "https://www.mdpi.com/2673-7248/5/1/8",
+     "type": "peer-reviewed"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "fanti-spectroscopic-mechanical-dating",
+   "exhibit": 6,
+   "category": "dating",
+   "title": "Fanti's FT-IR, Raman and mechanical dating",
+   "claim": "Giulio Fanti's team dated shroud fibres by three ageing methods and got results centred near the first century.",
+   "detail": "Results at 95% confidence were 300 BC ± 400 years by FT-IR (752 BC before a fire correction), 200 BC ± 500 by Raman, and AD 400 ± 400 by mechanical tests, averaged to about 33 BC ± 250. A 2015 Monte Carlo reanalysis of the mechanical data gave AD 279 ± 216. Calibration used nine ancient textiles plus modern controls. The fibres came from dust vacuumed from the back of the cloth by Giovanni Riggi.",
+   "skeptic": "The fibres are loose dust, not documented threads, and may be mixed with backing cloth and other linen. Cellulose decay is not a steady clock; it depends on storage, which differs between the shroud and the reference cloths. The fire correction was applied to one method but not another, and the combined spread runs from about 700 BC to AD 800. The Archbishop of Turin said there was 'no degree of safety' on the material tested.",
+   "reply": "The methods are published (Vibrational Spectroscopy 2013, MATEC 2015) and the fibres have a documented chain through Riggi. But provenance, calibration and wide error bars make this supporting evidence at best.",
+   "strength": "weak",
+   "strength_reason": "Uncertain fibre provenance, unvalidated calibration and very wide error bars.",
+   "sources": [
+    {
+     "label": "Basso, Fanti, Malfi 2015, MATEC Web of Conferences 36:01003",
+     "url": "https://www.matec-conferences.org/10.1051/matecconf/20153601003",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Baraldi and Tinti 2015, MATEC 36:01002",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_01002.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Parker 2013, National Catholic Register",
+     "url": "https://www.ncregister.com/news/science-shines-new-light-on-shroud-of-turin-s-age",
+     "type": "news"
+    },
+    {
+     "label": "Rinaldi 2013 critique (Farey translation)",
+     "url": "https://shroudstory.com/2013/04/04/a-critical-review-of-giulio-fantis-new-book-unreliable-results-because-of-inadequacy-of-methods/",
+     "type": "website"
+    },
+    {
+     "label": "Discussion of Fanti et al. 2013, Vibrational Spectroscopy",
+     "url": "https://shroudstory.com/2013/04/19/fanti-et-al-paper-in-vibrational-spectroscopy/",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "vanillin-age",
+   "exhibit": 7,
+   "category": "dating",
+   "title": "Missing vanillin in the main cloth",
+   "claim": "Rogers found no vanillin in the lignin of the main cloth, while the Holland backing and medieval linens retain it, which he read as a sign of much greater age (1,300 to 3,000 years).",
+   "detail": "Vanillin is a breakdown product of lignin in flax that slowly disappears. Rogers reported 0% retained vanillin in the main cloth versus about 37% in the threads he attributed to the radiocarbon area. Using estimated loss rates, he put the cloth at 1,300 to 3,000 years old.",
+   "skeptic": "Vanillin loss depends strongly on temperature, and the cloth was heated in the 1532 fire hot enough to melt silver. The kinetics were never validated on textiles of known history. The 37% figure comes from the same uncertain threads.",
+   "reply": "A reasonable chemist's estimate, but too sensitive to unknown thermal history to carry weight.",
+   "strength": "weak",
+   "strength_reason": "Untested kinetics and a known heat event make the estimate unreliable.",
+   "sources": [
+    {
+     "label": "Rogers 2005, Thermochimica Acta 425",
+     "url": "https://zenodo.org/record/1259381",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Ball 2005, Nature news",
+     "url": "https://www.nature.com/news/2005/050124/full/news050124-17.html",
+     "type": "news"
+    },
+    {
+     "label": "Wikipedia: Radiocarbon dating of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "image-superficiality",
+   "exhibit": 8,
+   "category": "image",
+   "title": "An image only a few fibres deep",
+   "claim": "The body image is a faint yellowing of only the topmost fibres of each thread, with no paint, dye or binder holding it, and no one has reproduced all of its known properties.",
+   "detail": "STURP's 1981 summary states that no pigments, paints, dyes or stains were found on the image fibrils, and that X-ray fluorescence and microchemistry rule out paint. The colour sits on the outermost two or three fibres of a thread; the colour itself is fairly uniform and darkness depends on how many fibres are coloured per area. Rogers and Arnoldi describe the coloured layer as too thin to resolve with a light microscope. A 2025 peer-reviewed review still calls image formation 'a mystery.'",
+   "skeptic": "Superficial yellowing is not unique: Garlaschelli's acid-pigment rubbing and Nickell's dust rubbing also give top-fibre colour after ageing and washing. 'Not yet reproduced' is a gap in knowledge, not evidence for a burial. Many real medieval objects resist exact reproduction.",
+   "reply": "Agreed that 'unexplained' is not 'miraculous.' But the gap is unusually large: replicas match some features while missing others (fibre-level colour uniformity, image absent under blood, fine tonal range). The careful claim is that no known medieval technique has been shown to produce all features at once.",
+   "strength": "strong",
+   "strength_reason": "Well documented by direct study in 1978 and confirmed by later reviews; what it implies for age is a separate question.",
+   "sources": [
+    {
+     "label": "STURP 1981 summary of conclusions",
+     "url": "http://www.shroud.com/78conclu.htm",
+     "type": "official"
+    },
+    {
+     "label": "Schwalbe and Rogers 1982, Analytica Chimica Acta 135 (listed)",
+     "url": "http://www.shroud.com/78papers.htm",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Rogers and Arnoldi 2003, Melanoidins vol. 4",
+     "url": "https://shroud.com/pdfs/rogers7.pdf",
+     "type": "book"
+    },
+    {
+     "label": "Karapanagiotis 2025, Textiles 5(1):8",
+     "url": "https://www.mdpi.com/2673-7248/5/1/8",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Wikipedia: Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "against-mccrone-paint",
+   "exhibit": 9,
+   "category": "image",
+   "title": "McCrone: red ochre and vermilion paint",
+   "claim": "Skeptics argue: microscopist Walter McCrone found red ochre (iron oxide) on image and blood tapes and vermilion on blood tapes, in a collagen binder, and concluded the cloth is a 14th-century painting.",
+   "detail": "McCrone examined fibres from 32 tape samples taken in 1978. He reported red ochre on 20 image and blood tapes, vermilion only on 11 blood tapes, and neither on 12 non-image tapes. He said forensic blood tests on blood-image fibres were negative. He published in The Microscope (1980, 1981) and Accounts of Chemical Research (1990) and dated the painting to about 1355.",
+   "skeptic": "McCrone was a world-class microscopist with no religious stake, and his pigment-to-image correlation is exactly what a painting predicts. Painted relic copies, touched to the original, could not explain a pattern concentrated on image areas.",
+   "reply": "Heller and Adler (1981) distinguished three forms of iron: iron bound to cellulose from retting across the whole cloth, heme iron in the blood areas, and pure iron oxide particles concentrated at water-stain edges from the 1532 fire. They note artists' ochres carry other metals above 1%, which they did not find, and they found a single cinnabar particle. STURP X-ray fluorescence found no significant heavy elements except iron. A 2025 review notes later studies found pigment particles but also blood, so pigment alone cannot explain the stains.",
+   "strength": "disputed",
+   "strength_reason": "A serious expert claim, but contradicted by several independent chemical and physical analyses of the same 1978 material.",
+   "sources": [
+    {
+     "label": "McCrone Research Institute summary",
+     "url": "https://mccroneinstitute.org/research/shroud-of-turin-research-at-mccrone",
+     "type": "website"
+    },
+    {
+     "label": "McCrone 1990, Accounts of Chemical Research (archived)",
+     "url": "https://web.archive.org/web/20230131030206/http://www.mccroneinstitute.org/uploads/the_microscope__shroud_small-1422560933.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Heller and Adler 1981, Canadian Society of Forensic Science Journal 14(3)",
+     "url": "https://www.shroud.com/pdfs/ssi43part3.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Karapanagiotis 2025, Textiles 5(1):8",
+     "url": "https://www.mdpi.com/2673-7248/5/1/8",
+     "type": "peer-reviewed"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "photographic-negative",
+   "exhibit": 10,
+   "category": "image",
+   "title": "The image works like a photographic negative",
+   "claim": "When Secondo Pia photographed the cloth in 1898, his negative plate showed a far clearer, positive-looking human figure, which suggested the cloth image itself is tonally reversed.",
+   "detail": "Pia took the photographs on the evening of 28 May 1898 using electric lamps. The negative revealed facial detail hard to see by eye. Some accused him of tampering until Giuseppe Enrie's 1931 professional photographs confirmed the effect.",
+   "skeptic": "Any image made by contact or rubbing onto a raised surface is naturally a 'quasi-negative,' because high points darken. Nickell and Garlaschelli both produced negative-like images with medieval-available methods. The blood marks are positive, not negative, so the 'negative' is not a photograph.",
+   "reply": "The skeptic point is correct that negativity alone is not exotic. What remains notable is the combination: negativity plus extreme superficiality plus fine, continuous shading. The site should not present negativity as proof of anything.",
+   "strength": "moderate",
+   "strength_reason": "A real and striking property, but reproducible in rough form by simple contact methods.",
+   "sources": [
+    {
+     "label": "Wikipedia: Secondo Pia",
+     "url": "https://en.wikipedia.org/wiki/Secondo_Pia",
+     "type": "website"
+    },
+    {
+     "label": "Donnelly interview with Nickell, The Skeptic 1988",
+     "url": "https://www.skeptic.org.uk/?p=48809",
+     "type": "website"
+    },
+    {
+     "label": "Garlaschelli 2010, J. Imaging Science and Technology 54(4)",
+     "url": "https://library.imaging.org/jist/articles/54/4/art00002",
+     "type": "peer-reviewed"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "three-d-information",
+   "exhibit": 11,
+   "category": "imaging-3d",
+   "title": "Image darkness tracks cloth-to-body distance",
+   "claim": "Jackson, Jumper and Ercoline (1984) found the image intensity correlates with the distance between a draped cloth and a body, which is why a VP-8 analyser turns the image into a natural relief, unlike ordinary photos.",
+   "detail": "In 1976 a VP-8 Image Analyzer rendered an Enrie photograph as a coherent 3D form, while ordinary photos give a distorted jumble. In Applied Optics 23 (1984), the correlation from a 13-point sample was r² = 0.60, with a 95% interval of 0.13 to 0.86. The image fades out at about 3.7 cm of cloth-body distance. An ordinary photo of a plaster face gave r² = 0.17, while a distance-coded test image gave 0.98. The authors judged that contact alone, diffusion, simple radiation and simple bas-relief all fail to fit everything.",
+   "skeptic": "Any image whose darkness depends on height above a surface, such as a rubbing over a low relief, will also give plausible 3D output. The correlation rests on 13 points and a hand-built body model, and its confidence interval is very wide. Moraes (2025) and Nicolotti stress that the image is a near-orthogonal projection, which a low relief explains naturally.",
+   "reply": "The 3D property is real and was not intended by any known artist convention. But it is not unique to a real body, and the site must quote the modest statistics (r² 0.60 from 13 points), not just the dramatic VP-8 pictures.",
+   "strength": "moderate",
+   "strength_reason": "Genuine, peer-reviewed property, but the statistics are thin and low reliefs can mimic it.",
+   "sources": [
+    {
+     "label": "Jackson, Jumper, Ercoline 1984, Applied Optics 23(14):2244-2270",
+     "url": "https://shroud.com/pdfs/Correlation%20of%20Image%20Intensity%20Jackson%20Jumper%20Ercoline%201984%20OCRsm.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "STERA page on the VP-8 discovery",
+     "url": "https://shroud.com/78strp10.htm",
+     "type": "website"
+    },
+    {
+     "label": "Live Science 2025 on Moraes, with Nicolotti comment",
+     "url": "https://www.livescience.com/archaeology/shroud-of-turin-wasnt-laid-on-jesus-body-but-rather-a-sculpture-modeling-study-suggests",
+     "type": "news"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "against-moraes-low-relief-2025",
+   "exhibit": 12,
+   "category": "imaging-3d",
+   "title": "Moraes 2025: the image fits a low relief, not a body",
+   "claim": "Skeptics argue: 3D simulations show cloth wrapped around a real body gives a wide, distorted image, while cloth over a low-relief sculpture matches the Shroud closely, so the image came from an artwork.",
+   "detail": "Cicero Moraes published in Archaeometry on 28 July 2025. He draped virtual cloth over a full 3D body and over a low relief and compared both with the 1931 photographs. The 3D body produced the widened 'Agamemnon mask effect'; the low relief matched. He called the Shroud a masterpiece of Christian art and did not study its materials.",
+   "skeptic": "The geometry is hard to dodge. A cloth touching a rounded body should record the sides of the face and limbs, and the Shroud does not. A low relief is a natural medieval tool and explains the flat, frontal look.",
+   "reply": "The Turin centre (CISS) said the orthogonal look has been known since Vignon's 1902 studies and that STURP-era work had already excluded rubbing over or heating a bas-relief, because those leave pigment, scorch fluorescence or plateau-like contact patterns. Casabianca, Marinelli and Piana published a rebuttal in the same journal (reported February 2026), citing a front-only model, a 180 cm body, cotton instead of linen, and no treatment of the blood or image depth. Note that even skeptic Nicolotti said the study adds nothing new. The orthogonal geometry is real; the open question is what process, on either a body or a relief, made it.",
+   "strength": "moderate",
+   "strength_reason": "The geometric observation is valid and long known, but the study ignores chemistry and does not show a relief can produce the actual fibre-level image.",
+   "sources": [
+    {
+     "label": "Live Science 2025 on Moraes, Archaeometry",
+     "url": "https://www.livescience.com/archaeology/shroud-of-turin-wasnt-laid-on-jesus-body-but-rather-a-sculpture-modeling-study-suggests",
+     "type": "news"
+    },
+    {
+     "label": "Catholic World Report 2025, CISS response",
+     "url": "https://www.catholicworldreport.com/2025/08/05/shroud-of-turin-center-disputes-new-study-that-challenges-authenticity-of-burial-cloth/",
+     "type": "news"
+    },
+    {
+     "label": "Vatican News 2026, Casabianca et al. rebuttal in Archaeometry",
+     "url": "https://www.vaticannews.va/en/church/news/2026-02/shroud-turin-medieval-bas-relief-hypothesis-challenged.html",
+     "type": "news"
+    },
+    {
+     "label": "STERA compilation of responses to Moraes",
+     "url": "https://www.shroud.com/pdfs/Recent%20paper%20-%20Shroud%20Image%20Formation%20-%203D%20Approach.pdf",
+     "type": "website"
+    },
+    {
+     "label": "LADbible 2026 on Moraes follow-up",
+     "url": "https://www.ladbible.com/news/expert-debunks-shroud-of-turin-jesus-099693-20260212",
+     "type": "news"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "against-artistic-reproductions",
+   "exhibit": 13,
+   "category": "image-formation",
+   "title": "Medieval-style reproductions (Nickell, Garlaschelli)",
+   "claim": "Skeptics argue: simple medieval-available methods reproduce the main features. Nickell's dust rubbing over a bas-relief and Garlaschelli's full-size acid-pigment replica both give negative, superficial, non-fluorescent images with some 3D content.",
+   "detail": "Nickell moulded wet cloth over a low relief and rubbed on powdered pigment, reporting about 30 points of similarity. Garlaschelli (2009, published 2010) rubbed an acidic pigment slurry over a volunteer's body and a bas-relief for the face, baked the cloth at about 140-145 °C for 3 hours, then washed out the pigment. He reported a superficial, front-only, negative image that does not fluoresce under UV, while burn marks do.",
+   "skeptic": "These are not perfect copies, but they show the main features are achievable without any exotic process. Add 600 years of ageing and fading and the remaining gaps narrow.",
+   "reply": "Garlaschelli himself lists what he did not reproduce: blood and scourge marks were brushed on, hair painted, limbs distorted by body rubbing, and natural ageing not simulated. Heimburger (2009) found colour varying within threads rather than uniform fibre colour, and plateau-like 3D output (about 60% saturated pixels versus 23% for the Shroud face in a similar test). No replica yet has blood with no image beneath it.",
+   "strength": "moderate",
+   "strength_reason": "Shows several features are reachable by art, but no replica reproduces all of them together.",
+   "sources": [
+    {
+     "label": "Garlaschelli 2010, J. Imaging Science and Technology 54(4):040301",
+     "url": "https://www.vof.se/wp-content/uploads/2024/09/JIST_2010_art00002_L_-Garlaschelli.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Heimburger 2009 critique",
+     "url": "https://www.shroud.com/pdfs/thibault-lg.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Donnelly interview with Nickell, The Skeptic 1988",
+     "url": "https://www.skeptic.org.uk/?p=48809",
+     "type": "website"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "uv-laser-coloration",
+   "exhibit": 14,
+   "category": "image-formation",
+   "title": "ENEA ultraviolet laser coloration",
+   "claim": "ENEA physicists showed that very short ultraviolet laser pulses colour linen in a thin, superficial, non-fluorescent way that resembles the Shroud image.",
+   "detail": "Di Lazzaro and colleagues used a 193 nm laser with 12 nanosecond pulses. Shroud-like yellowing appeared only in a narrow band of about 2 to 4 billion watts per square cm; more ablated the linen. Average colour depth across yarns was about 7 to 26 micrometres, with one fibre showing colour only in a primary wall about 0.2 micrometres thick. Scaling the threshold to a body-sized area gives about 34 thousand billion watts, which the authors say no existing UV source can deliver.",
+   "skeptic": "This is a lab curiosity, not a mechanism. The authors themselves write that nobody can claim the image was made by excimer laser flashes. The '34 thousand billion watts' figure is just the laser threshold times body area, and popular articles repeat it as if it measured a resurrection.",
+   "reply": "Fair. The result is useful only as chemistry: it shows the colour type is consistent with fast, low-heat surface oxidation. It says nothing about what source, if any, did it.",
+   "strength": "weak",
+   "strength_reason": "Good lab physics but no evidence such a source existed; the wattage number must not be used as a 'proof'.",
+   "sources": [
+    {
+     "label": "Di Lazzaro et al. 2010, ENEA Frascati workshop proceedings",
+     "url": "https://www.sindone.info/DILAZZA1.PDF",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "ENEA project page on Shroud optical studies",
+     "url": "https://eai.enea.it/archivio/knowledge-diagnostics-and-preservation-of-cultural-heritage/the-conservation-of-the-shroud-of-turin-optical-studies.html",
+     "type": "official"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "maillard-natural-hypothesis",
+   "exhibit": 15,
+   "category": "image-formation",
+   "title": "A natural chemical route (Maillard reaction)",
+   "claim": "Rogers and Arnoldi proposed that amines from a decomposing body reacted with sugar residues on ancient-style linen, giving a thin brown surface layer without any miracle or art.",
+   "detail": "Linen washed in Saponaria and left with starch residues would carry reducing sugars to the surface as it dried. Ammonia and amines such as cadaverine and putrescine could react with them at moderate temperature. In tests, ammonia vapour on treated linen gave golden surface colour with clear fibre cores. The authors state this does not prove how the image formed or that the cloth is authentic.",
+   "skeptic": "No decomposition products or proteins have been found on the image, and the hypothesis has never produced a recognisable body image. Diffusing gases should blur detail far more than the sharp lips and fingers seen.",
+   "reply": "It remains the most testable natural hypothesis and could be checked with new sampling. It should be presented as an idea, not a result.",
+   "strength": "weak",
+   "strength_reason": "Chemically plausible but never shown to produce an image and lacking supporting residue evidence.",
+   "sources": [
+    {
+     "label": "Rogers and Arnoldi 2003, Melanoidins vol. 4:106-113",
+     "url": "https://shroud.com/pdfs/rogers7.pdf",
+     "type": "book"
+    },
+    {
+     "label": "Wikipedia: Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "image-on-reverse",
+   "exhibit": 16,
+   "category": "image",
+   "title": "A faint face on the back of the cloth",
+   "claim": "Fanti and Maggiolo (2004) reported a faint superficial image of the face and hands on the reverse side, which would rule out most painting and scorching methods.",
+   "detail": "The analysis used computer processing of photographs taken in 2002, when the backing cloth was off. Published in Journal of Optics A 6 (2004). The authors argue the back image is superficial, not soak-through.",
+   "skeptic": "The method was indirect and its section matching may have been subjective. Restorer Flury-Lemberg and Monsignor Ghiberti, who saw the back directly in 2002, reportedly saw no image. The high-resolution scans are not public, so nobody can check.",
+   "reply": "No good reply until the 2002 scans are released for independent analysis.",
+   "strength": "disputed",
+   "strength_reason": "Single indirect study, unconfirmed by direct observers or independent reanalysis.",
+   "sources": [
+    {
+     "label": "Review of Fanti and Maggiolo 2004",
+     "url": "https://sindonology.org/reviews/doubleSuperficiality.shtml",
+     "type": "website"
+    },
+    {
+     "label": "Wikipedia: History of the Shroud of Turin (2004 entry)",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "blood-is-real-blood",
+   "exhibit": 17,
+   "category": "blood",
+   "title": "The red stains contain blood",
+   "claim": "Chemical tests on fibres from the stains found heme derivatives, porphyrin fluorescence, protein, albumin and bilirubin, which together indicate real, clotted blood rather than paint.",
+   "detail": "Heller and Adler (1980, 1981) ran about 12 lines of evidence on the 1978 tapes: Soret absorption near 400-450 nm, conversion of heme to fluorescent porphyrin, hemochromogen and cyanmethemoglobin colours, protein tests, albumin tests and enzymes that dissolved the blood coating but left image fibres alone. Image and plain fibres tested negative for protein above the nanogram level. STURP's 1981 summary says the stains are hemoglobin and test positive for serum albumin.",
+   "skeptic": "These are 1970s-80s presumptive tests by researchers sympathetic to authenticity. As of 2025, it has not been shown by modern methods that the blood is human or even primate. And real blood proves nothing about age: a medieval forger could use real blood.",
+   "reply": "The skeptic's last point is correct and the site must make it itself. Blood being real is good evidence against a pure painting, but neutral on date and identity. Modern proteomic or DNA work on documented blood fibres would settle the human question.",
+   "strength": "moderate",
+   "strength_reason": "Multiple consistent chemical tests, but old methods, not repeated with modern techniques, and not diagnostic of age.",
+   "sources": [
+    {
+     "label": "Heller and Adler 1980, Applied Optics 19(16)",
+     "url": "https://www.shroud.com/pdfs/ssi43part2.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Heller and Adler 1981, Can. Soc. Forensic Sci. J. 14(3)",
+     "url": "https://www.shroud.com/pdfs/ssi43part3.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "STURP 1981 summary",
+     "url": "http://www.shroud.com/78conclu.htm",
+     "type": "official"
+    },
+    {
+     "label": "Kearse 2012, immunological review",
+     "url": "https://www.shroud.com/pdfs/kearse.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Wikipedia: Shroud of Turin (blood section)",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "no-image-under-blood",
+   "exhibit": 18,
+   "category": "blood",
+   "title": "Blood first, image second?",
+   "claim": "When blood was dissolved off fibres with enzymes, no image colour was found underneath, suggesting blood touched the cloth before the image formed, the reverse of how an artist would normally work.",
+   "detail": "Heller and Adler used proteases that removed blood coatings within 30 minutes. Rogers and Arnoldi also report image colour absent beneath enzymatically removed stains. A 2026 experimental study by Kelly Kearse found that blood applied to acid-treated linen prevents later coloration in that spot.",
+   "skeptic": "A forger could just as easily paint blood first and then add the body image. Kearse's own 2026 work shows blood can block later colouring, so 'no image under blood' is compatible with several sequences, and he concludes the order cannot be known with certainty. The observation rests on a few small tape samples.",
+   "reply": "The observation is still a genuine constraint that any forgery theory must meet, and most replicas do not. But it is not proof of a burial.",
+   "strength": "disputed",
+   "strength_reason": "Based on limited samples, and new experiments show it does not uniquely fix the order of events.",
+   "sources": [
+    {
+     "label": "Heller and Adler 1981",
+     "url": "https://www.shroud.com/pdfs/ssi43part3.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Rogers and Arnoldi 2003",
+     "url": "https://shroud.com/pdfs/rogers7.pdf",
+     "type": "book"
+    },
+    {
+     "label": "Kearse 2026, International Journal of Archaeology 14(2):16-26",
+     "url": "https://sciencepublishinggroup.com/article/10.11648/j.ija.20261402.11",
+     "type": "peer-reviewed"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "blood-type-ab",
+   "exhibit": 19,
+   "category": "blood",
+   "title": "Blood type AB",
+   "claim": "Baima Bollone reported the blood types as AB, and the same was claimed for the Sudarium of Oviedo, linking the two cloths.",
+   "detail": "Forward typing found A and B antigens but not O on bloodstained fibres. Reverse typing found no anti-A or anti-B antibodies. Rh was never tested, so 'AB positive' has no basis. Garza-Valdes later reported only B antigens.",
+   "skeptic": "A and B antigens occur in common bacteria and fungi, and Shroud blood fibres are heavily contaminated. Missing antibodies in ancient blood may simply have degraded, so the cross-check cannot work. The typing was never published in a peer-reviewed journal. Kearse (2025) concludes bacterial antigens are the most likely explanation.",
+   "reply": "No good reply. Only DNA-level work (HLA or STR) could test it.",
+   "strength": "weak",
+   "strength_reason": "Unpublished in peer review and vulnerable to bacterial false positives; even sympathetic specialists reject the inference.",
+   "sources": [
+    {
+     "label": "Kearse 2025, Forensic Science, Medicine and Pathology 21:1507-1510",
+     "url": "https://link.springer.com/article/10.1007/s12024-024-00915-3",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Kearse 2012, immunological review",
+     "url": "https://www.shroud.com/pdfs/kearse.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Kearse 2013, 'Positive for AB is not the same as AB positive'",
+     "url": "https://shroudstory.com/2013/01/08/positive-for-ab-is-not-the-same-as-ab-positive/",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "bilirubin-red-blood",
+   "exhibit": 20,
+   "category": "blood",
+   "title": "High bilirubin keeps the blood red",
+   "claim": "Adler argued that very high bilirubin, from severe trauma, explains why the old blood looks red rather than black.",
+   "detail": "Heller and Adler (1981) reported azobilirubin colour on some blood particles and a spectral peak near 450 nm. Adler said bilirubin mixed with methemoglobin would look red.",
+   "skeptic": "Bilirubin is orange and unstable in light and oxygen. No quantity was ever properly measured, and a 2010 test reportedly found no colour difference after four months between normal and high-bilirubin blood. The 'too red' blood is itself a skeptic argument for paint.",
+   "reply": "No strong reply; the red colour is an open question.",
+   "strength": "weak",
+   "strength_reason": "Never quantified or experimentally confirmed.",
+   "sources": [
+    {
+     "label": "Heller and Adler 1981",
+     "url": "https://www.shroud.com/pdfs/ssi43part3.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Discussion of bilirubin evidence, 2015",
+     "url": "https://shroudstory.com/2015/03/28/is-bilirubin-still-accepted-as-an-explanation-for-the-red-blood/",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "against-bloodstain-pattern-2018",
+   "exhibit": 21,
+   "category": "blood",
+   "title": "Bloodstain pattern analysis: flows do not fit one body",
+   "claim": "Skeptics argue: Borrini and Garlaschelli (2018) showed that the arm, hand and back blood flows require different, incompatible body positions, so the stains look artistic rather than real.",
+   "detail": "Using a living volunteer and modern bloodstain pattern methods, they found the hand rivulets need arms at about 45° while forearm flows need nearly vertical arms. The chest side-wound flow looked realistic for a standing man, but the 'belt' of blood across the lower back was judged 'totally unrealistic' for a body lying down.",
+   "skeptic": "Real blood on a real body follows gravity. If the flows imply contradictory postures, the simplest explanation is an artist placing them for effect.",
+   "reply": "A crucified man shifts position repeatedly, and Bucklin noted two rivulets at the left wrist that already imply movement. The study used one volunteer and fresh blood, not clotted post-mortem blood and serum on a moved corpse. Even so, the back 'belt' is a real puzzle the site should acknowledge.",
+   "strength": "disputed",
+   "strength_reason": "Peer-reviewed forensic work, but a single-volunteer setup that cannot capture movement or post-mortem flow.",
+   "sources": [
+    {
+     "label": "Borrini and Garlaschelli 2019, Journal of Forensic Sciences 64:137-143",
+     "url": "https://researchonline.ljmu.ac.uk/id/eprint/8813/",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Bucklin, autopsy viewpoint",
+     "url": "https://shroud.com/bucklin.htm",
+     "type": "website"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "crucifixion-pathology",
+   "exhibit": 22,
+   "category": "anatomy",
+   "title": "Forensic pathologists see a real crucified man",
+   "claim": "Several forensic pathologists have described the image as a medically coherent record of scourging, a cap of thorns, a carried beam, nailing, death and rigor mortis, with a post-mortem chest wound.",
+   "detail": "Medical examiner Robert Bucklin described at least 100 bifid scourge marks from shoulders to calves, a ring of scalp punctures, a swollen right cheek, shoulder abrasions, a wrist wound with two diverging rivulets, and a right-chest wound with blood and clear fluid. Frederick Zugibe ran suspension experiments on volunteers and concluded death came from traumatic and hypovolemic shock. STURP concluded in 1981 that the image is of a real human form of a scourged, crucified man.",
+   "skeptic": "The pathologists most cited are believers or sympathetic, and they disagree on basic points (palm or wrist, asphyxia or shock). A knowledgeable medieval artist working from the Gospels could include the same set of wounds. Medical plausibility shows skill, not age.",
+   "reply": "The disagreement is real and should be shown. The stronger point is not any single wound but small, non-Gospel details that fit Roman practice and real physiology better than medieval convention: dumbbell-shaped scourge marks, a cap-like spread of scalp wounds rather than a ring crown, the nail wound near the wrist, and the four-finger hands.",
+   "strength": "moderate",
+   "strength_reason": "Consistent expert medical readings, but by sympathetic experts who disagree on details, and not diagnostic of date.",
+   "sources": [
+    {
+     "label": "Bucklin, 'An Autopsy on the Man of the Shroud'",
+     "url": "https://shroud.com/bucklin.htm",
+     "type": "website"
+    },
+    {
+     "label": "Bucklin, 'Viewpoint of a Forensic Pathologist'",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Zugibe 1995, 'Pierre Barbet Revisited', Sindon N.S. 8",
+     "url": "https://shroud.com/zugibe.htm",
+     "type": "website"
+    },
+    {
+     "label": "STURP 1981 summary",
+     "url": "http://www.shroud.com/78conclu.htm",
+     "type": "official"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "nail-wound-and-thumbs",
+   "exhibit": 23,
+   "category": "anatomy",
+   "title": "Nail wound near the wrist and missing thumbs",
+   "claim": "The visible nail exit is at the wrist end of the hand, not the centre of the palm as in most medieval art, and only four fingers show on each hand.",
+   "detail": "Barbet argued the nail passed through Destot's space in the wrist and severed the median nerve, drawing the thumb into the palm. Zugibe disputed this: he placed entry in the upper palm along the thenar crease with exit at the wrist, and said the thumbs are simply hidden in their resting position. Bevilacqua and D'Arienzo (2015) again place the nail at Destot's space.",
+   "skeptic": "The experts cannot agree where the nail went or why the thumbs are hidden, which shows how much is being read into a faint stain. Some medieval and later depictions also show wrist wounds, and a hidden thumb is an easy artistic choice for crossed hands.",
+   "reply": "The location of the exit wound on the image is agreed: it is at the wrist end of the left hand. The skeptic is right that the anatomical explanation is contested. The site should state the observation and show both pathologists' readings.",
+   "strength": "moderate",
+   "strength_reason": "The observation is clear; its interpretation is contested among sympathetic experts.",
+   "sources": [
+    {
+     "label": "Zugibe 1995, 'Pierre Barbet Revisited'",
+     "url": "https://shroud.com/zugibe.htm",
+     "type": "website"
+    },
+    {
+     "label": "Bevilacqua and D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Bucklin, autopsy viewpoint",
+     "url": "https://shroud.com/bucklin.htm",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "scourge-marks",
+   "exhibit": 24,
+   "category": "anatomy",
+   "title": "About 100 to 120 dumbbell-shaped scourge marks",
+   "claim": "The front and back carry more than 100 small paired marks matching the weighted tips of a Roman flagrum, spread in fans consistent with two scourgers.",
+   "detail": "Bucklin counted at least 100 bifid marks from shoulders to calves, absent from the forearms. Zugibe noted that 40 lashes with a three-thonged whip would leave about 120 marks. He read them as small skin breaks with blood, not bruises.",
+   "skeptic": "Roman scourging was known in the Middle Ages, and an artist could stamp or paint repeated marks. Counting depends on enhanced photos. Freeman argues the marks were once far more visible and painted.",
+   "reply": "The marks are part of the same faint, superficial image with blood-related chemistry, which a stamped pigment would not match. Still, the count and shape are suggestive, not decisive.",
+   "strength": "moderate",
+   "strength_reason": "Clear, consistent pattern, but compatible with an informed artist.",
+   "sources": [
+    {
+     "label": "Bucklin, 'Viewpoint of a Forensic Pathologist'",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Zugibe, 'Turin 2000' lecture",
+     "url": "https://www.crucifixion-shroud.com/Turin2000.htm",
+     "type": "website"
+    },
+    {
+     "label": "Freeman 2014, History Today (summary)",
+     "url": "https://arthistorynews.com/articles/3065_Turin_Shroud_debunked_again",
+     "type": "news"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "against-anatomical-oddities",
+   "exhibit": 25,
+   "category": "anatomy",
+   "title": "Odd proportions and posture",
+   "claim": "Skeptics argue: the figure is unusually tall, with a small head, elongated limbs, hair that hangs as if standing, and hands that conveniently cover the groin, all suggesting an artist's stylised figure.",
+   "detail": "Gregory S. Paul (2010) called the figure anatomically implausible, 'exceptionally tall' with a 'shrunken and low browed' head. Nickell pointed to hair falling as if upright and blank zones a true imprint would not have. Rebutters estimate height from the image at roughly 173 to 177 cm, though methods vary.",
+   "skeptic": "Real bodies lying flat do not look like this. The proportions echo Gothic art and the modest hand position is a devotional convention.",
+   "reply": "Measuring a faint image on a cloth that was draped, not flat, is unreliable, and the cloth has shrunk and been stretched over 600 years. Hair may have been held by a chin band or blood and ointments. These points cut both ways and prove little.",
+   "strength": "disputed",
+   "strength_reason": "Measurements from a draped, distorted cloth are too uncertain to support strong conclusions either way.",
+   "sources": [
+    {
+     "label": "Discussion of Gregory S. Paul 2010 (Secular Web)",
+     "url": "https://shroudstory.com/2014/07/26/pseudoscience-again/",
+     "type": "website"
+    },
+    {
+     "label": "Donnelly interview with Nickell, The Skeptic 1988",
+     "url": "https://www.skeptic.org.uk/?p=48809",
+     "type": "website"
+    },
+    {
+     "label": "Vatican News 2026 (height range cited by Casabianca et al.)",
+     "url": "https://www.vaticannews.va/en/church/news/2026-02/shroud-turin-medieval-bas-relief-hypothesis-challenged.html",
+     "type": "news"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "textile-herringbone",
+   "exhibit": 26,
+   "category": "textile",
+   "title": "A fine 3:1 herringbone twill",
+   "claim": "The cloth is a high-quality linen woven in a 3:1 herringbone twill, a costly weave known in antiquity.",
+   "detail": "The cloth is about 4.4 m by 1.1 m, about 0.35 mm thick, with threads about 0.15 mm across. Flury-Lemberg says the 3:1 herringbone marked extraordinary quality in antiquity.",
+   "skeptic": "Herringbone twills were also woven in medieval Europe. Flury-Lemberg herself declined to date the cloth by weave, saying textile analysis alone cannot give a serious date.",
+   "reply": "Correct. The weave is compatible with the first century but not evidence for it.",
+   "strength": "weak",
+   "strength_reason": "Consistent with antiquity but not diagnostic of any period.",
+   "sources": [
+    {
+     "label": "PBS interview with Mechthild Flury-Lemberg",
+     "url": "https://www.pbs.org/wnet/secrets/shroud-of-christ-interview-with-mechthild-flury-lemberg/7130",
+     "type": "video"
+    },
+    {
+     "label": "Karapanagiotis 2025, Textiles 5(1):8",
+     "url": "https://www.mdpi.com/2673-7248/5/1/8",
+     "type": "peer-reviewed"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "textile-masada-seam",
+   "exhibit": 27,
+   "category": "textile",
+   "title": "A seam like one from Masada",
+   "claim": "Restorer Mechthild Flury-Lemberg found an unusual seam joining a side strip to the main cloth, very similar to a hem on a cloth from the Jewish fortress of Masada (about 40 BC to AD 73).",
+   "detail": "She studied the cloth closely during the 2002 restoration and judged the seam professional. The side strip is the same original fabric. She is one of the most respected textile conservators of her generation.",
+   "skeptic": "One parallel does not date a cloth. No survey has shown this seam type was absent in later centuries. Flury-Lemberg's own rule, that weave analysis cannot date a textile, applies here too.",
+   "reply": "It is a legitimate expert observation that fits an ancient origin. It is not exclusive evidence and should be shown as 'consistent with', never 'proves'.",
+   "strength": "weak",
+   "strength_reason": "A single expert parallel, not shown to be unique to antiquity.",
+   "sources": [
+    {
+     "label": "PBS interview with Mechthild Flury-Lemberg",
+     "url": "https://www.pbs.org/wnet/secrets/shroud-of-christ-interview-with-mechthild-flury-lemberg/7130",
+     "type": "video"
+    },
+    {
+     "label": "Official account of the 2002 restoration",
+     "url": "https://sindone.org/en/home-english/the-shroud/the-fire/the-restoration/",
+     "type": "official"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "cotton-traces-raes",
+   "exhibit": 28,
+   "category": "textile",
+   "title": "Traces of cotton in the linen (Raes 1973)",
+   "claim": "Textile expert Gilbert Raes found cotton traces in threads taken in 1973, said to be the Middle Eastern Gossypium herbaceum, suggesting the loom had been used for cotton in the Near East.",
+   "detail": "Raes, of the Ghent textile institute, studied threads cut on 24 November 1973 near the later radiocarbon corner. The species identification is reported by Ian Wilson. Raes suggested the loom had previously woven cotton.",
+   "skeptic": "Cotton was grown and woven in medieval Spain and elsewhere in Europe. Wilson himself later called the evidence 'ambivalent'. Cotton was also found in the 1988 sample and may come from repairs or handling.",
+   "reply": "No strong reply; it does not point to a place or time.",
+   "strength": "weak",
+   "strength_reason": "Compatible with many times and places.",
+   "sources": [
+    {
+     "label": "Smith, 'Textiles and Spain', Shroud Spectrum International",
+     "url": "https://www.shroud.com/pdfs/ssi3536part5.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Marino and Prior, annotated chronology",
+     "url": "https://www.shroud.com/pdfs/chronology.pdf",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "against-treadle-loom",
+   "exhibit": 29,
+   "category": "textile",
+   "title": "The weave may need a medieval treadle loom",
+   "claim": "Skeptics argue: a 3:1 chevron twill this long is hard to set up on an ancient warp-weighted loom and fits the treadle loom, which reached Europe around the 13th century.",
+   "detail": "Experimental weaver Antoinette Merete Olsen tested the question in EXARC Journal (2020/4) after a query from researcher Hugh Farey. Wikipedia summarises her result as suggesting a treadle loom was required.",
+   "skeptic": "If the weave needs a treadle loom, it fits a medieval European workshop better than first-century Judea.",
+   "reply": "The argument concerns practicality, not proven impossibility, and it rests on one experimenter. The question deserves more experimental weaving work before either side leans on it.",
+   "strength": "disputed",
+   "strength_reason": "A single experimental study whose full conclusions are not widely discussed; I could not read the full text.",
+   "sources": [
+    {
+     "label": "Olsen 2020, EXARC Journal 2020/4",
+     "url": "https://doaj.org/article/a1d15cba68e645ff9073fdc8edf22dce",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Wikipedia: Shroud of Turin (textile section)",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin",
+     "type": "website"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "pollen-frei",
+   "exhibit": 30,
+   "category": "botany",
+   "title": "Middle Eastern pollen (Frei)",
+   "claim": "Criminologist Max Frei identified pollen of dozens of plants on tape samples, many from the Jerusalem area, including Gundelia tournefortii, linked to the crown of thorns.",
+   "detail": "Frei sampled in 1973 and 1978 and claimed about 57 to 58 plant types, often to species level. He died before publishing full data. Botanist Avinoam Danin later linked the plant set to the Jerusalem area in spring.",
+   "skeptic": "Pollen usually cannot be identified to species, especially with 1970s light microscopy. Thomas Litt (2001) re-examined slides and found none could be named to species; the key grains look more like Carduus thistle than Gundelia. Frei's tape-pressure method differed from STURP's, his collection is in private hands, and Danin later relayed the view that pollen data should not be used in Shroud research.",
+   "reply": "Hugh Farey, a skeptic-leaning researcher, still notes a few wind-blown Middle Eastern tree pollens are hard to explain. That is the most the site can say.",
+   "strength": "weak",
+   "strength_reason": "Species identifications were never verified and key ones were disputed by a professional palynologist.",
+   "sources": [
+    {
+     "label": "Farey 2014, 'Problems With Pollen', BSTS Newsletter 79",
+     "url": "https://shroud.com/pdfs/n79part8.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Discussion of Litt and Danin, 2015",
+     "url": "https://shroudstory.com/2015/09/13/doubting-the-pollen-evidence",
+     "type": "website"
+    },
+    {
+     "label": "Danin, 'Pressed Flowers'",
+     "url": "https://shroud.com/danin.htm",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "flower-images",
+   "exhibit": 31,
+   "category": "botany",
+   "title": "Images of flowers on the cloth",
+   "claim": "Alan and Mary Whanger, later supported by Danin, reported faint images of flowers such as crown chrysanthemum, rock rose and bean caper around the body, pointing to Jerusalem in spring.",
+   "detail": "The images were found in enhanced photographs and compared with drawings in Flora Palaestina. Danin mapped 27 of 28 species to the Jerusalem area.",
+   "skeptic": "These shapes are visible only after heavy photo enhancement and subjective matching, a classic case of pareidolia. The flowers proposed did not match Frei's pollen list well; Farey counts only 10 of 15 overlaps. No independent team has confirmed them.",
+   "reply": "None that would satisfy a skeptic.",
+   "strength": "weak",
+   "strength_reason": "Subjective, unreplicated reading of enhanced photographs; the site should not use it.",
+   "sources": [
+    {
+     "label": "Danin, 'Pressed Flowers'",
+     "url": "https://shroud.com/danin.htm",
+     "type": "website"
+    },
+    {
+     "label": "Farey 2014, 'Problems With Pollen'",
+     "url": "https://shroud.com/pdfs/n79part8.pdf",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "coins-and-inscriptions",
+   "exhibit": 32,
+   "category": "image",
+   "title": "Coins over the eyes and writing near the face",
+   "claim": "Some researchers claim faint letters and a lituus over the right eye match a lepton of Pontius Pilate (about AD 29-32), and others (Marion and Courage 1997, Frale 2009) report Greek and Latin letters near the face, read by Frale as a burial document naming Jesus the Nazarene.",
+   "detail": "The coin reading rests on photo enhancement of an area a few millimetres across and on letters UCAI, explained by a supposed minting error. Frale announced her reconstructed death certificate through the press before peer review. Both claims depend on enhanced photographs rather than direct examination of the cloth.",
+   "skeptic": "Historian Antonio Lombatti found no evidence that first-century Jews placed coins on the eyes of the dead, and notes the expected Greek spelling uses K, not C. Letters seen in faint textures are a textbook case of pareidolia. STURP photographer Barrie Schwortz called the Frale announcement science by press release, and John Jackson warned that a past rope feature turned out to be a watermark.",
+   "reply": "None that holds up.",
+   "strength": "weak",
+   "strength_reason": "Readings below the resolution of the weave, an unattested burial custom, and rejection by leading pro-authenticity researchers; the site should not use either claim.",
+   "sources": [
+    {
+     "label": "Lombatti 1997, 'Doubts Concerning the Coins Over the Eyes'",
+     "url": "https://shroud.com/lombatti.htm",
+     "type": "website"
+    },
+    {
+     "label": "EWTN 2009, Jackson cautions on reading inscriptions",
+     "url": "https://www.ewtnnews.com/vatican/scientist-says-to-be-very-careful-when-interpreting-writing-on-shroud-of-turin",
+     "type": "news"
+    },
+    {
+     "label": "Schwortz, 'Science by Press Release (Again)'",
+     "url": "https://shroudstory.com/2009/11/23/late-breaking-website-news/",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "dirt-travertine-aragonite",
+   "exhibit": 33,
+   "category": "other",
+   "title": "Jerusalem limestone dust at the feet",
+   "claim": "Kohlbeck and Nitowski reported travertine aragonite particles in a tape from the foot area that matched limestone from a Jerusalem tomb.",
+   "detail": "The match used optical properties (refractive index 1.680) and an ion-microprobe comparison by Levi-Setti on a few particles from one tape. The author called it 'a strong suggestion,' not proof.",
+   "skeptic": "A handful of particles from one tape, matched optically, cannot fix a location. Calcium carbonates are common, the cloth has been folded and handled for centuries, and the work was not published in a mainstream journal.",
+   "reply": "A more systematic isotope and trace-element study could test it.",
+   "strength": "weak",
+   "strength_reason": "Tiny sample and limited method; the authors themselves call it suggestive.",
+   "sources": [
+    {
+     "label": "Nitowski 1986, Eastern School Shroud Journal",
+     "url": "https://www.shroud.com/pdfs/ESSJ%20Nitowski%201986.pdf",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "dna-traces",
+   "exhibit": 34,
+   "category": "other",
+   "title": "DNA traces on the cloth",
+   "claim": "Genetic studies of dust and fibres found human and plant DNA from many regions, including the Middle East and India, consistent with a long journey.",
+   "detail": "Barcaccia et al. (2015) found traces of 19 plant taxa and diverse human mitochondrial lineages and said a medieval European origin was not excluded. Their 2026 Scientific Reports study of the official 1978 samples found the dominant human DNA in three samples matched Pierluigi Baima Bollone, who collected them. It also found wheat, maize, peanuts, bananas, farm animals and red coral, and radiocarbon dates on two threads consistent with the 1534 and 1694 repairs.",
+   "skeptic": "The cloth has been handled by thousands of people and stored, repaired and displayed for centuries. The 2026 study shows the strongest human signal is a 20th-century scientist. Maize and peanuts are New World plants that reached Europe after 1492. DNA here records handling, not origin.",
+   "reply": "Agreed. The authors themselves say these results do not address age or authenticity.",
+   "strength": "weak",
+   "strength_reason": "Dominated by modern contamination; tells us about handling, not origin.",
+   "sources": [
+    {
+     "label": "Barcaccia et al. 2026, Scientific Reports 16:21206",
+     "url": "https://www.nature.com/articles/s41598-026-60684-7",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "ScienceDaily 2026 summary",
+     "url": "https://www.sciencedaily.com/releases/2026/08/260803080859.htm",
+     "type": "news"
+    },
+    {
+     "label": "IBT via inkl 2026, collector DNA match",
+     "url": "https://www.inkl.com/news/turin-shroud-dna-jesus-claim-hits-a-snag-strongest-match-points-to-man-who-collected-samples",
+     "type": "news"
+    },
+    {
+     "label": "STERA summary of 2026 papers",
+     "url": "https://www.shroud.com/pdfs/Recently%20published%20papers%20and%20articles%20Summer%202026.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Barcaccia et al. 2015, Scientific Reports 5:14484",
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4593049/",
+     "type": "peer-reviewed"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "sudarium-oviedo",
+   "exhibit": 35,
+   "category": "blood",
+   "title": "The Sudarium of Oviedo",
+   "claim": "A bloodstained face cloth kept at Oviedo since at least 1075 is said to match the Shroud's facial blood pattern, suggesting both covered the same man.",
+   "detail": "The Sudarium has no image, only stains. A 2017 UCAM press release by forensic researcher Alfonso Sánchez Hermosilla and colleagues said the two cloths covered the same body with a post-mortem chest wound. The earliest explicit record is the opening of its chest on 14 March 1075.",
+   "skeptic": "The Sudarium has been radiocarbon dated several times (Arizona 1990, Toronto 1992, Madrid 2007) to between the 6th and 9th centuries, mostly around AD 700. Its early history comes from Bishop Pelagius, known as a forger. The AB typing is the same unreliable serology. The 'same person' claim came by press release, from researchers who lead an advocacy centre.",
+   "reply": "If one accepts radiocarbon for the Shroud, the Sudarium is not first-century either; if one doubts radiocarbon, one cannot use the Sudarium as independent support. Either way it adds little.",
+   "strength": "weak",
+   "strength_reason": "Own radiocarbon dates are early medieval, history is late and unreliable, and the match claim is not peer reviewed.",
+   "sources": [
+    {
+     "label": "Wikipedia: Sudarium of Oviedo",
+     "url": "https://en.wikipedia.org/wiki/Sudarium_of_Oviedo",
+     "type": "website"
+    },
+    {
+     "label": "UCAM 2017 press release",
+     "url": "https://international.ucam.edu/university-news/scientists-identify-corpse-shrouded-santa-sindone-and-shroud-oviedo",
+     "type": "news"
+    },
+    {
+     "label": "Kearse 2025, shared AB blood type",
+     "url": "https://link.springer.com/article/10.1007/s12024-024-00915-3",
+     "type": "peer-reviewed"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "pray-codex",
+   "exhibit": 36,
+   "category": "history",
+   "title": "The Pray Codex drawing (1192-1195)",
+   "claim": "A Hungarian manuscript from before 1200 shows Christ naked with hands crossed and four fingers visible, and a cloth with a herringbone-like pattern and four small circles in an L shape, like the Shroud's pre-1532 'poker holes'.",
+   "detail": "The drawing is in the Pray Codex, dated by the funeral sermon to 1192-1195. Daniel Scavone and others argue the circles 'perfectly reproduce' the L-shaped burn holes still visible on the Shroud. If correct, it would place the Shroud, or a careful copy, about 70 years before the earliest radiocarbon limit.",
+   "skeptic": "Rinaldi and Casabianca (2021) argue the 'cloth' is a rectangular tombstone like those in other images, the circles are decoration also found on the angel's wing and clothing, and the drawn cloth bears no body image. The resemblances are selected after the fact.",
+   "reply": "The cluster of matches (nudity, crossed hands, no thumbs, L-holes) is unusual for one picture. But the site must present it as debated, and note that a pro-authenticity author (Casabianca) is among the critics.",
+   "strength": "disputed",
+   "strength_reason": "Intriguing parallels, but a plausible non-Shroud reading exists and scholars on both sides disagree.",
+   "sources": [
+    {
+     "label": "Wikipedia: Hungarian Pray Codex",
+     "url": "https://en.wikipedia.org/wiki/Hungarian_Pray_Codex",
+     "type": "website"
+    },
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "edessa-mandylion",
+   "exhibit": 37,
+   "category": "history",
+   "title": "The Image of Edessa (Mandylion)",
+   "claim": "Ian Wilson proposed that the face-cloth venerated at Edessa and later Constantinople was the Shroud, folded so only the face showed, filling the gap before the 1350s.",
+   "detail": "Eusebius (early 4th century) records Abgar's letter with no image, and Egeria (384) saw letters but no image. Evagrius (about 593) is the first to credit an image with saving Edessa in 544. In 944 the image was moved to Constantinople. Wilson cites a 10th-century text describing a full-body imprint.",
+   "skeptic": "Every source describes a face, often a painting, not a long burial cloth with a body and blood. The legend itself grew over centuries. Historians such as Andrea Nicolotti reject the link. A relic said to be the same image went to Louis IX in 1241 and was lost in the French Revolution.",
+   "reply": "The hypothesis is coherent but rests on reinterpreting sources. It belongs on the site as a hypothesis, clearly labelled.",
+   "strength": "weak",
+   "strength_reason": "Speculative identification rejected by most historians.",
+   "sources": [
+    {
+     "label": "Wikipedia: Image of Edessa",
+     "url": "https://en.wikipedia.org/wiki/Image_of_Edessa",
+     "type": "website"
+    },
+    {
+     "label": "Nicolotti 2020, The Shroud of Turin (Baylor UP)",
+     "url": "https://www.baylorpress.com/9781481311472/the-shroud-of-turin/",
+     "type": "book"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "robert-de-clari",
+   "exhibit": 38,
+   "category": "history",
+   "title": "A crusader saw a figured burial cloth in 1203-04",
+   "claim": "French knight Robert de Clari wrote that at the Blachernae church in Constantinople the shroud of the Lord was raised upright every Friday so the figure of Christ could be seen, before it vanished in the 1204 sack.",
+   "detail": "De Clari wrote his account after 1204. It is the only Western eyewitness-style description of a cloth with a full figure in Constantinople.",
+   "skeptic": "Historians Madden and Queller think he confused it with another relic. Nicolotti notes no other source mentions it, and imperial relic inventories list a plain burial cloth with no image. De Clari also reports other unlikely marvels.",
+   "reply": "It is a real primary source, and its description fits the Shroud. But it is a single, uncorroborated account.",
+   "strength": "disputed",
+   "strength_reason": "A genuine source but uncorroborated and contested in meaning.",
+   "sources": [
+    {
+     "label": "Wikipedia: Robert de Clari",
+     "url": "https://en.wikipedia.org/wiki/Robert_de_Clari",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "against-no-record-before-1350s",
+   "exhibit": 39,
+   "category": "history",
+   "title": "No secure history before the 1350s",
+   "claim": "Skeptics argue: there is no reliable record of this cloth before Lirey in the 1350s, which is exactly when radiocarbon says it was made.",
+   "detail": "Early pilgrim accounts (4th century) and 6th-century relic lists mention many Holy Land relics but not a figured shroud. The first secure trail starts with Geoffroi de Charny's church at Lirey in 1353 and pilgrim badges with the Charny and Vergy arms. Many other 'true shrouds' circulated in medieval Europe.",
+   "skeptic": "A relic of this importance should leave traces. Its sudden appearance in a small French church, followed quickly by a bishop's fraud complaint, is the pattern expected of a forgery.",
+   "reply": "The silence is real. The possible earlier traces (Edessa, Pray Codex, de Clari, Templars) are all hypotheses. The only fair reply is that a relic hidden, folded or renamed could leave an ambiguous record, which is possible but unproven.",
+   "strength": "strong",
+   "strength_reason": "Documented gap that fits the radiocarbon date; the alternative routes are speculative.",
+   "sources": [
+    {
+     "label": "Nicolotti excerpt via Shermer 2024",
+     "url": "https://michaelshermer.substack.com/p/the-shroud-of-turin",
+     "type": "book"
+    },
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin",
+     "type": "website"
+    },
+    {
+     "label": "Lirey pilgrim badge, Musee de Cluny",
+     "url": "https://sindonology.org/papers/clunySouvenir.shtml",
+     "type": "website"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "against-darcis-memorandum",
+   "exhibit": 40,
+   "category": "history",
+   "title": "Bishop d'Arcis: 'cunningly painted', artist confessed",
+   "claim": "Skeptics argue: in 1389 the Bishop of Troyes told the pope that an earlier bishop had investigated around 1355 and found an artist who admitted painting it, and the pope then allowed display only as a 'figure or representation'.",
+   "detail": "Pierre d'Arcis wrote to Antipope Clement VII that the Lirey dean had procured a cunningly painted cloth for profit. Clement's bulls of 6 January 1390 allowed showings only if announced as a painting or representation, with no candles, incense or guard.",
+   "skeptic": "This is near-contemporary testimony from the local bishop, and the papal ruling treated the cloth as a representation. Together with radiocarbon, it is a coherent story.",
+   "reply": "Both surviving texts are unsigned, undated drafts; no sent copy exists in the Vatican archives and the pope never cited it. The investigation it mentions has left no record, and d'Arcis arrived in Troyes in 1373 and relied on reports from 34 years earlier. STURP found no paint. These weaken the memo but do not refute it.",
+   "strength": "moderate",
+   "strength_reason": "A real, early hostile source with a papal response, though uncorroborated on the key 'confession'.",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin",
+     "type": "website"
+    },
+    {
+     "label": "Markwardt, 'The Medieval Hypothesis', BSTS Newsletter 99",
+     "url": "https://www.shroud.com/pdfs/n99part3.pdf",
+     "type": "website"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "against-oresme-2025",
+   "exhibit": 41,
+   "category": "history",
+   "title": "Nicole Oresme called it a fraud (newly found, 2025)",
+   "claim": "Skeptics argue: a text by the theologian Nicole Oresme, written between 1355 and 1382, cites a church in Champagne claiming to hold the Lord's shroud as a clear case of clergy faking relics.",
+   "detail": "Historian Nicolas Sarzeaud published the find in the Journal of Medieval History in August 2025. It is the earliest known written rejection, likely after 1370 and before d'Arcis. Oresme had no personal stake in the dispute.",
+   "skeptic": "An eminent, independent scholar of the period judged it a fraud, which supports d'Arcis.",
+   "reply": "Oresme gives no investigation or detail; it is a passing example in an argument about false miracles, and it shows reputation rather than evidence. Still, it adds a second independent contemporary voice.",
+   "strength": "moderate",
+   "strength_reason": "Independent and early, but brief and without stated evidence.",
+   "sources": [
+    {
+     "label": "Classicult 2025 on Sarzeaud, Journal of Medieval History",
+     "url": "https://www.classicult.it/en/a-newly-discovered-medieval-document-by-nicole-oresme-is-the-earliest-written-evidence-to-reject-the-shroud-of-turin-as-authentic/",
+     "type": "news"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "against-easter-prop-freeman",
+   "exhibit": 42,
+   "category": "history",
+   "title": "A medieval Easter-play prop that faded (Freeman)",
+   "claim": "Skeptics argue: historian Charles Freeman says the cloth was made as a prop for medieval Easter dramas and was originally painted much more vividly, as early descriptions and images suggest.",
+   "detail": "Freeman (History Today, 2014) cites a 1613 Tempesta engraving and 15th-16th century descriptions showing clearer blood and scourge marks, plus the Lirey badge showing clerics holding the cloth above a tomb. He links it to the 'Quem quaeritis' ritual.",
+   "skeptic": "This explains the cloth's appearance, its sudden debut and its fading without any mystery.",
+   "reply": "If paint had faded, pigment binder residue should remain on image fibres, which STURP did not find; and early artists were drawing a faint image, so their copies naturally exaggerate it. This is an interesting historical hypothesis, not a demonstrated fact.",
+   "strength": "disputed",
+   "strength_reason": "A coherent idea from a serious historian, but it conflicts with the physical study of the image fibres.",
+   "sources": [
+    {
+     "label": "Art History News on Freeman 2014",
+     "url": "https://arthistorynews.com/articles/3065_Turin_Shroud_debunked_again",
+     "type": "news"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "against-sturp-bias",
+   "exhibit": 43,
+   "category": "other",
+   "title": "STURP was a team of believers",
+   "claim": "Skeptics argue: most STURP members were sympathetic to authenticity and some leaders sat on the Holy Shroud Guild's council, so their conclusions are biased.",
+   "detail": "Steven Schafersman described STURP as believers with one exception, Walter McCrone. Joe Nickell noted the Guild links. STURP had no experts in medieval art, archaeology or textiles.",
+   "skeptic": "Teams that want an answer tend to find it. The lack of art historians and textile experts is a real gap.",
+   "reply": "Motive does not refute data. Many STURP results were published in mainstream peer-reviewed journals (Applied Optics, Analytica Chimica Acta, X-Ray Spectrometry) and can be judged on method. The missing disciplines are a fair criticism.",
+   "strength": "weak",
+   "strength_reason": "Largely an argument about motive; the published data must be judged on their own.",
+   "sources": [
+    {
+     "label": "Wikipedia: Shroud of Turin Research Project",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin_Research_Project",
+     "type": "website"
+    },
+    {
+     "label": "STURP published papers list",
+     "url": "http://www.shroud.com/78papers.htm",
+     "type": "website"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "against-gospel-linen-strips",
+   "exhibit": 44,
+   "category": "other",
+   "title": "The Gospels mention linen strips and a separate face cloth",
+   "claim": "Skeptics argue: John's Gospel speaks of the body wrapped in linen cloths or strips and a separate cloth for the head, not one large sheet.",
+   "detail": "John 19:40 and John 20:5-7 describe linen cloths (othonia) and a separate soudarion. The synoptic Gospels say the body was wrapped in a linen sindon (Mark 15:46).",
+   "skeptic": "A single long sheet with a full body image is hard to fit to John's description.",
+   "reply": "The Greek othonia is a plural that can mean linen cloths in general, and the synoptics use sindon, a single sheet. A sheet plus bands and a face cloth fits all four accounts. This argument is weak in both directions.",
+   "strength": "weak",
+   "strength_reason": "Depends on translation of a plural Greek noun; does not decide anything.",
+   "sources": [
+    {
+     "label": "Schwortz 2016, 'Five Reasons Why Some Christians are Shroud Skeptics'",
+     "url": "https://www.shroud.com/pdfs/fivereasons.pdf",
+     "type": "website"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "church-position",
+   "exhibit": 45,
+   "category": "other",
+   "title": "What the Catholic Church actually says",
+   "claim": "The Church does not declare the Shroud authentic. It allows veneration as an icon and leaves the scientific question to scientists.",
+   "detail": "John Paul II said in Turin on 24 May 1998: 'Since it is not a matter of faith, the Church has no specific competence to pronounce on these questions,' and entrusted the matter to scientists. Benedict XVI and Francis called it an icon. Archbishop Nosiglia said in 2013 there was 'no degree of safety' on Fanti's tested material.",
+   "skeptic": "The Church's caution itself shows the evidence is not decisive.",
+   "reply": "Agreed; the site should quote the Church's position exactly and not imply official endorsement.",
+   "strength": "strong",
+   "strength_reason": "Documented official statements.",
+   "sources": [
+    {
+     "label": "John Paul II, Address in Turin Cathedral, 24 May 1998",
+     "url": "https://www.vatican.va/content/john-paul-ii/en/travels/1998/documents/hf_jp-ii_spe_24051998_sindone.html",
+     "type": "official"
+    },
+    {
+     "label": "Vatican News 2020, Pope Francis letter",
+     "url": "https://vaticannews.va/en/pope/news/2020-04/pope-expresses-gratitude-for-exposition-of-the-shroud-of-turin.html",
+     "type": "official"
+    },
+    {
+     "label": "Wikipedia: Shroud of Turin (Church position)",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin",
+     "type": "website"
+    }
+   ],
+   "lean": "neutral"
+  }
+ ]
+}

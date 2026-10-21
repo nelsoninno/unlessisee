@@ -1,0 +1,8 @@
+{
+  "domain": "unlessisee.org",
+  "defaultLang": "en",
+  "langs": [
+    { "code": "en", "short": "EN", "locale": "en_US", "name": "English" },
+    { "code": "es", "short": "ES", "locale": "es_SV", "name": "Español" }
+  ]
+}
