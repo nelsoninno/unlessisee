@@ -1,0 +1,348 @@
+{
+ "items": [
+  {
+   "id": "crown-of-thorns-forehead",
+   "name": "سيلان الدم من الوخزات على الجبهة",
+   "body_region": "الجبهة ومقدمة فروة الرأس",
+   "side": "front",
+   "x": 0.485,
+   "y": 0.11,
+   "description": "تسيل عدة خيوط من الدم على الجبهة من نقاط وخز. وأحدها على شكل الرقم 3 (ويُسمّى غالبًا إبسيلون)، ويفسّره بكلين بأنه دم يتبع ثنيات الجلد.",
+   "gospel": "يوحنا 19:2",
+   "verse": "وَضَفَرَ ٱلْعَسْكَرُ إِكْلِيلًا مِنْ شَوْكٍ وَوَضَعُوهُ عَلَى رَأْسِهِ، وَأَلْبَسُوهُ ثَوْبَ أُرْجُوَانٍ،",
+   "skeptic": "إكليل الشوك تفصيل من الأناجيل كان أي فنان سيضمّنه. وأشكال الخيوط المفردة تُقرأ من الصور الفوتوغرافية.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    }
+   ]
+  },
+  {
+   "id": "face-injuries",
+   "name": "إصابات الوجه",
+   "body_region": "الوجنة اليمنى، والعين اليمنى، والأنف",
+   "side": "front",
+   "x": 0.47,
+   "y": 0.145,
+   "description": "يذكر بكلين تورّمًا فوق الوجنة اليمنى، وانغلاقًا جزئيًا للعين اليمنى، وانحناءً خفيفًا في الأنف، وسحجة عند طرف الأنف. أما بيفيلاكوا وداريينزو فيصفان العين اليمنى بأنها غائرة بسبب إصابة عصبية.",
+   "gospel": "متى 27:30",
+   "verse": "وَبَصَقُوا عَلَيْهِ، وَأَخَذُوا ٱلْقَصَبَةَ وَضَرَبُوهُ عَلَى رَأْسِهِ.",
+   "skeptic": "تفاصيل الوجه باهتة وتُقرأ من صور محسّنة، وأطباء الطب الشرعي يختلفون أصلًا بشأن العين اليمنى.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Bevilacqua و D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    }
+   ]
+  },
+  {
+   "id": "nose-dirt-fall",
+   "name": "خدوش وتراب عند الأنف",
+   "body_region": "الأنف",
+   "side": "front",
+   "x": 0.515,
+   "y": 0.16,
+   "description": "يصف بكلين خدوشًا وترابًا في منطقة الأنف، بما يتّسق مع ارتطام الوجه بالأرض في سقطة. والسقطات في الطريق إلى الإعدام من التقليد، لا من الأناجيل.",
+   "gospel": null,
+   "verse": null,
+   "skeptic": "الدراسة المعدنية المنشورة الوحيدة (كولبك ونيتوفسكي 1986) تذكر جسيمات حجر جيري من شريط عند القدمين، لا عند الأنف. ولم يؤكد تحليل مستقل وجود تراب عند الأنف.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Nitowski 1986",
+     "url": "https://www.shroud.com/pdfs/ESSJ%20Nitowski%201986.pdf"
+    }
+   ]
+  },
+  {
+   "id": "right-shoulder-dislocation",
+   "name": "الكتف اليمنى المنخفضة",
+   "body_region": "الكتف والذراع اليمنى",
+   "side": "front",
+   "x": 0.62,
+   "y": 0.21,
+   "description": "يذكر بيفيلاكوا وداريينزو أن الكتف اليمنى منخفضة بنحو 15 درجة، ويقرآن ذلك خلعًا في عظم العضد الأيمن، ربما من سقطة أثناء حمل العارضة.",
+   "gospel": null,
+   "verse": null,
+   "skeptic": "قراءة فريق واحد، منشورة في أعمال مؤتمر وفي مجلة محدودة التأثير، ولا يصفها أطباء آخرون.",
+   "sources": [
+    {
+     "label": "Bevilacqua و D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    },
+    {
+     "label": "Bevilacqua, Fanti, D'Arienzo 2017, Open Journal of Trauma",
+     "url": "https://doi.org/10.17352/ojt.000009"
+    }
+   ]
+  },
+  {
+   "id": "wrist-nail-wound",
+   "name": "جرح المسمار في الرسغ",
+   "body_region": "ظهر اليد اليسرى عند طرف الرسغ (اليمنى مغطاة)",
+   "side": "front",
+   "x": 0.445,
+   "y": 0.47,
+   "description": "تقع بقعة دم على ظهر اليد اليسرى نحو الرسغ، ويخرج منها خيطان من الدم بينهما نحو 10 درجات. ويحسب بكلين أن الذراعين كانتا مرفوعتين بنحو 65 درجة، وأن الرجل غيّر وضعه. ووضع باربيه المسمار في فراغ ديستو في الرسغ، ويحتج زوجيبي بأنه دخل من أعلى الكف وخرج عند الرسغ.",
+   "gospel": "يوحنا 20:25",
+   "verse": "إِنْ لَمْ أُبْصِرْ فِي يَدَيْهِ أَثَرَ ٱلْمَسَامِيرِ، وَأَضَعْ إِصْبِعِي فِي أَثَرِ ٱلْمَسَامِيرِ، وَأَضَعْ يَدِي فِي جَنْبِهِ، لَا أُومِنْ.",
+   "skeptic": "كبار أطباء الطب الشرعي يختلفون على مسار المسمار. وموضع الجرح يختلف عن معظم فن العصور الوسطى، لكن وضعه في الرسغ ليس مجهولًا في الفن.",
+   "sources": [
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    },
+    {
+     "label": "Zugibe 1995, Pierre Barbet Revisited",
+     "url": "https://shroud.com/zugibe.htm"
+    }
+   ]
+  },
+  {
+   "id": "missing-thumbs",
+   "name": "الإبهامان غير ظاهرين",
+   "body_region": "اليدان كلتاهما",
+   "side": "front",
+   "x": 0.5,
+   "y": 0.495,
+   "description": "لا تُظهر كل يد إلا أربع أصابع. ويفسّر باربيه وبكلين ذلك بتلف عصبي جذب الإبهامين إلى الكفين، ويقول زوجيبي إن الإبهامين يستقران ببساطة أمام السبابتين ولم يلامسا القماش.",
+   "gospel": null,
+   "verse": null,
+   "skeptic": "يوجد تفسيران طبيان لا يجتمعان. وكان بإمكان فنان يرسم يدين متقاطعتين أن يخفي الإبهامين أيضًا.",
+   "sources": [
+    {
+     "label": "Zugibe 1995, Pierre Barbet Revisited",
+     "url": "https://shroud.com/zugibe.htm"
+    },
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    }
+   ]
+  },
+  {
+   "id": "forearm-blood-flows",
+   "name": "سيلان الدم على الساعدين",
+   "body_region": "الساعدان كلاهما",
+   "side": "front",
+   "x": 0.66,
+   "y": 0.43,
+   "description": "تسيل جداول من الدم من الرسغين على الساعدين نحو المرفقين، كما هو متوقع لو كانت الذراعان مرفوعتين فوق الرأس أثناء النزف.",
+   "gospel": "يوحنا 19:18",
+   "verse": "حَيْثُ صَلَبُوهُ، وَصَلَبُوا ٱثْنَيْنِ آخَرَيْنِ مَعَهُ مِنْ هُنَا وَمِنْ هُنَا، وَيَسُوعُ فِي ٱلْوَسْطِ.",
+   "skeptic": "وجد بوريني وغارلاسكيلي (2018) أن السيلان على الساعدين يحتاج إلى ذراعين شبه عموديتين، بينما تحتاج خيوط الدم على اليدين إلى ذراعين بزاوية نحو 45 درجة، وقرآ ذلك على أنه غير متسق وفني.",
+   "sources": [
+    {
+     "label": "Borrini و Garlaschelli, J. Forensic Sciences",
+     "url": "https://researchonline.ljmu.ac.uk/id/eprint/8813/"
+    },
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    }
+   ]
+  },
+  {
+   "id": "side-wound",
+   "name": "جرح الجنب مع دم وسائل صافٍ",
+   "body_region": "الجهة اليمنى من الصدر، عند الضلع الخامس أو السادس تقريبًا",
+   "side": "front",
+   "x": 0.64,
+   "y": 0.334,
+   "description": "تقع أكبر بقعة دم على الجهة اليمنى من الصدر، وعند حافتها العليا جرح بيضوي في الجلد. ويرى بكلين دمًا مع سائل مائي صافٍ، ويقترح أنه سائل جنبي من قصور القلب، ويضع بيفيلاكوا وداريينزو الجرح في الحيّز الوربي السادس، بعرض نحو 4.5 سم.",
+   "gospel": "يوحنا 19:34",
+   "verse": "لَكِنَّ وَاحِدًا مِنَ ٱلْعَسْكَرِ طَعَنَ جَنْبَهُ بِحَرْبَةٍ، وَلِلْوَقْتِ خَرَجَ دَمٌ وَمَاءٌ.",
+   "skeptic": "«الماء» تأويل لمناطق أفتح في البقعة. وجرح الحربة في الجهة اليمنى هو أيضًا الموضع المعتاد في فن العصور الوسطى.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Bevilacqua و D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    }
+   ]
+  },
+  {
+   "id": "scourge-marks-front",
+   "name": "آثار السوط (من الأمام)",
+   "body_region": "الصدر ومقدمة الساقين",
+   "side": "front",
+   "x": 0.42,
+   "y": 0.66,
+   "description": "تظهر آثار مزدوجة مشابهة على الصدر ومقدمة الساقين، ملتفّة من الظهر. ويلاحظ بكلين أنها غائبة عن الذراعين والساعدين.",
+   "gospel": "يوحنا 19:1",
+   "verse": "فَحِينَئِذٍ أَخَذَ بِيلَاطُسُ يَسُوعَ وَجَلَدَهُ.",
+   "skeptic": "التحفظات نفسها التي على آثار الظهر.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "knee-abrasions",
+   "name": "سحجات الركبتين",
+   "body_region": "الركبتان، خصوصًا اليسرى",
+   "side": "front",
+   "x": 0.45,
+   "y": 0.73,
+   "description": "تصف روايات شعبية تورّمًا وكشطًا في الركبتين من سقطات متكررة. ولا يلاحظ بكلين إلا أن الركبة اليسرى منثنية قليلًا.",
+   "gospel": null,
+   "verse": null,
+   "skeptic": "توثيقها ضعيف: لم يصفها بكلين ولا بيفيلاكوا وداريينزو، والسقطات من التقليد لا من الأناجيل. لا ينبغي تقديمها حقيقة ثابتة.",
+   "sources": [
+    {
+     "label": "Graves 2021, National Catholic Register",
+     "url": "https://www.ncregister.com/commentaries/clues-on-the-shroud-of-turin-tell-us-what-christ-endured-on-good-friday"
+    },
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "rigor-mortis-posture",
+   "name": "وضعية التيبّس الرمّي",
+   "body_region": "الجسد كله: الرأس والساقان والقدمان",
+   "side": "front",
+   "x": 0.47,
+   "y": 0.83,
+   "description": "يقرأ بكلين التصلّب العام على أنه تيبّس رمّي، مع انثناء خفيف في الركبة اليسرى وبقاء وضع الساق بعد الموت. ويصف بيفيلاكوا وداريينزو الرأس منحنيًا إلى الأمام ومستديرًا، ويحتجان بأن جسدًا متيبّسًا لا يمكن فرده تمامًا.",
+   "gospel": "يوحنا 19:30",
+   "verse": "فَلَمَّا أَخَذَ يَسُوعُ ٱلْخَلَّ قَالَ: «قَدْ أُكْمِلَ». وَنَكَّسَ رَأْسَهُ وَأَسْلَمَ ٱلرُّوحَ.",
+   "skeptic": "يُستنتج التيبّس من الوضعية على صورة باهتة، وكان بإمكان نحّات أو فنان أن يضع هيئة في هذا الوضع أيضًا.",
+   "sources": [
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    },
+    {
+     "label": "Bevilacqua و D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    }
+   ]
+  },
+  {
+   "id": "crown-of-thorns-back-of-head",
+   "name": "جروح وخزية في مؤخرة الرأس",
+   "body_region": "مؤخرة فروة الرأس وأعلاها",
+   "side": "back",
+   "x": 0.5,
+   "y": 0.035,
+   "description": "يحيط صف من آثار الدم بمؤخرة فروة الرأس، مع آثار أخرى في أعلى الرأس. ويحتج بكلين بأن ذلك يتوافق مع قلنسوة من الشوك تغطي الرأس كله، لا مع الحلقة الضيقة التي يُظهرها معظم الفن الأوروبي.",
+   "gospel": "يوحنا 19:2",
+   "verse": "وَضَفَرَ ٱلْعَسْكَرُ إِكْلِيلًا مِنْ شَوْكٍ وَوَضَعُوهُ عَلَى رَأْسِهِ، وَأَلْبَسُوهُ ثَوْبَ أُرْجُوَانٍ،",
+   "skeptic": "حجة القلنسوة مقابل الحلقة تستند إلى انتشار بقع باهتة، وبعض الفن اللاحق يُظهر أيضًا جروحًا كثيفة في الرأس.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "shoulder-abrasions",
+   "name": "سحجات لوحي الكتفين",
+   "body_region": "أعلى الظهر، فوق لوحي الكتفين",
+   "side": "back",
+   "x": 0.62,
+   "y": 0.12,
+   "description": "تبدو منطقتان عريضتان متغيّرتا اللون فوق لوحي الكتفين كسحجات من جسم ثقيل خشن. ويقرؤها الأطباء آثارًا لحمل العارضة.",
+   "gospel": "يوحنا 19:17",
+   "verse": "فَخَرَجَ وَهُوَ حَامِلٌ صَلِيبَهُ إِلَى ٱلْمَوْضِعِ ٱلَّذِي يُقَالُ لَهُ «مَوْضِعُ ٱلْجُمْجُمَةِ» وَيُقَالُ لَهُ بِٱلْعِبْرَانِيَّةِ «جُلْجُثَةُ»،",
+   "skeptic": "المنطقتان باهتتان وقراءتهما تعتمد على التوقعات. ويقول مرقس ومتى ولوقا إن سمعان القيرواني حمل الصليب جزءًا من الطريق (لوقا 23:26).",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    }
+   ]
+  },
+  {
+   "id": "scourge-marks-back",
+   "name": "آثار السوط (من الخلف)",
+   "body_region": "الكتفان والظهر والردفان ومؤخرة الساقين",
+   "side": "back",
+   "x": 0.45,
+   "y": 0.22,
+   "description": "أكثر من 100 أثر صغير مزدوج أو على شكل الدمبل تنتشر من الكتفين حتى ربلتي الساقين. ويصفها بكلين بأنها مزدوجة الرأس ويصعب عدّها، ويلاحظ زوجيبي أن سوطًا ذا ثلاثة سيور يضرب 40 جلدة يترك نحو 120 أثرًا. وتُقرأ شقوقًا صغيرة في الجلد مع دم، لا كدمات.",
+   "gospel": "يوحنا 19:1",
+   "verse": "فَحِينَئِذٍ أَخَذَ بِيلَاطُسُ يَسُوعَ وَجَلَدَهُ.",
+   "skeptic": "الأعداد مأخوذة من صور محسّنة وتختلف بحسب المؤلف. وكان بإمكان فنان مطّلع من العصور الوسطى أن يعيد إنتاج نمط الجلد الروماني، ويحتج فريمان بأن الآثار كانت يومًا مرسومة بوضوح أكبر.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Zugibe، محاضرة Turin 2000",
+     "url": "https://www.crucifixion-shroud.com/Turin2000.htm"
+    },
+    {
+     "label": "Freeman 2014 (ملخص)",
+     "url": "https://arthistorynews.com/articles/3065_Turin_Shroud_debunked_again"
+    }
+   ]
+  },
+  {
+   "id": "lower-back-blood-belt",
+   "name": "دم عبر أسفل الظهر",
+   "body_region": "أسفل الظهر، عند الخصر",
+   "side": "back",
+   "x": 0.5,
+   "y": 0.345,
+   "description": "يعبر شريط من الدم أسفل الظهر. ويُفسَّر عادة بأنه دم وسائل سالا من جرح الجنب حين نُقل الجسد ووُضع.",
+   "gospel": "يوحنا 19:34",
+   "verse": "لَكِنَّ وَاحِدًا مِنَ ٱلْعَسْكَرِ طَعَنَ جَنْبَهُ بِحَرْبَةٍ، وَلِلْوَقْتِ خَرَجَ دَمٌ وَمَاءٌ.",
+   "skeptic": "رأى بوريني وغارلاسكيلي أن هذا الشريط «غير واقعي تمامًا» بوصفه سيلانًا بعد الموت من جرح الجنب على جسد مستلقٍ.",
+   "sources": [
+    {
+     "label": "Borrini و Garlaschelli, J. Forensic Sciences",
+     "url": "https://researchonline.ljmu.ac.uk/id/eprint/8813/"
+    }
+   ]
+  },
+  {
+   "id": "feet-wound",
+   "name": "جرح المسمار في القدمين",
+   "body_region": "باطنا القدمين، وخصوصًا اليمنى",
+   "side": "back",
+   "x": 0.48,
+   "y": 0.88,
+   "description": "تُظهر الصورة الخلفية القدم اليمنى مع أثر ثقب واضح قرب وسط الباطن، وقدمًا يسرى أقل وضوحًا. ويضع بيفيلاكوا وداريينزو المسمار عبر عظام الرسغ القدمي.",
+   "gospel": "لوقا 24:39",
+   "verse": "اُنْظُرُوا يَدَيَّ وَرِجْلَيَّ: إِنِّي أَنَا هُوَ! جُسُّونِي وَٱنْظُرُوا، فَإِنَّ ٱلرُّوحَ لَيْسَ لَهُ لَحْمٌ وَعِظَامٌ كَمَا تَرَوْنَ لِي.",
+   "skeptic": "القدم اليسرى غير واضحة، والخلاف قائم حول ما إذا استُخدم مسمار واحد أو اثنان.",
+   "sources": [
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    },
+    {
+     "label": "Bevilacqua و D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1141 @@
+{
+ "meta": {
+  "note": "يبدأ التاريخ الموثّق لهذا القماش في ليري في خمسينيات القرن الرابع عشر. وكل ما قبل ذلك إما شيء آخر موثّق مستقل (المنديل، ومنديل أوفييدو) ارتباطه بهذا القماش مفترض، وإما أسطورة. والسنوات قبل الميلاد سالبة فقط حيث يلزم رقم للسنة، وكل الأحداث هنا بعد الميلاد."
+ },
+ "events": [
+  {
+   "id": "crucifixion-burial",
+   "year": 30,
+   "date_label": "نحو 30 أو 33 م",
+   "title": "صلب يسوع ودفنه",
+   "text": "تقول الأناجيل إن يوسف الرامي لفّ الجسد في كتان (sindon) ووضعه في قبر منحوت في صخرة. ويذكر يوحنا أقمشة كتان ومنديلًا منفصلًا للوجه. وأي ربط بهذا الكفن فرضية.",
+   "certainty": "hypothesized",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Schwortz 2016 (مناقشة اعتراضات مستندة إلى الأناجيل)",
+     "url": "https://www.shroud.com/pdfs/fivereasons.pdf"
+    }
+   ]
+  },
+  {
+   "id": "abgar-legend",
+   "year": 325,
+   "date_label": "أوائل القرن الرابع",
+   "title": "يوسابيوس يسجّل رسائل أبجر، بلا صورة",
+   "text": "يحفظ يوسابيوس رسالة بين الملك أبجر ملك الرها ويسوع. ولا تُذكر أي صورة. وتدخل الصورة الأسطورة لاحقًا.",
+   "certainty": "legendary",
+   "track": "world",
+   "sources": [
+    {
+     "label": "ويكيبيديا: Image of Edessa",
+     "url": "https://en.wikipedia.org/wiki/Image_of_Edessa"
+    }
+   ]
+  },
+  {
+   "id": "egeria-edessa",
+   "year": 384,
+   "date_label": "384",
+   "title": "الحاجّة إيجيريا ترى رسائل، لا صورة",
+   "text": "تزور إيجيريا الرها وتذكر رسائل أبجر، لكنها لا تذكر أي صورة للمسيح.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "ويكيبيديا: Image of Edessa",
+     "url": "https://en.wikipedia.org/wiki/Image_of_Edessa"
+    }
+   ]
+  },
+  {
+   "id": "evagrius-image",
+   "year": 593,
+   "date_label": "نحو 593",
+   "title": "أول ذكر لصورة في الرها",
+   "text": "ينسب إيفاغريوس المدرسي إلى صورة عجائبية إنقاذ الرها من الحصار الفارسي عام 544. واقترح إيان ويلسون لاحقًا أن صورة الوجه هذه هي الكفن مطويًا بحيث لا يظهر إلا الوجه.",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "ويكيبيديا: Image of Edessa",
+     "url": "https://en.wikipedia.org/wiki/Image_of_Edessa"
+    }
+   ]
+  },
+  {
+   "id": "sudarium-legend",
+   "year": 614,
+   "date_label": "614",
+   "title": "يُقال إن المنديل غادر القدس",
+   "text": "تقول الأسطورة إن قماش الوجه المحفوظ اليوم في أوفييدو غادر القدس قبيل الغزو الفارسي. وقد دُوّنت القصة بعد قرون على يد الأسقف بيلاجيوس المعروف بالتزوير.",
+   "certainty": "legendary",
+   "track": "world",
+   "sources": [
+    {
+     "label": "ويكيبيديا: Sudarium of Oviedo",
+     "url": "https://en.wikipedia.org/wiki/Sudarium_of_Oviedo"
+    }
+   ]
+  },
+  {
+   "id": "mandylion-constantinople",
+   "year": 944,
+   "date_label": "944",
+   "title": "نقل المنديل إلى القسطنطينية",
+   "text": "تُنقل صورة الرها إلى القسطنطينية وتوضع في كنيسة الفاروس. والنقل موثّق، أما كونها هذا الكفن ففرضية يرفضها معظم المؤرخين.",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "ويكيبيديا: Image of Edessa",
+     "url": "https://en.wikipedia.org/wiki/Image_of_Edessa"
+    }
+   ]
+  },
+  {
+   "id": "sudarium-1075",
+   "year": 1075,
+   "date_label": "14 مارس 1075",
+   "title": "فتح صندوق المنديل في أوفييدو",
+   "text": "يفتح ألفونسو السادس وأخته والسيد الكمبيطور (El Cid) الصندوق الذي يحوي المنديل. وهذا أقدم سجل صريح لذلك القماش.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "ويكيبيديا: Sudarium of Oviedo",
+     "url": "https://en.wikipedia.org/wiki/Sudarium_of_Oviedo"
+    }
+   ]
+  },
+  {
+   "id": "pray-codex",
+   "year": 1192,
+   "date_label": "1192 إلى 1195",
+   "title": "رسم مخطوطة براي",
+   "text": "تُظهر مخطوطة مجرية دفن المسيح ويداه متقاطعتان، بلا إبهامين، مع قماش عليه دوائر على شكل حرف L تشبه ثقوب الحرق القديمة في الكفن. ويقرأ المنتقدون الشيء المرسوم شاهد قبر مزخرفًا.",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "ويكيبيديا: Hungarian Pray Codex",
+     "url": "https://en.wikipedia.org/wiki/Pray_Codex"
+    }
+   ]
+  },
+  {
+   "id": "de-clari",
+   "year": 1203,
+   "date_label": "1203 إلى 1204",
+   "title": "كفن روبير دي كلاري الذي عليه صورة",
+   "text": "يكتب صليبي فرنسي أن كفنًا يُظهر صورة الرب كان يُرفع كل يوم جمعة في بلاخيرناي في القسطنطينية. ولا يؤكد ذلك أي مصدر آخر.",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "ويكيبيديا: Robert de Clari",
+     "url": "https://en.wikipedia.org/wiki/Robert_de_Clari"
+    }
+   ]
+  },
+  {
+   "id": "sack-constantinople",
+   "year": 1204,
+   "date_label": "1204",
+   "title": "نهب القسطنطينية",
+   "text": "ينهب الصليبيون ذخائر المدينة. ويرى بعض المؤرخين أن كفنًا اختفى حينها ووصل لاحقًا إلى فرنسا. وهذه فرضية.",
+   "certainty": "hypothesized",
+   "track": "world",
+   "sources": [
+    {
+     "label": "ويكيبيديا: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "templar-testimony",
+   "year": 1287,
+   "date_label": "1287",
+   "title": "فارس هيكل مبتدئ يقبّل صورة على كتان",
+   "text": "شهد أرنو ساباتييه بأنه أُري، عند انضمامه إلى فرسان الهيكل، قماشًا طويلًا من الكتان عليه صورة رجل ملتحٍ. واقترحت باربرا فرالي عام 2009 أن هذا هو الكفن.",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "The Register 2009 عن Frale",
+     "url": "https://www.theregister.com/offbeat/2009/04/06/vatican-researcher-claims-templars-worshipped-turin-shroud/968021"
+    }
+   ]
+  },
+  {
+   "id": "lirey-founding",
+   "year": 1353,
+   "date_label": "20 يونيو 1353",
+   "title": "تأسيس كنيسة ليري",
+   "text": "يؤسس الفارس جوفروا دي شارني كنيسة جماعية في ليري في شامبانيا. ويصف الموقع الرسمي في تورينو هذا الحدث بأنه بداية أول دليل مؤكد.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "أبرشية تورينو: لمحة تاريخية",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    },
+    {
+     "label": "ويكيبيديا: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "lirey-exhibitions",
+   "year": 1355,
+   "date_label": "نحو 1355",
+   "title": "أول عروض في ليري",
+   "text": "يبدأ الكاهن القانوني روبير دي كاياك عرض القماش في ليري. وتُظهر شارات حجّاج تحمل شعاري شارني وفيرجي، إحداها اليوم في متحف كلوني، صورتين أمامية وخلفية لجسد.",
+   "certainty": "probable",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "ويكيبيديا: Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+    },
+    {
+     "label": "A Souvenir from Lirey (شارة متحف كلوني)",
+     "url": "https://sindonology.org/papers/clunySouvenir.shtml"
+    }
+   ]
+  },
+  {
+   "id": "charny-death",
+   "year": 1356,
+   "date_label": "1356",
+   "title": "مقتل جوفروا دي شارني في بواتييه",
+   "text": "يُقتل مؤسس ليري في معركة بواتييه. ولم يترك قط رواية مكتوبة عن كيفية حصوله على القماش.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "ويكيبيديا: Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "oresme",
+   "year": 1370,
+   "date_label": "1355 إلى 1382 (على الأرجح بعد 1370)",
+   "title": "أوريسم يصف كفنًا في شامبانيا بأنه مزيّف",
+   "text": "يستشهد اللاهوتي نيكول أوريسم بكنيسة في شامبانيا تدّعي امتلاك كفن الرب مثالًا واضحًا على احتيال رجال الدين. وتعرّف نيكولا سارزو على المقطع عام 2025.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Classicult 2025 عن Sarzeaud",
+     "url": "https://www.classicult.it/en/a-newly-discovered-medieval-document-by-nicole-oresme-is-the-earliest-written-evidence-to-reject-the-shroud-of-turin-as-authentic/"
+    }
+   ]
+  },
+  {
+   "id": "darcis",
+   "year": 1389,
+   "date_label": "1389",
+   "title": "مذكرة الأسقف دارسي",
+   "text": "يكتب أسقف تروا إلى البابا المضاد كليمنت السابع أن القماش مرسوم ببراعة وأن فنانًا اعترف بذلك لأسقف سابق. والنصوص الباقية مسودات غير موقّعة.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "ويكيبيديا: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    },
+    {
+     "label": "Markwardt, BSTS Newsletter 99",
+     "url": "https://www.shroud.com/pdfs/n99part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "clement-bull",
+   "year": 1390,
+   "date_label": "6 يناير 1390",
+   "title": "كليمنت السابع يسمح بعرضه بوصفه «تمثيلًا»",
+   "text": "يسمح البابا المضاد بالعروض فقط إذا أُعلن أنه صورة أو تمثيل، من دون شموع ولا بخور ولا حرس شرف.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "ويكيبيديا: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "margaret-removes",
+   "year": 1418,
+   "date_label": "1418",
+   "title": "إخراجه من ليري",
+   "text": "خلال حرب المئة عام، تأخذ مارغريت دي شارني القماش من ليري لحفظه. ويرفع الكهنة القانونيون لاحقًا دعوى لاستعادته.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "أبرشية تورينو: لمحة تاريخية",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    }
+   ]
+  },
+  {
+   "id": "savoy",
+   "year": 1453,
+   "date_label": "1453",
+   "title": "انتقاله إلى آل سافوي",
+   "text": "تنقل مارغريت دي شارني القماش إلى الدوق لويس دي سافوي. ويبقى ملكًا لآل سافوي حتى 1983.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "أبرشية تورينو: لمحة تاريخية",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    }
+   ]
+  },
+  {
+   "id": "julius-ii",
+   "year": 1506,
+   "date_label": "1506",
+   "title": "يوليوس الثاني يقرّ عيدًا",
+   "text": "يقرّ البابا يوليوس الثاني عيدًا ليتورجيًا للكفن المقدس في سافوي يوم 4 مايو، معاملًا إياه ذخيرةً.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "أبرشية تورينو: لمحة تاريخية",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    }
+   ]
+  },
+  {
+   "id": "chambery-fire",
+   "year": 1532,
+   "date_label": "4 ديسمبر 1532",
+   "title": "حريق في شامبيري",
+   "text": "يصهر حريق في الكنيسة المقدسة (Sainte-Chapelle) في شامبيري جزءًا من صندوق الذخيرة الفضي. ويحرق المعدن المنصهر القماش المطوي، تاركًا نمطًا متناظرًا من الثقوب وآثار الحرق.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "أبرشية تورينو: لمحة تاريخية",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    },
+    {
+     "label": "ويكيبيديا: Conservation-restoration of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "poor-clares",
+   "year": 1534,
+   "date_label": "1534",
+   "title": "راهبات القديسة كلارا يرقّعن الثقوب",
+   "text": "تخيط الراهبات رقعًا فوق ثقوب الحرق، ويضفن بطانة من قماش الهولندا.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "ويكيبيديا: Conservation-restoration of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "calvin",
+   "year": 1543,
+   "date_label": "1543",
+   "title": "كالفن يهاجمه",
+   "text": "يسخر جون كالفن في «رسالة في الذخائر» من الكفن المعروض في نيس بوصفه مزيّفًا.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "ويكيبيديا: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "to-turin",
+   "year": 1578,
+   "date_label": "14 سبتمبر 1578",
+   "title": "نقله إلى تورينو",
+   "text": "يأتي الدوق إيمانويل فيليبرت بالقماش إلى تورينو، بمناسبة حجّ قام به كارلو بوروميو. ويبقى في تورينو منذ ذلك الحين، باستثناء نقله في أوقات الحرب.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "أبرشية تورينو: لمحة تاريخية",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    }
+   ]
+  },
+  {
+   "id": "guarini-1694",
+   "year": 1694,
+   "date_label": "1694",
+   "title": "كنيسة غواريني وترميمات فالفريه",
+   "text": "يوضع القماش في كنيسة غوارينو غواريني، حيث يبقى حتى 1993. ويقوّيه سيباستيانو فالفريه.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "ويكيبيديا: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "clotilde-1868",
+   "year": 1868,
+   "date_label": "1868",
+   "title": "الأميرة كلوتيلد ترمّمه",
+   "text": "ترمّم كلوتيلد دي سافوي القماش. ويُعرض من 24 إلى 27 أبريل 1868 بمناسبة زفاف أومبرتو الأول، ملك المستقبل.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "ويكيبيديا: Conservation-restoration of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "pia-1898",
+   "year": 1898,
+   "date_label": "28 مايو 1898",
+   "title": "الصورة السلبية لسيكوندو بيا",
+   "text": "يكتشف المصوّر الهاوي سيكوندو بيا أن لوحه السلبي يُظهر هيئة بشرية واضحة تبدو موجبة. ومن هنا يبدأ الاهتمام العلمي الحديث.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "ويكيبيديا: Secondo Pia",
+     "url": "https://en.wikipedia.org/wiki/Secondo_Pia"
+    }
+   ]
+  },
+  {
+   "id": "vignon-1902",
+   "year": 1902,
+   "date_label": "1902",
+   "title": "فينيون يدرس هندسة الصورة",
+   "text": "يدرس بول فينيون كيف يشوّه قماش فوق جسد صورةً ما، ويلاحظ أن الصورة تبدو إسقاطًا متعامدًا، وهي نقطة أثارها موراييس مجددًا عام 2025.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Vatican News 2026",
+     "url": "https://www.vaticannews.va/en/church/news/2026-02/shroud-turin-medieval-bas-relief-hypothesis-challenged.html"
+    },
+    {
+     "label": "Catholic World Report 2025 (بيان CISS)",
+     "url": "https://www.catholicworldreport.com/2025/08/05/shroud-of-turin-center-disputes-new-study-that-challenges-authenticity-of-burial-cloth/"
+    }
+   ]
+  },
+  {
+   "id": "enrie-1931",
+   "year": 1931,
+   "date_label": "1931",
+   "title": "صور إنري",
+   "text": "يؤكد المصوّر المحترف جوزيبي إنري نتيجة بيا بألواح أوضح. واستُخدمت صور إنري في أعمال لاحقة ثلاثية الأبعاد وفي نمذجة عام 2025.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "ويكيبيديا: Secondo Pia",
+     "url": "https://en.wikipedia.org/wiki/Secondo_Pia"
+    }
+   ]
+  },
+  {
+   "id": "commission-1969",
+   "year": 1969,
+   "date_label": "1969",
+   "title": "أول لجنة علمية",
+   "text": "يعيّن رئيس أساقفة تورينو لجنة، أُبقيت سرية في البداية، لفحص حالة القماش.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "ويكيبيديا: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "tv-1973",
+   "year": 1973,
+   "date_label": "23 نوفمبر 1973",
+   "title": "أول عرض تلفزيوني وأولى العيّنات",
+   "text": "يُعرض القماش مباشرة على التلفزيون. وتُقصّ خيوط للدراسة، منها تلك التي فحصها جيلبرت رايس، ويأخذ ماكس فراي عيّنات بأشرطة لاصقة لحبوب اللقاح.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "أبرشية تورينو: عرض 1973",
+     "url": "https://sindone.org/en/home-english/expositions/1973-2/"
+    },
+    {
+     "label": "Smith عن Raes، Shroud Spectrum",
+     "url": "https://www.shroud.com/pdfs/ssi3536part5.pdf"
+    },
+    {
+     "label": "Farey 2014 عن حبوب لقاح Frei",
+     "url": "https://shroud.com/pdfs/n79part8.pdf"
+    }
+   ]
+  },
+  {
+   "id": "vp8-1976",
+   "year": 1976,
+   "date_label": "1976",
+   "title": "محلل VP-8 يُظهر معلومات ثلاثية الأبعاد",
+   "text": "باستخدام جهاز VP-8 لتحليل الصور في مختبرات سانديا، يجد جون جاكسون وإريك جمبر أن صورة لإنري تعطي نقشًا بارزًا متماسكًا. ويؤدي ذلك إلى تأسيس STURP.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "صفحة STERA عن VP-8",
+     "url": "https://shroud.com/78strp10.htm"
+    }
+   ]
+  },
+  {
+   "id": "sturp-1978",
+   "year": 1978,
+   "date_label": "26 أغسطس إلى أكتوبر 1978",
+   "title": "عرض عام وفحص STURP",
+   "text": "يشاهد نحو 3 ملايين شخص القماش. وبعد ذلك يدرسه فريق STURP خمسة أيام على مدار الساعة، فيلتقط الصور والأطياف وفلورة الأشعة السينية وعيّنات بالأشرطة اللاصقة.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "ويكيبيديا: Shroud of Turin Research Project",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin_Research_Project"
+    }
+   ]
+  },
+  {
+   "id": "mccrone-1980",
+   "year": 1980,
+   "date_label": "1979 إلى 1990",
+   "title": "ماكرون يقول إنه طلاء",
+   "text": "يفيد والتر ماكرون بوجود المغرة الحمراء والزنجفر في مادة رابطة من الكولاجين على أشرطة 1978، ويخلص إلى أنه لوحة من القرن الرابع عشر. ويغادر STURP عام 1980، وينشر حجته في Accounts of Chemical Research عام 1990.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "McCrone Research Institute",
+     "url": "https://mccroneinstitute.org/research/shroud-of-turin-research-at-mccrone"
+    },
+    {
+     "label": "ويكيبيديا: Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+    },
+    {
+     "label": "McCrone 1990 (نسخة مؤرشفة)",
+     "url": "https://web.archive.org/web/20230131030206/http://www.mccroneinstitute.org/uploads/the_microscope__shroud_small-1422560933.pdf"
+    }
+   ]
+  },
+  {
+   "id": "sturp-papers-1980",
+   "year": 1980,
+   "date_label": "1980",
+   "title": "أوراق STURP في Applied Optics",
+   "text": "ينشر STURP نتائج طيفية، وبالأشعة تحت الحمراء وفوق البنفسجية، ونتائج الدم، ومنها ورقة هيلر وأدلر «الدم على كفن تورينو».",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "أوراق STURP المنشورة",
+     "url": "https://www.shroud.com/78papers.htm"
+    },
+    {
+     "label": "Heller و Adler 1980",
+     "url": "https://www.shroud.com/pdfs/ssi43part2.pdf"
+    }
+   ]
+  },
+  {
+   "id": "sturp-1981",
+   "year": 1981,
+   "date_label": "1981",
+   "title": "الملخص النهائي لـSTURP",
+   "text": "يخلص STURP إلى أن الصورة ليست طلاء وليست من صنع فنان، وأن البقع تحتوي على الهيموغلوبين، وأن كيفية تكوّن الصورة تبقى لغزًا. وينشر هيلر وأدلر دراستهما الكيميائية.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "ملخص استنتاجات STURP",
+     "url": "https://www.shroud.com/78conclu.htm"
+    },
+    {
+     "label": "Heller و Adler 1981",
+     "url": "https://www.shroud.com/pdfs/ssi43part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "holy-see-1983",
+   "year": 1983,
+   "date_label": "1983",
+   "title": "إهداؤه إلى الكرسي الرسولي",
+   "text": "تنتقل الملكية من آل سافوي إلى الكرسي الرسولي. ويرعاه قيّم بابوي هو رئيس أساقفة تورينو.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "ويكيبيديا: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "jackson-1984",
+   "year": 1984,
+   "date_label": "1984",
+   "title": "ورقة شدة الصورة مقابل المسافة",
+   "text": "ينشر جاكسون وجمبر وإركولاين في Applied Optics أن تظليل الصورة يرتبط بالمسافة بين القماش والجسد (r² يساوي 0.60 من 13 نقطة).",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Jackson et al. 1984",
+     "url": "https://shroud.com/pdfs/Correlation%20of%20Image%20Intensity%20Jackson%20Jumper%20Ercoline%201984%20OCRsm.pdf"
+    }
+   ]
+  },
+  {
+   "id": "sampling-1988",
+   "year": 1988,
+   "date_label": "21 أبريل 1988",
+   "title": "قصّ عيّنة الكربون المشع",
+   "text": "في غرفة الخدمة بالكاتدرائية، يقصّ جوفاني ريجي شريطًا من إحدى الزوايا. وتذهب قطع منه إلى أريزونا وأكسفورد وزيورخ، مع ثلاثة أقمشة ضابطة. ويُحفظ جزء منه احتياطيًا.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Damon et al. 1989",
+     "url": "https://shroud.com/nature.htm"
+    },
+    {
+     "label": "ويكيبيديا: Radiocarbon dating",
+     "url": "https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "nature-1989",
+   "year": 1989,
+   "date_label": "فبراير 1989",
+   "title": "Nature تنشر 1260 إلى 1390 م",
+   "text": "يعلن دامون وزملاؤه من المختبرات الثلاثة نطاقًا بثقة 95% من 1260 إلى 1390 م، ويصفونه بأنه دليل قاطع على تاريخ من العصور الوسطى. وكان الكاردينال باليستريرو قد أعلن النطاق الرسمي باسم الكنيسة.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Damon et al. 1989, Nature 337:611",
+     "url": "https://doi.org/10.1038/337611a0"
+    }
+   ]
+  },
+  {
+   "id": "sudarium-c14",
+   "year": 1990,
+   "date_label": "1990 و1992 و2007",
+   "title": "تأريخ منديل أوفييدو بالكربون المشع",
+   "text": "تؤرّخ أريزونا وتورنتو ومدريد المنديل إلى ما بين القرنين السادس والتاسع، والأرجح نحو 700 م.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "ويكيبيديا: Sudarium of Oviedo",
+     "url": "https://en.wikipedia.org/wiki/Sudarium_of_Oviedo"
+    }
+   ]
+  },
+  {
+   "id": "fire-1997",
+   "year": 1997,
+   "date_label": "11 أبريل 1997",
+   "title": "حريق في الكاتدرائية",
+   "text": "يندلع حريق في كنيسة غواريني. ويحطّم رجل الإطفاء ماريو تريماتوري الصندوق المضاد للرصاص بمطرقة ثقيلة، ويُحمل القماش إلى الخارج سليمًا.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "ويكيبيديا: Conservation-restoration of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "jpii-1998",
+   "year": 1998,
+   "date_label": "24 مايو 1998",
+   "title": "يوحنا بولس الثاني: ليس مسألة إيمان",
+   "text": "في تورينو، يقول البابا إن الكنيسة ليس لها اختصاص محدد للبتّ في الأصالة، ويعهد بالسؤال إلى العلماء، واصفًا الكفن بأنه مرآة للإنجيل.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "الفاتيكان: كلمة يوحنا بولس الثاني، 24 مايو 1998",
+     "url": "https://www.vatican.va/content/john-paul-ii/en/travels/1998/documents/hf_jp-ii_spe_24051998_sindone.html"
+    }
+   ]
+  },
+  {
+   "id": "jubilee-2000",
+   "year": 2000,
+   "date_label": "2000",
+   "title": "عرض اليوبيل الكبير",
+   "text": "يُعرض القماش على الجمهور بمناسبة سنة اليوبيل.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "ويكيبيديا: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "restoration-2002",
+   "year": 2002,
+   "date_label": "20 يونيو إلى 22 يوليو 2002",
+   "title": "ترميم كبير",
+   "text": "يزيل فريق ميشتيلد فلوري-ليمبرغ الرقع الثلاثين من عام 1534 وبطانة قماش الهولندا، ويركّب بطانة جديدة، ويمسح الوجهين ضوئيًا. وينتقد بعض الباحثين العمل لأنه أتلف أدلة.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "أبرشية تورينو: الترميم",
+     "url": "https://sindone.org/en/home-english/the-shroud/the-fire/the-restoration/"
+    },
+    {
+     "label": "ويكيبيديا: Conservation-restoration",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "back-image-2004",
+   "year": 2004,
+   "date_label": "2004",
+   "title": "ادعاء صورة باهتة على الظهر",
+   "text": "يفيد فانتي وماجيولو بوجود صورة وجه باهتة على الوجه الخلفي استنادًا إلى صور 2002. ويُنقل أن المراقبين المباشرين عام 2002 لم يروا شيئًا.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "مراجعة لـ Fanti و Maggiolo 2004",
+     "url": "https://sindonology.org/reviews/doubleSuperficiality.shtml"
+    }
+   ]
+  },
+  {
+   "id": "rogers-2005",
+   "year": 2005,
+   "date_label": "يناير 2005",
+   "title": "روجرز: العيّنة المؤرّخة كانت مختلفة",
+   "text": "يحتج ريموند روجرز في Thermochimica Acta بأن منطقة الكربون المشع فيها قطن وطبقة من الصمغ والصبغة، ويقدّر عمر القماش بين 1,300 و3,000 سنة من فقد الفانيلين.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Rogers 2005",
+     "url": "https://zenodo.org/records/1259381"
+    },
+    {
+     "label": "Ball 2005، خبر في Nature",
+     "url": "https://www.nature.com/news/2005/050124/full/news050124-17.html"
+    }
+   ]
+  },
+  {
+   "id": "ramsey-2008",
+   "year": 2008,
+   "date_label": "2008",
+   "title": "أكسفورد تختبر فكرة أول أكسيد الكربون",
+   "text": "يختبر كريستوفر رامزي هل يمكن لأول أكسيد الكربون أن يضيف كربونًا حديثًا إلى الكتان، فلا يجد أثرًا يُعتدّ به.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Oxford Radiocarbon Accelerator Unit",
+     "url": "https://c14.arch.ox.ac.uk/shroud.html"
+    }
+   ]
+  },
+  {
+   "id": "garlaschelli-2009",
+   "year": 2009,
+   "date_label": "أكتوبر 2009",
+   "title": "نسخة غارلاسكيلي بالحجم الكامل",
+   "text": "يعرض الكيميائي لويجي غارلاسكيلي قماشًا بالحجم الطبيعي صُنع بفرك صبغة حمضية فوق متطوع وفوق نقش بارز، ثم خبزه وغسله. وتصدر الورقة عام 2010.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Garlaschelli 2010, JIST 54(4)",
+     "url": "https://library.imaging.org/jist/articles/54/4/art00002"
+    }
+   ]
+  },
+  {
+   "id": "enea-2010",
+   "year": 2010,
+   "date_label": "2010 إلى 2011",
+   "title": "دراسات ENEA بالليزر فوق البنفسجي",
+   "text": "يلوّن فيزيائيو ENEA الكتان بنبضات ليزر فوق بنفسجي قصيرة جدًا، فيحصلون على اصفرار رقيق يشبه الكفن. ويؤكدون أن هذا لا يُظهر كيف صُنعت الصورة فعلًا.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Di Lazzaro et al. 2010",
+     "url": "https://www.sindone.info/DILAZZA1.PDF"
+    }
+   ]
+  },
+  {
+   "id": "jull-2010",
+   "year": 2010,
+   "date_label": "2010",
+   "title": "أريزونا تعيد فحص قطعة مؤرّخة",
+   "text": "لا يجد فرير-ووترز وجل صبغة ولا طبقة، ولا إلا قليلًا من ألياف القطن، على قطعة متبقية لدى أريزونا. ويُعرض القماش أيضًا على الجمهور عام 2010.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Freer-Waters و Jull 2010, Radiocarbon 52(4)",
+     "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8CC26C322198300E051C49A0BA5B96D9/S0033822200056277a.pdf/investigating-a-dated-piece-of-the-shroud-of-turin.pdf"
+    }
+   ]
+  },
+  {
+   "id": "riani-fanti-2013",
+   "year": 2013,
+   "date_label": "2013",
+   "title": "ورقة إحصائية وكتاب فانتي عن التأريخ",
+   "text": "ينشر رياني وزملاؤه تحليل الاتجاه المكاني في Statistics and Computing. ويعلن فانتي تواريخ بطرق FT-IR ورامان والاختبارات الميكانيكية قرب القرن الأول، ويقول رئيس أساقفة تورينو إن مصدر المادة غير مؤكد.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Riani et al. 2013",
+     "url": "https://riani.unipr.it/pub/RAFC2012.pdf"
+    },
+    {
+     "label": "National Catholic Register 2013",
+     "url": "https://www.ncregister.com/news/science-shines-new-light-on-shroud-of-turin-s-age"
+    }
+   ]
+  },
+  {
+   "id": "freeman-2014",
+   "year": 2014,
+   "date_label": "2014",
+   "title": "نظرية فريمان عن أداة مسرحية لعيد الفصح",
+   "text": "يحتج المؤرخ تشارلز فريمان في History Today بأن القماش كان أداة مسرحية باهتة، مرسومة في الأصل، لمسرحيات عيد الفصح في العصور الوسطى.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Art History News عن Freeman",
+     "url": "https://arthistorynews.com/articles/3065_Turin_Shroud_debunked_again"
+    }
+   ]
+  },
+  {
+   "id": "expo-2015",
+   "year": 2015,
+   "date_label": "2015",
+   "title": "عرض وأول مسح للحمض النووي",
+   "text": "يُعرض القماش بموافقة البابا فرنسيس. ويفيد باركاتشا وزملاؤه بحمض نووي نباتي وبشري من مناطق كثيرة، مضيفين أن أصلًا أوروبيًا من العصور الوسطى غير مستبعد.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "ويكيبيديا: Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+    },
+    {
+     "label": "Barcaccia et al. 2015",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4593049/"
+    }
+   ]
+  },
+  {
+   "id": "raw-data-2017",
+   "year": 2017,
+   "date_label": "2017",
+   "title": "الإفراج عن البيانات الخام للكربون المشع",
+   "text": "بعد طلب قانوني، يفرج المتحف البريطاني عن البيانات الخام لمختبرات 1988 للباحث تريستان كازابيانكا.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Casabianca et al. 2019",
+     "url": "https://philarchive.org/archive/CASTRD-3"
+    }
+   ]
+  },
+  {
+   "id": "bpa-2018",
+   "year": 2018,
+   "date_label": "2018",
+   "title": "دراسة أنماط بقع الدم",
+   "text": "يفيد بوريني وغارلاسكيلي في Journal of Forensic Sciences بأن سيلان الدم يستلزم أوضاعًا غير متسقة. ويُقام عرض عام في أغسطس.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Borrini و Garlaschelli",
+     "url": "https://researchonline.ljmu.ac.uk/id/eprint/8813/"
+    }
+   ]
+  },
+  {
+   "id": "casabianca-2019",
+   "year": 2019,
+   "date_label": "مارس 2019",
+   "title": "البيانات الخام تُظهر عدم تجانس",
+   "text": "ينشر كازابيانكا وزملاؤه في Archaeometry أن البيانات الخام تفتقر إلى التجانس وأن إجراء 1988 ينبغي أن يُعاد النظر فيه، من دون أن يستبعدوا تاريخًا من العصور الوسطى.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Casabianca et al. 2019, Archaeometry 61(5)",
+     "url": "https://philarchive.org/rec/CASTRD-3"
+    }
+   ]
+  },
+  {
+   "id": "holy-saturday-2020",
+   "year": 2020,
+   "date_label": "سبت النور، أبريل 2020",
+   "title": "عرض مبثوث مباشرة أثناء الإغلاق",
+   "text": "خلال إغلاق جائحة كوفيد-19، تعرض الأبرشية القماش عبر التلفزيون والإنترنت. ويصفه البابا فرنسيس بأنه أيقونة للرب المصلوب والمائت والقائم.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Vatican News، أبريل 2020",
+     "url": "https://www.vaticannews.va/en/pope/news/2020-04/pope-expresses-gratitude-for-exposition-of-the-shroud-of-turin.html"
+    }
+   ]
+  },
+  {
+   "id": "stats-2020",
+   "year": 2020,
+   "date_label": "2020",
+   "title": "إعادتا تحليل إحصائي أخريان",
+   "text": "ينشر والش وشوالب، ودي لاتزارو وزملاؤه، أن نتائج الكفن غير متجانسة مع اتجاه مكاني، وأن استنتاج العصور الوسطى ينبغي أن يُعاد النظر فيه.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Walsh و Schwalbe 2020",
+     "url": "https://doi.org/10.1016/j.jasrep.2019.102015"
+    },
+    {
+     "label": "Di Lazzaro et al. 2020, Entropy",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7597180"
+    }
+   ]
+  },
+  {
+   "id": "waxs-2022",
+   "year": 2022,
+   "date_label": "أبريل 2022",
+   "title": "تأريخ خيط واحد بطريقة WAXS",
+   "text": "يفيد دي كارو وزملاؤه في Heritage بأن تقادم السليلوز في خيط واحد يطابق كتانًا من مسادا من 55 إلى 74 م، في ظل ظروف تخزين مفترضة.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "De Caro et al. 2022",
+     "url": "https://dsctm.cnr.it/images/Highlights/Sindone/DeCaro_Heritage_2022.pdf"
+    }
+   ]
+  },
+  {
+   "id": "review-2025",
+   "year": 2025,
+   "date_label": "فبراير 2025",
+   "title": "مراجعة محايدة: التاريخ قائم، والاختبار من جديد ضروري",
+   "text": "تخلص مراجعة في Textiles إلى أن الأدلة ضد تاريخ 1989 لا تكفي لإسقاطه، وأن تكوّن الصورة ما زال لغزًا، وأن اختبارًا ثانيًا بالكربون المشع ضروري.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Karapanagiotis 2025",
+     "url": "https://www.mdpi.com/2673-7248/5/1/8"
+    }
+   ]
+  },
+  {
+   "id": "jubilee-2025",
+   "year": 2025,
+   "date_label": "28 أبريل إلى 5 مايو 2025",
+   "title": "كفن رقمي لليوبيل",
+   "text": "بدلًا من عرض فعلي، يقدّم الكاردينال ريبولي نسخة رقمية بالحجم الطبيعي في خيمة في ساحة كاستيلو في تورينو.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Catholic Weekly 2025",
+     "url": "https://catholicweekly.com.au/shroud-of-turin-to-be-digitally-showcased-for-holy-year/"
+    }
+   ]
+  },
+  {
+   "id": "moraes-2025",
+   "year": 2025,
+   "date_label": "28 يوليو 2025",
+   "title": "موراييس: نقش منخفض يتوافق أكثر",
+   "text": "ينشر سيسيرو موراييس في Archaeometry محاكاة ثلاثية الأبعاد لإسدال القماش توحي بأن منحوتة منخفضة النقش تتوافق مع الصورة أكثر من جسد. ويردّ مركز تورينو CISS في 4 أغسطس بأن هذا ليس جديدًا.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Live Science 2025",
+     "url": "https://www.livescience.com/archaeology/shroud-of-turin-wasnt-laid-on-jesus-body-but-rather-a-sculpture-modeling-study-suggests"
+    },
+    {
+     "label": "Catholic World Report 2025",
+     "url": "https://www.catholicworldreport.com/2025/08/05/shroud-of-turin-center-disputes-new-study-that-challenges-authenticity-of-burial-cloth/"
+    }
+   ]
+  },
+  {
+   "id": "oresme-find-2025",
+   "year": 2025,
+   "date_label": "أغسطس 2025",
+   "title": "نشر مقطع أوريسم",
+   "text": "ينشر نيكولا سارزو نص أوريسم في Journal of Medieval History، وهو أقدم رفض مكتوب معروف للقماش.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Classicult 2025",
+     "url": "https://www.classicult.it/en/a-newly-discovered-medieval-document-by-nicole-oresme-is-the-earliest-written-evidence-to-reject-the-shroud-of-turin-as-authentic/"
+    }
+   ]
+  },
+  {
+   "id": "moraes-rebuttal-2026",
+   "year": 2026,
+   "date_label": "فبراير 2026",
+   "title": "ردّ على موراييس في Archaeometry",
+   "text": "ينشر كازابيانكا ومارينيلي وبيانا نقدًا لنموذج موراييس في المجلة نفسها، مستشهدين بأخطاء في النمذجة وأدلة متجاهَلة.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Vatican News، 10 فبراير 2026",
+     "url": "https://www.vaticannews.va/en/church/news/2026-02/shroud-turin-medieval-bas-relief-hypothesis-challenged.html"
+    }
+   ]
+  },
+  {
+   "id": "jull-2026",
+   "year": 2026,
+   "date_label": "أبريل 2026",
+   "title": "فحص قطعة ثانية من أريزونا",
+   "text": "ينشر فرير-ووترز وجل في Heritage Science عن قطعة متبقية من عيّنة أريزونا لعام 1988. وتقول التقارير الصحفية إنهما لم يجدا أثرًا لترميم أو مادة غريبة.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Freer-Waters و Jull 2026, Heritage Science",
+     "url": "https://www.nature.com/articles/s40494-026-02530-7"
+    },
+    {
+     "label": "Farey 2026، ملخص في مدونة",
+     "url": "https://medievalshroud.com/the-donahue-sliver-resurfaces/"
+    }
+   ]
+  },
+  {
+   "id": "riani-2026",
+   "year": 2026,
+   "date_label": "11 يونيو 2026",
+   "title": "انحدار إحصائي على البيانات الخام",
+   "text": "ينشر رياني وأتكنسون وكوربيليني ودي لاتزارو إعادة تحليل للبيانات الخام في Statistical Methods and Applications، يختبرون فيها كل الترتيبات الممكنة للعيّنات الفرعية، وعددها 165,888.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Riani et al. 2026",
+     "url": "https://link.springer.com/article/10.1007/s10260-026-00851-2"
+    }
+   ]
+  },
+  {
+   "id": "sudarium-exam-2026",
+   "year": 2026,
+   "date_label": "يوليو 2026",
+   "title": "فحص جديد للمنديل",
+   "text": "تعلن EDICES وجامعة أوفييدو أول فحص تقني غير جراحي للمنديل منذ 2012.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "آخر أخبار STERA",
+     "url": "https://www.shroud.com/latebrak.htm"
+    }
+   ]
+  },
+  {
+   "id": "dna-2026",
+   "year": 2026,
+   "date_label": "يوليو 2026",
+   "title": "دراسة الحمض النووي لعيّنات 1978",
+   "text": "يفيد باركاتشا وزملاؤه في Scientific Reports بأن الحمض النووي البشري الرئيسي يطابق العالم الذي جمع العيّنات، إضافة إلى آثار كثيرة نباتية وحيوانية وميكروبية. ويعود تاريخ خيطين من صندوق الذخيرة إلى ترميمي 1534 و1694.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Barcaccia et al. 2026",
+     "url": "https://www.nature.com/articles/s41598-026-60684-7"
+    },
+    {
+     "label": "ScienceDaily 2026",
+     "url": "https://www.sciencedaily.com/releases/2026/08/260803080859.htm"
+    },
+    {
+     "label": "IBT عبر inkl 2026",
+     "url": "https://www.inkl.com/news/turin-shroud-dna-jesus-claim-hits-a-snag-strongest-match-points-to-man-who-collected-samples"
+    }
+   ]
+  },
+  {
+   "id": "kearse-2026",
+   "year": 2026,
+   "date_label": "22 يوليو 2026",
+   "title": "اختبار ترتيب الدم والصورة",
+   "text": "يُظهر كيلي كيرس أن الدم على كتان معالَج بالحمض يحجب التلوين اللاحق، فعبارة «لا صورة تحت الدم» لا تحدد ترتيب الأحداث.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Kearse 2026, International Journal of Archaeology",
+     "url": "https://sciencepublishinggroup.com/article/10.11648/j.ija.20261402.11"
+    }
+   ]
+  }
+ ]
+}

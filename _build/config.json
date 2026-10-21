@@ -12,6 +12,7 @@
     { "code": "tl", "tag": "fil", "short": "FIL", "locale": "fil_PH", "name": "Filipino" },
     { "code": "zh", "tag": "zh-Hans", "short": "中文", "locale": "zh_CN", "name": "中文" },
     { "code": "ko", "short": "한국어", "locale": "ko_KR", "name": "한국어" },
+    { "code": "ar", "short": "العربية", "locale": "ar_AR", "name": "العربية" },
     { "code": "hi", "short": "हिन्दी", "locale": "hi_IN", "name": "हिन्दी" }
   ]
 }
