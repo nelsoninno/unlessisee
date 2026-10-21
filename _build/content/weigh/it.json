@@ -1,0 +1,38 @@
+{
+ "nav": "Il tuo verdetto",
+ "page": {
+  "title": "Valuta tu: quale parte sta vincendo per te? | Se non vedo",
+  "description": "Esamina i fatti chiave sulla Sindone di Torino, di' che cosa pensi di ciascuno e scopri quale parte, autentica o medievale, sta vincendo per te.",
+  "h1": "Valuta tu",
+  "lede": "Quattordici punti chiave del fascicolo. Per ognuno, di' che cosa ne pensi. Mentre rispondi, vedrai quale parte sta vincendo per te, e l'argomento più forte contro ciascun punto.",
+  "scale": [
+   "È un fatto",
+   "Probabilmente vero",
+   "Non so",
+   "Probabilmente no",
+   "Non sono d'accordo"
+  ],
+  "topAgainst": "L'argomento più forte contro l'autenticità",
+  "topFor": "L'argomento più forte a favore dell'autenticità",
+  "obj": "L'argomento più forte contro questo punto",
+  "more": "Leggi il reperto completo",
+  "resultH": "Quale parte sta vincendo per te",
+  "sideFor": "Autentica",
+  "sideForLong": "Un telo funerario del I secolo",
+  "sideAgainst": "Medievale",
+  "sideAgainstLong": "Prodotta tra il 1260 e il 1390 circa",
+  "answered": "{n} su {t} risposte",
+  "strongest": "Ciò che pesa di più nelle tue risposte:",
+  "reset": "Ricomincia",
+  "caveat": "Non è una probabilità e non è una prova. Somma soltanto le tue risposte. I due argomenti più forti contano il triplo di un punto normale. Essere in disaccordo con un punto conta a favore dell'altra parte.",
+  "see": "Vedi il risultato",
+  "teaser": "<p>La maggior parte dei dibattiti sulla Sindone si riduce a una manciata di fatti e a quanto debba contare ciascuno. Per questo abbiamo creato uno strumento semplice. Esamina i punti chiave, di' se pensi che ciascuno sia vero e scopri quale parte sta vincendo per te.</p>\n<p>Accanto a ogni punto troverai l'argomento più forte contro di esso, così potrai mettere alla prova la tua risposta.</p>",
+  "cta": "Valuta tu",
+  "verdict": {
+   "none": "Rispondi ad alcuni punti per vedere dove arrivi.",
+   "for": "Per te, sta vincendo la tesi dell'autenticità.",
+   "against": "Per te, sta vincendo la tesi di un'origine medievale.",
+   "close": "Per te, la partita è aperta. Nessuna delle due parti è chiaramente in vantaggio."
+  }
+ }
+}

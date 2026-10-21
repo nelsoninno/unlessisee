@@ -1,0 +1,38 @@
+{
+ "nav": "Ang hatol mo",
+ "page": {
+  "title": "Ikaw mismo ang tumimbang: aling panig ang nananalo para sa iyo? | Kung hindi ko makita",
+  "description": "Daanan ang mahahalagang katotohanan tungkol sa Shroud of Turin, sabihin ang iniisip mo sa bawat isa, at tingnan kung aling panig, tunay o medieval, ang nananalo para sa iyo.",
+  "h1": "Ikaw mismo ang tumimbang",
+  "lede": "Labing-apat na mahahalagang punto mula sa case file. Sa bawat isa, sabihin ang iniisip mo. Habang sumasagot ka, makikita mo kung aling panig ang nananalo para sa iyo, at ang pinakamatibay na argumento laban sa bawat punto.",
+  "scale": [
+   "Katotohanan ito",
+   "Malamang totoo",
+   "Hindi sigurado",
+   "Malamang hindi",
+   "Hindi ako sang-ayon"
+  ],
+  "topAgainst": "Ang pinakamatibay na argumento laban sa pagiging tunay",
+  "topFor": "Ang pinakamatibay na argumento para sa pagiging tunay",
+  "obj": "Ang pinakamatibay na argumento laban dito",
+  "more": "Basahin ang buong exhibit",
+  "resultH": "Aling panig ang nananalo para sa iyo",
+  "sideFor": "Tunay",
+  "sideForLong": "Isang telang panlibing mula sa unang siglo",
+  "sideAgainst": "Medieval",
+  "sideAgainstLong": "Ginawa noong mga 1260 hanggang 1390",
+  "answered": "{n} sa {t} ang nasagot",
+  "strongest": "Ang pinakamabigat sa iyong mga sagot:",
+  "reset": "Magsimula ulit",
+  "caveat": "Hindi ito probabilidad at hindi patunay. Pinagsasama lamang nito ang sarili mong mga sagot. Tatlong beses ang bigat ng dalawang pinakamatibay na argumento kumpara sa karaniwang punto. Kapag hindi ka sang-ayon sa isang punto, napupunta ito sa kabilang panig.",
+  "see": "Tingnan ang resulta",
+  "teaser": "<p>Karamihan ng debate tungkol sa Shroud ay nauuwi sa ilang katotohanan at sa kung gaano kabigat dapat ang bawat isa. Kaya gumawa kami ng isang simpleng tool. Daanan ang mahahalagang punto, sabihin kung sa tingin mo ay totoo ang bawat isa, at tingnan kung aling panig ang nananalo para sa iyo.</p>\n<p>Katabi ng bawat punto ang pinakamatibay na argumento laban dito, para masubok mo ang sarili mong sagot.</p>",
+  "cta": "Ikaw mismo ang tumimbang",
+  "verdict": {
+   "none": "Sagutin ang ilang punto para makita kung saan ka humahantong.",
+   "for": "Para sa iyo, nananalo ang argumento para sa pagiging tunay.",
+   "against": "Para sa iyo, nananalo ang argumento para sa medieval na pinagmulan.",
+   "close": "Para sa iyo, dikit ang laban. Walang panig na malinaw na nangunguna."
+  }
+ }
+}

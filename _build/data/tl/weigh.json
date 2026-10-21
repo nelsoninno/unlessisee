@@ -1,87 +1,60 @@
 {
- "prior": {
-  "neutral": -3,
-  "skeptic": -5,
-  "believer": -1
- },
  "items": [
   {
    "id": "c14",
-   "label": "Ang carbon dating noong 1988: AD 1260 hanggang 1390",
-   "skeptic": -3,
-   "believer": -0.5
+   "statement": "Tama ang carbon dating noong 1988: ginawa ang lino sa pagitan ng mga 1260 at 1390."
+  },
+  {
+   "id": "image-unique",
+   "statement": "Wala pang nakagawa ng imaheng taglay ang lahat ng katangian nito, at walang ibang telang panlibing na may ganitong imahe."
   },
   {
    "id": "c14-flaws",
-   "label": "Hindi gaanong nagkakatugma ang mga resulta noong 1988",
-   "skeptic": 0,
-   "believer": 0.5
+   "statement": "Masyadong hindi magkatugma ang mga resulta noong 1988 para mapagpasyahan ang tanong."
   },
   {
    "id": "history",
-   "label": "Walang tiyak na tala tungkol sa tela bago ang mga 1354",
-   "skeptic": -1,
-   "believer": -0.3
-  },
-  {
-   "id": "darcis",
-   "label": "Tinawag itong peke ng isang obispo (1389) at ng isang iskolar (Oresme)",
-   "skeptic": -0.7,
-   "believer": -0.2
+   "statement": "Walang tiyak na kasaysayan ang tela bago ang dekada 1350, kaya lumalabas na noon ito ginawa."
   },
   {
    "id": "no-paint",
-   "label": "Walang pintura o binder na bumubuo sa imahe",
-   "skeptic": 0.3,
-   "believer": 1
+   "statement": "Hindi gawa sa pintura, tina o anumang binder ang imahe."
   },
   {
-   "id": "thin",
-   "label": "Nasa pinakalabas na mga hibla lamang ang kulay",
-   "skeptic": 0.3,
-   "believer": 1
+   "id": "darcis",
+   "statement": "Tama ang obispong tumawag dito na painting noong 1389, at ang isang nangungunang iskolar noong panahong iyon."
   },
   {
    "id": "negative",
-   "label": "Kumikilos ang imahe na parang negative ng litrato",
-   "skeptic": 0,
-   "believer": 0.7
+   "statement": "Kumikilos ang imahe na parang negative ng litrato, na walang dahilan para gawin ng sinumang medieval na pintor."
+  },
+  {
+   "id": "relief",
+   "statement": "Mas tugma ang imahe sa isang mababang relief, isang mababaw na ukit, kaysa sa isang tunay na katawan."
   },
   {
    "id": "three-d",
-   "label": "Nagtatala ng layo ang dilim ng imahe, parang 3D na mapa",
-   "skeptic": 0.2,
-   "believer": 0.8
+   "statement": "Itinatala ng pagtatabing ng imahe ang layo mula sa isang katawan, parang 3D na mapa."
+  },
+  {
+   "id": "replicas",
+   "statement": "Kayang gumawa ng mga pamamaraan noong Middle Ages ng imaheng sapat ang pagkakahawig para maipaliwanag ang Shroud."
   },
   {
    "id": "blood",
-   "label": "Mga mantsang lumalabas na dugo sa pagsusuri, na mukhang nasa tela na bago ang imahe",
-   "skeptic": 0.2,
-   "believer": 0.7
+   "statement": "Tunay na dugo ang mga pulang mantsa."
+  },
+  {
+   "id": "bloodflows",
+   "statement": "Hindi tugma ang mga daloy ng dugo sa iisang posisyon ng katawan, na para bang inilagay ng isang pintor."
   },
   {
    "id": "wounds",
-   "label": "Tugma ang mga sugat sa Romanong pagpapako sa krus, mga pako sa pulso",
-   "skeptic": 0.3,
-   "believer": 1
-  },
-  {
-   "id": "unreproduced",
-   "label": "Wala pang nakagagaya sa lahat ng katangian ng imahe",
-   "skeptic": 0.5,
-   "believer": 1.2
+   "statement": "Tugma ang mga sugat sa isang tunay na Romanong pagpapako sa krus, kabilang ang mga detalyeng hindi kailanman binanggit ng mga Ebanghelyo."
   },
   {
    "id": "pray",
-   "label": "Ang drowing sa Pray Codex noong mga 1192",
-   "skeptic": 0,
-   "believer": 0.5
-  },
-  {
-   "id": "pollen-coins",
-   "label": "Pollen, mga barya sa mata, mga imahe ng bulaklak (minarkahang mahina o napabulaanan)",
-   "skeptic": 0,
-   "believer": 0
+   "statement": "Ipinakikita ng isang drowing sa Pray Codex, mula sa mga 1192, ang telang ito bago ang petsa ng carbon dating."
   }
  ]
 }

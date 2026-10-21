@@ -1,87 +1,60 @@
 {
- "prior": {
-  "neutral": -3,
-  "skeptic": -5,
-  "believer": -1
- },
  "items": [
   {
    "id": "c14",
-   "label": "La datazione al carbonio del 1988: dal 1260 al 1390 d.C.",
-   "skeptic": -3,
-   "believer": -0.5
+   "statement": "La datazione al carbonio del 1988 è corretta: il lino fu prodotto tra il 1260 e il 1390 circa."
+  },
+  {
+   "id": "image-unique",
+   "statement": "Nessuno ha mai prodotto un'immagine con tutte le sue caratteristiche, e nessun altro telo funerario ne porta una simile."
   },
   {
    "id": "c14-flaws",
-   "label": "I risultati del 1988 non concordano bene tra loro",
-   "skeptic": 0,
-   "believer": 0.5
+   "statement": "I risultati del 1988 sono troppo discordanti tra loro per chiudere la questione."
   },
   {
    "id": "history",
-   "label": "Nessuna testimonianza sicura del telo prima del 1354 circa",
-   "skeptic": -1,
-   "believer": -0.3
-  },
-  {
-   "id": "darcis",
-   "label": "Un vescovo (1389) e uno studioso (Oresme) la definirono un falso",
-   "skeptic": -0.7,
-   "believer": -0.2
+   "statement": "Il telo non ha una storia sicura prima degli anni Cinquanta del Trecento, il che fa pensare che sia stato prodotto allora."
   },
   {
    "id": "no-paint",
-   "label": "Nessuna pittura né legante forma l'immagine",
-   "skeptic": 0.3,
-   "believer": 1
+   "statement": "L'immagine non è fatta di pittura, colorante o legante."
   },
   {
-   "id": "thin",
-   "label": "Il colore si trova solo sulle fibre più esterne",
-   "skeptic": 0.3,
-   "believer": 1
+   "id": "darcis",
+   "statement": "Il vescovo che nel 1389 la definì un dipinto, e un importante studioso dell'epoca, avevano ragione."
   },
   {
    "id": "negative",
-   "label": "L'immagine si comporta come un negativo fotografico",
-   "skeptic": 0,
-   "believer": 0.7
+   "statement": "L'immagine si comporta come un negativo fotografico, che nessun artista medievale aveva motivo di realizzare."
+  },
+  {
+   "id": "relief",
+   "statement": "L'immagine corrisponde meglio a un bassorilievo, una scultura poco profonda, che a un corpo reale."
   },
   {
    "id": "three-d",
-   "label": "L'intensità dell'immagine codifica la distanza, come una mappa 3D",
-   "skeptic": 0.2,
-   "believer": 0.8
+   "statement": "Le sfumature dell'immagine registrano la distanza da un corpo, come una mappa 3D."
+  },
+  {
+   "id": "replicas",
+   "statement": "Con metodi medievali si può ottenere un'immagine abbastanza simile da spiegare la Sindone."
   },
   {
    "id": "blood",
-   "label": "Macchie che risultano essere sangue, a quanto pare presenti sul telo prima dell'immagine",
-   "skeptic": 0.2,
-   "believer": 0.7
+   "statement": "Le macchie rosse sono sangue vero."
+  },
+  {
+   "id": "bloodflows",
+   "statement": "Le colature di sangue non corrispondono a un'unica posizione del corpo, come se le avesse disposte un artista."
   },
   {
    "id": "wounds",
-   "label": "Ferite compatibili con una crocifissione romana, con i chiodi nei polsi",
-   "skeptic": 0.3,
-   "believer": 1
-  },
-  {
-   "id": "unreproduced",
-   "label": "Nessuno ha riprodotto tutte le caratteristiche dell'immagine",
-   "skeptic": 0.5,
-   "believer": 1.2
+   "statement": "Le ferite corrispondono a una vera crocifissione romana, compresi dettagli che i Vangeli non menzionano mai."
   },
   {
    "id": "pray",
-   "label": "Il disegno del Codice Pray, del 1192 circa",
-   "skeptic": 0,
-   "believer": 0.5
-  },
-  {
-   "id": "pollen-coins",
-   "label": "Pollini, monete sugli occhi, immagini di fiori (valutati deboli o smentiti)",
-   "skeptic": 0,
-   "believer": 0
+   "statement": "Un disegno del Codice Pray, del 1192 circa, mostra questo telo prima della data del carbonio."
   }
  ]
 }
