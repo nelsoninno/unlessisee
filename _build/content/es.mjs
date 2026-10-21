@@ -329,6 +329,12 @@ export default {
       legend: { cloth: 'Hecho documentado', science: 'Estudio científico', hyp: 'Hipotético o legendario' },
       cert: { documented: 'Documentado', probable: 'Probable', hypothesized: 'Hipotético', legendary: 'Leyenda' },
       listH: 'Todos los hechos',
+      icon: { h: 'El rostro y un ícono del siglo VI',
+        altShroud: 'El rostro de la Sábana Santa en negativo', altIcon: 'Ícono de Cristo Pantocrátor, Monasterio de Santa Catalina, Sinaí, siglo VI',
+        shroud: 'Sábana Santa', iconLabel: 'Ícono del Sinaí',
+        text: `<p>Este es el ícono más antiguo que se conserva de Cristo Pantocrátor, pintado en el siglo VI y guardado en el Monasterio de Santa Catalina, en el Sinaí. Desliza entre él y el rostro de la Sábana Santa. Ambos están a la misma escala para que los ojos coincidan.</p>
+<p>Quienes defienden una historia temprana señalan rasgos en común: la nariz larga, la barba partida, los párpados pesados y las mejillas desiguales. En los años treinta, Paul Vignon enumeró pequeñas rarezas que, según él, los artistas bizantinos copiaron de la tela, como una forma cuadrada entre las cejas.</p>`,
+        skeptic: 'La respuesta escéptica: el parecido no dice qué vino primero. Un artista del siglo XIV que hiciera una mortaja de Jesús habría copiado el rostro que los íconos ya habían hecho tradicional. La semejanza es compatible con que la Sábana sea antigua, y también con que se hiciera para parecerse a los íconos.' },
       map: { h: 'Dónde ha estado la tela', alt: 'Mapa de las rutas documentadas e hipotéticas de la Sábana Santa, de Jerusalén a Turín',
         keyDoc: 'Documentada', keyHyp: 'Hipotética',
         jerusalem: 'Jerusalén, ¿30 d. C.?', edessa: 'Edesa (Urfa), ¿siglos VI a X?', constantinople: 'Constantinopla, ¿944 a 1204?', athens: 'Atenas, ¿después de 1204?',

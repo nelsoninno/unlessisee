@@ -28,7 +28,7 @@ function siteGraph(ctx, page, p, extraNodes = []) {
         logo: base + 'android-chrome-512x512.png', description: ctx.L.copy.orgDescription,
         founder: { '@type': 'Person', name: 'Nelson Inno', url: 'https://nelsoninno.com' }, knowsLanguage: CONFIG.langs.map(l => l.code),
         knowsAbout: ['Shroud of Turin', 'Sindonology', 'Radiocarbon dating of the Shroud of Turin', 'Christian apologetics'] },
-      { '@type': 'WebSite', '@id': base + '#website', url: base, name: 'Unless I See', inLanguage: CONFIG.langs.map(l => l.code), publisher: { '@id': base + '#org' } },
+      { '@type': 'WebSite', '@id': base + '#website', url: base, name: ctx.L.copy.brand, alternateName: ['Unless I See', 'Si no veo'], inLanguage: CONFIG.langs.map(l => l.code), publisher: { '@id': base + '#org' } },
       { '@type': page.slug === 'index' ? 'WebPage' : (page.schemaType || 'WebPage'), '@id': ctx.abs(page.slug) + '#page', url: ctx.abs(page.slug), name: p.title, description: p.description,
         inLanguage: ctx.lang, isPartOf: { '@id': base + '#website' },
         about: { '@type': 'Thing', name: 'Shroud of Turin', sameAs: ['https://en.wikipedia.org/wiki/Shroud_of_Turin', 'https://www.wikidata.org/wiki/Q150401'] } },
@@ -448,6 +448,12 @@ function timeline(ctx, page) {
   <script type="application/json" id="tl-data">${json({ events: ev, start: startIdx, ui: { prev: c.ui.prev, next: c.ui.next, cert: p.cert } })}</script>
   <h2 style="margin-top:3rem;font-size:1.8rem">${p.map.h}</h2>
   ${provenanceMap(ctx, c)}
+  <h2 style="margin-top:3rem;font-size:1.8rem">${p.icon.h}</h2>
+  <div class="split" style="align-items:center;margin-top:1.5rem">
+    <figure><div class="overlay" style="--o:.5"><img src="${ctx.asset(IMG + 'hero/face-negative-shroud-of-turin-unlessisee.org.webp')}" alt="${attr(p.icon.altShroud)}" loading="lazy" width="900" height="1200"><img class="overlay__top" src="${ctx.asset(IMG + 'history/icon-sinai-pantocrator-face-unlessisee.org.webp')}" alt="${attr(p.icon.altIcon)}" loading="lazy" width="900" height="1200"></div>
+    <label class="overlay__ctl ui" for="ov-range"><span>${esc(p.icon.shroud)}</span><input id="ov-range" type="range" min="0" max="1" step="0.01" value="0.5" data-overlay><span>${esc(p.icon.iconLabel)}</span></label></figure>
+    <div>${p.icon.text}<p class="note" style="margin-top:1.5rem">${p.icon.skeptic}</p></div>
+  </div>
   <h2 style="margin-top:3rem;font-size:1.8rem">${p.listH}</h2>
   <ol class="tl-list">${ev.map(e => `<li><span class="yr">${esc(e.date_label)}</span><div><h3 style="font-size:1.15rem">${esc(e.title)} <span class="meta">(${esc(p.cert[e.certainty] || e.certainty)})</span></h3><p>${esc(e.text)}</p>${srcList(e.sources)}</div></li>`).join('')}</ol>
 </div></section>`;

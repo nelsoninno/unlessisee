@@ -1,7 +1,40 @@
-{"credits":[
- {"what":"Full cloth (Explorer, fold figure, body views)","author":"Photograph by Giuseppe Enrie, 1931. Full-length digital edition by Rudolf Berwanger. Retinted and cropped by Unless I See","license":"CC BY-SA 4.0 (our derived images are shared under the same license)","source":"https://commons.wikimedia.org/wiki/File:Turiner_Grabtuch_in_voller_L%C3%A4nge,_kolorierte_Aufnahme_von_Giuseppe_Enrie_1931.jpg"},
- {"what":"Face close-up (hero, negative comparison, share image)","author":"Photograph by Giuseppe Enrie, 1931","license":"Public domain (as tagged on Wikimedia Commons)","source":"https://commons.wikimedia.org/wiki/File:Grabtuch_Enrie_HiRes.jpg"},
- {"what":"Face used for the 3D relief","author":"Photograph by Giuseppe Enrie, 1931. High-resolution edition by Rudolf Berwanger","license":"CC BY-SA 4.0","source":"https://commons.wikimedia.org/wiki/File:Turiner_Grabtuch,_Negativ-Positiv,_in_hoher_Aufl%C3%B6sung.jpg"},
- {"what":"Painted face used for the 3D comparison","author":"Head of Christ, The Metropolitan Museum of Art","license":"Public domain (CC0)","source":"https://commons.wikimedia.org/wiki/File:Head_of_Christ_MET_DP145916.jpg"},
- {"what":"Bible text","author":"World English Bible (English) and Reina-Valera 1909 (Spanish)","license":"Public domain","source":"https://ebible.org/"}
-]}
+{
+ "credits": [
+  {
+   "what": "Full cloth (Explorer, fold figure, body views)",
+   "author": "Photograph by Giuseppe Enrie, 1931. Full-length digital edition by Rudolf Berwanger. Retinted and cropped by Unless I See",
+   "license": "CC BY-SA 4.0 (our derived images are shared under the same license)",
+   "source": "https://commons.wikimedia.org/wiki/File:Turiner_Grabtuch_in_voller_L%C3%A4nge,_kolorierte_Aufnahme_von_Giuseppe_Enrie_1931.jpg"
+  },
+  {
+   "what": "Face close-up (hero, negative comparison, share image)",
+   "author": "Photograph by Giuseppe Enrie, 1931",
+   "license": "Public domain (as tagged on Wikimedia Commons)",
+   "source": "https://commons.wikimedia.org/wiki/File:Grabtuch_Enrie_HiRes.jpg"
+  },
+  {
+   "what": "Face used for the 3D relief",
+   "author": "Photograph by Giuseppe Enrie, 1931. High-resolution edition by Rudolf Berwanger",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Turiner_Grabtuch,_Negativ-Positiv,_in_hoher_Aufl%C3%B6sung.jpg"
+  },
+  {
+   "what": "Painted face used for the 3D comparison",
+   "author": "Head of Christ, The Metropolitan Museum of Art",
+   "license": "Public domain (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Head_of_Christ_MET_DP145916.jpg"
+  },
+  {
+   "what": "Sinai Christ Pantocrator icon, 6th century",
+   "author": "Unknown artist, Saint Catherine's Monastery, Sinai",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Spas_vsederzhitel_sinay.jpg"
+  },
+  {
+   "what": "Bible text",
+   "author": "World English Bible (English) and Reina-Valera 1909 (Spanish)",
+   "license": "Public domain",
+   "source": "https://ebible.org/"
+  }
+ ]
+}

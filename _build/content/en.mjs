@@ -328,6 +328,12 @@ export default {
       legend: { cloth: 'Documented event', science: 'Scientific study', hyp: 'Hypothesized or legendary' },
       cert: { documented: 'Documented', probable: 'Probable', hypothesized: 'Hypothesized', legendary: 'Legend' },
       listH: 'Every event',
+      icon: { h: 'The face and a 6th-century icon',
+        altShroud: 'The face on the Shroud, negative view', altIcon: 'Christ Pantocrator icon, Saint Catherine\'s Monastery, Sinai, 6th century',
+        shroud: 'Shroud', iconLabel: 'Sinai icon',
+        text: `<p>This is the oldest surviving icon of Christ Pantocrator, painted in the 6th century and kept at Saint Catherine's Monastery in Sinai. Slide between it and the face on the Shroud. Both are scaled so the eyes line up.</p>
+<p>Supporters of an early history point to shared features: the long nose, the forked beard, the heavy-lidded eyes and the uneven cheeks. In the 1930s Paul Vignon listed small oddities that he believed Byzantine artists copied from the cloth, such as a square shape between the brows.</p>`,
+        skeptic: 'The skeptic\'s answer: resemblance cannot tell which came first. A 14th-century artist making a burial cloth of Jesus would have copied the face that icons had made standard. Similarity is consistent with the Shroud being old, and equally with it being made to look like the icons.' },
       map: { h: 'Where the cloth has been', alt: 'Map of the documented and hypothesized routes of the Shroud, from Jerusalem to Turin',
         keyDoc: 'Documented', keyHyp: 'Hypothesized',
         jerusalem: 'Jerusalem, AD 30?', edessa: 'Edessa (Urfa), 6th to 10th c.?', constantinople: 'Constantinople, 944 to 1204?', athens: 'Athens, after 1204?',

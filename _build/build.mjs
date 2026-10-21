@@ -13,7 +13,7 @@ export const CONFIG = JSON.parse(fs.readFileSync(path.join(__dirname, 'config.js
 const ekySvg = fs.readFileSync(path.join(__dirname, 'eky-credit.svg'), 'utf8')
   .replace(/<\?xml[^>]*>\s*/, '').replace(/ id="Layer_1" data-name="Layer 1"/, '');
 
-export const esc = s => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+export const esc = s => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&#39;');
 export const attr = esc;
 export const json = o => JSON.stringify(o).replace(/</g, '\\u003c');
 
@@ -32,7 +32,7 @@ async function loadLang(lang) {
     copy = deepMerge(en, copy); // missing keys fall back to English until translated
   }
   const d = n => readJSON(path.join(__dirname, 'data', lang, n + '.json'), readJSON(path.join(__dirname, 'data', 'en', n + '.json'), null));
-  return { copy, data: { evidence: d('evidence'), timeline: d('timeline'), wounds: d('wounds'), radiocarbon: d('radiocarbon'), spots: d('spots'), weigh: d('weigh'), videos: d('videos'), keyreads: d('keyreads') }, map: readJSON(path.join(__dirname, 'data', 'map.json'), null), library: readJSON(path.join(__dirname, 'data', 'library.json'), { items: [] }), images: readJSON(path.join(__dirname, 'data', 'images.json'), {}), thomas: (readJSON(path.join(__dirname, 'data', 'thomas.json'), {})[lang] || readJSON(path.join(__dirname, 'data', 'thomas.json'), {}).en) };
+  return { copy, data: { evidence: d('evidence'), timeline: d('timeline'), wounds: d('wounds'), radiocarbon: d('radiocarbon'), spots: d('spots'), weigh: d('weigh'), videos: d('videos'), keyreads: d('keyreads') }, map: readJSON(path.join(__dirname, 'data', 'map.json'), null), library: readJSON(path.join(__dirname, 'data', 'library.json'), { items: [] }), images: readJSON(path.join(__dirname, 'data', lang, 'images.json'), readJSON(path.join(__dirname, 'data', 'images.json'), {})), thomas: (readJSON(path.join(__dirname, 'data', 'thomas.json'), {})[lang] || readJSON(path.join(__dirname, 'data', 'thomas.json'), {}).en) };
 }
 
 // URL helpers

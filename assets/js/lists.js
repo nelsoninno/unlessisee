@@ -140,3 +140,4 @@
   btn.addEventListener('click',function(){target=target?0:1;btn.textContent=target?labels[1]:labels[0];if(!raf)step();});
   draw(0);
 })();
+document.querySelectorAll('[data-overlay]').forEach(function(r){var o=r.closest('figure').querySelector('.overlay');r.addEventListener('input',function(){o.style.setProperty('--o',r.value);});});
