@@ -1,30 +1,78 @@
 {
-  "en": {
-    "ref": "John 20:24-31",
-    "version": "World English Bible (public domain)",
-    "verses": [
-      [24, "But Thomas, one of the twelve, called Didymus, wasn't with them when Jesus came."],
-      [25, "The other disciples therefore said to him, \"We have seen the Lord!\" But he said to them, \"Unless I see in his hands the print of the nails, put my finger into the print of the nails, and put my hand into his side, I will not believe.\""],
-      [26, "After eight days, again his disciples were inside and Thomas was with them. Jesus came, the doors being locked, and stood in the middle, and said, \"Peace be to you.\""],
-      [27, "Then he said to Thomas, \"Reach here your finger, and see my hands. Reach here your hand, and put it into my side. Don't be unbelieving, but believing.\""],
-      [28, "Thomas answered him, \"My Lord and my God!\""],
-      [29, "Jesus said to him, \"Because you have seen me, you have believed. Blessed are those who have not seen and have believed.\""],
-      [30, "Therefore Jesus did many other signs in the presence of his disciples, which are not written in this book;"],
-      [31, "but these are written that you may believe that Jesus is the Christ, the Son of God, and that believing you may have life in his name."]
-    ]
-  },
-  "es": {
-    "ref": "Juan 20:24-31",
-    "version": "Reina-Valera 1909 (dominio público)",
-    "verses": [
-      [24, "Empero Tomás, uno de los doce, que se dice el Dídimo, no estaba con ellos cuando Jesús vino."],
-      [25, "Dijéronle pues los otros discípulos: Al Señor hemos visto. Y él les dijo: Si no viere en sus manos la señal de los clavos, y metiere mi dedo en el lugar de los clavos, y metiere mi mano en su costado, no creeré."],
-      [26, "Y ocho días después, estaban otra vez sus discípulos dentro, y con ellos Tomás. Vino Jesús, las puertas cerradas, y púsose en medio, y dijo: Paz a vosotros."],
-      [27, "Luego dice a Tomás: Mete tu dedo aquí, y ve mis manos: y alarga acá tu mano, y métela en mi costado: y no seas incrédulo, sino fiel."],
-      [28, "Entonces Tomás respondió, y díjole: ¡Señor mío, y Dios mío!"],
-      [29, "Dícele Jesús: Porque me has visto, Tomás, creíste: bienaventurados los que no vieron y creyeron."],
-      [30, "Y también hizo Jesús muchas otras señales en presencia de sus discípulos, que no están escritas en este libro."],
-      [31, "Estas empero son escritas, para que creáis que Jesús es el Cristo, el Hijo de Dios; y para que creyendo, tengáis vida en su nombre."]
-    ]
-  }
+ "en": {
+  "ref": "John 20:24-31",
+  "version": "World English Bible (public domain)",
+  "verses": [
+   [
+    24,
+    "But Thomas, one of the twelve, called Didymus, wasn't with them when Jesus came."
+   ],
+   [
+    25,
+    "The other disciples therefore said to him, \"We have seen the Lord!\" But he said to them, \"Unless I see in his hands the print of the nails, put my finger into the print of the nails, and put my hand into his side, I will not believe.\""
+   ],
+   [
+    26,
+    "After eight days, again his disciples were inside and Thomas was with them. Jesus came, the doors being locked, and stood in the middle, and said, \"Peace be to you.\""
+   ],
+   [
+    27,
+    "Then he said to Thomas, \"Reach here your finger, and see my hands. Reach here your hand, and put it into my side. Don't be unbelieving, but believing.\""
+   ],
+   [
+    28,
+    "Thomas answered him, \"My Lord and my God!\""
+   ],
+   [
+    29,
+    "Jesus said to him, \"Because you have seen me, you have believed. Blessed are those who have not seen and have believed.\""
+   ],
+   [
+    30,
+    "Therefore Jesus did many other signs in the presence of his disciples, which are not written in this book;"
+   ],
+   [
+    31,
+    "but these are written that you may believe that Jesus is the Christ, the Son of God, and that believing you may have life in his name."
+   ]
+  ]
+ },
+ "es": {
+  "ref": "Juan 20:24-31",
+  "version": "Reina-Valera 1909 (dominio público, ortografía actualizada)",
+  "verses": [
+   [
+    24,
+    "Empero Tomás, uno de los doce, que se dice el Dídimo, no estaba con ellos cuando Jesús vino."
+   ],
+   [
+    25,
+    "Dijéronle pues los otros discípulos: Al Señor hemos visto. Y él les dijo: Si no viere en sus manos la señal de los clavos, y metiere mi dedo en el lugar de los clavos, y metiere mi mano en su costado, no creeré."
+   ],
+   [
+    26,
+    "Y ocho días después, estaban otra vez sus discípulos dentro, y con ellos Tomás. Vino Jesús, las puertas cerradas, y púsose en medio, y dijo: Paz a vosotros."
+   ],
+   [
+    27,
+    "Luego dice a Tomás: Mete tu dedo aquí, y ve mis manos: y alarga acá tu mano, y métela en mi costado: y no seas incrédulo, sino fiel."
+   ],
+   [
+    28,
+    "Entonces Tomás respondió, y díjole: ¡Señor mío, y Dios mío!"
+   ],
+   [
+    29,
+    "Dícele Jesús: Porque me has visto, Tomás, creíste: bienaventurados los que no vieron y creyeron."
+   ],
+   [
+    30,
+    "Y también hizo Jesús muchas otras señales en presencia de sus discípulos, que no están escritas en este libro."
+   ],
+   [
+    31,
+    "Estas empero son escritas, para que creáis que Jesús es el Cristo, el Hijo de Dios; y para que creyendo, tengáis vida en su nombre."
+   ]
+  ]
+ }
 }

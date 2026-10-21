@@ -20,6 +20,11 @@ Pro bono EKY project for Nelson Inno. A bilingual (EN at /, ES at /es/) educatio
 - Only public domain / CC0 / CC BY-SA images (credited on About). STURP photos (STERA, Joseph Marino) and Durante 2002 / Haltadefinizione 2008 (Archdiocese of Turin) need written permission; requests drafted for Nelson.
 - Barrie Schwortz died in 2024; the Library page is dedicated to him.
 
-## Status (Oct 2026)
-- v1 built: home, explorer, case file + calculator, wounds, carbon dating, image formation (zoom, test grid, emanation), timeline, library, about.
-- Pending: Spanish translation pass, library index, video findings, more languages (pt, fr, it, de, pl, tl, zh, ko, ar, hi), Cloudflare + domain, Nelson's story page.
+## Publishing (current workaround)
+This session's GitHub proxy cannot push to the repo, so pushes go through Nelson's computer: build here, bundle the commits, copy the bundle to the project folder, then fetch and push from the computer. A copy of the site is kept in the project folder as `unlessisee-website`.
+
+## Status (21 Oct 2026)
+- Pages (EN and ES): home, explore, case file + calculator, wounds, carbon dating, how it formed, timeline (with route map and icon overlay), videos checked, library (2,400+ items), what now, about.
+- Fact-check pass applied to English (report in the build session); Spanish synced.
+- In progress: pt, fr, it, de, pl, tl, zh, ko, ar, hi translations (each is content/LANG.mjs + data/LANG/). Add a language to `_build/config.json` only when its files are complete.
+- Pending: Cloudflare Pages + unlessisee.org, permission replies for STURP and 2002/2008 photos, Nelson's story page.

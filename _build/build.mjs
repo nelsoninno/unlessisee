@@ -32,7 +32,12 @@ async function loadLang(lang) {
     copy = deepMerge(en, copy); // missing keys fall back to English until translated
   }
   const d = n => readJSON(path.join(__dirname, 'data', lang, n + '.json'), readJSON(path.join(__dirname, 'data', 'en', n + '.json'), null));
-  return { copy, data: { evidence: d('evidence'), timeline: d('timeline'), wounds: d('wounds'), radiocarbon: d('radiocarbon'), spots: d('spots'), weigh: d('weigh'), videos: d('videos'), keyreads: d('keyreads') }, map: readJSON(path.join(__dirname, 'data', 'map.json'), null), library: readJSON(path.join(__dirname, 'data', 'library.json'), { items: [] }), images: readJSON(path.join(__dirname, 'data', lang, 'images.json'), readJSON(path.join(__dirname, 'data', 'images.json'), {})), thomas: readJSON(path.join(__dirname, 'data', lang, 'thomas.json'), null) || readJSON(path.join(__dirname, 'data', 'thomas.json'), {})[lang] || readJSON(path.join(__dirname, 'data', 'thomas.json'), {}).en };
+  // Positions, zoom levels and layers always come from the English data, so translations never drift.
+  const enD = n => readJSON(path.join(__dirname, 'data', 'en', n + '.json'), null);
+  const syncPos = (loc, en, listKey, fields) => { if (!loc || !en || loc === en) return loc; const by = {}; (en[listKey] || []).forEach(i => by[i.id] = i); (loc[listKey] || []).forEach(i => { const e = by[i.id]; if (e) fields.forEach(f => { if (e[f] !== undefined) i[f] = e[f]; }); }); if (en.image) loc.image = en.image; return loc; };
+  const _spots = syncPos(d('spots'), enD('spots'), 'spots', ['x', 'y', 'zoom', 'layer', 'n']);
+  const _wounds = syncPos(d('wounds'), enD('wounds'), 'items', ['x', 'y', 'side']);
+  return { copy, data: { evidence: d('evidence'), timeline: d('timeline'), wounds: _wounds, radiocarbon: d('radiocarbon'), spots: _spots, weigh: d('weigh'), videos: d('videos'), keyreads: d('keyreads') }, map: readJSON(path.join(__dirname, 'data', 'map.json'), null), library: readJSON(path.join(__dirname, 'data', 'library.json'), { items: [] }), images: readJSON(path.join(__dirname, 'data', lang, 'images.json'), readJSON(path.join(__dirname, 'data', 'images.json'), {})), thomas: readJSON(path.join(__dirname, 'data', lang, 'thomas.json'), null) || readJSON(path.join(__dirname, 'data', 'thomas.json'), {})[lang] || readJSON(path.join(__dirname, 'data', 'thomas.json'), {}).en };
 }
 
 // URL helpers

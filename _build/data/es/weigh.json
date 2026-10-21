@@ -55,7 +55,7 @@
   },
   {
    "id": "blood",
-   "label": "Sangre real, al parecer en la tela antes que la imagen",
+   "label": "Manchas que dan positivo como sangre, al parecer en la tela antes que la imagen",
    "skeptic": 0.2,
    "believer": 0.7
   },
@@ -79,9 +79,9 @@
   },
   {
    "id": "pollen-coins",
-   "label": "Polen, monedas sobre los ojos, imágenes de flores",
+   "label": "Polen, monedas sobre los ojos, imágenes de flores (calificadas como débiles o descartadas)",
    "skeptic": 0,
-   "believer": 0.2
+   "believer": 0
   }
  ]
 }
