@@ -1,0 +1,40 @@
+{
+ "credits": [
+  {
+   "what": "整块布（浏览器、折叠示意图、身体视图）",
+   "author": "Giuseppe Enrie摄于1931年。Rudolf Berwanger制作的全长数字版本。由“除非我看见”重新调色并裁切",
+   "license": "CC BY-SA 4.0（我们的衍生图像以相同许可协议共享）",
+   "source": "https://commons.wikimedia.org/wiki/File:Turiner_Grabtuch_in_voller_L%C3%A4nge,_kolorierte_Aufnahme_von_Giuseppe_Enrie_1931.jpg"
+  },
+  {
+   "what": "面部特写（首页大图、负片对比、分享图片）",
+   "author": "Giuseppe Enrie摄于1931年",
+   "license": "公有领域（依据维基共享资源的标注）",
+   "source": "https://commons.wikimedia.org/wiki/File:Grabtuch_Enrie_HiRes.jpg"
+  },
+  {
+   "what": "用于3D浮雕的面部",
+   "author": "Giuseppe Enrie摄于1931年。Rudolf Berwanger制作的高分辨率版本",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Turiner_Grabtuch,_Negativ-Positiv,_in_hoher_Aufl%C3%B6sung.jpg"
+  },
+  {
+   "what": "用于3D对比的绘画面部",
+   "author": "《基督头像》，大都会艺术博物馆",
+   "license": "公有领域（CC0）",
+   "source": "https://commons.wikimedia.org/wiki/File:Head_of_Christ_MET_DP145916.jpg"
+  },
+  {
+   "what": "西奈的全能者基督圣像，6世纪",
+   "author": "佚名画家，西奈圣凯瑟琳修道院",
+   "license": "公有领域",
+   "source": "https://commons.wikimedia.org/wiki/File:Spas_vsederzhitel_sinay.jpg"
+  },
+  {
+   "what": "圣经经文",
+   "author": "World English Bible（英文）、Reina-Valera 1909（西班牙文）和新标点和合本（简体中文）",
+   "license": "公有领域",
+   "source": "https://ebible.org/"
+  }
+ ]
+}

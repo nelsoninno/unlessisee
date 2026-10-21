@@ -1,0 +1,348 @@
+{
+ "items": [
+  {
+   "id": "crown-of-thorns-forehead",
+   "name": "Écoulements punctiformes sur le front",
+   "body_region": "Front et avant du cuir chevelu",
+   "side": "front",
+   "x": 0.485,
+   "y": 0.11,
+   "description": "Plusieurs écoulements de sang descendent sur le front à partir de points de piqûre. L’un d’eux a la forme du chiffre 3 (souvent appelé l’epsilon), ce que Bucklin explique par le sang qui suit les plis de la peau.",
+   "gospel": "Jean 19:2",
+   "verse": "Les soldats tressèrent une couronne d’épines qu’ils posèrent sur sa tête, et ils le revêtirent d’un manteau de pourpre; puis, s’approchant de lui,",
+   "skeptic": "Une couronne d’épines est un détail des Évangiles que tout artiste inclurait. La forme de chaque écoulement est lue sur des photographies.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    }
+   ]
+  },
+  {
+   "id": "face-injuries",
+   "name": "Blessures au visage",
+   "body_region": "Joue droite, œil droit, nez",
+   "side": "front",
+   "x": 0.47,
+   "y": 0.145,
+   "description": "Bucklin signale une tuméfaction de la joue droite, une fermeture partielle de l’œil droit, une légère déviation du nez et une écorchure au bout du nez. Bevilacqua et D’Arienzo décrivent plutôt l’œil droit comme enfoncé à la suite d’une lésion nerveuse.",
+   "gospel": "Matthieu 27:30",
+   "verse": "Et ils crachaient contre lui, prenaient le roseau, et frappaient sur sa tête.",
+   "skeptic": "Les détails du visage sont pâles et lus sur des images retouchées ; les médecins légistes sont déjà en désaccord sur l’œil droit.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Bevilacqua et D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    }
+   ]
+  },
+  {
+   "id": "nose-dirt-fall",
+   "name": "Égratignures et saleté sur le nez",
+   "body_region": "Nez",
+   "side": "front",
+   "x": 0.515,
+   "y": 0.16,
+   "description": "Bucklin décrit des égratignures et de la saleté au niveau du nez, compatibles avec un visage qui aurait heurté le sol lors d’une chute. Les chutes sur le chemin de l’exécution relèvent de la tradition, pas des Évangiles.",
+   "gospel": null,
+   "verse": null,
+   "skeptic": "La seule étude minérale publiée (Kohlbeck et Nitowski, 1986) signale des particules de calcaire provenant d’un ruban adhésif prélevé aux pieds, pas au nez. La saleté au nez n’a pas été confirmée par une analyse indépendante.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Nitowski 1986",
+     "url": "https://www.shroud.com/pdfs/ESSJ%20Nitowski%201986.pdf"
+    }
+   ]
+  },
+  {
+   "id": "right-shoulder-dislocation",
+   "name": "Épaule droite abaissée",
+   "body_region": "Épaule et bras droits",
+   "side": "front",
+   "x": 0.62,
+   "y": 0.21,
+   "description": "Bevilacqua et D’Arienzo signalent une épaule droite abaissée d’environ 15 degrés et y voient une luxation de l’humérus droit, peut-être due à une chute pendant le portage de la poutre.",
+   "gospel": null,
+   "verse": null,
+   "skeptic": "C’est la lecture d’une seule équipe, publiée dans des actes de colloque et dans une revue à faible impact ; les autres médecins légistes ne la décrivent pas.",
+   "sources": [
+    {
+     "label": "Bevilacqua et D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    },
+    {
+     "label": "Bevilacqua, Fanti, D'Arienzo 2017, Open Journal of Trauma",
+     "url": "https://oalib-perpustakaan.upi.edu/Record/peertech__10_17352_ojt_000009/Description"
+    }
+   ]
+  },
+  {
+   "id": "wrist-nail-wound",
+   "name": "Plaie de clou au poignet",
+   "body_region": "Dos de la main gauche, côté poignet (la droite est cachée)",
+   "side": "front",
+   "x": 0.445,
+   "y": 0.47,
+   "description": "Une marque de sang sur le dos de la main gauche se situe vers le poignet, avec deux filets de sang écartés d’environ 10 degrés qui en partent. Bucklin calcule que les bras étaient levés d’environ 65 degrés et que l’homme a changé de position. Barbet plaçait le clou dans l’espace de Destot, au poignet ; Zugibe soutient qu’il est entré dans le haut de la paume et ressorti au poignet.",
+   "gospel": "Jean 20:25",
+   "verse": "Si je ne vois dans ses mains la marque des clous, et si je ne mets mon doigt dans la marque des clous, et si je ne mets ma main dans son côté, je ne croirai point.",
+   "skeptic": "Les principaux médecins légistes ne s’accordent pas sur le trajet du clou. La position de la plaie diffère de la plupart des œuvres médiévales, mais la position au poignet n’est pas inconnue dans l’art.",
+   "sources": [
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    },
+    {
+     "label": "Zugibe 1995, Pierre Barbet Revisited",
+     "url": "https://shroud.com/zugibe.htm"
+    }
+   ]
+  },
+  {
+   "id": "missing-thumbs",
+   "name": "Pouces invisibles",
+   "body_region": "Les deux mains",
+   "side": "front",
+   "x": 0.5,
+   "y": 0.495,
+   "description": "Chaque main ne montre que quatre doigts. Barbet et Bucklin l’expliquent par une lésion nerveuse qui ramène les pouces dans les paumes ; Zugibe dit que les pouces reposent simplement devant les index et n’ont pas touché le linge.",
+   "gospel": null,
+   "verse": null,
+   "skeptic": "Il existe deux explications médicales incompatibles. Un artiste qui peint des mains croisées pourrait aussi cacher les pouces.",
+   "sources": [
+    {
+     "label": "Zugibe 1995, Pierre Barbet Revisited",
+     "url": "https://shroud.com/zugibe.htm"
+    },
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    }
+   ]
+  },
+  {
+   "id": "forearm-blood-flows",
+   "name": "Écoulements de sang le long des avant-bras",
+   "body_region": "Les deux avant-bras",
+   "side": "front",
+   "x": 0.66,
+   "y": 0.43,
+   "description": "Des coulées de sang partent des poignets et longent les avant-bras vers les coudes, comme on s’y attendrait si les bras étaient levés au-dessus de la tête pendant le saignement.",
+   "gospel": "Jean 19:18",
+   "verse": "C’est là qu’il fut crucifié, et deux autres avec lui, un de chaque côté, et Jésus au milieu.",
+   "skeptic": "Borrini et Garlaschelli (2018) ont trouvé que les écoulements des avant-bras exigent des bras presque verticaux, alors que les filets des mains exigent des bras à environ 45 degrés, ce qu’ils jugent incohérent et artistique.",
+   "sources": [
+    {
+     "label": "Borrini et Garlaschelli, J. Forensic Sciences",
+     "url": "https://researchonline.ljmu.ac.uk/id/eprint/8813/"
+    },
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    }
+   ]
+  },
+  {
+   "id": "side-wound",
+   "name": "Plaie au côté, avec du sang et un liquide clair",
+   "body_region": "Côté droit de la poitrine, vers la 5e ou 6e côte",
+   "side": "front",
+   "x": 0.64,
+   "y": 0.334,
+   "description": "La plus grande tache de sang se trouve sur le côté droit de la poitrine, avec une plaie ovale de la peau à son bord supérieur. Bucklin y voit du sang mêlé d’un liquide clair et aqueux, et suggère un liquide pleural dû à une défaillance cardiaque ; Bevilacqua et D’Arienzo placent la plaie dans le 6e espace intercostal, large d’environ 4,5 cm.",
+   "gospel": "Jean 19:34",
+   "verse": "Mais un des soldats lui perça le côté avec une lance, et aussitôt il sortit du sang et de l’eau.",
+   "skeptic": "L’« eau » est une interprétation de zones plus claires dans la tache. Une plaie de lance au côté droit est aussi la position habituelle dans l’art médiéval.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Bevilacqua et D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    }
+   ]
+  },
+  {
+   "id": "scourge-marks-front",
+   "name": "Marques de flagellation (face)",
+   "body_region": "Poitrine et devant des jambes",
+   "side": "front",
+   "x": 0.42,
+   "y": 0.66,
+   "description": "Des marques en paires semblables apparaissent sur la poitrine et le devant des jambes, en prolongement de celles du dos. Bucklin note qu’elles sont absentes des bras et des avant-bras.",
+   "gospel": "Jean 19:1",
+   "verse": "Alors Pilate prit Jésus, et le fit battre de verges.",
+   "skeptic": "Mêmes réserves que pour les marques du dos.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "knee-abrasions",
+   "name": "Écorchures aux genoux",
+   "body_region": "Genoux, surtout le gauche",
+   "side": "front",
+   "x": 0.45,
+   "y": 0.73,
+   "description": "Des récits populaires décrivent des tuméfactions et des écorchures aux genoux dues à des chutes répétées. Bucklin note seulement que le genou gauche est légèrement fléchi.",
+   "gospel": null,
+   "verse": null,
+   "skeptic": "Mal documenté : ni Bucklin ni Bevilacqua et D’Arienzo ne le décrivent, et les chutes relèvent de la tradition, pas des Évangiles. À ne pas présenter comme établi.",
+   "sources": [
+    {
+     "label": "Graves 2021, National Catholic Register",
+     "url": "https://www.ncregister.com/commentaries/clues-on-the-shroud-of-turin-tell-us-what-christ-endured-on-good-friday"
+    },
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "rigor-mortis-posture",
+   "name": "Posture de rigidité cadavérique",
+   "body_region": "Tout le corps : tête, jambes, pieds",
+   "side": "front",
+   "x": 0.47,
+   "y": 0.83,
+   "description": "Bucklin interprète la raideur générale comme une rigidité cadavérique, avec le genou gauche légèrement fléchi et la position des jambes conservée après la mort. Bevilacqua et D’Arienzo décrivent la tête penchée en avant et tournée, et soutiennent qu’un corps rigide ne pouvait pas être entièrement redressé.",
+   "gospel": "Jean 19:30",
+   "verse": "Quand Jésus eut pris le vinaigre, il dit: Tout est accompli. Et, baissant la tête, il rendit l’esprit.",
+   "skeptic": "La rigidité est déduite de la posture sur une image pâle ; un sculpteur ou un artiste pourrait aussi donner cette pose à une figure.",
+   "sources": [
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    },
+    {
+     "label": "Bevilacqua et D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    }
+   ]
+  },
+  {
+   "id": "crown-of-thorns-back-of-head",
+   "name": "Plaies punctiformes à l’arrière de la tête",
+   "body_region": "Arrière et sommet du cuir chevelu",
+   "side": "back",
+   "x": 0.5,
+   "y": 0.035,
+   "description": "Une rangée de marques de sang fait le tour de l’arrière du crâne, avec d’autres marques en haut du sommet. Bucklin soutient que cela correspond à un casque d’épines couvrant toute la tête plutôt qu’à l’étroite couronne montrée dans la plupart des œuvres européennes.",
+   "gospel": "Jean 19:2",
+   "verse": "Les soldats tressèrent une couronne d’épines qu’ils posèrent sur sa tête, et ils le revêtirent d’un manteau de pourpre; puis, s’approchant de lui,",
+   "skeptic": "L’argument du casque contre la couronne repose sur l’étendue de taches pâles, et certaines œuvres plus tardives montrent aussi de graves blessures à la tête.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "shoulder-abrasions",
+   "name": "Écorchures sur les omoplates",
+   "body_region": "Haut du dos, sur les deux omoplates",
+   "side": "back",
+   "x": 0.62,
+   "y": 0.12,
+   "description": "Deux larges zones décolorées sur les omoplates ressemblent à des écorchures dues à un objet lourd et rugueux. Les médecins légistes y voient les marques du portage de la poutre transversale.",
+   "gospel": "Jean 19:17",
+   "verse": "Jésus, portant sa croix, arriva au lieu du crâne, qui se nomme en hébreu Golgotha.",
+   "skeptic": "Ces zones sont pâles et leur lecture dépend de ce que l’on s’attend à voir. Marc, Matthieu et Luc disent que Simon de Cyrène a porté la croix pendant une partie du chemin (Luc 23:26).",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    }
+   ]
+  },
+  {
+   "id": "scourge-marks-back",
+   "name": "Marques de flagellation (dos)",
+   "body_region": "Épaules, dos, fesses et arrière des jambes",
+   "side": "back",
+   "x": 0.45,
+   "y": 0.22,
+   "description": "Plus de 100 petites marques en paires ou en forme d’haltère s’étendent des épaules jusqu’aux mollets. Bucklin les dit bifides et difficiles à compter ; Zugibe note qu’un fouet à trois lanières donnant 40 coups laisserait environ 120 marques. Elles se présentent comme de petites déchirures de la peau avec du sang, pas comme des ecchymoses.",
+   "gospel": "Jean 19:1",
+   "verse": "Alors Pilate prit Jésus, et le fit battre de verges.",
+   "skeptic": "Les décomptes viennent de photographies retouchées et varient selon les auteurs. Un artiste médiéval bien informé pourrait reproduire le schéma d’une flagellation romaine ; Freeman soutient que les marques étaient autrefois peintes de façon plus vive.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Zugibe, conférence Turin 2000",
+     "url": "https://www.crucifixion-shroud.com/Turin2000.htm"
+    },
+    {
+     "label": "Freeman 2014 (résumé)",
+     "url": "https://arthistorynews.com/articles/3065_Turin_Shroud_debunked_again"
+    }
+   ]
+  },
+  {
+   "id": "lower-back-blood-belt",
+   "name": "Du sang en travers du bas du dos",
+   "body_region": "Bas du dos, creux des reins",
+   "side": "back",
+   "x": 0.5,
+   "y": 0.345,
+   "description": "Une bande de sang traverse le bas du dos. On l’explique d’habitude par du sang et du liquide qui ont coulé de la plaie du côté quand le corps a été déplacé et allongé.",
+   "gospel": "Jean 19:34",
+   "verse": "Mais un des soldats lui perça le côté avec une lance, et aussitôt il sortit du sang et de l’eau.",
+   "skeptic": "Borrini et Garlaschelli ont jugé cette bande « totalement irréaliste » pour un écoulement post mortem venant de la plaie du côté, sur un corps allongé.",
+   "sources": [
+    {
+     "label": "Borrini et Garlaschelli, J. Forensic Sciences",
+     "url": "https://researchonline.ljmu.ac.uk/id/eprint/8813/"
+    }
+   ]
+  },
+  {
+   "id": "feet-wound",
+   "name": "Plaie de clou aux pieds",
+   "body_region": "Plantes des pieds, surtout le pied droit",
+   "side": "back",
+   "x": 0.48,
+   "y": 0.88,
+   "description": "L’image de dos montre le pied droit avec une nette marque de perforation près du centre de la plante, et un pied gauche moins distinct. Bevilacqua et D’Arienzo font passer le clou à travers les os du tarse.",
+   "gospel": "Luc 24:39",
+   "verse": "Voyez mes mains et mes pieds, c’est bien moi; touchez-moi et voyez: un esprit n’a ni chair ni os, comme vous voyez que j’ai.",
+   "skeptic": "Le pied gauche est peu clair, et le nombre de clous, un ou deux, est débattu.",
+   "sources": [
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    },
+    {
+     "label": "Bevilacqua et D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    }
+   ]
+  }
+ ]
+}

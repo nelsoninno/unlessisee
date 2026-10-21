@@ -1,0 +1,1343 @@
+{
+ "meta": {
+  "strength_convention": "W zwykłych elementach siła ocenia twierdzenie przemawiające za autentycznością. W elementach, których id zaczyna się od 'against-', twierdzenie przedstawia argument sceptyków, a siła ocenia ten argument sceptyczny.",
+  "last_checked": "2026-10-21"
+ },
+ "items": [
+  {
+   "id": "against-radiocarbon-1988",
+   "exhibit": 1,
+   "category": "dating",
+   "title": "Data radiowęglowa z 1988 roku: 1260-1390 n.e.",
+   "claim": "Sceptycy twierdzą: trzy niezależne laboratoria datowały len na lata 1260-1390 n.e. z ufnością co najmniej 95%. Ten przedział pasuje do pierwszej pewnej wzmianki o płótnie w Lirey w latach 50. XIV wieku.",
+   "detail": "21 kwietnia 1988 roku wycięto jeden pasek z rogu płótna, obok miejsca, z którego pobrano próbkę w 1973 roku, z dala od łat i śladów przypaleń. Arizona, Oksford i Zurych otrzymały po kawałku o masie około 50 mg oraz po trzy tkaniny kontrolne o znanym wieku. Średnie laboratoriów wyniosły 646 ± 31 BP (Arizona), 750 ± 30 BP (Oksford) i 676 ± 24 BP (Zurych), co daje nieważoną średnią 691 ± 31 BP. Po kalibracji to 1273-1288 n.e. przy 68% oraz 1262-1312 lub 1353-1384 n.e. przy 95%, co Nature zaokrągliło do 1260-1390 n.e. Wszystkie trzy próbki kontrolne dały wyniki bliskie ich znanemu wiekowi. Artykuł, opublikowany w Nature w lutym 1989 roku, nazwał wynik rozstrzygającym dowodem, że len jest średniowieczny.",
+   "skeptic": "To najmocniejszy pojedynczy dowód w całym sporze. Datowanie radiowęglowe metodą AMS to dojrzała, dobrze sprawdzona metoda, trzy laboratoria zgodziły się z dokładnością do około stu lat, a próbki kontrolne zadziałały. Data zgadza się z pierwszym zapisem pisanym, memorandum d'Arcisa, oraz z uwagą Oresme'a o fałszywym całunie w Szampanii. Każda próba wyjaśnienia tej daty (ogień, bakterie, tlenek węgla, neutrony, niewidoczna naprawa) albo została sprawdzona i zawiodła, albo nie ma bezpośrednich dowodów.",
+   "reply": "Najlepsza replika nie mówi, że metoda jest błędna, tylko że próbka może nie reprezentować całego płótna. Pobrano tylko jeden pasek z jednego rogu, a późniejsze prace statystyczne wykazały, że 12 wyników nie jest jednorodnych i układa się w trend wzdłuż paska. Nawet autorzy tych ponownych analiz mówią, że nie dowodzi to starożytnej daty. To jedynie osłabia określenie „rozstrzygający” i uzasadnia nowe, dobrze zaplanowane badanie.",
+   "strength": "strong",
+   "strength_reason": "Recenzowane, trzy laboratoria, działające próbki kontrolne, a żaden sprawdzony mechanizm zanieczyszczenia nie przesunął daty o 13 stuleci.",
+   "sources": [
+    {
+     "label": "Damon et al. 1989, Nature 337:611",
+     "url": "https://doi.org/10.1038/337611a0",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Damon et al. 1989, kopia pełnego tekstu",
+     "url": "https://shroud.com/nature.htm",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Wikipedia: Radiocarbon dating of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin",
+     "type": "website"
+    },
+    {
+     "label": "Karapanagiotis 2025, Textiles 5(1):8 (przegląd)",
+     "url": "https://www.mdpi.com/2673-7248/5/1/8",
+     "type": "peer-reviewed"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "radiocarbon-heterogeneity",
+   "exhibit": 2,
+   "category": "dating",
+   "title": "Wyniki z 1988 roku słabo się ze sobą zgadzają",
+   "claim": "Kilka recenzowanych statystycznych ponownych analiz pokazuje, że 12 pomiarów Całunu nie jest jednorodnych i zmienia się zależnie od położenia na pasku, więc przedział 95% podany w 1989 roku nie jest wiarygodny.",
+   "detail": "Samo Nature podało dla Całunu wartość chi kwadrat 6,4 przy 2 stopniach swobody, istotną na poziomie 5%, podczas gdy próbki kontrolne łatwo przeszły test. Riani i współpracownicy (2013) znaleźli istotne różnice średnich laboratoriów (p = 0,0400 bez wag, 0,0043 z pierwotnymi wagami) oraz trend wieku wzdłuż paska we wszystkich 387 072 możliwych układach podpróbek. Casabianca i współpracownicy (2019) wykorzystali surowe dane laboratoriów, udostępnione przez British Museum w 2017 roku, i uzyskali w teście Warda i Wilsona wartość 15,99 przy wartości krytycznej 5,99, a w OxCal zgodność opublikowanych dat wynoszącą tylko 41,8%. Di Lazzaro i współpracownicy (2020) opisali gradient przestrzenny rzędu 50 lat radiowęglowych na centymetr. Walsh i Schwalbe (2020) stwierdzili, że przesunięcie dwóch laboratoriów o około 10 lat przywraca jednorodność, a przesunięcie o 88 lat uzgadnia wszystkie wyniki.",
+   "skeptic": "Niejednorodność mówi, że zakresy błędu były za małe, a nie że płótno jest o 1300 lat starsze. Poprawki proponowane przez tych autorów to dziesiątki lat, najwyżej niecałe stulecie, co nadal oznacza datę średniowieczną. Casabianca i współpracownicy piszą, że ich wyniki nie wykluczają hipotezy średniowiecznej.",
+   "reply": "To uczciwa uwaga i strona powinna powiedzieć to wprost. Uczciwy wniosek jest węższy: twierdzenie z 1989 roku o „rozstrzygającym dowodzie” opierało się na traktowaniu 12 wyników jako powtórnych pomiarów jednej wielkości, a nimi nie są. Trend zależny od położenia oznacza, że coś zmienia się w obrębie płótna, i właśnie dlatego potrzebne jest nowe badanie próbek z wielu miejsc.",
+   "strength": "moderate",
+   "strength_reason": "Problem statystyczny jest prawdziwy i recenzowany, ale poszerza niepewność, zamiast wskazywać na I wiek.",
+   "sources": [
+    {
+     "label": "Riani, Atkinson, Fanti, Crosilla 2013, Statistics and Computing",
+     "url": "https://riani.unipr.it/pub/RAFC2012.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Casabianca et al. 2019, Archaeometry 61(5):1223-1231",
+     "url": "https://philarchive.org/archive/CASTRD-3",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Di Lazzaro et al. 2020, Entropy 22(9):926",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7597180",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Walsh i Schwalbe 2020, J. Archaeological Science: Reports 29",
+     "url": "https://doi.org/10.1016/j.jasrep.2019.102015",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Riani et al. 2026, Statistical Methods and Applications",
+     "url": "https://link.springer.com/article/10.1007/s10260-026-00851-2",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Felieton Chemistry World o Casabiance 2019",
+     "url": "https://chemistryworld.com/opinion/how-old-is-the-turin-shroud/3010341.article",
+     "type": "news"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "radiocarbon-sample-repair",
+   "exhibit": 3,
+   "category": "dating",
+   "title": "Czy datowany róg był średniowieczną naprawą?",
+   "claim": "Raymond Rogers (2005) podał, że nici z obszaru próbki radiowęglowej zawierają bawełnę oraz powłokę z gumy roślinnej i barwnika, których nie ma na głównej części płótna, więc próbka może być zręczną późniejszą naprawą.",
+   "detail": "Rogers, chemik STURP, opublikował wyniki w Thermochimica Acta 425 (2005). Opisał żółtobrązową powłokę z gumy z lakami barwnikowymi oraz włókna bawełny w niciach, które miały pochodzić z próbki radiowęglowej, i stwierdził, że „pobrano najgorszą możliwą próbkę do datowania radiowęglowego”. Nici otrzymał w 2003 roku od Luigiego Gonelli, który nie miał upoważnienia do pobierania materiału z Całunu, więc ich pochodzenie jest niepewne. Freer-Waters i Jull (2010) zbadali prawdziwy pozostały fragment z Arizony i znaleźli tylko kilka włókien bawełny, bez barwnika i bez powłoki. Kolejny fragment z Arizony, przechowywany przez zmarłego Douglasa Donahue, zbadano w artykule w Heritage Science z 2026 roku, który według doniesień prasowych nie wykazał śladów naprawy ani obcego materiału.",
+   "skeptic": "Ta teoria wymaga, aby średniowieczny tkacz wplótł nową nić w stare płótno tak dobrze, że czołowa na świecie konserwatorka tkanin, Mechthild Flury-Lemberg, nie dostrzegła żadnego śladu tego, gdy pracowała przy płótnie w 2002 roku. Gove (1990) zauważył, że niewidoczne przetkanie łatwo dostrzec pod mikroskopem. Bezpośrednie badanie prawdziwych datowanych fragmentów, w 2010 i ponownie w 2026 roku, nie wykazało barwnika, powłoki ani naprawy.",
+   "reply": "Rogers był starannym, doświadczonym chemikiem, a jego artykuł przeszedł recenzję. Ale nici, które badał, nie dają się z pewnością prześledzić, a dwa późniejsze bezpośrednie badania udokumentowanych fragmentów przemawiają przeciw niemu. Strona może wspomnieć tę hipotezę jako ważną historycznie, ale nie jako wygraną sprawę.",
+   "strength": "disputed",
+   "strength_reason": "Recenzowane, ale oparte na niciach o wątpliwym pochodzeniu i sprzeczne z bezpośrednim badaniem udokumentowanych fragmentów w 2010 i 2026 roku.",
+   "sources": [
+    {
+     "label": "Rogers 2005, Thermochimica Acta 425:189-194",
+     "url": "https://zenodo.org/record/1259381",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Freer-Waters i Jull 2010, Radiocarbon 52(4):1521-1527",
+     "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8CC26C322198300E051C49A0BA5B96D9/S0033822200056277a.pdf/investigating-a-dated-piece-of-the-shroud-of-turin.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Freer-Waters i Jull 2026, Heritage Science",
+     "url": "https://www.nature.com/articles/s40494-026-02530-7",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Farey 2026, podsumowanie artykułu z 2026 roku",
+     "url": "https://medievalshroud.com/the-donahue-sliver-resurfaces/",
+     "type": "website"
+    },
+    {
+     "label": "IBT przez inkl 2026, doniesienie o badaniu z kwietnia 2026 roku",
+     "url": "https://www.inkl.com/news/turin-shroud-dna-jesus-claim-hits-a-snag-strongest-match-points-to-man-who-collected-samples",
+     "type": "news"
+    },
+    {
+     "label": "Gove 1990, Radiocarbon",
+     "url": "https://doi.org/10.1017/S0033822200039990",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Schafersman 2005, sceptyczna odpowiedź Rogersowi",
+     "url": "https://web.archive.org/web/20151114044016/http://llanoestacado.org/freeinquiry/skeptic/shroud/articles/rogers-ta-response.htm",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "radiocarbon-contamination",
+   "exhibit": 4,
+   "category": "dating",
+   "title": "Zanieczyszczenie jako wyjaśnienie daty",
+   "claim": "Ogień, powłoki bakteryjne, tlenek węgla lub błysk neutronów mogły dodać współczesny węgiel i sprawić, że starożytne płótno wygląda na średniowieczne.",
+   "detail": "Od 1988 roku zaproponowano kilka mechanizmów. Przegląd w Textiles (2025) zauważa, że aby płótno z I wieku dało datę z XIV wieku, potrzeba by około 40% lub więcej współczesnego węgla, a proponowany efekt karboksylacji w pożarze wykluczyły trzy późniejsze badania. Christopher Ramsey z Oksfordu sprawdził w 2008 roku hipotezę tlenku węgla i nie znalazł istotnej reakcji, przy czułości na przesunięcia mniejsze niż rok. Bakteryjną powłokę „bioplastikową” zaproponowali Garza-Valdes i Mattingly w 1996 roku. Hipoteza neutronowa powiązana z trzęsieniem ziemi ukazała się w artykule w czasopiśmie, który wycofano w 2015 roku z powodu wadliwego procesu redakcyjnego.",
+   "skeptic": "Wstępna obróbka w laboratorium (kwas, zasada, wybielacz, detergent) służy właśnie do usuwania takich zanieczyszczeń, a trzy laboratoria stosowały różne metody czyszczenia i mimo to uzyskały podobne wyniki. Potrzebne ilości zanieczyszczeń są absurdalnie duże jak na len, który wygląda i zachowuje się normalnie. Wyjaśnienia przez cudowne neutrony nie da się sprawdzić.",
+   "reply": "Dla tych konkretnych mechanizmów nie ma mocnej repliki. Jedyna możliwa do obrony wersja to ogólna, z dowodu 2: nieusunięte zanieczyszczenie mogłoby wyjaśnić część rozrzutu, a to kwestia dziesięcioleci, nie stuleci.",
+   "strength": "debunked",
+   "strength_reason": "Każdy konkretny mechanizm, który sprawdzono, zawiódł, a wymagane ilości są nieprawdopodobne.",
+   "sources": [
+    {
+     "label": "Karapanagiotis 2025, Textiles 5(1):8",
+     "url": "https://www.mdpi.com/2673-7248/5/1/8",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Ramsey 2008, oświadczenie Oxford Radiocarbon Accelerator Unit",
+     "url": "https://c14.arch.ox.ac.uk/shroud.html",
+     "type": "official"
+    },
+    {
+     "label": "Ball 2005, wiadomości Nature (wzmianka o Garzie-Valdesie)",
+     "url": "https://www.nature.com/news/2005/050124/full/news050124-17.html",
+     "type": "news"
+    },
+    {
+     "label": "Retraction Watch 2015 o artykułach Carpinteriego",
+     "url": "https://retractionwatch.com/2015/04/16/controversial-italian-scientist-loses-11-papers-from-journal-he-used-to-edit",
+     "type": "news"
+    },
+    {
+     "label": "Wikipedia: Radiocarbon dating of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "waxs-dating-2022",
+   "exhibit": 5,
+   "category": "dating",
+   "title": "Datowanie jednej nici metodą rentgenowską (WAXS)",
+   "claim": "De Caro i współpracownicy (2022) zmierzyli starzenie się celulozy w jednej nici z Całunu metodą szerokokątowego rozpraszania promieni rentgenowskich i stwierdzili, że odpowiada ono lnowi z Masady (55-74 n.e.), a nie lnowi średniowiecznemu.",
+   "detail": "Zespół użył jednej nici o wymiarach około 0,5 mm na 1 mm z okolicy rogu, z którego pobrano próbkę w 1988 roku. Jej parametr starzenia wyniósł 0,60 ± 0,02, czego według autorów nie da się osiągnąć w ciągu siedmiu stuleci w warunkach turyńskich (12,5 °C, wilgotność względna 75%, co daje 0,027 lub mniej). Aby go uzyskać, potrzeba około 20,2 ± 0,8 stulecia starzenia, jeśli płótno spędziło 13 nieudokumentowanych stuleci w temperaturze 22,5 °C i wilgotności 55% albo w około 20 °C i wilgotności 75%. Jeśli średnia temperatura przekraczała 23 °C, wiek spada poniżej 20 stuleci. Autorzy nazywają wynik „bardzo prawdopodobnym” i piszą, że więcej próbek jest konieczne.",
+   "skeptic": "Odpowiedź zależy niemal całkowicie od założonej temperatury i wilgotności przez 13 stuleci, których nikt nie potrafi udokumentować. Wystarczy zmienić założenie o kilka stopni, a data przesuwa się o stulecia. To jedna nić, jedno laboratorium, ze współautorem (Fantim), który od dawna opowiada się za autentycznością, a metody nie zweryfikowano w ślepych próbach na wielu tkaninach o znanym wieku i historii przechowywania.",
+   "reply": "Metoda jest fizycznie poprawna i recenzowana, i co najmniej pokazuje, że nić nie jest w oczywisty sposób młoda. Ale strona powinna przedstawiać ją jako ciekawy wynik pilotażowy, nigdy jako datę, która obala datowanie radiowęglowe.",
+   "strength": "weak",
+   "strength_reason": "Jedna próbka, niezweryfikowana metoda, a wynik zależy od założonych warunków przechowywania.",
+   "sources": [
+    {
+     "label": "De Caro et al. 2022, Heritage 5:860-870",
+     "url": "https://dsctm.cnr.it/images/Highlights/Sindone/DeCaro_Heritage_2022.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Karapanagiotis 2025, Textiles 5(1):8",
+     "url": "https://www.mdpi.com/2673-7248/5/1/8",
+     "type": "peer-reviewed"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "fanti-spectroscopic-mechanical-dating",
+   "exhibit": 6,
+   "category": "dating",
+   "title": "Datowanie Fantiego metodami FT-IR, Ramana i mechanicznymi",
+   "claim": "Zespół Giulia Fantiego datował włókna z Całunu trzema metodami opartymi na starzeniu i uzyskał wyniki skupione w pobliżu I wieku.",
+   "detail": "Wyniki przy ufności 95% to 300 p.n.e. ± 400 lat metodą FT-IR (752 p.n.e. przed poprawką na pożar), 200 p.n.e. ± 500 metodą Ramana i 400 n.e. ± 400 w testach mechanicznych, co po uśrednieniu daje około 33 p.n.e. ± 250. Ponowna analiza danych mechanicznych metodą Monte Carlo z 2015 roku dała 279 n.e. ± 216. Do kalibracji użyto dziewięciu starożytnych tkanin i współczesnych próbek kontrolnych. Włókna pochodziły z pyłu odkurzonego z tyłu płótna przez Giovanniego Riggiego.",
+   "skeptic": "Włókna to luźny pył, a nie udokumentowane nici, i mogą być zmieszane z płótnem podszewki i innym lnem. Rozkład celulozy nie jest równomiernym zegarem, zależy od przechowywania, które różni się między Całunem a tkaninami wzorcowymi. Poprawkę na pożar zastosowano w jednej metodzie, a w innej nie, a łączny rozrzut sięga od około 700 p.n.e. do 800 n.e. Arcybiskup Turynu powiedział, że co do badanego materiału nie ma „żadnego stopnia pewności”.",
+   "reply": "Metody opublikowano (Vibrational Spectroscopy 2013, MATEC 2015), a włókna mają udokumentowaną drogę przez Riggiego. Ale pochodzenie, kalibracja i szerokie zakresy błędu czynią z tego co najwyżej dowód pomocniczy.",
+   "strength": "weak",
+   "strength_reason": "Niepewne pochodzenie włókien, niezweryfikowana kalibracja i bardzo szerokie zakresy błędu.",
+   "sources": [
+    {
+     "label": "Basso, Fanti, Malfi 2015, MATEC Web of Conferences 36:01003",
+     "url": "https://www.matec-conferences.org/10.1051/matecconf/20153601003",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Baraldi i Tinti 2015, MATEC 36:01002",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_01002.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Parker 2013, National Catholic Register",
+     "url": "https://www.ncregister.com/news/science-shines-new-light-on-shroud-of-turin-s-age",
+     "type": "news"
+    },
+    {
+     "label": "Krytyka Rinaldiego 2013 (przekład Fareya)",
+     "url": "https://shroudstory.com/2013/04/04/a-critical-review-of-giulio-fantis-new-book-unreliable-results-because-of-inadequacy-of-methods/",
+     "type": "website"
+    },
+    {
+     "label": "Omówienie Fanti et al. 2013, Vibrational Spectroscopy",
+     "url": "https://shroudstory.com/2013/04/19/fanti-et-al-paper-in-vibrational-spectroscopy/",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "vanillin-age",
+   "exhibit": 7,
+   "category": "dating",
+   "title": "Brak waniliny w głównej części płótna",
+   "claim": "Rogers nie znalazł waniliny w ligninie głównej części płótna, podczas gdy holenderska podszewka i średniowieczne lny ją zachowują, co uznał za oznakę znacznie większego wieku (1300 do 3000 lat).",
+   "detail": "Wanilina to produkt rozpadu ligniny we lnie, który powoli zanika. Rogers podał 0% zachowanej waniliny w głównej części płótna wobec około 37% w niciach, które przypisał obszarowi próbki radiowęglowej. Na podstawie szacowanego tempa ubytku określił wiek płótna na 1300 do 3000 lat.",
+   "skeptic": "Ubytek waniliny silnie zależy od temperatury, a w pożarze w 1532 roku płótno nagrzało się tak, że stopiło się srebro. Kinetyki nigdy nie zweryfikowano na tkaninach o znanej historii. Liczba 37% pochodzi z tych samych niepewnych nici.",
+   "reply": "Rozsądny szacunek chemika, ale zbyt wrażliwy na nieznaną historię termiczną, by mieć znaczenie.",
+   "strength": "weak",
+   "strength_reason": "Niesprawdzona kinetyka i znane zdarzenie termiczne czynią szacunek niewiarygodnym.",
+   "sources": [
+    {
+     "label": "Rogers 2005, Thermochimica Acta 425",
+     "url": "https://zenodo.org/record/1259381",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Ball 2005, wiadomości Nature",
+     "url": "https://www.nature.com/news/2005/050124/full/news050124-17.html",
+     "type": "news"
+    },
+    {
+     "label": "Wikipedia: Radiocarbon dating of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "image-superficiality",
+   "exhibit": 8,
+   "category": "image",
+   "title": "Obraz głęboki tylko na kilka włókien",
+   "claim": "Obraz ciała to słabe zażółcenie tylko najwyższych włókien każdej nici, bez farby, barwnika czy spoiwa, które by go tworzyło, i nikt nie odtworzył wszystkich jego znanych cech.",
+   "detail": "Podsumowanie STURP z 1981 roku stwierdza, że na włóknach obrazu nie znaleziono pigmentów, farb, barwników ani plam, a fluorescencja rentgenowska i mikrochemia wykluczają farbę. Barwa znajduje się na dwóch lub trzech najbardziej zewnętrznych włóknach nici. Sama barwa jest dość jednolita, a ciemność zależy od tego, ile włókien na danej powierzchni jest zabarwionych. Rogers i Arnoldi opisują zabarwioną warstwę jako zbyt cienką, by rozróżnić ją pod mikroskopem optycznym. Recenzowany przegląd z 2025 roku wciąż nazywa powstanie obrazu „zagadką”.",
+   "skeptic": "Powierzchowne zażółcenie nie jest wyjątkowe: pocieranie kwaśnym pigmentem Garlaschellego i pocieranie pyłem Nickella też dają barwę na wierzchnich włóknach po postarzeniu i praniu. „Jeszcze nie odtworzono” to luka w wiedzy, a nie dowód pochówku. Wiele prawdziwych średniowiecznych przedmiotów trudno dokładnie odtworzyć.",
+   "reply": "Zgoda, że „niewyjaśnione” nie znaczy „cudowne”. Ale ta luka jest wyjątkowo duża: repliki odpowiadają niektórym cechom, a innych brakuje (jednolitość barwy na poziomie włókien, brak obrazu pod krwią, subtelna skala tonów). Ostrożne twierdzenie brzmi: nie wykazano, aby jakakolwiek znana technika średniowieczna dawała wszystkie cechy naraz.",
+   "strength": "strong",
+   "strength_reason": "Dobrze udokumentowane bezpośrednim badaniem w 1978 roku i potwierdzone w późniejszych przeglądach. Co to oznacza dla wieku, to osobne pytanie.",
+   "sources": [
+    {
+     "label": "Podsumowanie wniosków STURP z 1981 roku",
+     "url": "http://www.shroud.com/78conclu.htm",
+     "type": "official"
+    },
+    {
+     "label": "Schwalbe i Rogers 1982, Analytica Chimica Acta 135 (w wykazie)",
+     "url": "http://www.shroud.com/78papers.htm",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Rogers i Arnoldi 2003, Melanoidins vol. 4",
+     "url": "https://shroud.com/pdfs/rogers7.pdf",
+     "type": "book"
+    },
+    {
+     "label": "Karapanagiotis 2025, Textiles 5(1):8",
+     "url": "https://www.mdpi.com/2673-7248/5/1/8",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Wikipedia: Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "against-mccrone-paint",
+   "exhibit": 9,
+   "category": "image",
+   "title": "McCrone: farba z czerwonej ochry i cynobru",
+   "claim": "Sceptycy twierdzą: mikroskopista Walter McCrone znalazł czerwoną ochrę (tlenek żelaza) na taśmach z obszarów obrazu i krwi oraz cynober na taśmach z obszarów krwi, na spoiwie kolagenowym, i doszedł do wniosku, że płótno jest malowidłem z XIV wieku.",
+   "detail": "McCrone zbadał włókna z 32 próbek taśmowych pobranych w 1978 roku. Podał czerwoną ochrę na 20 taśmach z obrazu i krwi, cynober tylko na 11 taśmach z krwi, a żadnego z nich na 12 taśmach spoza obrazu. Stwierdził, że sądowe testy na krew na włóknach z obszarów krwi dały wynik ujemny. Publikował w The Microscope (1980, 1981) i Accounts of Chemical Research (1990), a malowidło datował na około 1355 rok.",
+   "skeptic": "McCrone był mikroskopistą światowej klasy, bez żadnego religijnego interesu, a zależność między pigmentem a obrazem to dokładnie to, czego należy się spodziewać po malowidle. Malowane kopie relikwii przykładane do oryginału nie wyjaśniłyby wzoru skupionego na obszarach obrazu.",
+   "reply": "Heller i Adler (1981) wyróżnili trzy formy żelaza: żelazo związane z celulozą po roszeniu, obecne w całym płótnie, żelazo hemowe w obszarach krwi oraz cząstki czystego tlenku żelaza skupione na brzegach zacieków wody po pożarze w 1532 roku. Zauważają, że ochry malarskie zawierają ponad 1% innych metali, których nie znaleźli, i że znaleźli tylko jedną cząstkę cynobru. Fluorescencja rentgenowska STURP nie wykazała istotnych ilości metali ciężkich poza żelazem. Przegląd z 2025 roku zauważa, że późniejsze badania znalazły cząstki pigmentu, ale także krew, więc sam pigment nie może wyjaśnić plam.",
+   "strength": "disputed",
+   "strength_reason": "Poważne twierdzenie eksperta, ale sprzeczne z kilkoma niezależnymi analizami chemicznymi i fizycznymi tego samego materiału z 1978 roku.",
+   "sources": [
+    {
+     "label": "Podsumowanie McCrone Research Institute",
+     "url": "https://mccroneinstitute.org/research/shroud-of-turin-research-at-mccrone",
+     "type": "website"
+    },
+    {
+     "label": "McCrone 1990, Accounts of Chemical Research (archiwum)",
+     "url": "https://web.archive.org/web/20230131030206/http://www.mccroneinstitute.org/uploads/the_microscope__shroud_small-1422560933.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Heller i Adler 1981, Canadian Society of Forensic Science Journal 14(3)",
+     "url": "https://www.shroud.com/pdfs/ssi43part3.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Karapanagiotis 2025, Textiles 5(1):8",
+     "url": "https://www.mdpi.com/2673-7248/5/1/8",
+     "type": "peer-reviewed"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "photographic-negative",
+   "exhibit": 10,
+   "category": "image",
+   "title": "Obraz działa jak negatyw fotograficzny",
+   "claim": "Gdy Secondo Pia sfotografował płótno w 1898 roku, jego klisza negatywowa pokazała znacznie wyraźniejszą postać człowieka, wyglądającą jak pozytyw, co sugerowało, że sam obraz na płótnie ma odwrócone tony.",
+   "detail": "Pia wykonał zdjęcia wieczorem 28 maja 1898 roku przy lampach elektrycznych. Negatyw ujawnił szczegóły twarzy trudne do dostrzeżenia gołym okiem. Niektórzy oskarżali go o manipulację, dopóki profesjonalne zdjęcia Giuseppe Enriego z 1931 roku nie potwierdziły tego efektu.",
+   "skeptic": "Każdy obraz powstały przez kontakt lub pocieranie na wypukłej powierzchni jest naturalnie „quasi-negatywem”, bo wyższe punkty ciemnieją. Nickell i Garlaschelli uzyskali obrazy podobne do negatywu metodami dostępnymi w średniowieczu. Ślady krwi są pozytywowe, a nie negatywowe, więc „negatyw” nie jest fotografią.",
+   "reply": "Sceptyk ma rację, że sam negatyw nie jest niczym egzotycznym. Godne uwagi pozostaje połączenie: negatyw plus skrajna powierzchowność plus subtelne, ciągłe cieniowanie. Strona nie powinna przedstawiać negatywu jako dowodu czegokolwiek.",
+   "strength": "moderate",
+   "strength_reason": "Prawdziwa i uderzająca cecha, ale w przybliżonej formie można ją odtworzyć prostymi metodami kontaktowymi.",
+   "sources": [
+    {
+     "label": "Wikipedia: Secondo Pia",
+     "url": "https://en.wikipedia.org/wiki/Secondo_Pia",
+     "type": "website"
+    },
+    {
+     "label": "Wywiad Donnelly z Nickellem, The Skeptic 1988",
+     "url": "https://www.skeptic.org.uk/?p=48809",
+     "type": "website"
+    },
+    {
+     "label": "Garlaschelli 2010, J. Imaging Science and Technology 54(4)",
+     "url": "https://library.imaging.org/jist/articles/54/4/art00002",
+     "type": "peer-reviewed"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "three-d-information",
+   "exhibit": 11,
+   "category": "imaging-3d",
+   "title": "Ciemność obrazu odpowiada odległości płótna od ciała",
+   "claim": "Jackson, Jumper i Ercoline (1984) stwierdzili, że intensywność obrazu koreluje z odległością między okrywającym płótnem a ciałem, i dlatego analizator VP-8 zamienia obraz w naturalny relief, inaczej niż zwykłe zdjęcia.",
+   "detail": "W 1976 roku analizator obrazu VP-8 przetworzył zdjęcie Enriego w spójną formę 3D, podczas gdy zwykłe zdjęcia dają zniekształcony chaos. W Applied Optics 23 (1984) korelacja z próby 13 punktów wyniosła r² = 0,60, z przedziałem 95% od 0,13 do 0,86. Obraz zanika przy odległości płótna od ciała około 3,7 cm. Zwykłe zdjęcie gipsowej twarzy dało r² = 0,17, a obraz testowy z zakodowaną odległością dał 0,98. Autorzy uznali, że ani sam kontakt, ani dyfuzja, ani proste promieniowanie, ani zwykły barelief nie pasują do wszystkiego.",
+   "skeptic": "Każdy obraz, którego ciemność zależy od wysokości nad powierzchnią, na przykład pocieranie na niskim reliefie, też da wiarygodnie wyglądający wynik 3D. Korelacja opiera się na 13 punktach i ręcznie zbudowanym modelu ciała, a jej przedział ufności jest bardzo szeroki. Moraes (2025) i Nicolotti podkreślają, że obraz jest niemal rzutem prostokątnym, co niski relief wyjaśnia w naturalny sposób.",
+   "reply": "Cecha 3D jest prawdziwa i nie wynikała z żadnej znanej konwencji artystycznej. Ale nie jest wyłączną cechą prawdziwego ciała, a strona musi podawać skromne statystyki (r² 0,60 z 13 punktów), a nie tylko efektowne obrazy z VP-8.",
+   "strength": "moderate",
+   "strength_reason": "Prawdziwa, recenzowana cecha, ale statystyki są skąpe, a niskie reliefy mogą ją naśladować.",
+   "sources": [
+    {
+     "label": "Jackson, Jumper, Ercoline 1984, Applied Optics 23(14):2244-2270",
+     "url": "https://shroud.com/pdfs/Correlation%20of%20Image%20Intensity%20Jackson%20Jumper%20Ercoline%201984%20OCRsm.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Strona STERA o odkryciu z VP-8",
+     "url": "https://shroud.com/78strp10.htm",
+     "type": "website"
+    },
+    {
+     "label": "Live Science 2025 o Moraesie, z komentarzem Nicolottiego",
+     "url": "https://www.livescience.com/archaeology/shroud-of-turin-wasnt-laid-on-jesus-body-but-rather-a-sculpture-modeling-study-suggests",
+     "type": "news"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "against-moraes-low-relief-2025",
+   "exhibit": 12,
+   "category": "imaging-3d",
+   "title": "Moraes 2025: obraz pasuje do niskiego reliefu, a nie do ciała",
+   "claim": "Sceptycy twierdzą: symulacje 3D pokazują, że płótno owinięte wokół prawdziwego ciała daje szeroki, zniekształcony obraz, a płótno na rzeźbie w niskim reliefie bardzo dobrze odpowiada Całunowi, więc obraz pochodzi od dzieła sztuki.",
+   "detail": "Cicero Moraes opublikował wyniki w Archaeometry 28 lipca 2025 roku. Nałożył wirtualne płótno na pełne ciało 3D i na niski relief i porównał oba wyniki ze zdjęciami z 1931 roku. Ciało 3D dało poszerzony „efekt maski Agamemnona”, a niski relief pasował. Nazwał Całun arcydziełem sztuki chrześcijańskiej i nie badał jego materiałów.",
+   "skeptic": "Przed geometrią trudno uciec. Płótno dotykające zaokrąglonego ciała powinno zapisać boki twarzy i kończyn, a Całun tego nie robi. Niski relief to naturalne narzędzie średniowieczne i wyjaśnia płaski, frontalny wygląd.",
+   "reply": "Ośrodek turyński (CISS) stwierdził, że prostokątny wygląd jest znany od badań Vignona z 1902 roku, a prace z czasów STURP już wykluczyły pocieranie lub nagrzewanie bareliefu, bo zostawiają one pigment, fluorescencję przypalenia albo kontaktowe wzory przypominające płaskowyże. Casabianca, Marinelli i Piana opublikowali polemikę w tym samym czasopiśmie (doniesienia z lutego 2026 roku), wskazując na model tylko przedniej strony, ciało o wzroście 180 cm, bawełnę zamiast lnu i pominięcie krwi oraz głębokości obrazu. Warto zauważyć, że nawet sceptyk Nicolotti powiedział, że badanie nie wnosi nic nowego. Prostokątna geometria jest prawdziwa. Otwarte pytanie brzmi, jaki proces, na ciele lub na reliefie, ją wytworzył.",
+   "strength": "moderate",
+   "strength_reason": "Obserwacja geometryczna jest trafna i dawno znana, ale badanie pomija chemię i nie pokazuje, że relief może dać prawdziwy obraz na poziomie włókien.",
+   "sources": [
+    {
+     "label": "Live Science 2025 o Moraesie, Archaeometry",
+     "url": "https://www.livescience.com/archaeology/shroud-of-turin-wasnt-laid-on-jesus-body-but-rather-a-sculpture-modeling-study-suggests",
+     "type": "news"
+    },
+    {
+     "label": "Catholic World Report 2025, odpowiedź CISS",
+     "url": "https://www.catholicworldreport.com/2025/08/05/shroud-of-turin-center-disputes-new-study-that-challenges-authenticity-of-burial-cloth/",
+     "type": "news"
+    },
+    {
+     "label": "Vatican News 2026, polemika Casabianca et al. w Archaeometry",
+     "url": "https://www.vaticannews.va/en/church/news/2026-02/shroud-turin-medieval-bas-relief-hypothesis-challenged.html",
+     "type": "news"
+    },
+    {
+     "label": "Zbiór odpowiedzi na pracę Moraesa (STERA)",
+     "url": "https://www.shroud.com/pdfs/Recent%20paper%20-%20Shroud%20Image%20Formation%20-%203D%20Approach.pdf",
+     "type": "website"
+    },
+    {
+     "label": "LADbible 2026 o dalszych pracach Moraesa",
+     "url": "https://www.ladbible.com/news/expert-debunks-shroud-of-turin-jesus-099693-20260212",
+     "type": "news"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "against-artistic-reproductions",
+   "exhibit": 13,
+   "category": "image-formation",
+   "title": "Reprodukcje w stylu średniowiecznym (Nickell, Garlaschelli)",
+   "claim": "Sceptycy twierdzą: proste metody dostępne w średniowieczu odtwarzają główne cechy. Pocieranie pyłem na bareliefie Nickella i replika naturalnej wielkości z kwaśnym pigmentem Garlaschellego dają obrazy negatywowe, powierzchowne, nieświecące w UV, z pewną zawartością 3D.",
+   "detail": "Nickell uformował mokre płótno na niskim reliefie i natarł je sproszkowanym pigmentem, podając około 30 punktów podobieństwa. Garlaschelli (2009, publikacja 2010) wcierał zawiesinę kwaśnego pigmentu na ciele ochotnika i na bareliefie dla twarzy, wypiekał płótno w około 140-145 °C przez 3 godziny, a potem wypłukał pigment. Opisał powierzchowny, tylko przedni, negatywowy obraz, który nie świeci w UV, w przeciwieństwie do śladów przypaleń.",
+   "skeptic": "To nie są doskonałe kopie, ale pokazują, że główne cechy można uzyskać bez żadnego egzotycznego procesu. Dodaj 600 lat starzenia i blaknięcia, a pozostałe różnice się zmniejszają.",
+   "reply": "Garlaschelli sam wymienia to, czego nie odtworzył: krew i ślady biczowania nałożył pędzlem, włosy namalował, kończyny były zniekształcone przez pocieranie na ciele, a naturalnego starzenia nie symulowano. Heimburger (2009) stwierdził, że barwa zmienia się w obrębie nici, zamiast być jednolita na poziomie włókien, oraz że wynik 3D przypomina płaskowyże (około 60% nasyconych pikseli wobec 23% dla twarzy z Całunu w podobnym teście). Żadna replika nie ma jeszcze krwi bez obrazu pod spodem.",
+   "strength": "moderate",
+   "strength_reason": "Pokazuje, że kilka cech można uzyskać środkami artystycznymi, ale żadna replika nie odtwarza ich wszystkich naraz.",
+   "sources": [
+    {
+     "label": "Garlaschelli 2010, J. Imaging Science and Technology 54(4):040301",
+     "url": "https://www.vof.se/wp-content/uploads/2024/09/JIST_2010_art00002_L_-Garlaschelli.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Krytyka Heimburgera 2009",
+     "url": "https://www.shroud.com/pdfs/thibault-lg.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Wywiad Donnelly z Nickellem, The Skeptic 1988",
+     "url": "https://www.skeptic.org.uk/?p=48809",
+     "type": "website"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "uv-laser-coloration",
+   "exhibit": 14,
+   "category": "image-formation",
+   "title": "Barwienie laserem ultrafioletowym w ENEA",
+   "claim": "Fizycy z ENEA pokazali, że bardzo krótkie impulsy lasera ultrafioletowego barwią len w cienki, powierzchowny, nieświecący sposób, który przypomina obraz na Całunie.",
+   "detail": "Di Lazzaro i współpracownicy użyli lasera 193 nm z impulsami trwającymi 12 nanosekund. Zażółcenie podobne do Całunu pojawiało się tylko w wąskim zakresie około 2 do 4 miliardów watów na centymetr kwadratowy. Większa moc odparowywała len. Średnia głębokość barwy w niciach wynosiła około 7 do 26 mikrometrów, a jedno włókno miało barwę tylko w ścianie pierwotnej o grubości około 0,2 mikrometra. Przeskalowanie progu na powierzchnię ciała daje około 34 bilionów watów, a według autorów żadne istniejące źródło UV nie może tego dostarczyć.",
+   "skeptic": "To laboratoryjna ciekawostka, a nie mechanizm. Sami autorzy piszą, że nikt nie może twierdzić, że obraz powstał wskutek błysków lasera ekscymerowego. Liczba „34 bilionów watów” to po prostu próg lasera pomnożony przez powierzchnię ciała, a popularne artykuły powtarzają ją tak, jakby mierzyła zmartwychwstanie.",
+   "reply": "Słusznie. Wynik jest przydatny tylko jako chemia: pokazuje, że rodzaj barwy zgadza się z szybkim, niskotemperaturowym utlenianiem powierzchni. Nie mówi nic o tym, jakie źródło, jeśli w ogóle jakieś, to zrobiło.",
+   "strength": "weak",
+   "strength_reason": "Dobra fizyka laboratoryjna, ale brak dowodów, że takie źródło istniało. Liczby watów nie wolno używać jako „dowodu”.",
+   "sources": [
+    {
+     "label": "Di Lazzaro et al. 2010, materiały z warsztatów ENEA we Frascati",
+     "url": "https://www.sindone.info/DILAZZA1.PDF",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Strona projektu ENEA o badaniach optycznych Całunu",
+     "url": "https://eai.enea.it/archivio/knowledge-diagnostics-and-preservation-of-cultural-heritage/the-conservation-of-the-shroud-of-turin-optical-studies.html",
+     "type": "official"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "maillard-natural-hypothesis",
+   "exhibit": 15,
+   "category": "image-formation",
+   "title": "Naturalna droga chemiczna (reakcja Maillarda)",
+   "claim": "Rogers i Arnoldi zaproponowali, że aminy z rozkładającego się ciała zareagowały z resztkami cukrów na lnie wykonanym dawnymi metodami i dały cienką brązową warstwę powierzchniową, bez żadnego cudu ani sztuki.",
+   "detail": "Len prany w mydlnicy (Saponaria) i pozostawiony z resztkami skrobi przenosiłby podczas schnięcia cukry redukujące na powierzchnię. Amoniak i aminy, takie jak kadaweryna i putrescyna, mogłyby reagować z nimi w umiarkowanej temperaturze. W testach pary amoniaku na odpowiednio przygotowanym lnie dawały złocistą barwę powierzchni przy czystych rdzeniach włókien. Autorzy zaznaczają, że nie dowodzi to, jak powstał obraz ani że płótno jest autentyczne.",
+   "skeptic": "Na obrazie nie znaleziono produktów rozkładu ani białek, a hipoteza nigdy nie dała rozpoznawalnego obrazu ciała. Rozchodzące się gazy powinny rozmywać szczegóły znacznie bardziej, niż widać to na ostrych ustach i palcach.",
+   "reply": "To wciąż najłatwiejsza do sprawdzenia hipoteza naturalna i można by ją zweryfikować na nowych próbkach. Należy ją przedstawiać jako pomysł, a nie wynik.",
+   "strength": "weak",
+   "strength_reason": "Chemicznie prawdopodobna, ale nigdy nie wykazano, że daje obraz, i brak dowodów w postaci pozostałości.",
+   "sources": [
+    {
+     "label": "Rogers i Arnoldi 2003, Melanoidins vol. 4:106-113",
+     "url": "https://shroud.com/pdfs/rogers7.pdf",
+     "type": "book"
+    },
+    {
+     "label": "Wikipedia: Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "image-on-reverse",
+   "exhibit": 16,
+   "category": "image",
+   "title": "Słaba twarz na tylnej stronie płótna",
+   "claim": "Fanti i Maggiolo (2004) opisali słaby, powierzchowny obraz twarzy i dłoni na odwrotnej stronie płótna, co wykluczałoby większość metod malowania i przypalania.",
+   "detail": "Analiza wykorzystywała komputerowe przetwarzanie zdjęć wykonanych w 2002 roku, gdy zdjęto podszewkę. Opublikowano ją w Journal of Optics A 6 (2004). Autorzy przekonują, że obraz na tylnej stronie jest powierzchowny, a nie przesiąknięty z przodu.",
+   "skeptic": "Metoda była pośrednia, a dopasowanie przekrojów mogło być subiektywne. Konserwatorka Flury-Lemberg i ksiądz prałat Ghiberti, którzy widzieli tylną stronę bezpośrednio w 2002 roku, podobno nie zobaczyli żadnego obrazu. Skany w wysokiej rozdzielczości nie są publiczne, więc nikt nie może tego sprawdzić.",
+   "reply": "Nie ma dobrej repliki, dopóki skany z 2002 roku nie zostaną udostępnione do niezależnej analizy.",
+   "strength": "disputed",
+   "strength_reason": "Jedno pośrednie badanie, niepotwierdzone przez bezpośrednich obserwatorów ani niezależną ponowną analizę.",
+   "sources": [
+    {
+     "label": "Recenzja Fanti i Maggiolo 2004",
+     "url": "https://sindonology.org/reviews/doubleSuperficiality.shtml",
+     "type": "website"
+    },
+    {
+     "label": "Wikipedia: History of the Shroud of Turin (wpis z 2004 roku)",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "blood-is-real-blood",
+   "exhibit": 17,
+   "category": "blood",
+   "title": "Czerwone plamy zawierają krew",
+   "claim": "Testy chemiczne włókien z plam wykazały pochodne hemu, fluorescencję porfiryn, białko, albuminę i bilirubinę, co razem wskazuje na prawdziwą, skrzepłą krew, a nie farbę.",
+   "detail": "Heller i Adler (1980, 1981) przeprowadzili na taśmach z 1978 roku około 12 niezależnych testów: absorpcję Soreta w okolicy 400-450 nm, przekształcenie hemu we fluoryzującą porfirynę, barwy hemochromogenu i cyjanomethemoglobiny, testy na białko, testy na albuminę oraz enzymy, które rozpuściły powłokę krwi, ale nie naruszyły włókien obrazu. Włókna obrazu i zwykłe włókna dały wynik ujemny na białko powyżej poziomu nanogramów. Podsumowanie STURP z 1981 roku mówi, że plamy to hemoglobina i dają wynik dodatni na albuminę surowicy.",
+   "skeptic": "To testy wstępne z lat 70. i 80., wykonane przez badaczy przychylnych autentyczności. Według stanu na 2025 rok nowoczesnymi metodami nie wykazano, że krew jest ludzka ani nawet że pochodzi od naczelnych. A prawdziwa krew nie dowodzi niczego o wieku: średniowieczny fałszerz mógł użyć prawdziwej krwi.",
+   "reply": "Ostatnia uwaga sceptyka jest słuszna i strona musi sama ją wyrazić. To, że krew jest prawdziwa, jest dobrym dowodem przeciw czystemu malowidłu, ale jest neutralne co do daty i tożsamości. Nowoczesne badania proteomiczne lub DNA na udokumentowanych włóknach krwi rozstrzygnęłyby, czy jest ludzka.",
+   "strength": "moderate",
+   "strength_reason": "Wiele zgodnych testów chemicznych, ale dawne metody, niepowtórzone nowoczesnymi technikami i nierozstrzygające o wieku.",
+   "sources": [
+    {
+     "label": "Heller i Adler 1980, Applied Optics 19(16)",
+     "url": "https://www.shroud.com/pdfs/ssi43part2.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Heller i Adler 1981, Can. Soc. Forensic Sci. J. 14(3)",
+     "url": "https://www.shroud.com/pdfs/ssi43part3.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Podsumowanie STURP z 1981 roku",
+     "url": "http://www.shroud.com/78conclu.htm",
+     "type": "official"
+    },
+    {
+     "label": "Kearse 2012, przegląd immunologiczny",
+     "url": "https://www.shroud.com/pdfs/kearse.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Wikipedia: Shroud of Turin (sekcja o krwi)",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "no-image-under-blood",
+   "exhibit": 18,
+   "category": "blood",
+   "title": "Najpierw krew, potem obraz?",
+   "claim": "Gdy krew rozpuszczono enzymami z włókien, pod spodem nie znaleziono barwy obrazu, co sugeruje, że krew dotknęła płótna, zanim powstał obraz, czyli odwrotnie, niż zwykle pracowałby artysta.",
+   "detail": "Heller i Adler użyli proteaz, które usunęły powłoki krwi w ciągu 30 minut. Rogers i Arnoldi również podają, że pod plamami usuniętymi enzymatycznie nie ma barwy obrazu. Badanie eksperymentalne Kelly'ego Kearse'a z 2026 roku wykazało, że krew nałożona na len potraktowany kwasem zapobiega późniejszemu zabarwieniu w tym miejscu.",
+   "skeptic": "Fałszerz mógł równie dobrze najpierw namalować krew, a potem dodać obraz ciała. Własne badania Kearse'a z 2026 roku pokazują, że krew może blokować późniejsze barwienie, więc „brak obrazu pod krwią” zgadza się z kilkoma kolejnościami, a on sam stwierdza, że kolejności nie da się poznać z pewnością. Obserwacja opiera się na kilku małych próbkach taśmowych.",
+   "reply": "Ta obserwacja wciąż jest prawdziwym ograniczeniem, któremu musi sprostać każda teoria fałszerstwa, a większość replik mu nie sprostała. Ale nie jest dowodem pochówku.",
+   "strength": "disputed",
+   "strength_reason": "Oparte na ograniczonych próbkach, a nowe eksperymenty pokazują, że nie wyznacza jednoznacznie kolejności zdarzeń.",
+   "sources": [
+    {
+     "label": "Heller i Adler 1981",
+     "url": "https://www.shroud.com/pdfs/ssi43part3.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Rogers i Arnoldi 2003",
+     "url": "https://shroud.com/pdfs/rogers7.pdf",
+     "type": "book"
+    },
+    {
+     "label": "Kearse 2026, International Journal of Archaeology 14(2):16-26",
+     "url": "https://sciencepublishinggroup.com/article/10.11648/j.ija.20261402.11",
+     "type": "peer-reviewed"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "blood-type-ab",
+   "exhibit": 19,
+   "category": "blood",
+   "title": "Grupa krwi AB",
+   "claim": "Baima Bollone podał, że grupa krwi to AB, i to samo twierdzono w przypadku Sudarionu z Oviedo, co łączyłoby oba płótna.",
+   "detail": "Oznaczenie bezpośrednie wykazało na zakrwawionych włóknach antygeny A i B, ale nie O. Oznaczenie odwrotne nie wykazało przeciwciał anty-A ani anty-B. Czynnika Rh nigdy nie badano, więc „AB Rh plus” nie ma żadnych podstaw. Garza-Valdes podał później tylko antygeny B.",
+   "skeptic": "Antygeny A i B występują u pospolitych bakterii i grzybów, a włókna z krwią na Całunie są silnie zanieczyszczone. Brak przeciwciał w starożytnej krwi może po prostu wynikać z ich rozkładu, więc kontrola krzyżowa nie może działać. Oznaczenia grupy nigdy nie opublikowano w recenzowanym czasopiśmie. Kearse (2025) stwierdza, że najbardziej prawdopodobnym wyjaśnieniem są antygeny bakteryjne.",
+   "reply": "Nie ma dobrej repliki. Sprawdzić to mogłyby tylko badania na poziomie DNA (HLA lub STR).",
+   "strength": "weak",
+   "strength_reason": "Niepublikowane w recenzowanym piśmie i podatne na fałszywie dodatnie wyniki z bakterii. Nawet przychylni specjaliści odrzucają ten wniosek.",
+   "sources": [
+    {
+     "label": "Kearse 2025, Forensic Science, Medicine and Pathology 21:1507-1510",
+     "url": "https://link.springer.com/article/10.1007/s12024-024-00915-3",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Kearse 2012, przegląd immunologiczny",
+     "url": "https://www.shroud.com/pdfs/kearse.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Kearse 2013, 'Positive for AB is not the same as AB positive'",
+     "url": "https://shroudstory.com/2013/01/08/positive-for-ab-is-not-the-same-as-ab-positive/",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "bilirubin-red-blood",
+   "exhibit": 20,
+   "category": "blood",
+   "title": "Wysoka bilirubina utrzymuje czerwony kolor krwi",
+   "claim": "Adler przekonywał, że bardzo wysoki poziom bilirubiny, wywołany ciężkim urazem, wyjaśnia, dlaczego stara krew wygląda na czerwoną, a nie czarną.",
+   "detail": "Heller i Adler (1981) opisali barwę azobilirubiny na niektórych cząstkach krwi i pik widmowy w okolicy 450 nm. Adler powiedział, że bilirubina zmieszana z methemoglobiną wyglądałaby na czerwoną.",
+   "skeptic": "Bilirubina jest pomarańczowa i nietrwała w świetle i w obecności tlenu. Jej ilości nigdy właściwie nie zmierzono, a w teście z 2010 roku podobno po czterech miesiącach nie było różnicy barwy między krwią zwykłą a krwią z wysoką bilirubiną. Sama „zbyt czerwona” krew jest argumentem sceptyków za farbą.",
+   "reply": "Nie ma mocnej repliki. Czerwony kolor to otwarte pytanie.",
+   "strength": "weak",
+   "strength_reason": "Nigdy nie zmierzono ilościowo ani nie potwierdzono eksperymentalnie.",
+   "sources": [
+    {
+     "label": "Heller i Adler 1981",
+     "url": "https://www.shroud.com/pdfs/ssi43part3.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Omówienie dowodów dotyczących bilirubiny, 2015",
+     "url": "https://shroudstory.com/2015/03/28/is-bilirubin-still-accepted-as-an-explanation-for-the-red-blood/",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "against-bloodstain-pattern-2018",
+   "exhibit": 21,
+   "category": "blood",
+   "title": "Analiza śladów krwi: strugi nie pasują do jednego ciała",
+   "claim": "Sceptycy twierdzą: Borrini i Garlaschelli (2018) wykazali, że strugi krwi na rękach, dłoniach i plecach wymagają różnych, wzajemnie niezgodnych położeń ciała, więc plamy wyglądają na artystyczne, a nie prawdziwe.",
+   "detail": "Z udziałem żywego ochotnika i za pomocą nowoczesnych metod analizy śladów krwi stwierdzili, że strużki na dłoniach wymagają rąk ustawionych pod kątem około 45°, a strugi na przedramionach rąk niemal pionowych. Struga z rany boku na klatce piersiowej wyglądała realistycznie dla stojącego człowieka, ale „pas” krwi w poprzek dolnej części pleców uznano za „zupełnie nierealistyczny” dla ciała leżącego.",
+   "skeptic": "Prawdziwa krew na prawdziwym ciele spływa zgodnie z grawitacją. Jeśli strugi wskazują na sprzeczne postawy, najprostszym wyjaśnieniem jest artysta, który rozmieścił je dla efektu.",
+   "reply": "Ukrzyżowany człowiek wielokrotnie zmienia położenie, a Bucklin zauważył przy lewym nadgarstku dwie strużki, które już wskazują na ruch. Badanie wykorzystało jednego ochotnika i świeżą krew, a nie skrzepłą krew pośmiertną i surowicę na przenoszonym ciele. Mimo to „pas” na plecach jest prawdziwą zagadką, którą strona powinna przyznać.",
+   "strength": "disputed",
+   "strength_reason": "Recenzowana praca sądowa, ale układ z jednym ochotnikiem nie może uchwycić ruchu ani pośmiertnego spływu krwi.",
+   "sources": [
+    {
+     "label": "Borrini i Garlaschelli 2019, Journal of Forensic Sciences 64:137-143",
+     "url": "https://researchonline.ljmu.ac.uk/id/eprint/8813/",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Bucklin, punkt widzenia z sekcji zwłok",
+     "url": "https://shroud.com/bucklin.htm",
+     "type": "website"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "crucifixion-pathology",
+   "exhibit": 22,
+   "category": "anatomy",
+   "title": "Patolodzy sądowi widzą prawdziwego ukrzyżowanego człowieka",
+   "claim": "Kilku patologów sądowych opisało obraz jako medycznie spójny zapis biczowania, czepca z cierni, niesionej belki, przybicia gwoździami, śmierci i stężenia pośmiertnego, z pośmiertną raną klatki piersiowej.",
+   "detail": "Lekarz sądowy Robert Bucklin opisał co najmniej 100 podwójnych śladów biczowania od barków po łydki, pierścień ran kłutych skóry głowy, opuchnięty prawy policzek, otarcia barków, ranę nadgarstka z dwiema rozchodzącymi się strużkami oraz ranę po prawej stronie klatki piersiowej z krwią i przejrzystym płynem. Frederick Zugibe przeprowadził eksperymenty z zawieszaniem ochotników i stwierdził, że śmierć nastąpiła wskutek wstrząsu urazowego i hipowolemicznego. STURP w 1981 roku uznał, że obraz przedstawia prawdziwą ludzką postać biczowanego, ukrzyżowanego mężczyzny.",
+   "skeptic": "Najczęściej cytowani patolodzy to osoby wierzące lub przychylne, a w podstawowych kwestiach się nie zgadzają (dłoń czy nadgarstek, uduszenie czy wstrząs). Znający się na rzeczy średniowieczny artysta, pracujący na podstawie Ewangelii, mógł umieścić ten sam zestaw ran. Medyczna wiarygodność świadczy o umiejętnościach, a nie o wieku.",
+   "reply": "Ta niezgoda jest prawdziwa i należy ją pokazać. Mocniejszym argumentem nie jest żadna pojedyncza rana, lecz drobne szczegóły spoza Ewangelii, które lepiej pasują do rzymskiej praktyki i prawdziwej fizjologii niż do średniowiecznej konwencji: ślady biczowania w kształcie hantli, rozłożenie ran skóry głowy jak w czepcu, a nie jak w obręczy korony, rana od gwoździa przy nadgarstku i dłonie z czterema palcami.",
+   "strength": "moderate",
+   "strength_reason": "Zgodne odczytania medyczne ekspertów, ale ekspertów przychylnych, którzy różnią się w szczegółach, i nierozstrzygające co do daty.",
+   "sources": [
+    {
+     "label": "Bucklin, 'An Autopsy on the Man of the Shroud'",
+     "url": "https://shroud.com/bucklin.htm",
+     "type": "website"
+    },
+    {
+     "label": "Bucklin, 'Viewpoint of a Forensic Pathologist'",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Zugibe 1995, 'Pierre Barbet Revisited', Sindon N.S. 8",
+     "url": "https://shroud.com/zugibe.htm",
+     "type": "website"
+    },
+    {
+     "label": "Podsumowanie STURP z 1981 roku",
+     "url": "http://www.shroud.com/78conclu.htm",
+     "type": "official"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "nail-wound-and-thumbs",
+   "exhibit": 23,
+   "category": "anatomy",
+   "title": "Rana od gwoździa przy nadgarstku i niewidoczne kciuki",
+   "claim": "Widoczne wyjście gwoździa znajduje się przy nadgarstkowym końcu dłoni, a nie na środku dłoni, jak w większości sztuki średniowiecznej, a na każdej dłoni widać tylko cztery palce.",
+   "detail": "Barbet przekonywał, że gwóźdź przeszedł przez przestrzeń Destota w nadgarstku i przerwał nerw pośrodkowy, co przyciągnęło kciuk do dłoni. Zugibe się z tym nie zgadzał: umieszczał wejście w górnej części dłoni wzdłuż bruzdy kłębu kciuka, z wyjściem przy nadgarstku, i twierdził, że kciuki są po prostu ukryte w położeniu spoczynkowym. Bevilacqua i D'Arienzo (2015) ponownie umieszczają gwóźdź w przestrzeni Destota.",
+   "skeptic": "Eksperci nie potrafią się zgodzić, którędy przeszedł gwóźdź ani dlaczego kciuki są ukryte, co pokazuje, jak wiele odczytuje się z ledwo widocznej plamy. Niektóre przedstawienia średniowieczne i późniejsze również pokazują rany w nadgarstku, a ukryty kciuk to łatwy wybór artystyczny przy skrzyżowanych dłoniach.",
+   "reply": "Co do położenia rany wyjściowej na obrazie panuje zgoda: jest przy nadgarstkowym końcu lewej dłoni. Sceptyk ma rację, że wyjaśnienie anatomiczne jest sporne. Strona powinna podać obserwację i pokazać odczytania obu patologów.",
+   "strength": "moderate",
+   "strength_reason": "Obserwacja jest jasna, ale jej interpretacja jest sporna wśród przychylnych ekspertów.",
+   "sources": [
+    {
+     "label": "Zugibe 1995, 'Pierre Barbet Revisited'",
+     "url": "https://shroud.com/zugibe.htm",
+     "type": "website"
+    },
+    {
+     "label": "Bevilacqua i D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Bucklin, punkt widzenia z sekcji zwłok",
+     "url": "https://shroud.com/bucklin.htm",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "scourge-marks",
+   "exhibit": 24,
+   "category": "anatomy",
+   "title": "Około 100 do 120 śladów biczowania w kształcie hantli",
+   "claim": "Przód i tył noszą ponad 100 drobnych, parzystych śladów odpowiadających obciążonym końcówkom rzymskiego flagrum, rozłożonych wachlarzowato w sposób zgodny z udziałem dwóch biczujących.",
+   "detail": "Bucklin naliczył co najmniej 100 podwójnych śladów od barków po łydki, nieobecnych na przedramionach. Zugibe zauważył, że 40 uderzeń biczem o trzech rzemieniach zostawiłoby około 120 śladów. Odczytywał je jako drobne przerwania skóry z krwią, a nie siniaki.",
+   "skeptic": "Rzymskie biczowanie znano w średniowieczu, a artysta mógł odbijać stemplem lub malować powtarzające się ślady. Liczenie zależy od wzmocnionych zdjęć. Freeman przekonuje, że ślady były kiedyś znacznie lepiej widoczne i namalowane.",
+   "reply": "Ślady są częścią tego samego słabego, powierzchownego obrazu z chemią związaną z krwią, czemu nie odpowiadałby pigment nałożony stemplem. Mimo to liczba i kształt są sugestywne, a nie rozstrzygające.",
+   "strength": "moderate",
+   "strength_reason": "Wyraźny, spójny wzór, ale zgodny także z pracą dobrze poinformowanego artysty.",
+   "sources": [
+    {
+     "label": "Bucklin, 'Viewpoint of a Forensic Pathologist'",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Zugibe, wykład „Turin 2000”",
+     "url": "https://www.crucifixion-shroud.com/Turin2000.htm",
+     "type": "website"
+    },
+    {
+     "label": "Freeman 2014, History Today (podsumowanie)",
+     "url": "https://arthistorynews.com/articles/3065_Turin_Shroud_debunked_again",
+     "type": "news"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "against-anatomical-oddities",
+   "exhibit": 25,
+   "category": "anatomy",
+   "title": "Dziwne proporcje i postawa",
+   "claim": "Sceptycy twierdzą: postać jest niezwykle wysoka, ma małą głowę, wydłużone kończyny, włosy opadające jak u stojącego człowieka i dłonie, które dogodnie zakrywają krocze, co wszystko sugeruje stylizowaną postać artysty.",
+   "detail": "Gregory S. Paul (2010) nazwał postać anatomicznie nieprawdopodobną, „wyjątkowo wysoką”, z „pomniejszoną głową o niskim czole”. Nickell wskazywał na włosy opadające jak u wyprostowanej postaci i puste strefy, których prawdziwy odcisk by nie miał. Polemiści szacują wzrost na podstawie obrazu na około 173 do 177 cm, choć metody się różnią.",
+   "skeptic": "Prawdziwe ciała leżące płasko tak nie wyglądają. Proporcje przypominają sztukę gotycką, a skromne ułożenie dłoni to konwencja dewocyjna.",
+   "reply": "Mierzenie słabego obrazu na płótnie, które okrywało ciało, a nie leżało płasko, jest zawodne, a płótno w ciągu 600 lat skurczyło się i było rozciągane. Włosy mogła podtrzymywać opaska pod brodą albo krew i olejki. Te argumenty działają w obie strony i niewiele dowodzą.",
+   "strength": "disputed",
+   "strength_reason": "Pomiary z okrywającego, zniekształconego płótna są zbyt niepewne, by wspierać mocne wnioski w którąkolwiek stronę.",
+   "sources": [
+    {
+     "label": "Omówienie Gregory S. Paul 2010 (Secular Web)",
+     "url": "https://shroudstory.com/2014/07/26/pseudoscience-again/",
+     "type": "website"
+    },
+    {
+     "label": "Wywiad Donnelly z Nickellem, The Skeptic 1988",
+     "url": "https://www.skeptic.org.uk/?p=48809",
+     "type": "website"
+    },
+    {
+     "label": "Vatican News 2026 (zakres wzrostu podany przez Casabianca et al.)",
+     "url": "https://www.vaticannews.va/en/church/news/2026-02/shroud-turin-medieval-bas-relief-hypothesis-challenged.html",
+     "type": "news"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "textile-herringbone",
+   "exhibit": 26,
+   "category": "textile",
+   "title": "Delikatny splot skośny w jodełkę 3:1",
+   "claim": "Płótno to wysokiej jakości len tkany splotem skośnym w jodełkę 3:1, kosztownym splotem znanym w starożytności.",
+   "detail": "Płótno ma około 4,4 m na 1,1 m, grubość około 0,35 mm, a nici mają około 0,15 mm średnicy. Flury-Lemberg mówi, że jodełka 3:1 oznaczała w starożytności nadzwyczajną jakość.",
+   "skeptic": "Tkaniny skośne w jodełkę tkano także w średniowiecznej Europie. Sama Flury-Lemberg odmówiła datowania płótna na podstawie splotu, mówiąc, że sama analiza tkaniny nie może dać poważnej daty.",
+   "reply": "Słusznie. Splot zgadza się z I wiekiem, ale nie jest na to dowodem.",
+   "strength": "weak",
+   "strength_reason": "Zgodne ze starożytnością, ale nierozstrzygające dla żadnego okresu.",
+   "sources": [
+    {
+     "label": "Wywiad PBS z Mechthild Flury-Lemberg",
+     "url": "https://www.pbs.org/wnet/secrets/shroud-of-christ-interview-with-mechthild-flury-lemberg/7130",
+     "type": "video"
+    },
+    {
+     "label": "Karapanagiotis 2025, Textiles 5(1):8",
+     "url": "https://www.mdpi.com/2673-7248/5/1/8",
+     "type": "peer-reviewed"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "textile-masada-seam",
+   "exhibit": 27,
+   "category": "textile",
+   "title": "Szew jak z Masady",
+   "claim": "Konserwatorka Mechthild Flury-Lemberg znalazła nietypowy szew łączący boczny pas z główną częścią płótna, bardzo podobny do obszycia tkaniny z żydowskiej twierdzy Masada (około 40 r. p.n.e. do 73 r. n.e.).",
+   "detail": "Dokładnie badała płótno podczas restauracji w 2002 roku i oceniła szew jako profesjonalny. Boczny pas jest z tej samej oryginalnej tkaniny. Jest jedną z najbardziej szanowanych konserwatorek tkanin swojego pokolenia.",
+   "skeptic": "Jedna analogia nie datuje tkaniny. Żadne badanie przeglądowe nie wykazało, że tego rodzaju szwu nie stosowano w późniejszych stuleciach. Własna zasada Flury-Lemberg, że analiza splotu nie może datować tkaniny, obowiązuje także tutaj.",
+   "reply": "To uprawniona obserwacja eksperta, która pasuje do starożytnego pochodzenia. Nie jest wyłącznym dowodem i należy ją przedstawiać jako „zgodną z”, nigdy jako „dowodzącą”.",
+   "strength": "weak",
+   "strength_reason": "Jedna analogia eksperta, bez wykazania, że występuje wyłącznie w starożytności.",
+   "sources": [
+    {
+     "label": "Wywiad PBS z Mechthild Flury-Lemberg",
+     "url": "https://www.pbs.org/wnet/secrets/shroud-of-christ-interview-with-mechthild-flury-lemberg/7130",
+     "type": "video"
+    },
+    {
+     "label": "Oficjalny opis restauracji z 2002 roku",
+     "url": "https://sindone.org/en/home-english/the-shroud/the-fire/the-restoration/",
+     "type": "official"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "cotton-traces-raes",
+   "exhibit": 28,
+   "category": "textile",
+   "title": "Ślady bawełny w lnie (Raes 1973)",
+   "claim": "Ekspert od tkanin Gilbert Raes znalazł ślady bawełny w niciach pobranych w 1973 roku, podobno bliskowschodniego gatunku Gossypium herbaceum, co sugerowałoby, że na krośnie tkano wcześniej bawełnę na Bliskim Wschodzie.",
+   "detail": "Raes z instytutu włókienniczego w Gandawie badał nici wycięte 24 listopada 1973 roku w pobliżu późniejszego rogu radiowęglowego. Identyfikację gatunku podaje Ian Wilson. Raes sugerował, że na tym krośnie wcześniej tkano bawełnę.",
+   "skeptic": "Bawełnę uprawiano i tkano w średniowiecznej Hiszpanii i w innych częściach Europy. Sam Wilson nazwał później ten dowód „niejednoznacznym”. Bawełnę znaleziono też w próbce z 1988 roku i może pochodzić z napraw lub dotykania.",
+   "reply": "Nie ma mocnej repliki. Nie wskazuje to ani miejsca, ani czasu.",
+   "strength": "weak",
+   "strength_reason": "Zgodne z wieloma epokami i miejscami.",
+   "sources": [
+    {
+     "label": "Smith, 'Textiles and Spain', Shroud Spectrum International",
+     "url": "https://www.shroud.com/pdfs/ssi3536part5.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Marino i Prior, chronologia z komentarzem",
+     "url": "https://www.shroud.com/pdfs/chronology.pdf",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "against-treadle-loom",
+   "exhibit": 29,
+   "category": "textile",
+   "title": "Splot może wymagać średniowiecznego krosna nożnego",
+   "claim": "Sceptycy twierdzą: tak długi splot skośny w jodełkę 3:1 trudno przygotować na starożytnym krośnie z obciążnikami osnowy, a pasuje on do krosna nożnego, które dotarło do Europy około XIII wieku.",
+   "detail": "Tkaczka eksperymentalna Antoinette Merete Olsen zbadała tę kwestię w EXARC Journal (2020/4) po pytaniu badacza Hugh Fareya. Wikipedia streszcza jej wynik jako sugerujący, że krosno nożne było konieczne.",
+   "skeptic": "Jeśli splot wymaga krosna nożnego, lepiej pasuje do średniowiecznego warsztatu europejskiego niż do Judei z I wieku.",
+   "reply": "Argument dotyczy praktyczności, a nie udowodnionej niemożliwości, i opiera się na jednej eksperymentatorce. Ta kwestia wymaga więcej eksperymentalnych prac tkackich, zanim którakolwiek strona będzie się na niej opierać.",
+   "strength": "disputed",
+   "strength_reason": "Jedno badanie eksperymentalne, którego pełne wnioski nie są szeroko omawiane. Nie udało mi się przeczytać pełnego tekstu.",
+   "sources": [
+    {
+     "label": "Olsen 2020, EXARC Journal 2020/4",
+     "url": "https://doaj.org/article/a1d15cba68e645ff9073fdc8edf22dce",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Wikipedia: Shroud of Turin (sekcja o tkaninie)",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin",
+     "type": "website"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "pollen-frei",
+   "exhibit": 30,
+   "category": "botany",
+   "title": "Pyłki z Bliskiego Wschodu (Frei)",
+   "claim": "Kryminolog Max Frei zidentyfikował na próbkach taśmowych pyłki dziesiątek roślin, wiele z okolic Jerozolimy, w tym Gundelia tournefortii, łączonej z koroną cierniową.",
+   "detail": "Frei pobierał próbki w 1973 i 1978 roku i twierdził, że znalazł około 57 do 58 rodzajów roślin, często z dokładnością do gatunku. Zmarł przed opublikowaniem pełnych danych. Botanik Avinoam Danin powiązał później ten zestaw roślin z okolicą Jerozolimy wiosną.",
+   "skeptic": "Pyłków zwykle nie da się zidentyfikować do gatunku, zwłaszcza mikroskopią optyczną z lat 70. Thomas Litt (2001) ponownie zbadał preparaty i stwierdził, że żadnego nie można przypisać do gatunku. Kluczowe ziarna bardziej przypominają oset (Carduus) niż gundelię. Metoda Freia z dociskaniem taśmy różniła się od metody STURP, jego kolekcja jest w rękach prywatnych, a Danin przekazał później pogląd, że danych pyłkowych nie należy używać w badaniach Całunu.",
+   "reply": "Hugh Farey, badacz skłaniający się ku sceptycyzmowi, wciąż zauważa, że kilka przenoszonych przez wiatr pyłków drzew z Bliskiego Wschodu trudno wyjaśnić. To najwięcej, co strona może powiedzieć.",
+   "strength": "weak",
+   "strength_reason": "Identyfikacji gatunków nigdy nie zweryfikowano, a kluczowe z nich zakwestionował zawodowy palinolog.",
+   "sources": [
+    {
+     "label": "Farey 2014, 'Problems With Pollen', BSTS Newsletter 79",
+     "url": "https://shroud.com/pdfs/n79part8.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Omówienie prac Litta i Danina, 2015",
+     "url": "https://shroudstory.com/2015/09/13/doubting-the-pollen-evidence",
+     "type": "website"
+    },
+    {
+     "label": "Danin, 'Pressed Flowers'",
+     "url": "https://shroud.com/danin.htm",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "flower-images",
+   "exhibit": 31,
+   "category": "botany",
+   "title": "Obrazy kwiatów na płótnie",
+   "claim": "Alan i Mary Whangerowie, później wspierani przez Danina, opisali słabe obrazy kwiatów, takich jak złocień wieńcowy, czystek i parolist, wokół ciała, co wskazywałoby na Jerozolimę wiosną.",
+   "detail": "Obrazy znaleziono na wzmocnionych zdjęciach i porównano z rysunkami we Flora Palaestina. Danin przypisał 27 z 28 gatunków do okolic Jerozolimy.",
+   "skeptic": "Te kształty widać dopiero po silnym wzmocnieniu zdjęć i subiektywnym dopasowaniu, co jest klasycznym przypadkiem pareidolii. Proponowane kwiaty słabo pasowały do listy pyłków Freia: Farey liczy tylko 10 pokryć na 15. Żaden niezależny zespół ich nie potwierdził.",
+   "reply": "Brak takiej, która zadowoliłaby sceptyka.",
+   "strength": "weak",
+   "strength_reason": "Subiektywne, niepowtórzone odczytanie wzmocnionych zdjęć. Strona nie powinna się nim posługiwać.",
+   "sources": [
+    {
+     "label": "Danin, 'Pressed Flowers'",
+     "url": "https://shroud.com/danin.htm",
+     "type": "website"
+    },
+    {
+     "label": "Farey 2014, 'Problems With Pollen'",
+     "url": "https://shroud.com/pdfs/n79part8.pdf",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "coins-and-inscriptions",
+   "exhibit": 32,
+   "category": "image",
+   "title": "Monety na oczach i napisy przy twarzy",
+   "claim": "Niektórzy badacze twierdzą, że słabe litery i lituus nad prawym okiem odpowiadają leptonowi Poncjusza Piłata (około 29-32 n.e.), a inni (Marion i Courage 1997, Frale 2009) opisują litery greckie i łacińskie przy twarzy, które Frale odczytała jako dokument pochówku wymieniający Jezusa Nazarejczyka.",
+   "detail": "Odczytanie monety opiera się na wzmocnieniu zdjęcia obszaru o średnicy kilku milimetrów oraz na literach UCAI, tłumaczonych rzekomym błędem przy biciu monety. Frale ogłosiła swój zrekonstruowany akt zgonu przez prasę, przed recenzją naukową. Oba twierdzenia zależą od wzmocnionych zdjęć, a nie od bezpośredniego badania płótna.",
+   "skeptic": "Historyk Antonio Lombatti nie znalazł dowodów, że Żydzi w I wieku kładli zmarłym monety na oczach, i zauważa, że oczekiwana pisownia grecka używa K, a nie C. Litery widziane w słabych teksturach to podręcznikowy przypadek pareidolii. Fotograf STURP Barrie Schwortz nazwał ogłoszenie Frale nauką przez komunikat prasowy, a John Jackson ostrzegał, że dawny element przypominający linę okazał się znakiem wodnym.",
+   "reply": "Brak takiej, która by się broniła.",
+   "strength": "weak",
+   "strength_reason": "Odczytania poniżej rozdzielczości splotu, niepoświadczony zwyczaj pogrzebowy i odrzucenie przez czołowych badaczy przychylnych autentyczności. Strona nie powinna posługiwać się żadnym z tych twierdzeń.",
+   "sources": [
+    {
+     "label": "Lombatti 1997, 'Doubts Concerning the Coins Over the Eyes'",
+     "url": "https://shroud.com/lombatti.htm",
+     "type": "website"
+    },
+    {
+     "label": "EWTN 2009, Jackson przestrzega przed odczytywaniem napisów",
+     "url": "https://www.ewtnnews.com/vatican/scientist-says-to-be-very-careful-when-interpreting-writing-on-shroud-of-turin",
+     "type": "news"
+    },
+    {
+     "label": "Schwortz, 'Science by Press Release (Again)'",
+     "url": "https://shroudstory.com/2009/11/23/late-breaking-website-news/",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "dirt-travertine-aragonite",
+   "exhibit": 33,
+   "category": "other",
+   "title": "Pył wapienny z Jerozolimy przy stopach",
+   "claim": "Kohlbeck i Nitowski opisali cząstki aragonitu trawertynowego na taśmie z okolicy stóp, odpowiadające wapieniowi z grobowca w Jerozolimie.",
+   "detail": "Dopasowanie oparto na właściwościach optycznych (współczynnik załamania 1,680) oraz na porównaniu mikrosondą jonową, wykonanym przez Leviego-Settiego na kilku cząstkach z jednej taśmy. Autor nazwał to „mocną sugestią”, a nie dowodem.",
+   "skeptic": "Garstka cząstek z jednej taśmy, dopasowana optycznie, nie może wyznaczyć miejsca. Węglany wapnia są powszechne, płótno przez stulecia składano i dotykano, a pracy nie opublikowano w głównym nurcie czasopism naukowych.",
+   "reply": "Mogłoby to sprawdzić bardziej systematyczne badanie izotopów i pierwiastków śladowych.",
+   "strength": "weak",
+   "strength_reason": "Bardzo mała próbka i ograniczona metoda. Sami autorzy nazywają to sugestią.",
+   "sources": [
+    {
+     "label": "Nitowski 1986, Eastern School Shroud Journal",
+     "url": "https://www.shroud.com/pdfs/ESSJ%20Nitowski%201986.pdf",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "dna-traces",
+   "exhibit": 34,
+   "category": "other",
+   "title": "Ślady DNA na płótnie",
+   "claim": "Badania genetyczne pyłu i włókien wykazały ludzkie i roślinne DNA z wielu regionów, w tym z Bliskiego Wschodu i Indii, co zgadza się z długą podróżą.",
+   "detail": "Barcaccia i współpracownicy (2015) znaleźli ślady 19 taksonów roślin i różne ludzkie linie mitochondrialne i stwierdzili, że średniowieczne pochodzenie europejskie nie jest wykluczone. Ich badanie z 2026 roku w Scientific Reports, dotyczące oficjalnych próbek z 1978 roku, wykazało, że dominujące ludzkie DNA w trzech próbkach odpowiada Pierluigiemu Baimie Bollone, który je pobrał. Znaleziono też pszenicę, kukurydzę, orzeszki ziemne, banany, zwierzęta gospodarskie i czerwony koral, a datowanie radiowęglowe dwóch nici dało wyniki zgodne z naprawami z 1534 i 1694 roku.",
+   "skeptic": "Płótno dotykały tysiące ludzi, a przez stulecia było przechowywane, naprawiane i wystawiane. Badanie z 2026 roku pokazuje, że najsilniejszy ludzki sygnał pochodzi od naukowca z XX wieku. Kukurydza i orzeszki ziemne to rośliny z Nowego Świata, które dotarły do Europy po 1492 roku. DNA zapisuje tu dotykanie, a nie pochodzenie.",
+   "reply": "Zgoda. Sami autorzy piszą, że te wyniki nie dotyczą wieku ani autentyczności.",
+   "strength": "weak",
+   "strength_reason": "Zdominowane przez współczesne zanieczyszczenia. Mówi o dotykaniu, a nie o pochodzeniu.",
+   "sources": [
+    {
+     "label": "Barcaccia et al. 2026, Scientific Reports 16:21206",
+     "url": "https://www.nature.com/articles/s41598-026-60684-7",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "ScienceDaily 2026, podsumowanie",
+     "url": "https://www.sciencedaily.com/releases/2026/08/260803080859.htm",
+     "type": "news"
+    },
+    {
+     "label": "IBT przez inkl 2026, zgodność z DNA osoby pobierającej próbki",
+     "url": "https://www.inkl.com/news/turin-shroud-dna-jesus-claim-hits-a-snag-strongest-match-points-to-man-who-collected-samples",
+     "type": "news"
+    },
+    {
+     "label": "Podsumowanie artykułów z 2026 roku (STERA)",
+     "url": "https://www.shroud.com/pdfs/Recently%20published%20papers%20and%20articles%20Summer%202026.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Barcaccia et al. 2015, Scientific Reports 5:14484",
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4593049/",
+     "type": "peer-reviewed"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "sudarium-oviedo",
+   "exhibit": 35,
+   "category": "blood",
+   "title": "Sudarion z Oviedo",
+   "claim": "Zakrwawiona chusta na twarz, przechowywana w Oviedo co najmniej od 1075 roku, ma podobno odpowiadać układowi krwi na twarzy z Całunu, co sugerowałoby, że oba płótna okrywały tego samego człowieka.",
+   "detail": "Sudarion nie ma obrazu, tylko plamy. Komunikat prasowy UCAM z 2017 roku, autorstwa badacza sądowego Alfonsa Sáncheza Hermosilli i współpracowników, głosił, że oba płótna okrywały to samo ciało z pośmiertną raną klatki piersiowej. Najwcześniejszy wyraźny zapis to otwarcie jego skrzyni 14 marca 1075 roku.",
+   "skeptic": "Sudarion był kilkakrotnie datowany radiowęglowo (Arizona 1990, Toronto 1992, Madryt 2007) na okres od VI do IX wieku, głównie około 700 roku n.e. Jego wczesna historia pochodzi od biskupa Pelagiusza, znanego fałszerza. Oznaczenie grupy AB to ta sama niewiarygodna serologia. Twierdzenie o „tej samej osobie” ogłoszono komunikatem prasowym, a pochodzi od badaczy kierujących ośrodkiem rzeczniczym.",
+   "reply": "Jeśli przyjmuje się datowanie radiowęglowe Całunu, Sudarion też nie pochodzi z I wieku. Jeśli się w nie wątpi, nie można używać Sudarionu jako niezależnego wsparcia. Tak czy inaczej wnosi niewiele.",
+   "strength": "weak",
+   "strength_reason": "Jego własne daty radiowęglowe są wczesnośredniowieczne, historia jest późna i niewiarygodna, a twierdzenie o zgodności nie przeszło recenzji.",
+   "sources": [
+    {
+     "label": "Wikipedia: Sudarium of Oviedo",
+     "url": "https://en.wikipedia.org/wiki/Sudarium_of_Oviedo",
+     "type": "website"
+    },
+    {
+     "label": "Komunikat prasowy UCAM, 2017",
+     "url": "https://international.ucam.edu/university-news/scientists-identify-corpse-shrouded-santa-sindone-and-shroud-oviedo",
+     "type": "news"
+    },
+    {
+     "label": "Kearse 2025, o wspólnej grupie krwi AB",
+     "url": "https://link.springer.com/article/10.1007/s12024-024-00915-3",
+     "type": "peer-reviewed"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "pray-codex",
+   "exhibit": 36,
+   "category": "history",
+   "title": "Rysunek z Kodeksu Praya (1192-1195)",
+   "claim": "Węgierski rękopis sprzed 1200 roku przedstawia nagiego Chrystusa ze skrzyżowanymi dłońmi i czterema widocznymi palcami oraz płótno ze wzorem przypominającym jodełkę i czterema małymi kółkami ułożonymi w kształt litery L, jak otwory po przypaleniu na Całunie sprzed 1532 roku.",
+   "detail": "Rysunek znajduje się w Kodeksie Praya, datowanym na podstawie kazania pogrzebowego na lata 1192-1195. Daniel Scavone i inni przekonują, że kółka „doskonale odtwarzają” ułożone w L otwory po przypaleniu, wciąż widoczne na Całunie. Jeśli to prawda, Całun albo jego staranna kopia istniałby około 70 lat przed najwcześniejszą granicą datowania radiowęglowego.",
+   "skeptic": "Rinaldi i Casabianca (2021) przekonują, że „płótno” to prostokątna płyta nagrobna, jak na innych obrazach, kółka to ozdoba występująca też na skrzydle i szatach anioła, a narysowane płótno nie ma obrazu ciała. Podobieństwa wybrano po fakcie.",
+   "reply": "Zbiór zgodności (nagość, skrzyżowane dłonie, brak kciuków, otwory w kształcie L) jest niezwykły jak na jeden obraz. Ale strona musi przedstawiać to jako sporne i zaznaczyć, że wśród krytyków jest autor przychylny autentyczności (Casabianca).",
+   "strength": "disputed",
+   "strength_reason": "Intrygujące analogie, ale istnieje wiarygodne odczytanie niezwiązane z Całunem, a badacze po obu stronach się nie zgadzają.",
+   "sources": [
+    {
+     "label": "Wikipedia: Hungarian Pray Codex",
+     "url": "https://en.wikipedia.org/wiki/Hungarian_Pray_Codex",
+     "type": "website"
+    },
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "edessa-mandylion",
+   "exhibit": 37,
+   "category": "history",
+   "title": "Obraz z Edessy (Mandylion)",
+   "claim": "Ian Wilson zaproponował, że chusta z twarzą czczona w Edessie, a potem w Konstantynopolu, była Całunem złożonym tak, że widać było tylko twarz, co wypełniałoby lukę przed latami 50. XIV wieku.",
+   "detail": "Euzebiusz (początek IV wieku) przytacza list Abgara bez wzmianki o obrazie, a Egeria (384) widziała listy, ale nie obraz. Ewagriusz (około 593) jako pierwszy przypisuje obrazowi ocalenie Edessy w 544 roku. W 944 roku obraz przeniesiono do Konstantynopola. Wilson przytacza tekst z X wieku opisujący odcisk całego ciała.",
+   "skeptic": "Każde źródło opisuje twarz, często malowaną, a nie długie płótno grobowe z ciałem i krwią. Sama legenda rozrastała się przez stulecia. Historycy, tacy jak Andrea Nicolotti, odrzucają to powiązanie. Relikwia uważana za ten sam obraz trafiła w 1241 roku do Ludwika IX i zaginęła podczas rewolucji francuskiej.",
+   "reply": "Hipoteza jest spójna, ale opiera się na nowej interpretacji źródeł. Ma swoje miejsce na stronie jako hipoteza, wyraźnie oznaczona.",
+   "strength": "weak",
+   "strength_reason": "Spekulatywna identyfikacja odrzucana przez większość historyków.",
+   "sources": [
+    {
+     "label": "Wikipedia: Image of Edessa",
+     "url": "https://en.wikipedia.org/wiki/Image_of_Edessa",
+     "type": "website"
+    },
+    {
+     "label": "Nicolotti 2020, The Shroud of Turin (Baylor UP)",
+     "url": "https://www.baylorpress.com/9781481311472/the-shroud-of-turin/",
+     "type": "book"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "robert-de-clari",
+   "exhibit": 38,
+   "category": "history",
+   "title": "Krzyżowiec widział w latach 1203-04 płótno grobowe z postacią",
+   "claim": "Francuski rycerz Robert de Clari napisał, że w kościele w Blachernach w Konstantynopolu całun Pana podnoszono pionowo w każdy piątek, aby można było zobaczyć postać Chrystusa, zanim zaginął podczas złupienia miasta w 1204 roku.",
+   "detail": "De Clari spisał swoją relację po 1204 roku. To jedyny zachodni opis w rodzaju relacji naocznego świadka, mówiący o płótnie z pełną postacią w Konstantynopolu.",
+   "skeptic": "Historycy Madden i Queller uważają, że pomylił je z inną relikwią. Nicolotti zauważa, że nie wspomina o nim żadne inne źródło, a cesarskie spisy relikwii wymieniają zwykłe płótno grobowe bez obrazu. De Clari opisuje też inne mało prawdopodobne cuda.",
+   "reply": "To prawdziwe źródło pierwotne, a jego opis pasuje do Całunu. Ale to pojedyncza, niepotwierdzona relacja.",
+   "strength": "disputed",
+   "strength_reason": "Autentyczne źródło, ale niepotwierdzone, a jego znaczenie jest sporne.",
+   "sources": [
+    {
+     "label": "Wikipedia: Robert de Clari",
+     "url": "https://en.wikipedia.org/wiki/Robert_de_Clari",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "against-no-record-before-1350s",
+   "exhibit": 39,
+   "category": "history",
+   "title": "Brak pewnej historii przed latami 50. XIV wieku",
+   "claim": "Sceptycy twierdzą: nie ma wiarygodnego zapisu o tym płótnie przed Lirey w latach 50. XIV wieku, czyli dokładnie wtedy, gdy według datowania radiowęglowego powstało.",
+   "detail": "Wczesne relacje pielgrzymów (IV wiek) i spisy relikwii z VI wieku wymieniają wiele relikwii z Ziemi Świętej, ale nie całun z postacią. Pierwszy pewny trop zaczyna się od kościoła Geoffroia de Charny w Lirey w 1353 roku i od odznak pielgrzymich z herbami Charny i Vergy. W średniowiecznej Europie krążyło wiele innych „prawdziwych całunów”.",
+   "skeptic": "Relikwia tej wagi powinna zostawić ślady. Jej nagłe pojawienie się w małym francuskim kościele, a zaraz potem skarga biskupa o oszustwo, to wzór, jakiego należy się spodziewać po fałszerstwie.",
+   "reply": "To milczenie jest prawdziwe. Możliwe wcześniejsze ślady (Edessa, Kodeks Praya, de Clari, templariusze) to wszystko hipotezy. Jedyna uczciwa replika brzmi, że relikwia ukryta, złożona lub inaczej nazwana mogła zostawić niejednoznaczny ślad, co jest możliwe, ale nieudowodnione.",
+   "strength": "strong",
+   "strength_reason": "Udokumentowana luka, która pasuje do daty radiowęglowej. Alternatywne trasy są spekulatywne.",
+   "sources": [
+    {
+     "label": "Fragment Nicolottiego przez Shermera 2024",
+     "url": "https://michaelshermer.substack.com/p/the-shroud-of-turin",
+     "type": "book"
+    },
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin",
+     "type": "website"
+    },
+    {
+     "label": "Odznaka pielgrzymia z Lirey, Musée de Cluny",
+     "url": "https://sindonology.org/papers/clunySouvenir.shtml",
+     "type": "website"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "against-darcis-memorandum",
+   "exhibit": 40,
+   "category": "history",
+   "title": "Biskup d'Arcis: „przemyślnie namalowane”, artysta się przyznał",
+   "claim": "Sceptycy twierdzą: w 1389 roku biskup Troyes napisał papieżowi, że wcześniejszy biskup prowadził dochodzenie około 1355 roku i znalazł artystę, który przyznał się do namalowania płótna, a papież pozwolił potem wystawiać je tylko jako „figurę lub przedstawienie”.",
+   "detail": "Pierre d'Arcis napisał do antypapieża Klemensa VII, że dziekan z Lirey dla zysku postarał się o przemyślnie namalowane płótno. Bulle Klemensa z 6 stycznia 1390 roku pozwalały na wystawienia tylko wtedy, gdy ogłaszano je jako malowidło lub przedstawienie, bez świec, kadzidła i straży.",
+   "skeptic": "To niemal współczesne świadectwo miejscowego biskupa, a decyzja papieża traktowała płótno jako przedstawienie. Razem z datowaniem radiowęglowym tworzy to spójną historię.",
+   "reply": "Oba zachowane teksty to niepodpisane, niedatowane brudnopisy. W archiwach watykańskich nie ma wysłanej kopii, a papież nigdy go nie przytoczył. Dochodzenie, o którym wspomina, nie zostawiło żadnego zapisu, a d'Arcis przybył do Troyes w 1373 roku i opierał się na relacjach sprzed 34 lat. STURP nie znalazł farby. To osłabia memorandum, ale go nie obala.",
+   "strength": "moderate",
+   "strength_reason": "Prawdziwe, wczesne, nieprzychylne źródło z odpowiedzią papieża, choć niepotwierdzone w kluczowej sprawie „przyznania się”.",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin",
+     "type": "website"
+    },
+    {
+     "label": "Markwardt, 'The Medieval Hypothesis', BSTS Newsletter 99",
+     "url": "https://www.shroud.com/pdfs/n99part3.pdf",
+     "type": "website"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "against-oresme-2025",
+   "exhibit": 41,
+   "category": "history",
+   "title": "Mikołaj z Oresme nazwał je oszustwem (odkrycie z 2025 roku)",
+   "claim": "Sceptycy twierdzą: tekst teologa Mikołaja z Oresme, napisany między 1355 a 1382 rokiem, przytacza kościół w Szampanii, który twierdził, że ma całun Pana, jako oczywisty przykład fałszowania relikwii przez duchownych.",
+   "detail": "Historyk Nicolas Sarzeaud opublikował to odkrycie w Journal of Medieval History w sierpniu 2025 roku. To najwcześniejsze znane pisemne odrzucenie, prawdopodobnie późniejsze niż 1370 rok i wcześniejsze niż d'Arcis. Oresme nie miał osobistego interesu w tym sporze.",
+   "skeptic": "Wybitny, niezależny uczony tamtej epoki uznał to za oszustwo, co wspiera d'Arcisa.",
+   "reply": "Oresme nie podaje żadnego dochodzenia ani szczegółów. To przykład wspomniany mimochodem w wywodzie o fałszywych cudach, który pokazuje reputację, a nie dowody. Mimo to dodaje drugi niezależny głos z epoki.",
+   "strength": "moderate",
+   "strength_reason": "Niezależne i wczesne, ale krótkie i bez podanych dowodów.",
+   "sources": [
+    {
+     "label": "Classicult 2025 o Sarzeaudzie, Journal of Medieval History",
+     "url": "https://www.classicult.it/en/a-newly-discovered-medieval-document-by-nicole-oresme-is-the-earliest-written-evidence-to-reject-the-shroud-of-turin-as-authentic/",
+     "type": "news"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "against-easter-prop-freeman",
+   "exhibit": 42,
+   "category": "history",
+   "title": "Średniowieczny rekwizyt do misterium wielkanocnego, który wyblakł (Freeman)",
+   "claim": "Sceptycy twierdzą: historyk Charles Freeman mówi, że płótno wykonano jako rekwizyt do średniowiecznych misteriów wielkanocnych i pierwotnie było namalowane znacznie wyraźniej, na co wskazują wczesne opisy i przedstawienia.",
+   "detail": "Freeman (History Today, 2014) przytacza rycinę Tempesty z 1613 roku i opisy z XV i XVI wieku, które pokazują wyraźniejsze ślady krwi i biczowania, a także odznakę z Lirey, przedstawiającą duchownych trzymających płótno nad grobem. Łączy to z obrzędem „Quem quaeritis”.",
+   "skeptic": "To wyjaśnia wygląd płótna, jego nagłe pojawienie się i blaknięcie bez żadnej tajemnicy.",
+   "reply": "Gdyby farba wyblakła, na włóknach obrazu powinny zostać resztki spoiwa pigmentu, a STURP ich nie znalazł. Poza tym dawni artyści rysowali słaby obraz, więc ich kopie naturalnie go wyolbrzymiają. To ciekawa hipoteza historyczna, a nie wykazany fakt.",
+   "strength": "disputed",
+   "strength_reason": "Spójna idea poważnego historyka, ale sprzeczna z fizycznym badaniem włókien obrazu.",
+   "sources": [
+    {
+     "label": "Art History News o Freemanie 2014",
+     "url": "https://arthistorynews.com/articles/3065_Turin_Shroud_debunked_again",
+     "type": "news"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "against-sturp-bias",
+   "exhibit": 43,
+   "category": "other",
+   "title": "STURP był zespołem wierzących",
+   "claim": "Sceptycy twierdzą: większość członków STURP była przychylna autentyczności, a niektórzy liderzy zasiadali w radzie Holy Shroud Guild, więc ich wnioski są stronnicze.",
+   "detail": "Steven Schafersman opisał STURP jako zespół wierzących z jednym wyjątkiem, Walterem McCrone'em. Joe Nickell zwrócił uwagę na powiązania z Guild. W STURP nie było ekspertów od sztuki średniowiecznej, archeologii ani tkanin.",
+   "skeptic": "Zespoły, które chcą uzyskać odpowiedź, zwykle ją znajdują. Brak historyków sztuki i ekspertów od tkanin to prawdziwa luka.",
+   "reply": "Motywy nie obalają danych. Wiele wyników STURP opublikowano w głównych recenzowanych czasopismach (Applied Optics, Analytica Chimica Acta, X-Ray Spectrometry) i można je oceniać pod względem metody. Brak niektórych dziedzin to uczciwa krytyka.",
+   "strength": "weak",
+   "strength_reason": "W dużej mierze argument o motywach. Opublikowane dane trzeba oceniać same w sobie.",
+   "sources": [
+    {
+     "label": "Wikipedia: Shroud of Turin Research Project",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin_Research_Project",
+     "type": "website"
+    },
+    {
+     "label": "Lista opublikowanych artykułów STURP",
+     "url": "http://www.shroud.com/78papers.htm",
+     "type": "website"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "against-gospel-linen-strips",
+   "exhibit": 44,
+   "category": "other",
+   "title": "Ewangelie wspominają lniane pasy i osobną chustę na twarz",
+   "claim": "Sceptycy twierdzą: Ewangelia według św. Jana mówi o ciele owiniętym w lniane płótna lub pasy i o osobnej chuście na głowę, a nie o jednym dużym prześcieradle.",
+   "detail": "J 19,40 i J 20,5-7 opisują lniane płótna (othonia) i osobne soudarion. Ewangelie synoptyczne mówią, że ciało owinięto w lniane sindon (Mk 15,46).",
+   "skeptic": "Jedno długie prześcieradło z obrazem całego ciała trudno dopasować do opisu Jana.",
+   "reply": "Greckie othonia to liczba mnoga, która może oznaczać lniane płótna w ogóle, a synoptycy używają słowa sindon, czyli jednego prześcieradła. Prześcieradło plus opaski i chusta na twarz pasują do wszystkich czterech relacji. Ten argument jest słaby w obu kierunkach.",
+   "strength": "weak",
+   "strength_reason": "Zależy od przekładu greckiego rzeczownika w liczbie mnogiej. Niczego nie rozstrzyga.",
+   "sources": [
+    {
+     "label": "Schwortz 2016, 'Five Reasons Why Some Christians are Shroud Skeptics'",
+     "url": "https://www.shroud.com/pdfs/fivereasons.pdf",
+     "type": "website"
+    }
+   ],
+   "lean": "against"
+  },
+  {
+   "id": "church-position",
+   "exhibit": 45,
+   "category": "other",
+   "title": "Co naprawdę mówi Kościół katolicki",
+   "claim": "Kościół nie uznaje Całunu za autentyczny. Pozwala na jego czczenie jako ikony, a pytanie naukowe zostawia naukowcom.",
+   "detail": "Jan Paweł II powiedział w Turynie 24 maja 1998 roku: „Ponieważ nie jest to kwestia wiary, Kościół nie ma szczególnych kompetencji, by wypowiadać się w tych sprawach”, i powierzył tę sprawę naukowcom. Benedykt XVI i Franciszek nazywali go ikoną. Arcybiskup Nosiglia powiedział w 2013 roku, że co do materiału badanego przez Fantiego nie ma „żadnego stopnia pewności”.",
+   "skeptic": "Sama ostrożność Kościoła pokazuje, że dowody nie są rozstrzygające.",
+   "reply": "Zgoda. Strona powinna dokładnie cytować stanowisko Kościoła i nie sugerować oficjalnego poparcia.",
+   "strength": "strong",
+   "strength_reason": "Udokumentowane oficjalne wypowiedzi.",
+   "sources": [
+    {
+     "label": "Jan Paweł II, przemówienie w katedrze turyńskiej, 24 maja 1998",
+     "url": "https://www.vatican.va/content/john-paul-ii/en/travels/1998/documents/hf_jp-ii_spe_24051998_sindone.html",
+     "type": "official"
+    },
+    {
+     "label": "Vatican News 2020, list papieża Franciszka",
+     "url": "https://vaticannews.va/en/pope/news/2020-04/pope-expresses-gratitude-for-exposition-of-the-shroud-of-turin.html",
+     "type": "official"
+    },
+    {
+     "label": "Wikipedia: Shroud of Turin (stanowisko Kościoła)",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin",
+     "type": "website"
+    }
+   ],
+   "lean": "neutral"
+  }
+ ]
+}

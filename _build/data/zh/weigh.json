@@ -1,0 +1,87 @@
+{
+ "prior": {
+  "neutral": -3,
+  "skeptic": -5,
+  "believer": -1
+ },
+ "items": [
+  {
+   "id": "c14",
+   "label": "1988年碳定年：公元1260年至1390年",
+   "skeptic": -3,
+   "believer": -0.5
+  },
+  {
+   "id": "c14-flaws",
+   "label": "1988年的各项结果彼此吻合得不好",
+   "skeptic": 0,
+   "believer": 0.5
+  },
+  {
+   "id": "history",
+   "label": "约1354年之前没有关于这块布的可靠记载",
+   "skeptic": -1,
+   "believer": -0.3
+  },
+  {
+   "id": "darcis",
+   "label": "一位主教（1389年）和一位学者（Oresme）称它是伪造品",
+   "skeptic": -0.7,
+   "believer": -0.2
+  },
+  {
+   "id": "no-paint",
+   "label": "构成图像的不是颜料或黏合剂",
+   "skeptic": 0.3,
+   "believer": 1
+  },
+  {
+   "id": "thin",
+   "label": "颜色只附着在最外层的纤维上",
+   "skeptic": 0.3,
+   "believer": 1
+  },
+  {
+   "id": "negative",
+   "label": "图像的表现就像一张照相底片",
+   "skeptic": 0,
+   "believer": 0.7
+  },
+  {
+   "id": "three-d",
+   "label": "图像的深浅记录了距离，就像一张3D地图",
+   "skeptic": 0.2,
+   "believer": 0.8
+  },
+  {
+   "id": "blood",
+   "label": "检测为血迹的污渍，似乎先于图像留在布上",
+   "skeptic": 0.2,
+   "believer": 0.7
+  },
+  {
+   "id": "wounds",
+   "label": "伤痕符合罗马式钉十字架，钉子穿过手腕",
+   "skeptic": 0.3,
+   "believer": 1
+  },
+  {
+   "id": "unreproduced",
+   "label": "至今没有人复制出图像的全部特征",
+   "skeptic": 0.5,
+   "believer": 1.2
+  },
+  {
+   "id": "pray",
+   "label": "约1192年普雷抄本中的图画",
+   "skeptic": 0,
+   "believer": 0.5
+  },
+  {
+   "id": "pollen-coins",
+   "label": "花粉、眼上的钱币、花朵图像（评为薄弱或已被推翻）",
+   "skeptic": 0,
+   "believer": 0
+  }
+ ]
+}

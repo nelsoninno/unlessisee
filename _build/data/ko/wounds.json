@@ -1,0 +1,348 @@
+{
+ "items": [
+  {
+   "id": "crown-of-thorns-forehead",
+   "name": "이마의 찔린 상처에서 흐른 피",
+   "body_region": "이마와 앞머리 두피",
+   "side": "front",
+   "x": 0.485,
+   "y": 0.11,
+   "description": "찔린 지점들에서 여러 줄기의 피가 이마를 따라 흘러내립니다. 그중 한 줄기는 숫자 3 모양(흔히 엡실론이라 부름)인데, 버클린은 이를 피가 피부 주름을 따라 흐른 결과로 설명합니다.",
+   "gospel": "요한복음 19:2",
+   "verse": "군병들이 가시로 면류관을 엮어 그의 머리에 씌우고 자색 옷을 입히고",
+   "skeptic": "가시 면류관은 어떤 화가라도 넣었을 복음서의 세부입니다. 개별 핏줄기의 모양은 사진을 보고 읽어 낸 것입니다.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    }
+   ]
+  },
+  {
+   "id": "face-injuries",
+   "name": "얼굴 부상",
+   "body_region": "오른쪽 뺨, 오른쪽 눈, 코",
+   "side": "front",
+   "x": 0.47,
+   "y": 0.145,
+   "description": "버클린은 오른쪽 뺨의 부기, 반쯤 감긴 오른쪽 눈, 약간 휜 코, 코끝의 찰과상을 보고합니다. 반면 베빌라쿠아와 다리엔초는 오른쪽 눈이 신경 손상으로 움푹 꺼졌다고 묘사합니다.",
+   "gospel": "마태복음 27:30",
+   "verse": "그에게 침 뱉고 갈대를 빼앗아 그의 머리를 치더라",
+   "skeptic": "얼굴의 세부는 희미하고 보정한 이미지에서 읽어 낸 것입니다. 오른쪽 눈에 대해서는 병리학자들끼리도 이미 의견이 다릅니다.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Bevilacqua·D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    }
+   ]
+  },
+  {
+   "id": "nose-dirt-fall",
+   "name": "코의 긁힌 자국과 흙",
+   "body_region": "코",
+   "side": "front",
+   "x": 0.515,
+   "y": 0.16,
+   "description": "버클린은 코 부위의 긁힌 자국과 흙을 묘사하는데, 넘어지면서 얼굴이 땅에 부딪힌 것과 들어맞습니다. 처형장으로 가는 길에 넘어졌다는 이야기는 전승이지 복음서의 내용이 아닙니다.",
+   "gospel": null,
+   "verse": null,
+   "skeptic": "발표된 유일한 광물 연구(콜벡과 니토프스키, 1986)는 코가 아니라 발 부분에서 채취한 테이프에서 석회암 입자를 보고했습니다. 코의 흙은 분석으로 독립적으로 확인된 적이 없습니다.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Nitowski 1986",
+     "url": "https://www.shroud.com/pdfs/ESSJ%20Nitowski%201986.pdf"
+    }
+   ]
+  },
+  {
+   "id": "right-shoulder-dislocation",
+   "name": "처진 오른쪽 어깨",
+   "body_region": "오른쪽 어깨와 팔",
+   "side": "front",
+   "x": 0.62,
+   "y": 0.21,
+   "description": "베빌라쿠아와 다리엔초는 오른쪽 어깨가 약 15도 처져 있다고 보고하고, 이를 오른쪽 위팔뼈의 탈구로 해석합니다. 아마 가로대를 지고 가다 넘어져서 생겼을 것이라고 봅니다.",
+   "gospel": null,
+   "verse": null,
+   "skeptic": "한 연구진만의 해석으로, 학술대회 발표 논문집과 영향력이 낮은 학술지에 실렸습니다. 다른 병리학자들은 이를 묘사하지 않습니다.",
+   "sources": [
+    {
+     "label": "Bevilacqua·D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    },
+    {
+     "label": "Bevilacqua, Fanti, D'Arienzo 2017, Open Journal of Trauma",
+     "url": "https://oalib-perpustakaan.upi.edu/Record/peertech__10_17352_ojt_000009/Description"
+    }
+   ]
+  },
+  {
+   "id": "wrist-nail-wound",
+   "name": "손목의 못 상처",
+   "body_region": "왼손 등의 손목 쪽 끝 (오른손은 가려져 있음)",
+   "side": "front",
+   "x": 0.445,
+   "y": 0.47,
+   "description": "왼손 등의 혈흔은 손목 쪽에 있고, 거기서 약 10도 차이가 나는 두 줄기의 피가 흘러나옵니다. 버클린은 팔이 약 65도 들려 있었고 남자가 자세를 바꾸었다고 계산합니다. 바르베는 못의 위치를 손목의 데스토 공간으로 보았고, 주기브는 못이 손바닥 윗부분으로 들어가 손목으로 나왔다고 주장합니다.",
+   "gospel": "요한복음 20:25",
+   "verse": "내가 그 손의 못자국을 보며 내 손가락을 그 못자국에 넣으며 내 손을 그 옆구리에 넣어 보지 않고는 믿지 아니하겠노라",
+   "skeptic": "대표적인 병리학자들도 못이 지나간 경로에 대해 의견이 다릅니다. 상처의 위치는 대부분의 중세 미술과 다르지만, 손목에 못을 그린 미술 작품이 없는 것은 아닙니다.",
+   "sources": [
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    },
+    {
+     "label": "Zugibe 1995, Pierre Barbet Revisited",
+     "url": "https://shroud.com/zugibe.htm"
+    }
+   ]
+  },
+  {
+   "id": "missing-thumbs",
+   "name": "보이지 않는 엄지",
+   "body_region": "두 손",
+   "side": "front",
+   "x": 0.5,
+   "y": 0.495,
+   "description": "각 손에 손가락이 넷만 보입니다. 바르베와 버클린은 신경 손상으로 엄지가 손바닥 안으로 당겨졌기 때문이라고 설명하고, 주기브는 엄지가 그냥 집게손가락 앞에 놓여 천에 닿지 않았다고 말합니다.",
+   "gospel": null,
+   "verse": null,
+   "skeptic": "서로 양립할 수 없는 두 가지 의학적 설명이 있습니다. 교차된 손을 그리는 화가라도 엄지를 감출 수 있었을 것입니다.",
+   "sources": [
+    {
+     "label": "Zugibe 1995, Pierre Barbet Revisited",
+     "url": "https://shroud.com/zugibe.htm"
+    },
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    }
+   ]
+  },
+  {
+   "id": "forearm-blood-flows",
+   "name": "아래팔을 따라 흐른 피",
+   "body_region": "두 아래팔",
+   "side": "front",
+   "x": 0.66,
+   "y": 0.43,
+   "description": "피가 손목에서 아래팔을 따라 팔꿈치 쪽으로 흐릅니다. 피를 흘리는 동안 팔이 머리 위로 들려 있었다면 예상되는 모습입니다.",
+   "gospel": "요한복음 19:18",
+   "verse": "저희가 거기서 예수를 십자가에 못 박을새 다른 두 사람도 그와 함께 좌우편에 못 박으니 예수는 가운데 있더라",
+   "skeptic": "보리니와 가를라스켈리(2018)는 아래팔의 핏줄기는 팔이 거의 수직이어야 하고 손의 핏줄기는 팔이 약 45도여야 한다는 것을 발견했고, 이를 서로 맞지 않는 예술적 표현으로 해석했습니다.",
+   "sources": [
+    {
+     "label": "Borrini·Garlaschelli, J. Forensic Sciences",
+     "url": "https://researchonline.ljmu.ac.uk/id/eprint/8813/"
+    },
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    }
+   ]
+  },
+  {
+   "id": "side-wound",
+   "name": "피와 맑은 액체가 나온 옆구리 상처",
+   "body_region": "가슴 오른쪽, 다섯째에서 여섯째 갈비뼈 부근",
+   "side": "front",
+   "x": 0.64,
+   "y": 0.334,
+   "description": "가장 큰 혈흔은 오른쪽 가슴에 있고, 그 위쪽 가장자리에 타원형 피부 상처가 있습니다. 버클린은 맑은 물 같은 액체가 섞인 피를 보고, 심부전으로 생긴 흉막액일 수 있다고 봅니다. 베빌라쿠아와 다리엔초는 상처가 여섯째 갈비뼈 사이 공간에 있고 폭이 약 4.5 cm라고 봅니다.",
+   "gospel": "요한복음 19:34",
+   "verse": "그 중 한 군병이 창으로 옆구리를 찌르니 곧 피와 물이 나오더라",
+   "skeptic": "'물'은 얼룩 속의 더 밝은 부분을 해석한 것입니다. 오른쪽 옆구리의 창 상처는 중세 미술에서도 표준적인 위치입니다.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Bevilacqua·D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    }
+   ]
+  },
+  {
+   "id": "scourge-marks-front",
+   "name": "채찍 자국 (앞면)",
+   "body_region": "가슴과 다리 앞쪽",
+   "side": "front",
+   "x": 0.42,
+   "y": 0.66,
+   "description": "비슷한 짝 자국이 가슴과 다리 앞쪽에도 나타나며, 등 쪽에서 감아 돌아온 모양입니다. 버클린은 위팔과 아래팔에는 이 자국이 없다고 지적합니다.",
+   "gospel": "요한복음 19:1",
+   "verse": "이에 빌라도가 예수를 데려다가 채찍질하더라",
+   "skeptic": "등의 자국과 같은 주의 사항이 적용됩니다.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "knee-abrasions",
+   "name": "무릎의 찰과상",
+   "body_region": "무릎, 특히 왼쪽",
+   "side": "front",
+   "x": 0.45,
+   "y": 0.73,
+   "description": "대중적인 설명에서는 거듭 넘어져서 생긴 무릎의 부기와 긁힌 상처를 묘사합니다. 버클린은 왼쪽 무릎이 약간 굽어 있다는 점만 언급합니다.",
+   "gospel": null,
+   "verse": null,
+   "skeptic": "근거가 약합니다. 버클린도, 베빌라쿠아와 다리엔초도 이를 묘사하지 않으며, 넘어졌다는 이야기는 전승이지 복음서의 내용이 아닙니다. 확립된 사실로 제시해서는 안 됩니다.",
+   "sources": [
+    {
+     "label": "Graves 2021, National Catholic Register",
+     "url": "https://www.ncregister.com/commentaries/clues-on-the-shroud-of-turin-tell-us-what-christ-endured-on-good-friday"
+    },
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "rigor-mortis-posture",
+   "name": "사후 경직 자세",
+   "body_region": "온몸: 머리, 다리, 발",
+   "side": "front",
+   "x": 0.47,
+   "y": 0.83,
+   "description": "버클린은 전체적인 뻣뻣함을 사후 경직으로 해석하며, 왼쪽 무릎이 약간 굽어 있고 다리 자세가 죽은 뒤에도 유지되었다고 봅니다. 베빌라쿠아와 다리엔초는 머리가 앞으로 숙여지고 돌아가 있다고 묘사하고, 경직된 몸은 완전히 펼 수 없었을 것이라고 주장합니다.",
+   "gospel": "요한복음 19:30",
+   "verse": "예수께서 신 포도주를 받으신 후 가라사대 ‘다 이루었다!’ 하시고 머리를 숙이시고 영혼이 돌아가시니라",
+   "skeptic": "경직은 희미한 형상 속 자세에서 추론한 것입니다. 조각가나 화가도 인물에게 이런 자세를 취하게 할 수 있습니다.",
+   "sources": [
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    },
+    {
+     "label": "Bevilacqua·D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    }
+   ]
+  },
+  {
+   "id": "crown-of-thorns-back-of-head",
+   "name": "뒤통수의 찔린 상처",
+   "body_region": "두피의 뒤쪽과 정수리",
+   "side": "back",
+   "x": 0.5,
+   "y": 0.035,
+   "description": "한 줄로 늘어선 혈흔이 두피 뒤쪽을 둘러싸고, 정수리 높은 곳에도 자국이 더 있습니다. 버클린은 이것이 대부분의 유럽 미술에 나오는 좁은 고리가 아니라, 머리 전체를 덮은 가시 모자와 들어맞는다고 주장합니다.",
+   "gospel": "요한복음 19:2",
+   "verse": "군병들이 가시로 면류관을 엮어 그의 머리에 씌우고 자색 옷을 입히고",
+   "skeptic": "모자인지 고리인지에 대한 논증은 희미한 얼룩의 분포에 기대고 있으며, 후대 미술 가운데에도 머리의 상처를 심하게 그린 작품이 있습니다.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "shoulder-abrasions",
+   "name": "어깨뼈 부위의 찰과상",
+   "body_region": "등 윗부분, 양쪽 어깨뼈 위",
+   "side": "back",
+   "x": 0.62,
+   "y": 0.12,
+   "description": "어깨뼈 위의 넓게 변색된 두 부분은 무겁고 거친 물체에 쓸린 찰과상처럼 보입니다. 병리학자들은 이를 가로대를 지고 간 자국으로 해석합니다.",
+   "gospel": "요한복음 19:17",
+   "verse": "저희가 예수를 맡으매 예수께서 자기의 십자가를 지시고 해골 (히브리 말로 골고다)이라 하는 곳에 나오시니",
+   "skeptic": "이 부분들은 희미하고, 그 해석은 기대하는 바에 좌우됩니다. 마가, 마태, 누가는 구레네 사람 시몬이 길의 일부 구간에서 십자가를 졌다고 말합니다(누가복음 23:26).",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    }
+   ]
+  },
+  {
+   "id": "scourge-marks-back",
+   "name": "채찍 자국 (뒷면)",
+   "body_region": "어깨, 등, 엉덩이, 다리 뒤쪽",
+   "side": "back",
+   "x": 0.45,
+   "y": 0.22,
+   "description": "작은 짝 자국 또는 아령 모양 자국 100개 이상이 어깨에서 종아리까지 퍼져 있습니다. 버클린은 이를 두 갈래로 갈라진 자국이라 부르며 세기 어렵다고 말합니다. 주기브는 세 가닥 채찍으로 40대를 때리면 약 120개의 자국이 남을 것이라고 지적합니다. 이 자국들은 멍이 아니라 피가 난 작은 피부 찢김으로 보입니다.",
+   "gospel": "요한복음 19:1",
+   "verse": "이에 빌라도가 예수를 데려다가 채찍질하더라",
+   "skeptic": "개수는 보정한 사진에서 센 것이며 저자마다 다릅니다. 지식을 갖춘 중세 화가라면 로마식 채찍질의 패턴을 재현할 수 있었을 것입니다. 프리먼은 이 자국들이 한때 더 선명하게 그려져 있었다고 주장합니다.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Zugibe, 토리노 2000 강연",
+     "url": "https://www.crucifixion-shroud.com/Turin2000.htm"
+    },
+    {
+     "label": "Freeman 2014 (요약)",
+     "url": "https://arthistorynews.com/articles/3065_Turin_Shroud_debunked_again"
+    }
+   ]
+  },
+  {
+   "id": "lower-back-blood-belt",
+   "name": "허리를 가로지르는 피",
+   "body_region": "허리, 등의 잘록한 부분",
+   "side": "back",
+   "x": 0.5,
+   "y": 0.345,
+   "description": "피의 띠 하나가 허리를 가로지릅니다. 보통은 시신을 옮겨 눕힐 때 옆구리 상처에서 흘러나온 피와 액체로 설명합니다.",
+   "gospel": "요한복음 19:34",
+   "verse": "그 중 한 군병이 창으로 옆구리를 찌르니 곧 피와 물이 나오더라",
+   "skeptic": "보리니와 가를라스켈리는 누운 시신의 옆구리 상처에서 죽은 뒤 흘러나온 것으로 보기에는 이 띠가 '전혀 비현실적'이라고 판단했습니다.",
+   "sources": [
+    {
+     "label": "Borrini·Garlaschelli, J. Forensic Sciences",
+     "url": "https://researchonline.ljmu.ac.uk/id/eprint/8813/"
+    }
+   ]
+  },
+  {
+   "id": "feet-wound",
+   "name": "발의 못 상처",
+   "body_region": "발바닥, 주로 오른발",
+   "side": "back",
+   "x": 0.48,
+   "y": 0.88,
+   "description": "뒷면 형상에서 오른발 발바닥 한가운데 근처에 뚜렷한 찔린 자국이 보이고, 왼발은 덜 뚜렷합니다. 베빌라쿠아와 다리엔초는 못이 발목뼈를 관통했다고 봅니다.",
+   "gospel": "누가복음 24:39",
+   "verse": "내 손과 발을 보고 나인줄 알라 또 나를 만져보라 영은 살과 뼈가 없으되 너희 보는 바와 같이 나는 있느니라",
+   "skeptic": "왼발은 불분명하며, 못을 하나 썼는지 둘 썼는지는 논쟁 중입니다.",
+   "sources": [
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    },
+    {
+     "label": "Bevilacqua·D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    }
+   ]
+  }
+ ]
+}

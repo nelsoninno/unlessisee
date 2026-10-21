@@ -1,0 +1,87 @@
+{
+ "prior": {
+  "neutral": -3,
+  "skeptic": -5,
+  "believer": -1
+ },
+ "items": [
+  {
+   "id": "c14",
+   "label": "Datowanie radiowęglowe z 1988 roku: 1260 do 1390 n.e.",
+   "skeptic": -3,
+   "believer": -0.5
+  },
+  {
+   "id": "c14-flaws",
+   "label": "Wyniki z 1988 roku słabo się ze sobą zgadzają",
+   "skeptic": 0,
+   "believer": 0.5
+  },
+  {
+   "id": "history",
+   "label": "Brak pewnego zapisu o płótnie przed około 1354 rokiem",
+   "skeptic": -1,
+   "believer": -0.3
+  },
+  {
+   "id": "darcis",
+   "label": "Biskup (1389) i uczony (Oresme) nazwali je fałszerstwem",
+   "skeptic": -0.7,
+   "believer": -0.2
+  },
+  {
+   "id": "no-paint",
+   "label": "Obrazu nie tworzy farba ani spoiwo",
+   "skeptic": 0.3,
+   "believer": 1
+  },
+  {
+   "id": "thin",
+   "label": "Barwa jest tylko na najbardziej zewnętrznych włóknach",
+   "skeptic": 0.3,
+   "believer": 1
+  },
+  {
+   "id": "negative",
+   "label": "Obraz zachowuje się jak negatyw fotograficzny",
+   "skeptic": 0,
+   "believer": 0.7
+  },
+  {
+   "id": "three-d",
+   "label": "Ciemność obrazu koduje odległość, jak mapa 3D",
+   "skeptic": 0.2,
+   "believer": 0.8
+  },
+  {
+   "id": "blood",
+   "label": "Plamy, które w testach okazują się krwią, najwyraźniej na płótnie przed obrazem",
+   "skeptic": 0.2,
+   "believer": 0.7
+  },
+  {
+   "id": "wounds",
+   "label": "Rany odpowiadają rzymskiemu ukrzyżowaniu, gwoździe w nadgarstkach",
+   "skeptic": 0.3,
+   "believer": 1
+  },
+  {
+   "id": "unreproduced",
+   "label": "Nikt nie odtworzył wszystkich cech obrazu",
+   "skeptic": 0.5,
+   "believer": 1.2
+  },
+  {
+   "id": "pray",
+   "label": "Rysunek w Kodeksie Praya z około 1192 roku",
+   "skeptic": 0,
+   "believer": 0.5
+  },
+  {
+   "id": "pollen-coins",
+   "label": "Pyłki, monety na oczach, obrazy kwiatów (ocenione jako słabe lub obalone)",
+   "skeptic": 0,
+   "believer": 0
+  }
+ ]
+}

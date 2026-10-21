@@ -1,0 +1,40 @@
+{
+ "credits": [
+  {
+   "what": "Linge entier (explorateur, figure du pliage, vues du corps)",
+   "author": "Photographie de Giuseppe Enrie, 1931. Édition numérique en pied de Rudolf Berwanger. Reteintée et recadrée par Si je ne vois",
+   "license": "CC BY-SA 4.0 (nos images dérivées sont partagées sous la même licence)",
+   "source": "https://commons.wikimedia.org/wiki/File:Turiner_Grabtuch_in_voller_L%C3%A4nge,_kolorierte_Aufnahme_von_Giuseppe_Enrie_1931.jpg"
+  },
+  {
+   "what": "Gros plan du visage (accueil, comparaison en négatif, image de partage)",
+   "author": "Photographie de Giuseppe Enrie, 1931",
+   "license": "Domaine public (selon Wikimedia Commons)",
+   "source": "https://commons.wikimedia.org/wiki/File:Grabtuch_Enrie_HiRes.jpg"
+  },
+  {
+   "what": "Visage utilisé pour le relief 3D",
+   "author": "Photographie de Giuseppe Enrie, 1931. Édition haute résolution de Rudolf Berwanger",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Turiner_Grabtuch,_Negativ-Positiv,_in_hoher_Aufl%C3%B6sung.jpg"
+  },
+  {
+   "what": "Visage peint utilisé pour la comparaison en 3D",
+   "author": "Tête du Christ, The Metropolitan Museum of Art",
+   "license": "Domaine public (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Head_of_Christ_MET_DP145916.jpg"
+  },
+  {
+   "what": "Icône du Christ Pantocrator du Sinaï, VIe siècle",
+   "author": "Artiste inconnu, monastère Sainte-Catherine, Sinaï",
+   "license": "Domaine public",
+   "source": "https://commons.wikimedia.org/wiki/File:Spas_vsederzhitel_sinay.jpg"
+  },
+  {
+   "what": "Texte biblique",
+   "author": "World English Bible (anglais), Reina-Valera 1909 (espagnol) et Louis Segond 1910 (français)",
+   "license": "Domaine public",
+   "source": "https://ebible.org/"
+  }
+ ]
+}

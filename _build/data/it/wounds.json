@@ -1,0 +1,348 @@
+{
+ "items": [
+  {
+   "id": "crown-of-thorns-forehead",
+   "name": "Colature da punture sulla fronte",
+   "body_region": "Fronte e parte anteriore del cuoio capelluto",
+   "side": "front",
+   "x": 0.485,
+   "y": 0.11,
+   "description": "Diverse colature di sangue scendono sulla fronte da punti di puntura. Una colatura ha la forma del numero 3 (spesso chiamata epsilon), che Bucklin spiega come sangue che segue le pieghe della pelle.",
+   "gospel": "Giovanni 19,2",
+   "verse": "E i soldati, intrecciata una corona di spine, gliela posero sul capo, e gli misero addosso un manto di porpora;",
+   "skeptic": "Una corona di spine è un dettaglio dei Vangeli che qualsiasi artista includerebbe. Le forme delle singole colature sono lette su fotografie.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    }
+   ]
+  },
+  {
+   "id": "face-injuries",
+   "name": "Lesioni al volto",
+   "body_region": "Guancia destra, occhio destro, naso",
+   "side": "front",
+   "x": 0.47,
+   "y": 0.145,
+   "description": "Bucklin riferisce un gonfiore sulla guancia destra, una parziale chiusura dell'occhio destro, una leggera deviazione del naso e un'abrasione sulla punta del naso. Bevilacqua e D'Arienzo descrivono invece l'occhio destro come infossato per una lesione nervosa.",
+   "gospel": "Matteo 27,30",
+   "verse": "E sputatogli addosso, presero la canna, e gli percotevano il capo.",
+   "skeptic": "I dettagli del volto sono deboli e letti su immagini elaborate; i medici legali sono già in disaccordo sull'occhio destro.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Bevilacqua e D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    }
+   ]
+  },
+  {
+   "id": "nose-dirt-fall",
+   "name": "Graffi e terra sul naso",
+   "body_region": "Naso",
+   "side": "front",
+   "x": 0.515,
+   "y": 0.16,
+   "description": "Bucklin descrive graffi e terra nella zona del naso, compatibili con il volto che urta il suolo in una caduta. Le cadute lungo la via dell'esecuzione appartengono alla tradizione, non ai Vangeli.",
+   "gospel": null,
+   "verse": null,
+   "skeptic": "L'unico studio mineralogico pubblicato (Kohlbeck e Nitowski 1986) riferisce particelle di calcare da un nastro adesivo prelevato ai piedi, non al naso. La terra sul naso non è stata confermata da analisi indipendenti.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Nitowski 1986",
+     "url": "https://www.shroud.com/pdfs/ESSJ%20Nitowski%201986.pdf"
+    }
+   ]
+  },
+  {
+   "id": "right-shoulder-dislocation",
+   "name": "Spalla destra abbassata",
+   "body_region": "Spalla e braccio destro",
+   "side": "front",
+   "x": 0.62,
+   "y": 0.21,
+   "description": "Bevilacqua e D'Arienzo riferiscono che la spalla destra è abbassata di circa 15 gradi e la interpretano come una lussazione dell'omero destro, forse per una caduta mentre portava la trave.",
+   "gospel": null,
+   "verse": null,
+   "skeptic": "È la lettura di un solo gruppo, pubblicata in atti di convegno e in una rivista di basso impatto; altri medici legali non la descrivono.",
+   "sources": [
+    {
+     "label": "Bevilacqua e D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    },
+    {
+     "label": "Bevilacqua, Fanti, D'Arienzo 2017, Open Journal of Trauma",
+     "url": "https://oalib-perpustakaan.upi.edu/Record/peertech__10_17352_ojt_000009/Description"
+    }
+   ]
+  },
+  {
+   "id": "wrist-nail-wound",
+   "name": "Ferita del chiodo al polso",
+   "body_region": "Dorso della mano sinistra, verso il polso (la destra è coperta)",
+   "side": "front",
+   "x": 0.445,
+   "y": 0.47,
+   "description": "Una macchia di sangue sul dorso della mano sinistra si trova verso il polso, e da essa partono due rivoli a circa 10 gradi l'uno dall'altro. Bucklin calcola che le braccia fossero alzate di circa 65 gradi e che l'uomo abbia cambiato posizione. Barbet collocò il chiodo nello spazio di Destot, nel polso; Zugibe sostiene che entrò nella parte alta del palmo e uscì al polso.",
+   "gospel": "Giovanni 20,25",
+   "verse": "Se io non vedo nelle sue mani il segno de’ chiodi, e se non metto il mio dito nel segno de’ chiodi, e se non metto la mia mano nel suo costato, io non crederò.",
+   "skeptic": "I principali medici legali non concordano sul percorso del chiodo. La posizione della ferita è diversa da quella della maggior parte dell'arte medievale, ma il chiodo al polso non è sconosciuto nell'arte.",
+   "sources": [
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    },
+    {
+     "label": "Zugibe 1995, Pierre Barbet Revisited",
+     "url": "https://shroud.com/zugibe.htm"
+    }
+   ]
+  },
+  {
+   "id": "missing-thumbs",
+   "name": "Pollici non visibili",
+   "body_region": "Entrambe le mani",
+   "side": "front",
+   "x": 0.5,
+   "y": 0.495,
+   "description": "Ogni mano mostra solo quattro dita. Barbet e Bucklin lo spiegano con una lesione nervosa che ha ripiegato i pollici nel palmo; Zugibe dice che i pollici sono semplicemente appoggiati davanti agli indici e non hanno toccato il telo.",
+   "gospel": null,
+   "verse": null,
+   "skeptic": "Esistono due spiegazioni mediche incompatibili. Anche un artista che dipinge mani incrociate potrebbe nascondere i pollici.",
+   "sources": [
+    {
+     "label": "Zugibe 1995, Pierre Barbet Revisited",
+     "url": "https://shroud.com/zugibe.htm"
+    },
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    }
+   ]
+  },
+  {
+   "id": "forearm-blood-flows",
+   "name": "Colature di sangue lungo gli avambracci",
+   "body_region": "Entrambi gli avambracci",
+   "side": "front",
+   "x": 0.66,
+   "y": 0.43,
+   "description": "Rivoli di sangue scendono dai polsi lungo gli avambracci verso i gomiti, come ci si aspetta se le braccia erano alzate sopra la testa mentre sanguinavano.",
+   "gospel": "Giovanni 19,18",
+   "verse": "dove lo crocifissero, assieme a due altri, uno di qua, l’altro di là, e Gesù nel mezzo.",
+   "skeptic": "Borrini e Garlaschelli (2018) hanno trovato che le colature sugli avambracci richiedono braccia quasi verticali, mentre i rivoli sulla mano richiedono braccia a circa 45 gradi, e lo interpretano come un'incoerenza di origine artistica.",
+   "sources": [
+    {
+     "label": "Borrini e Garlaschelli, J. Forensic Sciences",
+     "url": "https://researchonline.ljmu.ac.uk/id/eprint/8813/"
+    },
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    }
+   ]
+  },
+  {
+   "id": "side-wound",
+   "name": "Ferita al costato con sangue e liquido chiaro",
+   "body_region": "Lato destro del torace, all'altezza della 5ª o 6ª costola",
+   "side": "front",
+   "x": 0.64,
+   "y": 0.334,
+   "description": "La macchia di sangue più grande si trova sul lato destro del torace, con una ferita ovale della pelle al bordo superiore. Bucklin vede sangue con un liquido chiaro e acquoso e ipotizza un versamento pleurico dovuto a insufficienza cardiaca; Bevilacqua e D'Arienzo collocano la ferita nel 6º spazio intercostale, larga circa 4,5 cm.",
+   "gospel": "Giovanni 19,34",
+   "verse": "ma uno de’ soldati gli forò il costato con una lancia, e subito ne uscì sangue ed acqua.",
+   "skeptic": "L'«acqua» è un'interpretazione delle zone più chiare della macchia. Una ferita di lancia sul lato destro è anche la posizione abituale nell'arte medievale.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Bevilacqua e D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    }
+   ]
+  },
+  {
+   "id": "scourge-marks-front",
+   "name": "Segni del flagello (fronte)",
+   "body_region": "Torace e parte anteriore delle gambe",
+   "side": "front",
+   "x": 0.42,
+   "y": 0.66,
+   "description": "Segni appaiati simili compaiono sul torace e sulla parte anteriore delle gambe, girando attorno dalla schiena. Bucklin nota che sono assenti su braccia e avambracci.",
+   "gospel": "Giovanni 19,1",
+   "verse": "Allora dunque Pilato prese Gesù e lo fece flagellare.",
+   "skeptic": "Valgono le stesse riserve dei segni sulla schiena.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "knee-abrasions",
+   "name": "Abrasioni alle ginocchia",
+   "body_region": "Ginocchia, soprattutto la sinistra",
+   "side": "front",
+   "x": 0.45,
+   "y": 0.73,
+   "description": "I resoconti divulgativi descrivono gonfiori e graffi sulle ginocchia dovuti a cadute ripetute. Bucklin nota soltanto che il ginocchio sinistro è leggermente piegato.",
+   "gospel": null,
+   "verse": null,
+   "skeptic": "Poco documentato: non è descritto né da Bucklin né da Bevilacqua e D'Arienzo, e le cadute appartengono alla tradizione, non ai Vangeli. Non va presentato come un dato acquisito.",
+   "sources": [
+    {
+     "label": "Graves 2021, National Catholic Register",
+     "url": "https://www.ncregister.com/commentaries/clues-on-the-shroud-of-turin-tell-us-what-christ-endured-on-good-friday"
+    },
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "rigor-mortis-posture",
+   "name": "Postura da rigor mortis",
+   "body_region": "Tutto il corpo: testa, gambe, piedi",
+   "side": "front",
+   "x": 0.47,
+   "y": 0.83,
+   "description": "Bucklin interpreta la rigidità generale come rigor mortis, con il ginocchio sinistro leggermente piegato e la posizione delle gambe mantenuta dopo la morte. Bevilacqua e D'Arienzo descrivono la testa piegata in avanti e girata, e sostengono che un corpo in rigor non si potesse distendere del tutto.",
+   "gospel": "Giovanni 19,30",
+   "verse": "E quando Gesù ebbe preso l’aceto, disse: E’ compiuto! E chinato il capo, rese lo spirito.",
+   "skeptic": "Il rigor è dedotto dalla postura su un'immagine debole; anche uno scultore o un artista potrebbe mettere una figura in questa posa.",
+   "sources": [
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    },
+    {
+     "label": "Bevilacqua e D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    }
+   ]
+  },
+  {
+   "id": "crown-of-thorns-back-of-head",
+   "name": "Ferite da puntura sulla nuca",
+   "body_region": "Parte posteriore e sommità del cuoio capelluto",
+   "side": "back",
+   "x": 0.5,
+   "y": 0.035,
+   "description": "Una fila di macchie di sangue gira attorno alla parte posteriore del cuoio capelluto, con altri segni in alto sulla sommità del capo. Bucklin sostiene che ciò si adatta a un casco di spine che copriva tutta la testa, più che allo stretto anello mostrato nella maggior parte dell'arte europea.",
+   "gospel": "Giovanni 19,2",
+   "verse": "E i soldati, intrecciata una corona di spine, gliela posero sul capo, e gli misero addosso un manto di porpora;",
+   "skeptic": "L'argomento del casco contro l'anello si basa sulla distribuzione di macchie deboli, e anche una parte dell'arte successiva mostra pesanti ferite al capo.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "shoulder-abrasions",
+   "name": "Abrasioni sulle scapole",
+   "body_region": "Parte alta della schiena, su entrambe le scapole",
+   "side": "back",
+   "x": 0.62,
+   "y": 0.12,
+   "description": "Due ampie zone scolorite sulle scapole sembrano abrasioni causate da un oggetto pesante e ruvido. I medici legali le interpretano come segni del trasporto della trave orizzontale.",
+   "gospel": "Giovanni 19,17",
+   "verse": "Presero dunque Gesù; ed egli, portando la sua croce, venne al luogo del Teschio, che in ebraico si chiama Golgota,",
+   "skeptic": "Le zone sono deboli e la loro lettura dipende dalle aspettative. Marco, Matteo e Luca dicono che Simone di Cirene portò la croce per una parte del cammino (Luca 23,26).",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    }
+   ]
+  },
+  {
+   "id": "scourge-marks-back",
+   "name": "Segni del flagello (schiena)",
+   "body_region": "Spalle, schiena, glutei e parte posteriore delle gambe",
+   "side": "back",
+   "x": 0.45,
+   "y": 0.22,
+   "description": "Più di 100 piccoli segni appaiati, a forma di manubrio, si distribuiscono dalle spalle fino ai polpacci. Bucklin li definisce bifidi e difficili da contare; Zugibe osserva che una frusta a tre cinghie che desse 40 colpi lascerebbe circa 120 segni. Appaiono come piccole lacerazioni della pelle con sangue, non come lividi.",
+   "gospel": "Giovanni 19,1",
+   "verse": "Allora dunque Pilato prese Gesù e lo fece flagellare.",
+   "skeptic": "I conteggi vengono da fotografie elaborate e variano a seconda dell'autore. Un artista medievale informato potrebbe riprodurre lo schema di una flagellazione romana; Freeman sostiene che un tempo i segni erano dipinti in modo più vivido.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Zugibe, conferenza Turin 2000",
+     "url": "https://www.crucifixion-shroud.com/Turin2000.htm"
+    },
+    {
+     "label": "Freeman 2014 (sintesi)",
+     "url": "https://arthistorynews.com/articles/3065_Turin_Shroud_debunked_again"
+    }
+   ]
+  },
+  {
+   "id": "lower-back-blood-belt",
+   "name": "Sangue attraverso la parte bassa della schiena",
+   "body_region": "Parte bassa della schiena, zona lombare",
+   "side": "back",
+   "x": 0.5,
+   "y": 0.345,
+   "description": "Una fascia di sangue attraversa la parte bassa della schiena. Di solito la si spiega come sangue e liquido colati dalla ferita al costato quando il corpo fu spostato e deposto.",
+   "gospel": "Giovanni 19,34",
+   "verse": "ma uno de’ soldati gli forò il costato con una lancia, e subito ne uscì sangue ed acqua.",
+   "skeptic": "Borrini e Garlaschelli hanno giudicato questa fascia «del tutto irrealistica» per una colatura post mortem dalla ferita al costato su un corpo disteso.",
+   "sources": [
+    {
+     "label": "Borrini e Garlaschelli, J. Forensic Sciences",
+     "url": "https://researchonline.ljmu.ac.uk/id/eprint/8813/"
+    }
+   ]
+  },
+  {
+   "id": "feet-wound",
+   "name": "Ferita del chiodo nei piedi",
+   "body_region": "Piante dei piedi, soprattutto il piede destro",
+   "side": "back",
+   "x": 0.48,
+   "y": 0.88,
+   "description": "L'immagine dorsale mostra il piede destro con un chiaro segno di puntura vicino al centro della pianta, e un piede sinistro meno distinto. Bevilacqua e D'Arienzo fanno passare il chiodo attraverso le ossa del tarso.",
+   "gospel": "Luca 24,39",
+   "verse": "Guardate le mie mani ed i miei piedi, perché son ben io; palpatemi e guardate; perché uno spirito non ha carne e ossa come vedete che ho io.",
+   "skeptic": "Il piede sinistro non è chiaro, e si discute se siano stati usati uno o due chiodi.",
+   "sources": [
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    },
+    {
+     "label": "Bevilacqua e D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    }
+   ]
+  }
+ ]
+}

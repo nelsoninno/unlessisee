@@ -26,5 +26,7 @@ This session's GitHub proxy cannot push to the repo, so pushes go through Nelson
 ## Status (21 Oct 2026)
 - Pages (EN and ES): home, explore, case file + calculator, wounds, carbon dating, how it formed, timeline (with route map and icon overlay), videos checked, library (2,400+ items), what now, about.
 - Fact-check pass applied to English (report in the build session); Spanish synced.
-- In progress: pt, fr, it, de, pl, tl, zh, ko, ar, hi translations (each is content/LANG.mjs + data/LANG/). Add a language to `_build/config.json` only when its files are complete.
+- Live languages: en, es, pt, fr, de, pl, zh (tag zh-Hans), ko, hi. In progress: it, tl, ar (RTL). Each language is content/LANG.mjs + data/LANG/; add it to `_build/config.json` only when its files are complete.
+- Bible versions: en WEB (PD), es RV1909 (PD), pt Bíblia Livre (CC BY 4.0), fr Louis Segond 1910 (PD), de Lutherbibel 1912 (PD), pl Uwspółcześniona Biblia Gdańska (CC BY-ND 4.0, quoted verbatim), zh 新标点和合本 (listed PD by ebible; confirm), ko 개역한글 via ebible 'kor' (listed PD; confirm), hi IRV 2019 (CC BY-SA 4.0).
+- The header nav collapses into the Menu button whenever a language's labels do not fit (main.js measures it).
 - Pending: Cloudflare Pages + unlessisee.org, permission replies for STURP and 2002/2008 photos, Nelson's story page.

@@ -1,0 +1,1141 @@
+{
+ "meta": {
+  "note": "La storia documentata di questo telo inizia a Lirey negli anni Cinquanta del Trecento. Tutto ciò che viene prima è un oggetto documentato distinto (Mandylion, Sudario) il cui legame con questo telo è un'ipotesi, oppure una leggenda. Gli anni avanti Cristo sono negativi solo dove serve un anno numerico; qui tutti gli eventi sono dopo Cristo."
+ },
+ "events": [
+  {
+   "id": "crucifixion-burial",
+   "year": 30,
+   "date_label": "30 o 33 d.C. circa",
+   "title": "Crocifissione e sepoltura di Gesù",
+   "text": "I Vangeli dicono che Giuseppe d'Arimatea avvolse il corpo in un telo di lino (sindon) e lo depose in una tomba scavata nella roccia. Giovanni parla di teli di lino e di un telo separato per il volto. Qualsiasi legame con questa Sindone è un'ipotesi.",
+   "certainty": "hypothesized",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Schwortz 2016 (discussione delle obiezioni basate sui Vangeli)",
+     "url": "https://www.shroud.com/pdfs/fivereasons.pdf"
+    }
+   ]
+  },
+  {
+   "id": "abgar-legend",
+   "year": 325,
+   "date_label": "inizio del IV secolo",
+   "title": "Eusebio riporta le lettere di Abgar, senza immagine",
+   "text": "Eusebio conserva una lettera tra il re Abgar di Edessa e Gesù. Non si parla di alcuna immagine. L'immagine entra nella leggenda più tardi.",
+   "certainty": "legendary",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Wikipedia: Image of Edessa",
+     "url": "https://en.wikipedia.org/wiki/Image_of_Edessa"
+    }
+   ]
+  },
+  {
+   "id": "egeria-edessa",
+   "year": 384,
+   "date_label": "384",
+   "title": "La pellegrina Egeria vede lettere, non un'immagine",
+   "text": "Egeria visita Edessa e parla delle lettere di Abgar, ma di nessuna immagine di Cristo.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Wikipedia: Image of Edessa",
+     "url": "https://en.wikipedia.org/wiki/Image_of_Edessa"
+    }
+   ]
+  },
+  {
+   "id": "evagrius-image",
+   "year": 593,
+   "date_label": "593 circa",
+   "title": "Prima menzione di un'immagine di Edessa",
+   "text": "Evagrio Scolastico attribuisce a un'immagine miracolosa la salvezza di Edessa durante l'assedio persiano del 544. Ian Wilson propose in seguito che questa immagine del volto fosse la Sindone, piegata in modo che si vedesse solo il volto.",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Image of Edessa",
+     "url": "https://en.wikipedia.org/wiki/Image_of_Edessa"
+    }
+   ]
+  },
+  {
+   "id": "sudarium-legend",
+   "year": 614,
+   "date_label": "614",
+   "title": "Il Sudario avrebbe lasciato Gerusalemme",
+   "text": "Secondo la leggenda il telo per il volto oggi a Oviedo lasciò Gerusalemme prima dell'invasione persiana. Il racconto è riportato secoli dopo dal vescovo Pelagio, noto come falsario.",
+   "certainty": "legendary",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Wikipedia: Sudarium of Oviedo",
+     "url": "https://en.wikipedia.org/wiki/Sudarium_of_Oviedo"
+    }
+   ]
+  },
+  {
+   "id": "mandylion-constantinople",
+   "year": 944,
+   "date_label": "944",
+   "title": "Il Mandylion viene portato a Costantinopoli",
+   "text": "L'Immagine di Edessa viene portata a Costantinopoli e collocata nella cappella del Faro. Il trasferimento è documentato; che si trattasse di questa Sindone è un'ipotesi respinta dalla maggior parte degli storici.",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Image of Edessa",
+     "url": "https://en.wikipedia.org/wiki/Image_of_Edessa"
+    }
+   ]
+  },
+  {
+   "id": "sudarium-1075",
+   "year": 1075,
+   "date_label": "14 marzo 1075",
+   "title": "Aperto a Oviedo lo scrigno del Sudario",
+   "text": "Alfonso VI, sua sorella e il Cid aprono lo scrigno che contiene il Sudario. È la prima testimonianza esplicita di quel telo.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Wikipedia: Sudarium of Oviedo",
+     "url": "https://en.wikipedia.org/wiki/Sudarium_of_Oviedo"
+    }
+   ]
+  },
+  {
+   "id": "pray-codex",
+   "year": 1192,
+   "date_label": "1192-1195",
+   "title": "Il disegno del Codice Pray",
+   "text": "Un manoscritto ungherese mostra la sepoltura di Cristo con le mani incrociate, senza pollici, e un telo con cerchi disposti a L come gli antichi fori di bruciatura della Sindone. I critici interpretano l'oggetto come una lastra tombale decorata.",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Hungarian Pray Codex",
+     "url": "https://en.wikipedia.org/wiki/Hungarian_Pray_Codex"
+    }
+   ]
+  },
+  {
+   "id": "de-clari",
+   "year": 1203,
+   "date_label": "1203-1204",
+   "title": "La sindone con la figura di Robert de Clari",
+   "text": "Un crociato francese scrive che una sindone con la figura del Signore veniva sollevata ogni venerdì alle Blacherne, a Costantinopoli. Nessun'altra fonte lo conferma.",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Robert de Clari",
+     "url": "https://en.wikipedia.org/wiki/Robert_de_Clari"
+    }
+   ]
+  },
+  {
+   "id": "sack-constantinople",
+   "year": 1204,
+   "date_label": "1204",
+   "title": "Il sacco di Costantinopoli",
+   "text": "I crociati saccheggiano le reliquie della città. Alcuni storici ipotizzano che un telo funerario sia scomparso allora e sia poi arrivato in Francia. È un'ipotesi.",
+   "certainty": "hypothesized",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "templar-testimony",
+   "year": 1287,
+   "date_label": "1287",
+   "title": "Un templare novizio bacia un'immagine su lino",
+   "text": "Arnaut Sabbatier testimoniò che durante la sua iniziazione templare gli fu mostrato un lungo telo di lino con l'immagine di un uomo barbuto. Nel 2009 Barbara Frale propose che fosse la Sindone.",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "The Register 2009 su Frale",
+     "url": "https://www.theregister.com/offbeat/2009/04/06/vatican-researcher-claims-templars-worshipped-turin-shroud/968021"
+    }
+   ]
+  },
+  {
+   "id": "lirey-founding",
+   "year": 1353,
+   "date_label": "20 giugno 1353",
+   "title": "Fondata la chiesa di Lirey",
+   "text": "Il cavaliere Geoffroi de Charny fonda una chiesa collegiata a Lirey, in Champagne. Il sito ufficiale di Torino indica questo momento come l'inizio delle prime testimonianze certe.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Arcidiocesi di Torino: profilo storico",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    },
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "lirey-exhibitions",
+   "year": 1355,
+   "date_label": "1355 circa",
+   "title": "Prime ostensioni a Lirey",
+   "text": "Il canonico Robert de Caillac comincia a esporre il telo a Lirey. Le insegne di pellegrinaggio con gli stemmi dei Charny e dei Vergy, una delle quali è oggi al Musée de Cluny, mostrano le immagini frontale e dorsale di un corpo.",
+   "certainty": "probable",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+    },
+    {
+     "label": "A Souvenir from Lirey (insegna di Cluny)",
+     "url": "https://sindonology.org/papers/clunySouvenir.shtml"
+    }
+   ]
+  },
+  {
+   "id": "charny-death",
+   "year": 1356,
+   "date_label": "1356",
+   "title": "Geoffroi de Charny muore a Poitiers",
+   "text": "Il fondatore di Lirey viene ucciso nella battaglia di Poitiers. Non lasciò mai un resoconto scritto di come avesse ottenuto il telo.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "oresme",
+   "year": 1370,
+   "date_label": "1355-1382 (probabilmente dopo il 1370)",
+   "title": "Oresme definisce falsa una sindone della Champagne",
+   "text": "Il teologo Nicole Oresme cita una chiesa della Champagne che afferma di avere la sindone del Signore come un chiaro caso di frode del clero. Il passo è stato individuato da Nicolas Sarzeaud nel 2025.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Classicult 2025 su Sarzeaud",
+     "url": "https://www.classicult.it/en/a-newly-discovered-medieval-document-by-nicole-oresme-is-the-earliest-written-evidence-to-reject-the-shroud-of-turin-as-authentic/"
+    }
+   ]
+  },
+  {
+   "id": "darcis",
+   "year": 1389,
+   "date_label": "1389",
+   "title": "Il memoriale del vescovo d'Arcis",
+   "text": "Il vescovo di Troyes scrive all'antipapa Clemente VII che il telo è dipinto con astuzia e che un artista lo confessò a un vescovo precedente. I testi superstiti sono minute non firmate.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    },
+    {
+     "label": "Markwardt, BSTS Newsletter 99",
+     "url": "https://www.shroud.com/pdfs/n99part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "clement-bull",
+   "year": 1390,
+   "date_label": "6 gennaio 1390",
+   "title": "Clemente VII permette di esporla come «rappresentazione»",
+   "text": "L'antipapa permette le ostensioni solo se il telo viene annunciato come figura o rappresentazione, senza candele, incenso né guardia d'onore.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "margaret-removes",
+   "year": 1418,
+   "date_label": "1418",
+   "title": "Portata via da Lirey",
+   "text": "Durante la guerra dei Cent'anni, Marguerite de Charny porta via il telo da Lirey per custodirlo. I canonici in seguito le fanno causa per riaverlo.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Arcidiocesi di Torino: profilo storico",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    }
+   ]
+  },
+  {
+   "id": "savoy",
+   "year": 1453,
+   "date_label": "1453",
+   "title": "Passa ai Savoia",
+   "text": "Marguerite de Charny cede il telo al duca Ludovico di Savoia. Resta proprietà dei Savoia fino al 1983.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Arcidiocesi di Torino: profilo storico",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    }
+   ]
+  },
+  {
+   "id": "julius-ii",
+   "year": 1506,
+   "date_label": "1506",
+   "title": "Giulio II approva una festa",
+   "text": "Papa Giulio II approva per i Savoia una festa liturgica della Santa Sindone il 4 maggio, trattandola come una reliquia.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Arcidiocesi di Torino: profilo storico",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    }
+   ]
+  },
+  {
+   "id": "chambery-fire",
+   "year": 1532,
+   "date_label": "4 dicembre 1532",
+   "title": "L'incendio di Chambéry",
+   "text": "Un incendio nella Sainte-Chapelle di Chambéry fonde parte del reliquiario d'argento. Il metallo fuso brucia il telo piegato e lascia uno schema simmetrico di fori e bruciature.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Arcidiocesi di Torino: profilo storico",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    },
+    {
+     "label": "Wikipedia: Conservation-restoration of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "poor-clares",
+   "year": 1534,
+   "date_label": "1534",
+   "title": "Le clarisse rattoppano i fori",
+   "text": "Le suore cuciono toppe sui fori delle bruciature e aggiungono un telo di supporto in tela d'Olanda.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Conservation-restoration of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "calvin",
+   "year": 1543,
+   "date_label": "1543",
+   "title": "Calvino la attacca",
+   "text": "Il Trattato delle reliquie di Giovanni Calvino deride come falsa la sindone esposta a Nizza.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "to-turin",
+   "year": 1578,
+   "date_label": "14 settembre 1578",
+   "title": "Trasferita a Torino",
+   "text": "Il duca Emanuele Filiberto porta il telo a Torino, in occasione di un pellegrinaggio di Carlo Borromeo. Da allora è rimasto a Torino, a parte gli spostamenti in tempo di guerra.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Arcidiocesi di Torino: profilo storico",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    }
+   ]
+  },
+  {
+   "id": "guarini-1694",
+   "year": 1694,
+   "date_label": "1694",
+   "title": "La cappella del Guarini e i restauri del Valfrè",
+   "text": "Il telo viene collocato nella cappella di Guarino Guarini, dove resta fino al 1993. Sebastiano Valfrè lo rinforza.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "clotilde-1868",
+   "year": 1868,
+   "date_label": "1868",
+   "title": "La principessa Clotilde lo restaura",
+   "text": "Clotilde di Savoia restaura il telo. Viene esposto dal 24 al 27 aprile 1868 per le nozze del futuro Umberto I.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Conservation-restoration of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "pia-1898",
+   "year": 1898,
+   "date_label": "28 maggio 1898",
+   "title": "Il negativo di Secondo Pia",
+   "text": "Il fotografo dilettante Secondo Pia scopre che la sua lastra negativa mostra una figura umana chiara, dall'aspetto positivo. Qui comincia l'interesse scientifico moderno.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Wikipedia: Secondo Pia",
+     "url": "https://en.wikipedia.org/wiki/Secondo_Pia"
+    }
+   ]
+  },
+  {
+   "id": "vignon-1902",
+   "year": 1902,
+   "date_label": "1902",
+   "title": "Vignon studia la geometria dell'immagine",
+   "text": "Paul Vignon studia come un telo posato su un corpo deformerebbe un'immagine e nota che l'immagine sembra una proiezione ortogonale, un punto sollevato di nuovo da Moraes nel 2025.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Vatican News 2026",
+     "url": "https://www.vaticannews.va/en/church/news/2026-02/shroud-turin-medieval-bas-relief-hypothesis-challenged.html"
+    },
+    {
+     "label": "Catholic World Report 2025 (dichiarazione del CISS)",
+     "url": "https://www.catholicworldreport.com/2025/08/05/shroud-of-turin-center-disputes-new-study-that-challenges-authenticity-of-burial-cloth/"
+    }
+   ]
+  },
+  {
+   "id": "enrie-1931",
+   "year": 1931,
+   "date_label": "1931",
+   "title": "Le fotografie di Enrie",
+   "text": "Il fotografo professionista Giuseppe Enrie conferma il risultato di Pia con lastre più nitide. Le immagini di Enrie sono state usate nei successivi lavori in 3D e nelle modellazioni del 2025.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Wikipedia: Secondo Pia",
+     "url": "https://en.wikipedia.org/wiki/Secondo_Pia"
+    }
+   ]
+  },
+  {
+   "id": "commission-1969",
+   "year": 1969,
+   "date_label": "1969",
+   "title": "La prima commissione scientifica",
+   "text": "L'arcivescovo di Torino nomina una commissione, inizialmente riservata, per esaminare lo stato di conservazione del telo.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "tv-1973",
+   "year": 1973,
+   "date_label": "23 novembre 1973",
+   "title": "Prima ostensione televisiva e primi campioni",
+   "text": "Il telo viene mostrato in diretta televisiva. Vengono tagliati fili per lo studio, tra cui quelli esaminati da Gilbert Raes, e Max Frei preleva campioni su nastro adesivo per i pollini.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Arcidiocesi di Torino: ostensione del 1973",
+     "url": "https://sindone.org/en/home-english/expositions/1973-2/"
+    },
+    {
+     "label": "Smith su Raes, Shroud Spectrum",
+     "url": "https://www.shroud.com/pdfs/ssi3536part5.pdf"
+    },
+    {
+     "label": "Farey 2014 sui pollini di Frei",
+     "url": "https://shroud.com/pdfs/n79part8.pdf"
+    }
+   ]
+  },
+  {
+   "id": "vp8-1976",
+   "year": 1976,
+   "date_label": "1976",
+   "title": "L'analizzatore VP-8 mostra informazioni 3D",
+   "text": "Usando un VP-8 Image Analyzer ai Sandia Laboratories, John Jackson ed Eric Jumper scoprono che una foto di Enrie dà un rilievo coerente. Da qui nasce lo STURP.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Pagina di STERA sul VP-8",
+     "url": "https://shroud.com/78strp10.htm"
+    }
+   ]
+  },
+  {
+   "id": "sturp-1978",
+   "year": 1978,
+   "date_label": "dal 26 agosto a ottobre 1978",
+   "title": "Ostensione pubblica ed esame dello STURP",
+   "text": "Circa 3 milioni di persone vedono il telo. Dopo, la squadra dello STURP lo studia per cinque giorni senza interruzione, raccogliendo foto, spettri, dati di fluorescenza a raggi X e campioni su nastro adesivo.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Wikipedia: Shroud of Turin Research Project",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin_Research_Project"
+    }
+   ]
+  },
+  {
+   "id": "mccrone-1980",
+   "year": 1980,
+   "date_label": "1979-1990",
+   "title": "McCrone dice che è pittura",
+   "text": "Walter McCrone riferisce ocra rossa e vermiglione in un legante di collagene sui nastri del 1978 e conclude che si tratta di un dipinto del XIV secolo. Lascia lo STURP nel 1980 e pubblica la sua tesi su Accounts of Chemical Research nel 1990.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "McCrone Research Institute",
+     "url": "https://mccroneinstitute.org/research/shroud-of-turin-research-at-mccrone"
+    },
+    {
+     "label": "Wikipedia: Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+    },
+    {
+     "label": "McCrone 1990 (archiviato)",
+     "url": "https://web.archive.org/web/20230131030206/http://www.mccroneinstitute.org/uploads/the_microscope__shroud_small-1422560933.pdf"
+    }
+   ]
+  },
+  {
+   "id": "sturp-papers-1980",
+   "year": 1980,
+   "date_label": "1980",
+   "title": "Gli articoli dello STURP su Applied Optics",
+   "text": "Lo STURP pubblica risultati spettrali, all'infrarosso, all'ultravioletto e sul sangue, tra cui «Blood on the Shroud of Turin» di Heller e Adler.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Articoli pubblicati dallo STURP",
+     "url": "http://www.shroud.com/78papers.htm"
+    },
+    {
+     "label": "Heller e Adler 1980",
+     "url": "https://www.shroud.com/pdfs/ssi43part2.pdf"
+    }
+   ]
+  },
+  {
+   "id": "sturp-1981",
+   "year": 1981,
+   "date_label": "1981",
+   "title": "La sintesi finale dello STURP",
+   "text": "Lo STURP conclude che l'immagine non è pittura né opera di un artista, che le macchie contengono emoglobina e che il modo in cui l'immagine si è formata resta un mistero. Heller e Adler pubblicano il loro studio chimico.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Sintesi delle conclusioni dello STURP",
+     "url": "http://www.shroud.com/78conclu.htm"
+    },
+    {
+     "label": "Heller e Adler 1981",
+     "url": "https://www.shroud.com/pdfs/ssi43part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "holy-see-1983",
+   "year": 1983,
+   "date_label": "1983",
+   "title": "Donata alla Santa Sede",
+   "text": "La proprietà passa dai Savoia alla Santa Sede. Un custode pontificio, l'arcivescovo di Torino, se ne prende cura.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "jackson-1984",
+   "year": 1984,
+   "date_label": "1984",
+   "title": "L'articolo sull'intensità dell'immagine e la distanza",
+   "text": "Jackson, Jumper ed Ercoline pubblicano su Applied Optics che le sfumature dell'immagine sono correlate alla distanza tra telo e corpo (r al quadrato 0,60 su 13 punti).",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Jackson et al. 1984",
+     "url": "https://shroud.com/pdfs/Correlation%20of%20Image%20Intensity%20Jackson%20Jumper%20Ercoline%201984%20OCRsm.pdf"
+    }
+   ]
+  },
+  {
+   "id": "sampling-1988",
+   "year": 1988,
+   "date_label": "21 aprile 1988",
+   "title": "Tagliato il campione per il radiocarbonio",
+   "text": "Nella sacrestia del Duomo, Giovanni Riggi taglia una striscia da un angolo. I pezzi vanno ad Arizona, Oxford e Zurigo, con tre tessuti di controllo. Una parte viene tenuta di riserva.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Damon et al. 1989",
+     "url": "https://shroud.com/nature.htm"
+    },
+    {
+     "label": "Wikipedia: Radiocarbon dating",
+     "url": "https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "nature-1989",
+   "year": 1989,
+   "date_label": "febbraio 1989",
+   "title": "Nature pubblica 1260-1390 d.C.",
+   "text": "Damon e i colleghi dei tre laboratori riportano un intervallo al 95% di 1260-1390 d.C. e lo definiscono una prova conclusiva di una data medievale. Il cardinale Ballestrero aveva annunciato l'intervallo ufficiale a nome della Chiesa.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Damon et al. 1989, Nature 337:611",
+     "url": "https://doi.org/10.1038/337611a0"
+    }
+   ]
+  },
+  {
+   "id": "sudarium-c14",
+   "year": 1990,
+   "date_label": "1990, 1992, 2007",
+   "title": "Il Sudario di Oviedo datato al radiocarbonio",
+   "text": "Arizona, Toronto e Madrid datano il Sudario tra il VI e il IX secolo, molto probabilmente intorno al 700 d.C.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Wikipedia: Sudarium of Oviedo",
+     "url": "https://en.wikipedia.org/wiki/Sudarium_of_Oviedo"
+    }
+   ]
+  },
+  {
+   "id": "fire-1997",
+   "year": 1997,
+   "date_label": "11 aprile 1997",
+   "title": "L'incendio del Duomo",
+   "text": "Scoppia un incendio nella cappella del Guarini. Il vigile del fuoco Mario Trematore spacca la teca antiproiettile con una mazza e il telo viene portato fuori intatto.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Conservation-restoration of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "jpii-1998",
+   "year": 1998,
+   "date_label": "24 maggio 1998",
+   "title": "Giovanni Paolo II: non è materia di fede",
+   "text": "A Torino il papa dice che la Chiesa non ha competenza specifica per pronunciarsi sull'autenticità e affida la questione agli scienziati, definendo la Sindone uno specchio del Vangelo.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Vaticano: discorso di Giovanni Paolo II, 24 maggio 1998",
+     "url": "https://www.vatican.va/content/john-paul-ii/en/travels/1998/documents/hf_jp-ii_spe_24051998_sindone.html"
+    }
+   ]
+  },
+  {
+   "id": "jubilee-2000",
+   "year": 2000,
+   "date_label": "2000",
+   "title": "Ostensione del Grande Giubileo",
+   "text": "Il telo viene esposto al pubblico per l'anno giubilare.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "restoration-2002",
+   "year": 2002,
+   "date_label": "dal 20 giugno al 22 luglio 2002",
+   "title": "Il grande restauro",
+   "text": "La squadra di Mechthild Flury-Lemberg rimuove le 30 toppe del 1534 e la tela d'Olanda, applica un nuovo telo di supporto e scansiona entrambi i lati. Alcuni studiosi criticano l'intervento perché avrebbe danneggiato possibili prove.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Arcidiocesi di Torino: il restauro",
+     "url": "https://sindone.org/en/home-english/the-shroud/the-fire/the-restoration/"
+    },
+    {
+     "label": "Wikipedia: Conservation-restoration",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "back-image-2004",
+   "year": 2004,
+   "date_label": "2004",
+   "title": "Una presunta debole immagine sul retro",
+   "text": "Fanti e Maggiolo riferiscono una debole immagine del volto sul retro, ricavata da fotografie del 2002. Chi osservò il retro direttamente nel 2002, a quanto risulta, non vide nulla.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Recensione di Fanti e Maggiolo 2004",
+     "url": "https://sindonology.org/reviews/doubleSuperficiality.shtml"
+    }
+   ]
+  },
+  {
+   "id": "rogers-2005",
+   "year": 2005,
+   "date_label": "gennaio 2005",
+   "title": "Rogers: il campione datato era diverso",
+   "text": "Raymond Rogers sostiene su Thermochimica Acta che l'area del radiocarbonio contiene cotone e un rivestimento di gomma e colorante, e stima dal calo della vanillina che il telo abbia da 1.300 a 3.000 anni.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Rogers 2005",
+     "url": "https://zenodo.org/record/1259381"
+    },
+    {
+     "label": "Ball 2005, notizia su Nature",
+     "url": "https://www.nature.com/news/2005/050124/full/news050124-17.html"
+    }
+   ]
+  },
+  {
+   "id": "ramsey-2008",
+   "year": 2008,
+   "date_label": "2008",
+   "title": "Oxford verifica l'ipotesi del monossido di carbonio",
+   "text": "Christopher Ramsey verifica se il monossido di carbonio possa aggiungere carbonio giovane al lino e non trova alcun effetto significativo.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Oxford Radiocarbon Accelerator Unit",
+     "url": "https://c14.arch.ox.ac.uk/shroud.html"
+    }
+   ]
+  },
+  {
+   "id": "garlaschelli-2009",
+   "year": 2009,
+   "date_label": "ottobre 2009",
+   "title": "La replica a grandezza naturale di Garlaschelli",
+   "text": "Il chimico Luigi Garlaschelli presenta un telo a grandezza naturale ottenuto sfregando un pigmento acido su un volontario e su un bassorilievo, poi cuocendolo e lavandolo. L'articolo esce nel 2010.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Garlaschelli 2010, JIST 54(4)",
+     "url": "https://library.imaging.org/jist/articles/54/4/art00002"
+    }
+   ]
+  },
+  {
+   "id": "enea-2010",
+   "year": 2010,
+   "date_label": "2010-2011",
+   "title": "Gli studi dell'ENEA con il laser ultravioletto",
+   "text": "I fisici dell'ENEA colorano il lino con impulsi laser UV molto brevi e ottengono un ingiallimento sottile, simile a quello della Sindone. Sottolineano che questo non mostra come l'immagine sia stata davvero prodotta.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Di Lazzaro et al. 2010",
+     "url": "https://www.sindone.info/DILAZZA1.PDF"
+    }
+   ]
+  },
+  {
+   "id": "jull-2010",
+   "year": 2010,
+   "date_label": "2010",
+   "title": "L'Arizona riesamina un frammento datato",
+   "text": "Freer-Waters e Jull non trovano coloranti né rivestimenti, e solo poche fibre di cotone, su un frammento avanzato in Arizona. Nel 2010 il telo viene anche esposto al pubblico.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Freer-Waters e Jull 2010, Radiocarbon 52(4)",
+     "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8CC26C322198300E051C49A0BA5B96D9/S0033822200056277a.pdf/investigating-a-dated-piece-of-the-shroud-of-turin.pdf"
+    }
+   ]
+  },
+  {
+   "id": "riani-fanti-2013",
+   "year": 2013,
+   "date_label": "2013",
+   "title": "Un articolo di statistica e il libro di Fanti sulla datazione",
+   "text": "Riani e colleghi pubblicano su Statistics and Computing l'analisi della tendenza spaziale. Fanti annuncia datazioni con FT-IR, Raman e prove meccaniche vicine al I secolo; l'arcivescovo di Torino dice che l'origine del materiale non è certa.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Riani et al. 2013",
+     "url": "https://riani.unipr.it/pub/RAFC2012.pdf"
+    },
+    {
+     "label": "National Catholic Register 2013",
+     "url": "https://www.ncregister.com/news/science-shines-new-light-on-shroud-of-turin-s-age"
+    }
+   ]
+  },
+  {
+   "id": "freeman-2014",
+   "year": 2014,
+   "date_label": "2014",
+   "title": "La teoria di Freeman dell'oggetto di scena pasquale",
+   "text": "Lo storico Charles Freeman sostiene su History Today che il telo era un oggetto di scena per i drammi pasquali medievali, un tempo dipinto e poi sbiadito.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Art History News su Freeman",
+     "url": "https://arthistorynews.com/articles/3065_Turin_Shroud_debunked_again"
+    }
+   ]
+  },
+  {
+   "id": "expo-2015",
+   "year": 2015,
+   "date_label": "2015",
+   "title": "Ostensione e prima indagine sul DNA",
+   "text": "Il telo viene esposto con l'approvazione di papa Francesco. Barcaccia e colleghi riferiscono DNA vegetale e umano di molte regioni, aggiungendo che un'origine medievale europea non è esclusa.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Wikipedia: Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+    },
+    {
+     "label": "Barcaccia et al. 2015",
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4593049/"
+    }
+   ]
+  },
+  {
+   "id": "raw-data-2017",
+   "year": 2017,
+   "date_label": "2017",
+   "title": "Resi pubblici i dati grezzi del radiocarbonio",
+   "text": "Dopo una richiesta legale, il British Museum consegna al ricercatore Tristan Casabianca i dati grezzi dei laboratori del 1988.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Casabianca et al. 2019",
+     "url": "https://philarchive.org/archive/CASTRD-3"
+    }
+   ]
+  },
+  {
+   "id": "bpa-2018",
+   "year": 2018,
+   "date_label": "2018",
+   "title": "Lo studio sulle macchie di sangue",
+   "text": "Borrini e Garlaschelli riferiscono sul Journal of Forensic Sciences che le colature di sangue implicano posture incompatibili. In agosto si tiene un'ostensione pubblica.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Borrini e Garlaschelli",
+     "url": "https://researchonline.ljmu.ac.uk/id/eprint/8813/"
+    }
+   ]
+  },
+  {
+   "id": "casabianca-2019",
+   "year": 2019,
+   "date_label": "marzo 2019",
+   "title": "I dati grezzi mostrano eterogeneità",
+   "text": "Casabianca e colleghi pubblicano su Archaeometry che i dati grezzi non sono omogenei e che la procedura del 1988 andrebbe riconsiderata, senza escludere una data medievale.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Casabianca et al. 2019, Archaeometry 61(5)",
+     "url": "https://philarchive.org/rec/CASTRD-3"
+    }
+   ]
+  },
+  {
+   "id": "holy-saturday-2020",
+   "year": 2020,
+   "date_label": "Sabato Santo, aprile 2020",
+   "title": "Ostensione in diretta durante il lockdown",
+   "text": "Durante il lockdown per il COVID-19, l'arcidiocesi mostra il telo in televisione e online. Papa Francesco la definisce un'icona del Signore crocifisso, morto e risorto.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Vatican News, aprile 2020",
+     "url": "https://vaticannews.va/en/pope/news/2020-04/pope-expresses-gratitude-for-exposition-of-the-shroud-of-turin.html"
+    }
+   ]
+  },
+  {
+   "id": "stats-2020",
+   "year": 2020,
+   "date_label": "2020",
+   "title": "Altre due rianalisi statistiche",
+   "text": "Walsh e Schwalbe, e Di Lazzaro e colleghi, pubblicano che i risultati della Sindone sono eterogenei, con una tendenza spaziale, e che la conclusione medievale andrebbe riconsiderata.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Walsh e Schwalbe 2020",
+     "url": "https://doi.org/10.1016/j.jasrep.2019.102015"
+    },
+    {
+     "label": "Di Lazzaro et al. 2020, Entropy",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7597180"
+    }
+   ]
+  },
+  {
+   "id": "waxs-2022",
+   "year": 2022,
+   "date_label": "aprile 2022",
+   "title": "Datazione WAXS di un filo",
+   "text": "De Caro e colleghi riferiscono su Heritage che l'invecchiamento della cellulosa di un filo corrisponde a quello di un lino di Masada del 55-74 d.C., sulla base di condizioni di conservazione ipotizzate.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "De Caro et al. 2022",
+     "url": "https://dsctm.cnr.it/images/Highlights/Sindone/DeCaro_Heritage_2022.pdf"
+    }
+   ]
+  },
+  {
+   "id": "review-2025",
+   "year": 2025,
+   "date_label": "febbraio 2025",
+   "title": "Una rassegna neutrale: la data regge, serve un nuovo test",
+   "text": "Una rassegna su Textiles conclude che le prove contro la data del 1989 non bastano a ribaltarla, che la formazione dell'immagine resta un mistero e che serve un secondo test al radiocarbonio.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Karapanagiotis 2025",
+     "url": "https://www.mdpi.com/2673-7248/5/1/8"
+    }
+   ]
+  },
+  {
+   "id": "jubilee-2025",
+   "year": 2025,
+   "date_label": "dal 28 aprile al 5 maggio 2025",
+   "title": "Una Sindone digitale per il Giubileo",
+   "text": "Invece di un'ostensione fisica, il cardinale Repole presenta una replica digitale a grandezza naturale in una tenda in piazza Castello, a Torino.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Catholic Weekly 2025",
+     "url": "https://catholicweekly.com.au/shroud-of-turin-to-be-digitally-showcased-for-holy-year/"
+    }
+   ]
+  },
+  {
+   "id": "moraes-2025",
+   "year": 2025,
+   "date_label": "28 luglio 2025",
+   "title": "Moraes: un bassorilievo si adatta meglio",
+   "text": "Cicero Moraes pubblica su Archaeometry simulazioni 3D di drappeggio che suggeriscono che una scultura a bassorilievo si adatti all'immagine meglio di un corpo. Il centro di Torino, il CISS, risponde il 4 agosto che non è una novità.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Live Science 2025",
+     "url": "https://www.livescience.com/archaeology/shroud-of-turin-wasnt-laid-on-jesus-body-but-rather-a-sculpture-modeling-study-suggests"
+    },
+    {
+     "label": "Catholic World Report 2025",
+     "url": "https://www.catholicworldreport.com/2025/08/05/shroud-of-turin-center-disputes-new-study-that-challenges-authenticity-of-burial-cloth/"
+    }
+   ]
+  },
+  {
+   "id": "oresme-find-2025",
+   "year": 2025,
+   "date_label": "agosto 2025",
+   "title": "Pubblicato il passo di Oresme",
+   "text": "Nicolas Sarzeaud pubblica il testo di Oresme sul Journal of Medieval History: è il più antico rifiuto scritto conosciuto del telo.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Classicult 2025",
+     "url": "https://www.classicult.it/en/a-newly-discovered-medieval-document-by-nicole-oresme-is-the-earliest-written-evidence-to-reject-the-shroud-of-turin-as-authentic/"
+    }
+   ]
+  },
+  {
+   "id": "moraes-rebuttal-2026",
+   "year": 2026,
+   "date_label": "febbraio 2026",
+   "title": "Una confutazione di Moraes su Archaeometry",
+   "text": "Casabianca, Marinelli e Piana pubblicano sulla stessa rivista una critica al modello di Moraes, segnalando errori di modellazione e prove ignorate.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Vatican News, 10 febbraio 2026",
+     "url": "https://www.vaticannews.va/en/church/news/2026-02/shroud-turin-medieval-bas-relief-hypothesis-challenged.html"
+    }
+   ]
+  },
+  {
+   "id": "jull-2026",
+   "year": 2026,
+   "date_label": "aprile 2026",
+   "title": "Esaminato un secondo frammento dell'Arizona",
+   "text": "Freer-Waters e Jull pubblicano su Heritage Science uno studio su un frammento avanzato del 1988 conservato in Arizona. Secondo la stampa non hanno trovato segni di un rammendo né di materiale estraneo.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Freer-Waters e Jull 2026, Heritage Science",
+     "url": "https://www.nature.com/articles/s40494-026-02530-7"
+    },
+    {
+     "label": "Farey 2026, sintesi sul blog",
+     "url": "https://medievalshroud.com/the-donahue-sliver-resurfaces/"
+    }
+   ]
+  },
+  {
+   "id": "riani-2026",
+   "year": 2026,
+   "date_label": "11 giugno 2026",
+   "title": "Una regressione sui dati grezzi",
+   "text": "Riani, Atkinson, Corbellini e Di Lazzaro pubblicano su Statistical Methods and Applications una rianalisi dei dati grezzi, verificando tutte le 165.888 disposizioni possibili dei sottocampioni.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Riani et al. 2026",
+     "url": "https://link.springer.com/article/10.1007/s10260-026-00851-2"
+    }
+   ]
+  },
+  {
+   "id": "sudarium-exam-2026",
+   "year": 2026,
+   "date_label": "luglio 2026",
+   "title": "Un nuovo esame del Sudario",
+   "text": "L'EDICES e l'Università di Oviedo riferiscono il primo esame tecnico non invasivo del Sudario dal 2012.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "STERA, ultime notizie",
+     "url": "https://www.shroud.com/latebrak.htm"
+    }
+   ]
+  },
+  {
+   "id": "dna-2026",
+   "year": 2026,
+   "date_label": "luglio 2026",
+   "title": "Studio del DNA sui campioni del 1978",
+   "text": "Barcaccia e colleghi riferiscono su Scientific Reports che il DNA umano principale corrisponde a quello dello scienziato che raccolse i campioni, oltre a molte tracce vegetali, animali e microbiche. Due fili del reliquiario risalgono ai restauri del 1534 e del 1694.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Barcaccia et al. 2026",
+     "url": "https://www.nature.com/articles/s41598-026-60684-7"
+    },
+    {
+     "label": "ScienceDaily 2026",
+     "url": "https://www.sciencedaily.com/releases/2026/08/260803080859.htm"
+    },
+    {
+     "label": "IBT via inkl 2026",
+     "url": "https://www.inkl.com/news/turin-shroud-dna-jesus-claim-hits-a-snag-strongest-match-points-to-man-who-collected-samples"
+    }
+   ]
+  },
+  {
+   "id": "kearse-2026",
+   "year": 2026,
+   "date_label": "22 luglio 2026",
+   "title": "Messo alla prova l'ordine tra sangue e immagine",
+   "text": "Kelly Kearse mostra che il sangue su lino trattato con acido blocca la colorazione successiva, quindi «nessuna immagine sotto il sangue» non stabilisce l'ordine degli eventi.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Kearse 2026, International Journal of Archaeology",
+     "url": "https://sciencepublishinggroup.com/article/10.11648/j.ija.20261402.11"
+    }
+   ]
+  }
+ ]
+}

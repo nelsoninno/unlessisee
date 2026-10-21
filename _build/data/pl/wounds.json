@@ -1,0 +1,348 @@
+{
+ "items": [
+  {
+   "id": "crown-of-thorns-forehead",
+   "name": "Strugi krwi z ran kłutych na czole",
+   "body_region": "Czoło i przednia część skóry głowy",
+   "side": "front",
+   "x": 0.485,
+   "y": 0.11,
+   "description": "Z miejsc nakłucia po czole spływa kilka strug krwi. Jedna ma kształt cyfry 3 (często nazywana epsilonem), co Bucklin wyjaśnia tym, że krew podążała za fałdami skóry.",
+   "gospel": "J 19,2",
+   "verse": "A żołnierze upletli koronę z cierni, włożyli mu ją na głowę i ubrali go w purpurowy płaszcz.",
+   "skeptic": "Korona cierniowa to szczegół z Ewangelii, który umieściłby każdy artysta. Kształty poszczególnych strug odczytuje się ze zdjęć.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    }
+   ]
+  },
+  {
+   "id": "face-injuries",
+   "name": "Obrażenia twarzy",
+   "body_region": "Prawy policzek, prawe oko, nos",
+   "side": "front",
+   "x": 0.47,
+   "y": 0.145,
+   "description": "Bucklin opisuje obrzęk prawego policzka, częściowe zamknięcie prawego oka, lekkie skrzywienie nosa i otarcie na jego czubku. Bevilacqua i D'Arienzo opisują natomiast prawe oko jako zapadnięte wskutek uszkodzenia nerwu.",
+   "gospel": "Mt 27,30",
+   "verse": "A plując na niego, brali tę trzcinę i bili go po głowie.",
+   "skeptic": "Szczegóły twarzy są słabe i odczytywane ze wzmocnionych obrazów. Patolodzy już nie zgadzają się co do prawego oka.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Bevilacqua i D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    }
+   ]
+  },
+  {
+   "id": "nose-dirt-fall",
+   "name": "Zadrapania i brud na nosie",
+   "body_region": "Nos",
+   "side": "front",
+   "x": 0.515,
+   "y": 0.16,
+   "description": "Bucklin opisuje zadrapania i brud w okolicy nosa, co zgadza się z uderzeniem twarzą o ziemię przy upadku. Upadki w drodze na miejsce egzekucji pochodzą z tradycji, a nie z Ewangelii.",
+   "gospel": null,
+   "verse": null,
+   "skeptic": "Jedyne opublikowane badanie mineralne (Kohlbeck i Nitowski 1986) opisuje cząstki wapienia z taśmy przy stopach, a nie przy nosie. Brudu na nosie nie potwierdziła niezależnie żadna analiza.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Nitowski 1986",
+     "url": "https://www.shroud.com/pdfs/ESSJ%20Nitowski%201986.pdf"
+    }
+   ]
+  },
+  {
+   "id": "right-shoulder-dislocation",
+   "name": "Obniżony prawy bark",
+   "body_region": "Prawy bark i ramię",
+   "side": "front",
+   "x": 0.62,
+   "y": 0.21,
+   "description": "Bevilacqua i D'Arienzo podają, że prawy bark jest obniżony o około 15 stopni, i odczytują to jako zwichnięcie prawej kości ramiennej, być może wskutek upadku podczas niesienia belki.",
+   "gospel": null,
+   "verse": null,
+   "skeptic": "To odczytanie jednego zespołu, opublikowane w materiałach konferencyjnych i w czasopiśmie o niskim oddziaływaniu. Inni patolodzy tego nie opisują.",
+   "sources": [
+    {
+     "label": "Bevilacqua i D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    },
+    {
+     "label": "Bevilacqua, Fanti, D'Arienzo 2017, Open Journal of Trauma",
+     "url": "https://oalib-perpustakaan.upi.edu/Record/peertech__10_17352_ojt_000009/Description"
+    }
+   ]
+  },
+  {
+   "id": "wrist-nail-wound",
+   "name": "Rana od gwoździa w nadgarstku",
+   "body_region": "Grzbiet lewej dłoni przy nadgarstku (prawa jest zakryta)",
+   "side": "front",
+   "x": 0.445,
+   "y": 0.47,
+   "description": "Ślad krwi na grzbiecie lewej dłoni leży bliżej nadgarstka, a wychodzą z niego dwie strużki rozchodzące się pod kątem około 10 stopni. Bucklin wylicza, że ręce były uniesione pod kątem około 65 stopni i że mężczyzna zmieniał położenie. Barbet umieszczał gwóźdź w przestrzeni Destota w nadgarstku, a Zugibe przekonuje, że wszedł w górną część dłoni i wyszedł przy nadgarstku.",
+   "gospel": "J 20,25",
+   "verse": "Jeśli nie zobaczę na jego rękach śladów gwoździ i nie włożę mego palca w ślady gwoździ, i nie włożę mojej ręki w jego bok, nie uwierzę.",
+   "skeptic": "Czołowi patolodzy nie zgadzają się co do drogi gwoździa. Położenie rany różni się od większości sztuki średniowiecznej, ale umieszczanie jej w nadgarstku nie jest w sztuce nieznane.",
+   "sources": [
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    },
+    {
+     "label": "Zugibe 1995, Pierre Barbet Revisited",
+     "url": "https://shroud.com/zugibe.htm"
+    }
+   ]
+  },
+  {
+   "id": "missing-thumbs",
+   "name": "Niewidoczne kciuki",
+   "body_region": "Obie dłonie",
+   "side": "front",
+   "x": 0.5,
+   "y": 0.495,
+   "description": "Na każdej dłoni widać tylko cztery palce. Barbet i Bucklin wyjaśniają to uszkodzeniem nerwu, które przyciągnęło kciuki do dłoni. Zugibe mówi, że kciuki po prostu spoczywają przed palcami wskazującymi i nie dotykały płótna.",
+   "gospel": null,
+   "verse": null,
+   "skeptic": "Istnieją dwa wzajemnie niezgodne wyjaśnienia medyczne. Artysta malujący skrzyżowane dłonie też mógł ukryć kciuki.",
+   "sources": [
+    {
+     "label": "Zugibe 1995, Pierre Barbet Revisited",
+     "url": "https://shroud.com/zugibe.htm"
+    },
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    }
+   ]
+  },
+  {
+   "id": "forearm-blood-flows",
+   "name": "Strugi krwi wzdłuż przedramion",
+   "body_region": "Oba przedramiona",
+   "side": "front",
+   "x": 0.66,
+   "y": 0.43,
+   "description": "Strugi krwi biegną od nadgarstków wzdłuż przedramion w stronę łokci, tak jak należy się spodziewać, jeśli ręce były uniesione nad głowę podczas krwawienia.",
+   "gospel": "J 19,18",
+   "verse": "Gdzie go ukrzyżowali, a z nim dwóch innych z obu stron, pośrodku zaś Jezusa.",
+   "skeptic": "Borrini i Garlaschelli (2018) stwierdzili, że strugi na przedramionach wymagają rąk niemal pionowych, a strużki na dłoniach rąk ustawionych pod kątem około 45 stopni, co uznali za niespójne i artystyczne.",
+   "sources": [
+    {
+     "label": "Borrini i Garlaschelli, J. Forensic Sciences",
+     "url": "https://researchonline.ljmu.ac.uk/id/eprint/8813/"
+    },
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    }
+   ]
+  },
+  {
+   "id": "side-wound",
+   "name": "Rana boku z krwią i przejrzystym płynem",
+   "body_region": "Prawa strona klatki piersiowej, mniej więcej na wysokości 5. do 6. żebra",
+   "side": "front",
+   "x": 0.64,
+   "y": 0.334,
+   "description": "Największa plama krwi leży na prawej stronie klatki piersiowej, a przy jej górnym brzegu jest owalna rana skóry. Bucklin widzi krew z przejrzystym, wodnistym płynem i sugeruje płyn opłucnowy wskutek niewydolności serca. Bevilacqua i D'Arienzo umieszczają ranę w 6. przestrzeni międzyżebrowej, o szerokości około 4,5 cm.",
+   "gospel": "J 19,34",
+   "verse": "Lecz jeden z żołnierzy przebił włócznią jego bok i natychmiast wypłynęła krew i woda.",
+   "skeptic": "„Woda” to interpretacja jaśniejszych stref plamy. Rana od włóczni po prawej stronie to także typowe położenie w sztuce średniowiecznej.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Bevilacqua i D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    }
+   ]
+  },
+  {
+   "id": "scourge-marks-front",
+   "name": "Ślady biczowania (przód)",
+   "body_region": "Klatka piersiowa i przednia strona nóg",
+   "side": "front",
+   "x": 0.42,
+   "y": 0.66,
+   "description": "Podobne parzyste ślady widać na klatce piersiowej i z przodu nóg, gdzie zachodzą z pleców. Bucklin zauważa, że nie ma ich na ramionach i przedramionach.",
+   "gospel": "J 19,1",
+   "verse": "Wtedy Piłat wziął Jezusa i ubiczował go.",
+   "skeptic": "Te same zastrzeżenia co przy śladach na plecach.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "knee-abrasions",
+   "name": "Otarcia kolan",
+   "body_region": "Kolana, zwłaszcza lewe",
+   "side": "front",
+   "x": 0.45,
+   "y": 0.73,
+   "description": "Popularne opisy mówią o obrzęku i otarciach kolan po wielokrotnych upadkach. Bucklin zauważa jedynie, że lewe kolano jest lekko zgięte.",
+   "gospel": null,
+   "verse": null,
+   "skeptic": "Słabo udokumentowane: nie opisują tego ani Bucklin, ani Bevilacqua i D'Arienzo, a upadki pochodzą z tradycji, a nie z Ewangelii. Nie przedstawiać jako ustalonego faktu.",
+   "sources": [
+    {
+     "label": "Graves 2021, National Catholic Register",
+     "url": "https://www.ncregister.com/commentaries/clues-on-the-shroud-of-turin-tell-us-what-christ-endured-on-good-friday"
+    },
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "rigor-mortis-posture",
+   "name": "Postawa stężenia pośmiertnego",
+   "body_region": "Całe ciało: głowa, nogi, stopy",
+   "side": "front",
+   "x": 0.47,
+   "y": 0.83,
+   "description": "Bucklin odczytuje ogólną sztywność jako stężenie pośmiertne, z lekko zgiętym lewym kolanem i ułożeniem nóg zachowanym po śmierci. Bevilacqua i D'Arienzo opisują głowę pochyloną do przodu i obróconą i przekonują, że ciała w stężeniu nie dałoby się całkowicie wyprostować.",
+   "gospel": "J 19,30",
+   "verse": "A gdy Jezus skosztował octu, powiedział: Wykonało się. I schyliwszy głowę, oddał ducha.",
+   "skeptic": "Stężenie wnioskuje się z postawy na słabym obrazie. Rzeźbiarz lub artysta też mógł tak ułożyć postać.",
+   "sources": [
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    },
+    {
+     "label": "Bevilacqua i D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    }
+   ]
+  },
+  {
+   "id": "crown-of-thorns-back-of-head",
+   "name": "Rany kłute z tyłu głowy",
+   "body_region": "Tył i czubek skóry głowy",
+   "side": "back",
+   "x": 0.5,
+   "y": 0.035,
+   "description": "Rząd śladów krwi okrąża tył głowy, a kolejne ślady są wysoko na ciemieniu. Bucklin przekonuje, że pasuje to do czepca z cierni okrywającego całą głowę, a nie do wąskiej obręczy przedstawianej w większości sztuki europejskiej.",
+   "gospel": "J 19,2",
+   "verse": "A żołnierze upletli koronę z cierni, włożyli mu ją na głowę i ubrali go w purpurowy płaszcz.",
+   "skeptic": "Argument „czepiec zamiast obręczy” opiera się na rozkładzie słabych plam, a część późniejszej sztuki też przedstawia ciężkie rany głowy.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "shoulder-abrasions",
+   "name": "Otarcia na łopatkach",
+   "body_region": "Górna część pleców, nad obiema łopatkami",
+   "side": "back",
+   "x": 0.62,
+   "y": 0.12,
+   "description": "Dwa rozległe przebarwione obszary nad łopatkami wyglądają jak otarcia od ciężkiego, szorstkiego przedmiotu. Patolodzy odczytują je jako ślady niesienia poprzecznej belki.",
+   "gospel": "J 19,17",
+   "verse": "A on, niosąc swój krzyż, wyszedł na miejsce zwane Miejscem Czaszki, a po hebrajsku Golgotą;",
+   "skeptic": "Te obszary są słabe, a ich odczytanie zależy od oczekiwań. Marek, Mateusz i Łukasz mówią, że Szymon z Cyreny niósł krzyż przez część drogi (Łk 23,26).",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    }
+   ]
+  },
+  {
+   "id": "scourge-marks-back",
+   "name": "Ślady biczowania (tył)",
+   "body_region": "Barki, plecy, pośladki i tylna strona nóg",
+   "side": "back",
+   "x": 0.45,
+   "y": 0.22,
+   "description": "Ponad 100 drobnych śladów, parzystych lub w kształcie hantli, rozciąga się od barków aż do łydek. Bucklin nazywa je podwójnymi i trudnymi do policzenia. Zugibe zauważa, że bicz o trzech rzemieniach przy 40 uderzeniach zostawiłby około 120 śladów. Odczytuje się je jako drobne przerwania skóry z krwią, a nie siniaki.",
+   "gospel": "J 19,1",
+   "verse": "Wtedy Piłat wziął Jezusa i ubiczował go.",
+   "skeptic": "Liczby pochodzą ze wzmocnionych zdjęć i różnią się u różnych autorów. Dobrze poinformowany średniowieczny artysta mógł odtworzyć wzór rzymskiego biczowania. Freeman przekonuje, że ślady były kiedyś namalowane wyraźniej.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Zugibe, wykład Turin 2000",
+     "url": "https://www.crucifixion-shroud.com/Turin2000.htm"
+    },
+    {
+     "label": "Freeman 2014 (podsumowanie)",
+     "url": "https://arthistorynews.com/articles/3065_Turin_Shroud_debunked_again"
+    }
+   ]
+  },
+  {
+   "id": "lower-back-blood-belt",
+   "name": "Krew w poprzek dolnej części pleców",
+   "body_region": "Dolna część pleców, okolica lędźwi",
+   "side": "back",
+   "x": 0.5,
+   "y": 0.345,
+   "description": "Pas krwi przechodzi w poprzek dolnej części pleców. Zwykle wyjaśnia się go jako krew i płyn, które wypłynęły z rany boku, gdy ciało przenoszono i układano.",
+   "gospel": "J 19,34",
+   "verse": "Lecz jeden z żołnierzy przebił włócznią jego bok i natychmiast wypłynęła krew i woda.",
+   "skeptic": "Borrini i Garlaschelli uznali ten pas za „zupełnie nierealistyczny” jako pośmiertny wypływ z rany boku u ciała leżącego.",
+   "sources": [
+    {
+     "label": "Borrini i Garlaschelli, J. Forensic Sciences",
+     "url": "https://researchonline.ljmu.ac.uk/id/eprint/8813/"
+    }
+   ]
+  },
+  {
+   "id": "feet-wound",
+   "name": "Rana od gwoździa w stopach",
+   "body_region": "Podeszwy, głównie prawej stopy",
+   "side": "back",
+   "x": 0.48,
+   "y": 0.88,
+   "description": "Obraz tylny pokazuje prawą stopę z wyraźnym śladem przebicia w pobliżu środka podeszwy oraz mniej wyraźną lewą stopę. Bevilacqua i D'Arienzo umieszczają gwóźdź w kościach stępu.",
+   "gospel": "Łk 24,39",
+   "verse": "Popatrzcie na moje ręce i nogi, że to jestem ja. Dotknijcie mnie i zobaczcie, bo duch nie ma ciała ani kości, jak widzicie, że ja mam.",
+   "skeptic": "Lewa stopa jest niewyraźna, a to, czy użyto jednego, czy dwóch gwoździ, jest przedmiotem sporu.",
+   "sources": [
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    },
+    {
+     "label": "Bevilacqua i D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    }
+   ]
+  }
+ ]
+}

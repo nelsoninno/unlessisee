@@ -1,0 +1,348 @@
+{
+ "items": [
+  {
+   "id": "crown-of-thorns-forehead",
+   "name": "前额的刺伤血流",
+   "body_region": "前额和头皮前部",
+   "side": "front",
+   "x": 0.485,
+   "y": 0.11,
+   "description": "几道血流从刺伤点顺着前额流下。其中一道形状像数字3（常被称为“ε形血迹”），Bucklin解释说这是血顺着皮肤的皱纹流动形成的。",
+   "gospel": "约翰福音19:2",
+   "verse": "兵丁用荆棘编做冠冕戴在他头上，给他穿上紫袍，",
+   "skeptic": "荆棘冠冕是福音书中的细节，任何画家都会画上。单道血流的形状是从照片上解读出来的。",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    }
+   ]
+  },
+  {
+   "id": "face-injuries",
+   "name": "面部伤痕",
+   "body_region": "右脸颊、右眼、鼻子",
+   "side": "front",
+   "x": 0.47,
+   "y": 0.145,
+   "description": "Bucklin报告说，右脸颊肿胀，右眼部分闭合，鼻子略有弯曲，鼻尖有擦伤。Bevilacqua和D'Arienzo则描述右眼因神经损伤而凹陷。",
+   "gospel": "马太福音27:30",
+   "verse": "又吐唾沫在他脸上，拿苇子打他的头。",
+   "skeptic": "面部细节很淡，是从增强处理过的图像上解读的；病理学家对右眼的看法已经不一致。",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Bevilacqua和D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    }
+   ]
+  },
+  {
+   "id": "nose-dirt-fall",
+   "name": "鼻子上的擦痕和泥土",
+   "body_region": "鼻子",
+   "side": "front",
+   "x": 0.515,
+   "y": 0.16,
+   "description": "Bucklin描述鼻子部位有擦痕和泥土，符合跌倒时面部撞地的情形。前往刑场途中跌倒是传统说法，并非出自福音书。",
+   "gospel": null,
+   "verse": null,
+   "skeptic": "唯一发表过的矿物研究（Kohlbeck和Nitowski，1986年）报告的是从脚部胶带上取得的石灰石颗粒，而不是鼻子。鼻子上有泥土一说，尚未得到独立分析的证实。",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Nitowski 1986",
+     "url": "https://www.shroud.com/pdfs/ESSJ%20Nitowski%201986.pdf"
+    }
+   ]
+  },
+  {
+   "id": "right-shoulder-dislocation",
+   "name": "右肩下沉",
+   "body_region": "右肩和右臂",
+   "side": "front",
+   "x": 0.62,
+   "y": 0.21,
+   "description": "Bevilacqua和D'Arienzo报告右肩下沉约15度，并解读为右侧肱骨脱臼，可能是背负横木时跌倒造成的。",
+   "gospel": null,
+   "verse": null,
+   "skeptic": "这只是一个团队的解读，发表在会议论文集和一份影响力较低的期刊上；其他病理学家没有这样描述。",
+   "sources": [
+    {
+     "label": "Bevilacqua和D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    },
+    {
+     "label": "Bevilacqua, Fanti, D'Arienzo 2017, Open Journal of Trauma",
+     "url": "https://oalib-perpustakaan.upi.edu/Record/peertech__10_17352_ojt_000009/Description"
+    }
+   ]
+  },
+  {
+   "id": "wrist-nail-wound",
+   "name": "手腕处的钉伤",
+   "body_region": "左手背靠近手腕的一端（右手被遮住）",
+   "side": "front",
+   "x": 0.445,
+   "y": 0.47,
+   "description": "左手背上的一处血痕靠近手腕，从这里流出两道相隔约10度的细血流。Bucklin推算双臂上举约65度，而且这个人变换过姿势。Barbet认为钉子穿过手腕的Destot间隙；Zugibe则认为钉子从手掌上部刺入，从手腕穿出。",
+   "gospel": "约翰福音20:25",
+   "verse": "我非看见他手上的钉痕，用指头探入那钉痕，又用手探入他的肋旁，我总不信。",
+   "skeptic": "顶尖的病理学家对钉子的路径意见不一。伤口位置与大多数中世纪艺术不同，但艺术中并非没有画在手腕上的例子。",
+   "sources": [
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    },
+    {
+     "label": "Zugibe 1995, Pierre Barbet Revisited",
+     "url": "https://shroud.com/zugibe.htm"
+    }
+   ]
+  },
+  {
+   "id": "missing-thumbs",
+   "name": "看不到拇指",
+   "body_region": "双手",
+   "side": "front",
+   "x": 0.5,
+   "y": 0.495,
+   "description": "每只手只显示四根手指。Barbet和Bucklin用神经损伤使拇指内收到掌心来解释；Zugibe则说，拇指只是放在食指前面，没有接触到布。",
+   "gospel": null,
+   "verse": null,
+   "skeptic": "存在两种互不相容的医学解释。画家画交叉的双手时，也可能把拇指藏起来。",
+   "sources": [
+    {
+     "label": "Zugibe 1995, Pierre Barbet Revisited",
+     "url": "https://shroud.com/zugibe.htm"
+    },
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    }
+   ]
+  },
+  {
+   "id": "forearm-blood-flows",
+   "name": "沿前臂的血流",
+   "body_region": "双前臂",
+   "side": "front",
+   "x": 0.66,
+   "y": 0.43,
+   "description": "血流从手腕沿着前臂流向肘部，如果双臂在流血时高举过头，就会出现这种情形。",
+   "gospel": "约翰福音19:18",
+   "verse": "他们就在那里钉他在十字架上，还有两个人和他一同钉着，一边一个，耶稣在中间。",
+   "skeptic": "Borrini和Garlaschelli（2018年）发现，前臂的血流需要手臂几乎垂直，而手上的细血流需要手臂成约45度，他们认为这彼此矛盾，带有艺术加工的痕迹。",
+   "sources": [
+    {
+     "label": "Borrini和Garlaschelli, J. Forensic Sciences",
+     "url": "https://researchonline.ljmu.ac.uk/id/eprint/8813/"
+    },
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    }
+   ]
+  },
+  {
+   "id": "side-wound",
+   "name": "流出血和清液的肋旁伤口",
+   "body_region": "胸部右侧，约在第5至第6根肋骨处",
+   "side": "front",
+   "x": 0.64,
+   "y": 0.334,
+   "description": "最大的一片血迹位于右胸，上缘有一个椭圆形的皮肤伤口。Bucklin认为其中有血，也有清澈的水样液体，推测是心力衰竭产生的胸膜腔积液；Bevilacqua和D'Arienzo把伤口定位在第6肋间隙，宽约4.5厘米。",
+   "gospel": "约翰福音19:34",
+   "verse": "惟有一个兵拿枪扎他的肋旁，随即有血和水流出来。",
+   "skeptic": "所谓“水”，是对血迹中颜色较浅区域的一种解读。右侧的枪伤也是中世纪艺术中的标准位置。",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Bevilacqua和D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    }
+   ]
+  },
+  {
+   "id": "scourge-marks-front",
+   "name": "鞭痕（正面）",
+   "body_region": "胸部和腿的前侧",
+   "side": "front",
+   "x": 0.42,
+   "y": 0.66,
+   "description": "胸部和腿的前侧也有类似的成对痕迹，是从背部绕过来的。Bucklin指出，手臂和前臂上没有这些痕迹。",
+   "gospel": "约翰福音19:1",
+   "verse": "当下彼拉多将耶稣鞭打了。",
+   "skeptic": "与背部痕迹有同样的保留意见。",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "knee-abrasions",
+   "name": "膝盖擦伤",
+   "body_region": "膝盖，尤其是左膝",
+   "side": "front",
+   "x": 0.45,
+   "y": 0.73,
+   "description": "通俗说法描述膝盖因多次跌倒而肿胀、擦伤。Bucklin只指出左膝略微弯曲。",
+   "gospel": null,
+   "verse": null,
+   "skeptic": "文献依据薄弱：Bucklin以及Bevilacqua和D'Arienzo都没有这样描述，而且跌倒是传统说法，并非出自福音书。不要当作定论。",
+   "sources": [
+    {
+     "label": "Graves 2021, National Catholic Register",
+     "url": "https://www.ncregister.com/commentaries/clues-on-the-shroud-of-turin-tell-us-what-christ-endured-on-good-friday"
+    },
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "rigor-mortis-posture",
+   "name": "尸僵姿势",
+   "body_region": "全身：头、腿、脚",
+   "side": "front",
+   "x": 0.47,
+   "y": 0.83,
+   "description": "Bucklin把整体的僵硬解读为尸僵，左膝略弯，死后保持着腿的姿势。Bevilacqua和D'Arienzo描述头部前倾并转向一侧，认为处于尸僵状态的身体无法完全伸直。",
+   "gospel": "约翰福音19:30",
+   "verse": "耶稣尝了那醋，就说：「成了！」便低下头，将灵魂交付 神了。",
+   "skeptic": "尸僵是从一幅模糊图像上的姿势推断出来的；雕塑家或画家也可以把人物摆成这样。",
+   "sources": [
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    },
+    {
+     "label": "Bevilacqua和D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    }
+   ]
+  },
+  {
+   "id": "crown-of-thorns-back-of-head",
+   "name": "后脑的刺伤",
+   "body_region": "头皮后部和顶部",
+   "side": "back",
+   "x": 0.5,
+   "y": 0.035,
+   "description": "一圈血痕环绕后脑，头顶高处还有更多血痕。Bucklin认为，这符合一顶覆盖整个头部的荆棘帽，而不是大多数欧洲艺术中那种窄窄的圆环。",
+   "gospel": "约翰福音19:2",
+   "verse": "兵丁用荆棘编做冠冕戴在他头上，给他穿上紫袍，",
+   "skeptic": "“帽子还是圆环”的论证依赖于模糊污渍的分布范围，而且一些后期艺术作品也画出了严重的头部伤口。",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "shoulder-abrasions",
+   "name": "肩胛骨擦伤",
+   "body_region": "上背部，两侧肩胛骨上方",
+   "side": "back",
+   "x": 0.62,
+   "y": 0.12,
+   "description": "两侧肩胛骨上方各有一大片变色区域，看起来像被沉重粗糙的物体磨伤。病理学家认为这是背负十字架横木留下的痕迹。",
+   "gospel": "约翰福音19:17",
+   "verse": "他们就把耶稣带了去。耶稣背着自己的十字架出来，到了一个地方，名叫「髑髅地」，希伯来话叫各各他。",
+   "skeptic": "这些区域很淡，怎样解读取决于预期。马可、马太和路加都说，古利奈人西门替耶稣背了一段路的十字架（路加福音23:26）。",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    }
+   ]
+  },
+  {
+   "id": "scourge-marks-back",
+   "name": "鞭痕（背面）",
+   "body_region": "肩膀、背部、臀部和腿的后侧",
+   "side": "back",
+   "x": 0.45,
+   "y": 0.22,
+   "description": "超过100处细小的成对或哑铃形痕迹，从肩膀一直分布到小腿。Bucklin说它们呈双叉状，难以计数；Zugibe指出，用三股皮鞭抽打40下，大约会留下120处痕迹。这些痕迹看起来是带血的细小皮肤破口，而不是瘀伤。",
+   "gospel": "约翰福音19:1",
+   "verse": "当下彼拉多将耶稣鞭打了。",
+   "skeptic": "数量是根据增强处理过的照片统计的，因作者而异。一位了解情况的中世纪画家也能复制罗马鞭刑的痕迹图案；Freeman认为这些痕迹当初曾被画得更鲜明。",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Zugibe，2000年都灵讲座",
+     "url": "https://www.crucifixion-shroud.com/Turin2000.htm"
+    },
+    {
+     "label": "Freeman 2014（摘要）",
+     "url": "https://arthistorynews.com/articles/3065_Turin_Shroud_debunked_again"
+    }
+   ]
+  },
+  {
+   "id": "lower-back-blood-belt",
+   "name": "横过下背部的血迹",
+   "body_region": "下背部，腰部",
+   "side": "back",
+   "x": 0.5,
+   "y": 0.345,
+   "description": "一道血带横过下背部。通常的解释是：搬动并放下尸体时，血和液体从肋旁伤口流了过来。",
+   "gospel": "约翰福音19:34",
+   "verse": "惟有一个兵拿枪扎他的肋旁，随即有血和水流出来。",
+   "skeptic": "Borrini和Garlaschelli认为，对于一具平躺的尸体，从肋旁伤口流出的死后血流形成这道血带“完全不符合实际”。",
+   "sources": [
+    {
+     "label": "Borrini和Garlaschelli, J. Forensic Sciences",
+     "url": "https://researchonline.ljmu.ac.uk/id/eprint/8813/"
+    }
+   ]
+  },
+  {
+   "id": "feet-wound",
+   "name": "双脚的钉伤",
+   "body_region": "脚底，主要是右脚",
+   "side": "back",
+   "x": 0.48,
+   "y": 0.88,
+   "description": "背面图像显示右脚掌中央附近有一个清晰的刺穿痕迹，左脚则不太清楚。Bevilacqua和D'Arienzo认为钉子穿过了跗骨。",
+   "gospel": "路加福音24:39",
+   "verse": "你们看我的手，我的脚，就知道实在是我了。摸我看看！魂无骨无肉，你们看，我是有的。",
+   "skeptic": "左脚不清楚，用了一根还是两根钉子仍有争论。",
+   "sources": [
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    },
+    {
+     "label": "Bevilacqua和D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    }
+   ]
+  }
+ ]
+}

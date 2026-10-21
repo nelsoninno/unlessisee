@@ -1,0 +1,87 @@
+{
+ "prior": {
+  "neutral": -3,
+  "skeptic": -5,
+  "believer": -1
+ },
+ "items": [
+  {
+   "id": "c14",
+   "label": "1988년 탄소 연대 측정: 서기 1260~1390년",
+   "skeptic": -3,
+   "believer": -0.5
+  },
+  {
+   "id": "c14-flaws",
+   "label": "1988년 결과들이 서로 잘 일치하지 않는다",
+   "skeptic": 0,
+   "believer": 0.5
+  },
+  {
+   "id": "history",
+   "label": "1354년경 이전에는 천에 대한 확실한 기록이 없다",
+   "skeptic": -1,
+   "believer": -0.3
+  },
+  {
+   "id": "darcis",
+   "label": "한 주교(1389)와 한 학자(오렘)가 가짜라고 했다",
+   "skeptic": -0.7,
+   "believer": -0.2
+  },
+  {
+   "id": "no-paint",
+   "label": "형상을 이루는 물감이나 접착제가 없다",
+   "skeptic": 0.3,
+   "believer": 1
+  },
+  {
+   "id": "thin",
+   "label": "색이 가장 바깥 섬유에만 있다",
+   "skeptic": 0.3,
+   "believer": 1
+  },
+  {
+   "id": "negative",
+   "label": "형상이 사진 음화처럼 작용한다",
+   "skeptic": 0,
+   "believer": 0.7
+  },
+  {
+   "id": "three-d",
+   "label": "형상의 어두운 정도가 3D 지도처럼 거리를 담고 있다",
+   "skeptic": 0.2,
+   "believer": 0.8
+  },
+  {
+   "id": "blood",
+   "label": "혈액 반응이 나오는 얼룩이 형상보다 먼저 천에 있었던 것으로 보인다",
+   "skeptic": 0.2,
+   "believer": 0.7
+  },
+  {
+   "id": "wounds",
+   "label": "상처가 로마식 십자가 처형과 일치하고, 못은 손목에 있다",
+   "skeptic": 0.3,
+   "believer": 1
+  },
+  {
+   "id": "unreproduced",
+   "label": "형상의 모든 특징을 재현한 사람이 없다",
+   "skeptic": 0.5,
+   "believer": 1.2
+  },
+  {
+   "id": "pray",
+   "label": "1192년경의 프레이 코덱스 그림",
+   "skeptic": 0,
+   "believer": 0.5
+  },
+  {
+   "id": "pollen-coins",
+   "label": "꽃가루, 눈 위의 동전, 꽃 형상 (약함 또는 반박됨으로 평가)",
+   "skeptic": 0,
+   "believer": 0
+  }
+ ]
+}

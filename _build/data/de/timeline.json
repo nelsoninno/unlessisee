@@ -1,0 +1,1141 @@
+{
+ "meta": {
+  "note": "Die belegte Geschichte dieses Tuchs beginnt in den 1350er-Jahren in Lirey. Alles davor ist entweder ein eigenständig belegter Gegenstand (Mandylion, Sudarium), dessen Verbindung zu diesem Tuch eine Hypothese ist, oder Legende. Jahre vor Christus werden nur dort negativ angegeben, wo eine Jahreszahl gebraucht wird; hier liegen alle Ereignisse nach Christus."
+ },
+ "events": [
+  {
+   "id": "crucifixion-burial",
+   "year": 30,
+   "date_label": "um 30 oder 33 n. Chr.",
+   "title": "Kreuzigung und Begräbnis Jesu",
+   "text": "Die Evangelien berichten, dass Josef von Arimathäa den Leichnam in ein Leinentuch (Sindon) wickelte und in ein Felsengrab legte. Johannes erwähnt Leinenbinden und ein eigenes Schweißtuch für das Gesicht. Jede Verbindung zu diesem Grabtuch ist eine Hypothese.",
+   "certainty": "hypothesized",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Schwortz 2016 (Einwände aus den Evangelien besprochen)",
+     "url": "https://www.shroud.com/pdfs/fivereasons.pdf"
+    }
+   ]
+  },
+  {
+   "id": "abgar-legend",
+   "year": 325,
+   "date_label": "frühes 4. Jahrhundert",
+   "title": "Eusebius überliefert die Abgar-Briefe, ohne Bild",
+   "text": "Eusebius überliefert einen Briefwechsel zwischen König Abgar von Edessa und Jesus. Ein Bild wird nicht erwähnt. Das Bild kommt erst später in die Legende.",
+   "certainty": "legendary",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Wikipedia: Image of Edessa",
+     "url": "https://en.wikipedia.org/wiki/Image_of_Edessa"
+    }
+   ]
+  },
+  {
+   "id": "egeria-edessa",
+   "year": 384,
+   "date_label": "384",
+   "title": "Die Pilgerin Egeria sieht Briefe, kein Bild",
+   "text": "Egeria besucht Edessa und berichtet von den Abgar-Briefen, aber von keinem Bild Christi.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Wikipedia: Image of Edessa",
+     "url": "https://en.wikipedia.org/wiki/Image_of_Edessa"
+    }
+   ]
+  },
+  {
+   "id": "evagrius-image",
+   "year": 593,
+   "date_label": "um 593",
+   "title": "Erste Erwähnung eines Bildes von Edessa",
+   "text": "Evagrius Scholasticus schreibt einem wundertätigen Bild die Rettung Edessas bei der persischen Belagerung von 544 zu. Ian Wilson vermutete später, dieses Gesichtsbild sei das Grabtuch gewesen, so gefaltet, dass nur das Gesicht zu sehen war.",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Image of Edessa",
+     "url": "https://en.wikipedia.org/wiki/Image_of_Edessa"
+    }
+   ]
+  },
+  {
+   "id": "sudarium-legend",
+   "year": 614,
+   "date_label": "614",
+   "title": "Das Sudarium soll Jerusalem verlassen haben",
+   "text": "Der Legende nach verließ das heute in Oviedo aufbewahrte Schweißtuch Jerusalem vor der persischen Invasion. Die Geschichte wurde Jahrhunderte später von Bischof Pelagius aufgezeichnet, der als Fälscher bekannt ist.",
+   "certainty": "legendary",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Wikipedia: Sudarium of Oviedo",
+     "url": "https://en.wikipedia.org/wiki/Sudarium_of_Oviedo"
+    }
+   ]
+  },
+  {
+   "id": "mandylion-constantinople",
+   "year": 944,
+   "date_label": "944",
+   "title": "Das Mandylion kommt nach Konstantinopel",
+   "text": "Das Bild von Edessa wird nach Konstantinopel gebracht und in der Pharos-Kapelle aufbewahrt. Die Überführung ist belegt; dass es sich um dieses Grabtuch handelte, ist eine Hypothese, die die meisten Historiker ablehnen.",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Image of Edessa",
+     "url": "https://en.wikipedia.org/wiki/Image_of_Edessa"
+    }
+   ]
+  },
+  {
+   "id": "sudarium-1075",
+   "year": 1075,
+   "date_label": "14. März 1075",
+   "title": "Die Truhe des Sudariums wird in Oviedo geöffnet",
+   "text": "Alfons VI., seine Schwester und El Cid öffnen die Truhe mit dem Sudarium. Es ist der früheste ausdrückliche Beleg für dieses Tuch.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Wikipedia: Sudarium of Oviedo",
+     "url": "https://en.wikipedia.org/wiki/Sudarium_of_Oviedo"
+    }
+   ]
+  },
+  {
+   "id": "pray-codex",
+   "year": 1192,
+   "date_label": "1192-1195",
+   "title": "Zeichnung im Codex Pray",
+   "text": "Eine ungarische Handschrift zeigt die Grablegung Christi mit gekreuzten Händen, ohne Daumen, und ein Tuch mit L-förmig angeordneten Kreisen wie den alten Brandlöchern des Grabtuchs. Kritiker deuten den Gegenstand als verzierten Grabstein.",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Hungarian Pray Codex",
+     "url": "https://en.wikipedia.org/wiki/Hungarian_Pray_Codex"
+    }
+   ]
+  },
+  {
+   "id": "de-clari",
+   "year": 1203,
+   "date_label": "1203-1204",
+   "title": "Das Grabtuch mit der Gestalt bei Robert de Clari",
+   "text": "Ein französischer Kreuzfahrer schreibt, dass in der Blachernenkirche in Konstantinopel jeden Freitag ein Grabtuch mit der Gestalt des Herrn aufgerichtet wurde. Keine andere Quelle bestätigt das.",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Robert de Clari",
+     "url": "https://en.wikipedia.org/wiki/Robert_de_Clari"
+    }
+   ]
+  },
+  {
+   "id": "sack-constantinople",
+   "year": 1204,
+   "date_label": "1204",
+   "title": "Plünderung Konstantinopels",
+   "text": "Kreuzfahrer plündern die Reliquien der Stadt. Manche Historiker vermuten, dass damals ein Grabtuch verschwand und später nach Frankreich gelangte. Das ist eine Hypothese.",
+   "certainty": "hypothesized",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "templar-testimony",
+   "year": 1287,
+   "date_label": "1287",
+   "title": "Ein Templer-Novize küsst ein Bild auf Leinen",
+   "text": "Arnaut Sabbatier sagte aus, man habe ihm bei seiner Aufnahme in den Templerorden ein langes Leinentuch mit dem Bild eines bärtigen Mannes gezeigt. Barbara Frale vermutete 2009, dass dies das Grabtuch war.",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "The Register 2009 über Frale",
+     "url": "https://www.theregister.com/offbeat/2009/04/06/vatican-researcher-claims-templars-worshipped-turin-shroud/968021"
+    }
+   ]
+  },
+  {
+   "id": "lirey-founding",
+   "year": 1353,
+   "date_label": "20. Juni 1353",
+   "title": "Gründung der Kirche von Lirey",
+   "text": "Der Ritter Geoffroi de Charny gründet in Lirey in der Champagne eine Stiftskirche. Die offizielle Turiner Website nennt dies den Beginn der ersten sicheren Belege.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Erzdiözese Turin: historischer Überblick",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    },
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "lirey-exhibitions",
+   "year": 1355,
+   "date_label": "um 1355",
+   "title": "Erste Ausstellungen in Lirey",
+   "text": "Der Kanoniker Robert de Caillac beginnt, das Tuch in Lirey auszustellen. Pilgerzeichen mit den Wappen der Familien Charny und Vergy, eines davon heute im Musée de Cluny, zeigen Vorder- und Rückansicht eines Körpers.",
+   "certainty": "probable",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+    },
+    {
+     "label": "A Souvenir from Lirey (Cluny badge)",
+     "url": "https://sindonology.org/papers/clunySouvenir.shtml"
+    }
+   ]
+  },
+  {
+   "id": "charny-death",
+   "year": 1356,
+   "date_label": "1356",
+   "title": "Geoffroi de Charny fällt bei Poitiers",
+   "text": "Der Gründer von Lirey fällt in der Schlacht von Poitiers. Er hinterließ keinen schriftlichen Bericht darüber, wie er an das Tuch kam.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "oresme",
+   "year": 1370,
+   "date_label": "1355 bis 1382 (wahrscheinlich nach 1370)",
+   "title": "Oresme nennt ein Grabtuch in der Champagne eine Fälschung",
+   "text": "Der Theologe Nicole Oresme führt eine Kirche in der Champagne, die das Grabtuch des Herrn zu besitzen behauptet, als klaren Fall von Betrug durch Geistliche an. Die Stelle wurde 2025 von Nicolas Sarzeaud entdeckt.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Classicult 2025 über Sarzeaud",
+     "url": "https://www.classicult.it/en/a-newly-discovered-medieval-document-by-nicole-oresme-is-the-earliest-written-evidence-to-reject-the-shroud-of-turin-as-authentic/"
+    }
+   ]
+  },
+  {
+   "id": "darcis",
+   "year": 1389,
+   "date_label": "1389",
+   "title": "Memorandum des Bischofs d'Arcis",
+   "text": "Der Bischof von Troyes schreibt an Gegenpapst Clemens VII., das Tuch sei geschickt bemalt und ein Künstler habe dies einem früheren Bischof gestanden. Die erhaltenen Texte sind nicht unterzeichnete Entwürfe.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    },
+    {
+     "label": "Markwardt, BSTS Newsletter 99",
+     "url": "https://www.shroud.com/pdfs/n99part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "clement-bull",
+   "year": 1390,
+   "date_label": "6. Januar 1390",
+   "title": "Clemens VII. erlaubt die Ausstellung als „Darstellung“",
+   "text": "Der Gegenpapst erlaubt Ausstellungen nur, wenn das Tuch als Abbild oder Darstellung angekündigt wird, ohne Kerzen, Weihrauch oder Ehrenwache.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "margaret-removes",
+   "year": 1418,
+   "date_label": "1418",
+   "title": "Aus Lirey fortgebracht",
+   "text": "Während des Hundertjährigen Krieges bringt Marguerite de Charny das Tuch zur sicheren Verwahrung aus Lirey fort. Die Kanoniker klagen später auf Rückgabe.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Erzdiözese Turin: historischer Überblick",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    }
+   ]
+  },
+  {
+   "id": "savoy",
+   "year": 1453,
+   "date_label": "1453",
+   "title": "Übergang an das Haus Savoyen",
+   "text": "Marguerite de Charny übergibt das Tuch Herzog Ludwig von Savoyen. Es bleibt bis 1983 im Besitz der Savoyer.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Erzdiözese Turin: historischer Überblick",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    }
+   ]
+  },
+  {
+   "id": "julius-ii",
+   "year": 1506,
+   "date_label": "1506",
+   "title": "Julius II. genehmigt ein Fest",
+   "text": "Papst Julius II. genehmigt für Savoyen ein liturgisches Fest des Heiligen Grabtuchs am 4. Mai und behandelt es damit als Reliquie.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Erzdiözese Turin: historischer Überblick",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    }
+   ]
+  },
+  {
+   "id": "chambery-fire",
+   "year": 1532,
+   "date_label": "4. Dezember 1532",
+   "title": "Brand in Chambéry",
+   "text": "Ein Feuer in der Sainte-Chapelle von Chambéry bringt einen Teil des silbernen Reliquiars zum Schmelzen. Geschmolzenes Metall brennt sich durch das gefaltete Tuch und hinterlässt ein symmetrisches Muster aus Löchern und Brandflecken.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Erzdiözese Turin: historischer Überblick",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    },
+    {
+     "label": "Wikipedia: Conservation-restoration of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "poor-clares",
+   "year": 1534,
+   "date_label": "1534",
+   "title": "Klarissen flicken die Löcher",
+   "text": "Die Nonnen nähen Flicken über die Brandlöcher und unterlegen das Tuch mit einem Hollandtuch.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Conservation-restoration of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "calvin",
+   "year": 1543,
+   "date_label": "1543",
+   "title": "Calvin greift es an",
+   "text": "Johannes Calvins Traktat über die Reliquien verspottet das in Nizza gezeigte Grabtuch als Fälschung.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "to-turin",
+   "year": 1578,
+   "date_label": "14. September 1578",
+   "title": "Überführung nach Turin",
+   "text": "Herzog Emanuel Philibert bringt das Tuch nach Turin, anlässlich einer Pilgerreise von Karl Borromäus. Seitdem ist es in Turin geblieben, abgesehen von Auslagerungen in Kriegszeiten.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Erzdiözese Turin: historischer Überblick",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    }
+   ]
+  },
+  {
+   "id": "guarini-1694",
+   "year": 1694,
+   "date_label": "1694",
+   "title": "Guarini-Kapelle und Ausbesserungen durch Valfrè",
+   "text": "Das Tuch wird in die Kapelle von Guarino Guarini gebracht, wo es bis 1993 bleibt. Sebastiano Valfrè verstärkt es.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "clotilde-1868",
+   "year": 1868,
+   "date_label": "1868",
+   "title": "Prinzessin Clotilde bessert es aus",
+   "text": "Clotilde von Savoyen bessert das Tuch aus. Vom 24. bis 27. April 1868 wird es zur Hochzeit des späteren Umberto I. ausgestellt.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Conservation-restoration of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "pia-1898",
+   "year": 1898,
+   "date_label": "28. Mai 1898",
+   "title": "Das Negativ von Secondo Pia",
+   "text": "Der Amateurfotograf Secondo Pia stellt fest, dass seine Negativplatte eine klare, positiv wirkende menschliche Gestalt zeigt. Hier beginnt das moderne wissenschaftliche Interesse.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Wikipedia: Secondo Pia",
+     "url": "https://en.wikipedia.org/wiki/Secondo_Pia"
+    }
+   ]
+  },
+  {
+   "id": "vignon-1902",
+   "year": 1902,
+   "date_label": "1902",
+   "title": "Vignon untersucht die Geometrie des Bildes",
+   "text": "Paul Vignon untersucht, wie ein Tuch über einem Körper ein Bild verzerren würde, und stellt fest, dass das Bild wie eine orthogonale Projektion aussieht, ein Punkt, den Moraes 2025 erneut aufgreift.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Vatican News 2026",
+     "url": "https://www.vaticannews.va/en/church/news/2026-02/shroud-turin-medieval-bas-relief-hypothesis-challenged.html"
+    },
+    {
+     "label": "Catholic World Report 2025 (Stellungnahme des CISS)",
+     "url": "https://www.catholicworldreport.com/2025/08/05/shroud-of-turin-center-disputes-new-study-that-challenges-authenticity-of-burial-cloth/"
+    }
+   ]
+  },
+  {
+   "id": "enrie-1931",
+   "year": 1931,
+   "date_label": "1931",
+   "title": "Enries Fotografien",
+   "text": "Der Berufsfotograf Giuseppe Enrie bestätigt Pias Ergebnis mit schärferen Platten. Enries Bilder wurden in späteren 3D-Arbeiten und für Modellierungen im Jahr 2025 verwendet.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Wikipedia: Secondo Pia",
+     "url": "https://en.wikipedia.org/wiki/Secondo_Pia"
+    }
+   ]
+  },
+  {
+   "id": "commission-1969",
+   "year": 1969,
+   "date_label": "1969",
+   "title": "Erste wissenschaftliche Kommission",
+   "text": "Der Erzbischof von Turin setzt eine zunächst vertrauliche Kommission ein, die den Zustand des Tuchs untersuchen soll.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "tv-1973",
+   "year": 1973,
+   "date_label": "23. November 1973",
+   "title": "Erste Fernsehausstellung und erste Proben",
+   "text": "Das Tuch wird live im Fernsehen gezeigt. Für Untersuchungen werden Fäden entnommen, darunter jene, die Gilbert Raes untersuchte, und Max Frei nimmt Klebebandproben für Pollen.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Erzdiözese Turin: Ausstellung 1973",
+     "url": "https://sindone.org/en/home-english/expositions/1973-2/"
+    },
+    {
+     "label": "Smith über Raes, Shroud Spectrum",
+     "url": "https://www.shroud.com/pdfs/ssi3536part5.pdf"
+    },
+    {
+     "label": "Farey 2014 über Freis Pollen",
+     "url": "https://shroud.com/pdfs/n79part8.pdf"
+    }
+   ]
+  },
+  {
+   "id": "vp8-1976",
+   "year": 1976,
+   "date_label": "1976",
+   "title": "Der VP-8-Analysator zeigt 3D-Informationen",
+   "text": "Mit einem VP-8 Image Analyzer bei Sandia stellen John Jackson und Eric Jumper fest, dass ein Foto von Enrie ein stimmiges Relief ergibt. Daraus entsteht STURP.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "STERA-Seite zum VP-8",
+     "url": "https://shroud.com/78strp10.htm"
+    }
+   ]
+  },
+  {
+   "id": "sturp-1978",
+   "year": 1978,
+   "date_label": "26. August bis Oktober 1978",
+   "title": "Öffentliche Ausstellung und Untersuchung durch STURP",
+   "text": "Etwa 3 Millionen Menschen sehen das Tuch. Danach untersucht das STURP-Team es fünf Tage lang rund um die Uhr, mit Fotos, Spektren, Röntgenfluoreszenz und Klebebandproben.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Wikipedia: Shroud of Turin Research Project",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin_Research_Project"
+    }
+   ]
+  },
+  {
+   "id": "mccrone-1980",
+   "year": 1980,
+   "date_label": "1979-1990",
+   "title": "McCrone sagt, es sei Farbe",
+   "text": "Walter McCrone berichtet von rotem Ocker und Zinnober in einem Kollagen-Bindemittel auf den Klebebändern von 1978 und schließt daraus, es sei ein Gemälde aus dem 14. Jahrhundert. Er verlässt STURP 1980 und veröffentlicht seine Argumente 1990 in Accounts of Chemical Research.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "McCrone Research Institute",
+     "url": "https://mccroneinstitute.org/research/shroud-of-turin-research-at-mccrone"
+    },
+    {
+     "label": "Wikipedia: Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+    },
+    {
+     "label": "McCrone 1990 (archiviert)",
+     "url": "https://web.archive.org/web/20230131030206/http://www.mccroneinstitute.org/uploads/the_microscope__shroud_small-1422560933.pdf"
+    }
+   ]
+  },
+  {
+   "id": "sturp-papers-1980",
+   "year": 1980,
+   "date_label": "1980",
+   "title": "STURP-Artikel in Applied Optics",
+   "text": "STURP veröffentlicht Ergebnisse zu Spektren, Infrarot, UV und Blut, darunter den Artikel von Heller und Adler „Blood on the Shroud of Turin“.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Veröffentlichte Artikel von STURP",
+     "url": "http://www.shroud.com/78papers.htm"
+    },
+    {
+     "label": "Heller und Adler 1980",
+     "url": "https://www.shroud.com/pdfs/ssi43part2.pdf"
+    }
+   ]
+  },
+  {
+   "id": "sturp-1981",
+   "year": 1981,
+   "date_label": "1981",
+   "title": "Abschlussbericht von STURP",
+   "text": "STURP kommt zu dem Schluss, dass das Bild weder Farbe noch das Werk eines Künstlers ist, dass die Flecken Hämoglobin enthalten und dass die Entstehung des Bildes ein Rätsel bleibt. Heller und Adler veröffentlichen ihre chemische Studie.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "STURP: Zusammenfassung der Schlussfolgerungen",
+     "url": "http://www.shroud.com/78conclu.htm"
+    },
+    {
+     "label": "Heller und Adler 1981",
+     "url": "https://www.shroud.com/pdfs/ssi43part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "holy-see-1983",
+   "year": 1983,
+   "date_label": "1983",
+   "title": "An den Heiligen Stuhl übergeben",
+   "text": "Das Eigentum geht vom Haus Savoyen an den Heiligen Stuhl über. Ein päpstlicher Kustos, der Erzbischof von Turin, wacht über das Tuch.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "jackson-1984",
+   "year": 1984,
+   "date_label": "1984",
+   "title": "Artikel über Bildintensität und Abstand",
+   "text": "Jackson, Jumper und Ercoline veröffentlichen in Applied Optics, dass die Schattierung des Bildes mit dem Abstand zwischen Tuch und Körper korreliert (r Quadrat 0,60 aus 13 Punkten).",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Jackson et al. 1984",
+     "url": "https://shroud.com/pdfs/Correlation%20of%20Image%20Intensity%20Jackson%20Jumper%20Ercoline%201984%20OCRsm.pdf"
+    }
+   ]
+  },
+  {
+   "id": "sampling-1988",
+   "year": 1988,
+   "date_label": "21. April 1988",
+   "title": "Die Radiokarbonprobe wird entnommen",
+   "text": "In der Sakristei des Doms schneidet Giovanni Riggi einen Streifen aus einer Ecke. Stücke gehen nach Arizona, Oxford und Zürich, zusammen mit drei Kontrollstoffen. Ein Teil wird als Reserve aufbewahrt.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Damon et al. 1989",
+     "url": "https://shroud.com/nature.htm"
+    },
+    {
+     "label": "Wikipedia: Radiocarbon dating",
+     "url": "https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "nature-1989",
+   "year": 1989,
+   "date_label": "Februar 1989",
+   "title": "Nature veröffentlicht 1260 bis 1390 n. Chr.",
+   "text": "Damon und Kollegen aus den drei Laboren berichten einen 95-%-Bereich von 1260 bis 1390 n. Chr. und nennen ihn einen schlüssigen Beleg für eine mittelalterliche Datierung. Kardinal Ballestrero gab den offiziellen Bereich im Namen der Kirche bekannt.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Damon et al. 1989, Nature 337:611",
+     "url": "https://doi.org/10.1038/337611a0"
+    }
+   ]
+  },
+  {
+   "id": "sudarium-c14",
+   "year": 1990,
+   "date_label": "1990, 1992, 2007",
+   "title": "Radiokarbondatierung des Sudariums von Oviedo",
+   "text": "Arizona, Toronto und Madrid datieren das Sudarium zwischen das 6. und das 9. Jahrhundert, am wahrscheinlichsten um 700 n. Chr.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Wikipedia: Sudarium of Oviedo",
+     "url": "https://en.wikipedia.org/wiki/Sudarium_of_Oviedo"
+    }
+   ]
+  },
+  {
+   "id": "fire-1997",
+   "year": 1997,
+   "date_label": "11. April 1997",
+   "title": "Brand im Dom",
+   "text": "In der Guarini-Kapelle bricht ein Feuer aus. Der Feuerwehrmann Mario Trematore zertrümmert den kugelsicheren Schrein mit einem Vorschlaghammer, und das Tuch wird unversehrt herausgetragen.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Conservation-restoration of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "jpii-1998",
+   "year": 1998,
+   "date_label": "24. Mai 1998",
+   "title": "Johannes Paul II.: keine Glaubensfrage",
+   "text": "In Turin sagt der Papst, die Kirche habe keine besondere Zuständigkeit, über die Echtheit zu entscheiden, und überlässt die Frage den Wissenschaftlern. Er nennt das Grabtuch einen Spiegel des Evangeliums.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Vatikan: Ansprache von Johannes Paul II., 24. Mai 1998",
+     "url": "https://www.vatican.va/content/john-paul-ii/en/travels/1998/documents/hf_jp-ii_spe_24051998_sindone.html"
+    }
+   ]
+  },
+  {
+   "id": "jubilee-2000",
+   "year": 2000,
+   "date_label": "2000",
+   "title": "Ausstellung zum Großen Jubiläum",
+   "text": "Das Tuch wird zum Jubiläumsjahr öffentlich gezeigt.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "restoration-2002",
+   "year": 2002,
+   "date_label": "20. Juni bis 22. Juli 2002",
+   "title": "Große Restaurierung",
+   "text": "Das Team von Mechthild Flury-Lemberg entfernt die 30 Flicken von 1534 und das Hollandtuch, bringt ein neues Stütztuch an und scannt beide Seiten. Manche Wissenschaftler kritisieren die Arbeit, weil sie Beweismaterial beschädigt habe.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Erzdiözese Turin: die Restaurierung",
+     "url": "https://sindone.org/en/home-english/the-shroud/the-fire/the-restoration/"
+    },
+    {
+     "label": "Wikipedia: Conservation-restoration",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "back-image-2004",
+   "year": 2004,
+   "date_label": "2004",
+   "title": "Behauptetes blasses Bild auf der Rückseite",
+   "text": "Fanti und Maggiolo berichten anhand von Fotografien von 2002 von einem blassen Gesichtsbild auf der Rückseite des Tuchs. Direkte Beobachter sahen 2002 Berichten zufolge keines.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Besprechung von Fanti und Maggiolo 2004",
+     "url": "https://sindonology.org/reviews/doubleSuperficiality.shtml"
+    }
+   ]
+  },
+  {
+   "id": "rogers-2005",
+   "year": 2005,
+   "date_label": "Januar 2005",
+   "title": "Rogers: Die datierte Probe war anders",
+   "text": "Raymond Rogers argumentiert in Thermochimica Acta, dass der Bereich der Radiokarbonprobe Baumwolle und eine Beschichtung aus Gummi und Farbstoff enthält, und schätzt das Tuch anhand des Vanillinverlusts auf 1.300 bis 3.000 Jahre.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Rogers 2005",
+     "url": "https://zenodo.org/record/1259381"
+    },
+    {
+     "label": "Ball 2005, Nature News",
+     "url": "https://www.nature.com/news/2005/050124/full/news050124-17.html"
+    }
+   ]
+  },
+  {
+   "id": "ramsey-2008",
+   "year": 2008,
+   "date_label": "2008",
+   "title": "Oxford prüft die Kohlenmonoxid-Idee",
+   "text": "Christopher Ramsey prüft, ob Kohlenmonoxid Leinen jungen Kohlenstoff hinzufügen könnte, und findet keinen nennenswerten Effekt.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Oxford Radiocarbon Accelerator Unit",
+     "url": "https://c14.arch.ox.ac.uk/shroud.html"
+    }
+   ]
+  },
+  {
+   "id": "garlaschelli-2009",
+   "year": 2009,
+   "date_label": "Oktober 2009",
+   "title": "Garlaschellis Nachbildung in voller Größe",
+   "text": "Der Chemiker Luigi Garlaschelli zeigt ein lebensgroßes Tuch, hergestellt durch Einreiben eines säurehaltigen Pigments über einer Versuchsperson und einem Flachrelief, anschließendes Erhitzen und Waschen. Der Artikel erscheint 2010.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Garlaschelli 2010, JIST 54(4)",
+     "url": "https://library.imaging.org/jist/articles/54/4/art00002"
+    }
+   ]
+  },
+  {
+   "id": "enea-2010",
+   "year": 2010,
+   "date_label": "2010-2011",
+   "title": "UV-Laserstudien der ENEA",
+   "text": "Physiker der ENEA färben Leinen mit sehr kurzen UV-Laserpulsen und erhalten eine dünne, grabtuchähnliche Vergilbung. Sie betonen, dass dies nicht zeigt, wie das Bild tatsächlich entstand.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Di Lazzaro et al. 2010",
+     "url": "https://www.sindone.info/DILAZZA1.PDF"
+    }
+   ]
+  },
+  {
+   "id": "jull-2010",
+   "year": 2010,
+   "date_label": "2010",
+   "title": "Arizona untersucht ein datiertes Fragment erneut",
+   "text": "Freer-Waters und Jull finden auf einem übrig gebliebenen Fragment aus Arizona weder Farbstoff noch Beschichtung und nur wenige Baumwollfasern. Das Tuch wird 2010 auch öffentlich gezeigt.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Freer-Waters und Jull 2010, Radiocarbon 52(4)",
+     "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8CC26C322198300E051C49A0BA5B96D9/S0033822200056277a.pdf/investigating-a-dated-piece-of-the-shroud-of-turin.pdf"
+    }
+   ]
+  },
+  {
+   "id": "riani-fanti-2013",
+   "year": 2013,
+   "date_label": "2013",
+   "title": "Statistik-Artikel und Fantis Datierungsbuch",
+   "text": "Riani und Kollegen veröffentlichen die Analyse des räumlichen Trends in Statistics and Computing. Fanti verkündet FT-IR-, Raman- und mechanische Datierungen nahe dem ersten Jahrhundert; der Erzbischof von Turin sagt, die Herkunft des Materials sei nicht sicher.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Riani et al. 2013",
+     "url": "https://riani.unipr.it/pub/RAFC2012.pdf"
+    },
+    {
+     "label": "National Catholic Register 2013",
+     "url": "https://www.ncregister.com/news/science-shines-new-light-on-shroud-of-turin-s-age"
+    }
+   ]
+  },
+  {
+   "id": "freeman-2014",
+   "year": 2014,
+   "date_label": "2014",
+   "title": "Freemans Theorie vom Osterrequisit",
+   "text": "Der Historiker Charles Freeman argumentiert in History Today, das Tuch sei ein verblasstes, einst bemaltes Requisit für mittelalterliche Osterspiele gewesen.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Art History News über Freeman",
+     "url": "https://arthistorynews.com/articles/3065_Turin_Shroud_debunked_again"
+    }
+   ]
+  },
+  {
+   "id": "expo-2015",
+   "year": 2015,
+   "date_label": "2015",
+   "title": "Ausstellung und erste DNA-Untersuchung",
+   "text": "Das Tuch wird mit Zustimmung von Papst Franziskus gezeigt. Barcaccia und Kollegen berichten von pflanzlicher und menschlicher DNA aus vielen Regionen und fügen hinzu, dass ein mittelalterlicher europäischer Ursprung nicht ausgeschlossen ist.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Wikipedia: Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+    },
+    {
+     "label": "Barcaccia et al. 2015",
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4593049/"
+    }
+   ]
+  },
+  {
+   "id": "raw-data-2017",
+   "year": 2017,
+   "date_label": "2017",
+   "title": "Radiokarbon-Rohdaten freigegeben",
+   "text": "Nach einem rechtlichen Antrag gibt das British Museum die Rohdaten der Labore von 1988 an den Forscher Tristan Casabianca heraus.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Casabianca et al. 2019",
+     "url": "https://philarchive.org/archive/CASTRD-3"
+    }
+   ]
+  },
+  {
+   "id": "bpa-2018",
+   "year": 2018,
+   "date_label": "2018",
+   "title": "Studie zum Blutspurenmuster",
+   "text": "Borrini und Garlaschelli berichten im Journal of Forensic Sciences, dass die Blutspuren auf widersprüchliche Körperhaltungen schließen lassen. Im August findet eine öffentliche Ausstellung statt.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Borrini und Garlaschelli",
+     "url": "https://researchonline.ljmu.ac.uk/id/eprint/8813/"
+    }
+   ]
+  },
+  {
+   "id": "casabianca-2019",
+   "year": 2019,
+   "date_label": "März 2019",
+   "title": "Rohdaten zeigen Heterogenität",
+   "text": "Casabianca und Kollegen veröffentlichen in Archaeometry, dass die Rohdaten nicht homogen sind und das Verfahren von 1988 überdacht werden sollte, ohne eine mittelalterliche Datierung auszuschließen.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Casabianca et al. 2019, Archaeometry 61(5)",
+     "url": "https://philarchive.org/rec/CASTRD-3"
+    }
+   ]
+  },
+  {
+   "id": "holy-saturday-2020",
+   "year": 2020,
+   "date_label": "Karsamstag, April 2020",
+   "title": "Ausstellung im Livestream während des Lockdowns",
+   "text": "Während des COVID-19-Lockdowns zeigt die Erzdiözese das Tuch im Fernsehen und online. Papst Franziskus nennt es eine Ikone des gekreuzigten, gestorbenen und auferstandenen Herrn.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Vatican News, April 2020",
+     "url": "https://vaticannews.va/en/pope/news/2020-04/pope-expresses-gratitude-for-exposition-of-the-shroud-of-turin.html"
+    }
+   ]
+  },
+  {
+   "id": "stats-2020",
+   "year": 2020,
+   "date_label": "2020",
+   "title": "Zwei weitere statistische Neuauswertungen",
+   "text": "Walsh und Schwalbe sowie Di Lazzaro und Kollegen veröffentlichen, dass die Ergebnisse für das Grabtuch heterogen sind, einen räumlichen Trend zeigen und die mittelalterliche Schlussfolgerung überdacht werden sollte.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Walsh und Schwalbe 2020",
+     "url": "https://doi.org/10.1016/j.jasrep.2019.102015"
+    },
+    {
+     "label": "Di Lazzaro et al. 2020, Entropy",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7597180"
+    }
+   ]
+  },
+  {
+   "id": "waxs-2022",
+   "year": 2022,
+   "date_label": "April 2022",
+   "title": "WAXS-Datierung eines Fadens",
+   "text": "De Caro und Kollegen berichten in Heritage, dass die Alterung der Zellulose eines Fadens unter angenommenen Lagerungsbedingungen einem Leinen aus Masada von 55 bis 74 n. Chr. entspricht.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "De Caro et al. 2022",
+     "url": "https://dsctm.cnr.it/images/Highlights/Sindone/DeCaro_Heritage_2022.pdf"
+    }
+   ]
+  },
+  {
+   "id": "review-2025",
+   "year": 2025,
+   "date_label": "Februar 2025",
+   "title": "Neutrale Übersicht: Datierung gilt, neuer Test nötig",
+   "text": "Eine Übersichtsarbeit in Textiles kommt zu dem Schluss, dass die Belege gegen die Datierung von 1989 nicht ausreichen, um sie zu kippen, dass die Entstehung des Bildes weiterhin ein Rätsel ist und dass ein zweiter Radiokarbontest nötig ist.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Karapanagiotis 2025",
+     "url": "https://www.mdpi.com/2673-7248/5/1/8"
+    }
+   ]
+  },
+  {
+   "id": "jubilee-2025",
+   "year": 2025,
+   "date_label": "28. April bis 5. Mai 2025",
+   "title": "Digitales Grabtuch zum Heiligen Jahr",
+   "text": "Statt einer Ausstellung des Originals stellt Kardinal Repole in einem Zelt auf der Piazza Castello in Turin eine lebensgroße digitale Nachbildung vor.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Catholic Weekly 2025",
+     "url": "https://catholicweekly.com.au/shroud-of-turin-to-be-digitally-showcased-for-holy-year/"
+    }
+   ]
+  },
+  {
+   "id": "moraes-2025",
+   "year": 2025,
+   "date_label": "28. Juli 2025",
+   "title": "Moraes: Ein Flachrelief passt besser",
+   "text": "Cicero Moraes veröffentlicht in Archaeometry 3D-Simulationen des Faltenwurfs, nach denen eine Skulptur in Flachrelief besser zum Bild passt als ein Körper. Das Turiner Zentrum CISS antwortet am 4. August, dies sei nicht neu.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Live Science 2025",
+     "url": "https://www.livescience.com/archaeology/shroud-of-turin-wasnt-laid-on-jesus-body-but-rather-a-sculpture-modeling-study-suggests"
+    },
+    {
+     "label": "Catholic World Report 2025",
+     "url": "https://www.catholicworldreport.com/2025/08/05/shroud-of-turin-center-disputes-new-study-that-challenges-authenticity-of-burial-cloth/"
+    }
+   ]
+  },
+  {
+   "id": "oresme-find-2025",
+   "year": 2025,
+   "date_label": "August 2025",
+   "title": "Stelle bei Oresme veröffentlicht",
+   "text": "Nicolas Sarzeaud veröffentlicht den Text von Oresme im Journal of Medieval History, die früheste bekannte schriftliche Zurückweisung des Tuchs.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Classicult 2025",
+     "url": "https://www.classicult.it/en/a-newly-discovered-medieval-document-by-nicole-oresme-is-the-earliest-written-evidence-to-reject-the-shroud-of-turin-as-authentic/"
+    }
+   ]
+  },
+  {
+   "id": "moraes-rebuttal-2026",
+   "year": 2026,
+   "date_label": "Februar 2026",
+   "title": "Erwiderung auf Moraes in Archaeometry",
+   "text": "Casabianca, Marinelli und Piana veröffentlichen in derselben Zeitschrift eine Kritik an Moraes' Modell und verweisen auf Modellierungsfehler und übergangene Befunde.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Vatican News, 10. Februar 2026",
+     "url": "https://www.vaticannews.va/en/church/news/2026-02/shroud-turin-medieval-bas-relief-hypothesis-challenged.html"
+    }
+   ]
+  },
+  {
+   "id": "jull-2026",
+   "year": 2026,
+   "date_label": "April 2026",
+   "title": "Zweites Fragment aus Arizona untersucht",
+   "text": "Freer-Waters und Jull veröffentlichen in Heritage Science eine Arbeit über ein übrig gebliebenes Fragment von 1988 aus Arizona. Presseberichten zufolge fanden sie kein Anzeichen einer Reparatur oder von Fremdmaterial.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Freer-Waters und Jull 2026, Heritage Science",
+     "url": "https://www.nature.com/articles/s40494-026-02530-7"
+    },
+    {
+     "label": "Farey 2026, Zusammenfassung im Blog",
+     "url": "https://medievalshroud.com/the-donahue-sliver-resurfaces/"
+    }
+   ]
+  },
+  {
+   "id": "riani-2026",
+   "year": 2026,
+   "date_label": "11. Juni 2026",
+   "title": "Regression mit den Rohdaten",
+   "text": "Riani, Atkinson, Corbellini und Di Lazzaro veröffentlichen in Statistical Methods and Applications eine Neuauswertung der Rohdaten und testen alle 165.888 möglichen Anordnungen der Teilproben.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Riani et al. 2026",
+     "url": "https://link.springer.com/article/10.1007/s10260-026-00851-2"
+    }
+   ]
+  },
+  {
+   "id": "sudarium-exam-2026",
+   "year": 2026,
+   "date_label": "Juli 2026",
+   "title": "Neue Untersuchung des Sudariums",
+   "text": "EDICES und die Universität Oviedo berichten über die erste nicht invasive technische Untersuchung des Sudariums seit 2012.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "STERA: aktuelle Meldungen",
+     "url": "https://www.shroud.com/latebrak.htm"
+    }
+   ]
+  },
+  {
+   "id": "dna-2026",
+   "year": 2026,
+   "date_label": "Juli 2026",
+   "title": "DNA-Studie der Proben von 1978",
+   "text": "Barcaccia und Kollegen berichten in Scientific Reports, dass die wichtigste menschliche DNA zu dem Wissenschaftler passt, der die Proben genommen hat, dazu kommen viele Spuren von Pflanzen, Tieren und Mikroben. Zwei Fäden aus dem Reliquiar stammen von den Ausbesserungen von 1534 und 1694.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Barcaccia et al. 2026",
+     "url": "https://www.nature.com/articles/s41598-026-60684-7"
+    },
+    {
+     "label": "ScienceDaily 2026",
+     "url": "https://www.sciencedaily.com/releases/2026/08/260803080859.htm"
+    },
+    {
+     "label": "IBT über inkl 2026",
+     "url": "https://www.inkl.com/news/turin-shroud-dna-jesus-claim-hits-a-snag-strongest-match-points-to-man-who-collected-samples"
+    }
+   ]
+  },
+  {
+   "id": "kearse-2026",
+   "year": 2026,
+   "date_label": "22. Juli 2026",
+   "title": "Reihenfolge von Blut und Bild geprüft",
+   "text": "Kelly Kearse zeigt, dass Blut auf säurebehandeltem Leinen eine spätere Färbung verhindert, sodass „kein Bild unter dem Blut“ die Reihenfolge der Ereignisse nicht festlegt.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Kearse 2026, International Journal of Archaeology",
+     "url": "https://sciencepublishinggroup.com/article/10.11648/j.ija.20261402.11"
+    }
+   ]
+  }
+ ]
+}

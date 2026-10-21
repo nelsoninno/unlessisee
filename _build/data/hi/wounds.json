@@ -1,0 +1,348 @@
+{
+ "items": [
+  {
+   "id": "crown-of-thorns-forehead",
+   "name": "माथे पर छेदों से बहता ख़ून",
+   "body_region": "माथा और सिर की खाल का अगला हिस्सा",
+   "side": "front",
+   "x": 0.485,
+   "y": 0.11,
+   "description": "छेदों वाले बिंदुओं से ख़ून की कई धाराएँ माथे पर नीचे बहती हैं। एक धारा अंक 3 के आकार की है (इसे अक्सर एप्सिलॉन कहा जाता है), जिसे Bucklin त्वचा की सिलवटों के साथ बहते ख़ून के रूप में समझाते हैं।",
+   "gospel": "यूहन्ना 19:2",
+   "verse": "और सिपाहियों ने काँटों का मुकुट गूँथकर उसके सिर पर रखा, और उसे बैंगनी ऊपरी वस्त्र पहनाया,",
+   "skeptic": "काँटों का मुकुट सुसमाचार का ऐसा ब्योरा है जिसे कोई भी कलाकार शामिल करता। अलग-अलग धाराओं के आकार तस्वीरों से पढ़े गए हैं।",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    }
+   ]
+  },
+  {
+   "id": "face-injuries",
+   "name": "चेहरे की चोटें",
+   "body_region": "दायाँ गाल, दाईं आँख, नाक",
+   "side": "front",
+   "x": 0.47,
+   "y": 0.145,
+   "description": "Bucklin बताते हैं कि दाएँ गाल पर सूजन है, दाईं आँख आंशिक रूप से बंद है, नाक में हल्का टेढ़ापन है और नाक की नोक पर छिलन है। इसके बजाय Bevilacqua और D'Arienzo दाईं आँख को तंत्रिका की चोट से धँसी हुई बताते हैं।",
+   "gospel": "मत्ती 27:30",
+   "verse": "और उस पर थूका; और वही सरकण्डा लेकर उसके सिर पर मारने लगे।",
+   "skeptic": "चेहरे के ब्योरे धुँधले हैं और बढ़ाई हुई छवियों से पढ़े गए हैं। रोगविज्ञानी दाईं आँख पर पहले से ही असहमत हैं।",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Bevilacqua और D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    }
+   ]
+  },
+  {
+   "id": "nose-dirt-fall",
+   "name": "नाक पर खरोंचें और मिट्टी",
+   "body_region": "नाक",
+   "side": "front",
+   "x": 0.515,
+   "y": 0.16,
+   "description": "Bucklin नाक के आसपास खरोंचों और मिट्टी का वर्णन करते हैं, जो गिरने पर चेहरे के ज़मीन से टकराने से मेल खाता है। मृत्युदंड की जगह तक जाते हुए गिरना परंपरा है, सुसमाचार में नहीं है।",
+   "gospel": null,
+   "verse": null,
+   "skeptic": "खनिजों का एकमात्र प्रकाशित अध्ययन (Kohlbeck और Nitowski 1986) पैरों के एक टेप से चूना पत्थर के कण बताता है, नाक से नहीं। नाक पर मिट्टी की किसी विश्लेषण से स्वतंत्र पुष्टि नहीं हुई है।",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Nitowski 1986",
+     "url": "https://www.shroud.com/pdfs/ESSJ%20Nitowski%201986.pdf"
+    }
+   ]
+  },
+  {
+   "id": "right-shoulder-dislocation",
+   "name": "झुका हुआ दायाँ कंधा",
+   "body_region": "दायाँ कंधा और बाँह",
+   "side": "front",
+   "x": 0.62,
+   "y": 0.21,
+   "description": "Bevilacqua और D'Arienzo बताते हैं कि दायाँ कंधा लगभग 15 डिग्री नीचे है, और वे इसे दाईं ह्यूमरस हड्डी का खिसकना मानते हैं, शायद बल्ली उठाते समय गिरने से।",
+   "gospel": null,
+   "verse": null,
+   "skeptic": "केवल एक टीम की व्याख्या, जो एक सम्मेलन की कार्यवाही और कम प्रभाव वाले एक जर्नल में छपी। दूसरे रोगविज्ञानी इसका वर्णन नहीं करते।",
+   "sources": [
+    {
+     "label": "Bevilacqua और D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    },
+    {
+     "label": "Bevilacqua, Fanti, D'Arienzo 2017, Open Journal of Trauma",
+     "url": "https://oalib-perpustakaan.upi.edu/Record/peertech__10_17352_ojt_000009/Description"
+    }
+   ]
+  },
+  {
+   "id": "wrist-nail-wound",
+   "name": "कलाई पर कील का घाव",
+   "body_region": "बाएँ हाथ का पिछला हिस्सा, कलाई वाले सिरे पर (दायाँ हाथ ढका है)",
+   "side": "front",
+   "x": 0.445,
+   "y": 0.47,
+   "description": "बाएँ हाथ के पिछले हिस्से पर ख़ून का एक निशान कलाई की ओर है, और उससे लगभग 10 डिग्री के अंतर पर दो धाराएँ निकलती हैं। Bucklin का हिसाब है कि बाँहें लगभग 65 डिग्री ऊपर उठी थीं और व्यक्ति ने अपनी स्थिति बदली थी। Barbet ने कील को कलाई में Destot की जगह पर रखा। Zugibe का तर्क है कि कील हथेली के ऊपरी हिस्से में घुसी और कलाई पर निकली।",
+   "gospel": "यूहन्ना 20:25",
+   "verse": "जब तक मैं उसके हाथों में कीलों के छेद न देख लूँ, और कीलों के छेदों में अपनी उँगली न डाल लूँ, तब तक मैं विश्वास नहीं करूँगा।",
+   "skeptic": "प्रमुख रोगविज्ञानी कील के रास्ते पर असहमत हैं। घाव की जगह ज़्यादातर मध्ययुगीन कला से अलग है, लेकिन कला में कलाई पर कील दिखाना अनजाना नहीं है।",
+   "sources": [
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    },
+    {
+     "label": "Zugibe 1995, Pierre Barbet Revisited",
+     "url": "https://shroud.com/zugibe.htm"
+    }
+   ]
+  },
+  {
+   "id": "missing-thumbs",
+   "name": "अँगूठे नहीं दिखते",
+   "body_region": "दोनों हाथ",
+   "side": "front",
+   "x": 0.5,
+   "y": 0.495,
+   "description": "हर हाथ पर केवल चार उँगलियाँ दिखती हैं। Barbet और Bucklin इसे तंत्रिका की चोट से समझाते हैं, जो अँगूठों को हथेली में खींच लेती है। Zugibe कहते हैं कि अँगूठे बस तर्जनी के सामने टिके हैं और उन्होंने कपड़े को नहीं छुआ।",
+   "gospel": null,
+   "verse": null,
+   "skeptic": "दो आपस में असंगत चिकित्सा व्याख्याएँ हैं। एक-दूसरे पर रखे हाथ बनाने वाला कलाकार भी अँगूठे छिपा सकता था।",
+   "sources": [
+    {
+     "label": "Zugibe 1995, Pierre Barbet Revisited",
+     "url": "https://shroud.com/zugibe.htm"
+    },
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    }
+   ]
+  },
+  {
+   "id": "forearm-blood-flows",
+   "name": "अग्रबाहुओं पर बहता ख़ून",
+   "body_region": "दोनों अग्रबाहुएँ",
+   "side": "front",
+   "x": 0.66,
+   "y": 0.43,
+   "description": "ख़ून की धाराएँ कलाइयों से अग्रबाहुओं के साथ कोहनियों की ओर बहती हैं, जैसा कि ख़ून बहते समय बाँहें सिर के ऊपर उठी होने पर होगा।",
+   "gospel": "यूहन्ना 19:18",
+   "verse": "वहाँ उन्होंने उसे और उसके साथ और दो मनुष्यों को क्रूस पर चढ़ाया, एक को इधर और एक को उधर, और बीच में यीशु को।",
+   "skeptic": "Borrini और Garlaschelli (2018) ने पाया कि अग्रबाहु की धाराओं के लिए बाँहें लगभग सीधी खड़ी होनी चाहिए, जबकि हाथ की धाराओं के लिए लगभग 45 डिग्री पर। वे इसे असंगत और कलात्मक मानते हैं।",
+   "sources": [
+    {
+     "label": "Borrini और Garlaschelli, J. Forensic Sciences",
+     "url": "https://researchonline.ljmu.ac.uk/id/eprint/8813/"
+    },
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    }
+   ]
+  },
+  {
+   "id": "side-wound",
+   "name": "पसली पर ख़ून और साफ़ तरल वाला घाव",
+   "body_region": "छाती की दाईं ओर, लगभग पाँचवीं से छठी पसली",
+   "side": "front",
+   "x": 0.64,
+   "y": 0.334,
+   "description": "सबसे बड़ा ख़ून का दाग़ दाईं छाती पर है, और उसके ऊपरी किनारे पर त्वचा का एक अंडाकार घाव है। Bucklin को ख़ून के साथ साफ़, पानी जैसा तरल दिखता है, और वे दिल के काम बंद करने से बने फेफड़ों के आवरण के तरल (प्ल्यूरल द्रव) का सुझाव देते हैं। Bevilacqua और D'Arienzo घाव को छठी और सातवीं पसली के बीच की जगह में रखते हैं, लगभग 4.5 सेमी चौड़ा।",
+   "gospel": "यूहन्ना 19:34",
+   "verse": "परन्तु सिपाहियों में से एक ने बरछे से उसका पंजर बेधा और उसमें से तुरन्त लहू और पानी निकला।",
+   "skeptic": "\"पानी\" दाग़ के हल्के हिस्सों की एक व्याख्या है। दाईं ओर भाले का घाव मध्ययुगीन कला में भी सामान्य जगह है।",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Bevilacqua और D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    }
+   ]
+  },
+  {
+   "id": "scourge-marks-front",
+   "name": "कोड़ों के निशान (सामने)",
+   "body_region": "छाती और पैरों का अगला हिस्सा",
+   "side": "front",
+   "x": 0.42,
+   "y": 0.66,
+   "description": "ऐसे ही जोड़ीदार निशान छाती और पैरों के अगले हिस्से पर दिखते हैं, जो पीठ से घूमकर आते हैं। Bucklin बताते हैं कि ये बाँहों और अग्रबाहुओं पर नहीं हैं।",
+   "gospel": "यूहन्ना 19:1",
+   "verse": "इस पर पिलातुस ने यीशु को लेकर कोड़े लगवाए।",
+   "skeptic": "पीठ के निशानों वाली ही सावधानियाँ।",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "knee-abrasions",
+   "name": "घुटनों पर छिलन",
+   "body_region": "घुटने, ख़ासकर बायाँ",
+   "side": "front",
+   "x": 0.45,
+   "y": 0.73,
+   "description": "लोकप्रिय विवरण बार-बार गिरने से घुटनों पर सूजन और छिलन बताते हैं। Bucklin केवल यह बताते हैं कि बायाँ घुटना थोड़ा मुड़ा हुआ है।",
+   "gospel": null,
+   "verse": null,
+   "skeptic": "कमज़ोर रूप से प्रलेखित: न Bucklin इसका वर्णन करते हैं, न Bevilacqua और D'Arienzo, और गिरना परंपरा है, सुसमाचार में नहीं। इसे स्थापित तथ्य की तरह न रखें।",
+   "sources": [
+    {
+     "label": "Graves 2021, National Catholic Register",
+     "url": "https://www.ncregister.com/commentaries/clues-on-the-shroud-of-turin-tell-us-what-christ-endured-on-good-friday"
+    },
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "rigor-mortis-posture",
+   "name": "शव की अकड़न वाली मुद्रा",
+   "body_region": "पूरा शरीर: सिर, पैर, पाँव",
+   "side": "front",
+   "x": 0.47,
+   "y": 0.83,
+   "description": "Bucklin पूरे शरीर की अकड़न को शव की अकड़न (रिगर मॉर्टिस) मानते हैं, जिसमें बायाँ घुटना थोड़ा मुड़ा है और मृत्यु के बाद भी पैर की स्थिति बनी रही। Bevilacqua और D'Arienzo सिर को आगे झुका और मुड़ा हुआ बताते हैं, और तर्क देते हैं कि अकड़े हुए शरीर को पूरी तरह सीधा नहीं किया जा सकता था।",
+   "gospel": "यूहन्ना 19:30",
+   "verse": "जब यीशु ने वह सिरका लिया, तो कहा, “पूरा हुआ”; और सिर झुकाकर प्राण त्याग दिए।",
+   "skeptic": "अकड़न का अनुमान एक धुँधली छवि की मुद्रा से लगाया गया है। कोई मूर्तिकार या कलाकार भी किसी आकृति को इस तरह बना सकता था।",
+   "sources": [
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    },
+    {
+     "label": "Bevilacqua और D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    }
+   ]
+  },
+  {
+   "id": "crown-of-thorns-back-of-head",
+   "name": "सिर के पीछे छेदों वाले घाव",
+   "body_region": "सिर की खाल का पिछला और ऊपरी हिस्सा",
+   "side": "back",
+   "x": 0.5,
+   "y": 0.035,
+   "description": "ख़ून के निशानों की एक पंक्ति सिर के पिछले हिस्से को घेरती है, और सिर के ऊपर भी और निशान हैं। Bucklin का तर्क है कि यह पूरे सिर को ढकने वाली काँटों की टोपी से मेल खाता है, न कि ज़्यादातर यूरोपीय कला में दिखाए गए पतले घेरे से।",
+   "gospel": "यूहन्ना 19:2",
+   "verse": "और सिपाहियों ने काँटों का मुकुट गूँथकर उसके सिर पर रखा, और उसे बैंगनी ऊपरी वस्त्र पहनाया,",
+   "skeptic": "टोपी बनाम घेरे वाला तर्क धुँधले दाग़ों के फैलाव पर टिका है, और बाद की कुछ कला में भी सिर पर गहरे घाव दिखाए गए हैं।",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "shoulder-abrasions",
+   "name": "कंधे की हड्डियों पर छिलन",
+   "body_region": "ऊपरी पीठ, दोनों कंधे की हड्डियों के ऊपर",
+   "side": "back",
+   "x": 0.62,
+   "y": 0.12,
+   "description": "कंधे की हड्डियों के ऊपर दो चौड़े, बदरंग हिस्से किसी भारी, खुरदरी चीज़ से हुई छिलन जैसे दिखते हैं। रोगविज्ञानी इन्हें आड़ी बल्ली उठाने के निशान मानते हैं।",
+   "gospel": "यूहन्ना 19:17",
+   "verse": "तब वे यीशु को ले गए। और वह अपना क्रूस उठाए हुए उस स्थान तक बाहर गया, जो ‘खोपड़ी का स्थान’ कहलाता है और इब्रानी में ‘गुलगुता’।",
+   "skeptic": "ये हिस्से धुँधले हैं और उनकी व्याख्या उम्मीदों पर निर्भर करती है। मरकुस, मत्ती और लूका कहते हैं कि कुरेनी शमौन ने रास्ते के एक हिस्से में क्रूस उठाया (लूका 23:26)।",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    }
+   ]
+  },
+  {
+   "id": "scourge-marks-back",
+   "name": "कोड़ों के निशान (पीछे)",
+   "body_region": "कंधे, पीठ, नितंब और पैरों का पिछला हिस्सा",
+   "side": "back",
+   "x": 0.45,
+   "y": 0.22,
+   "description": "100 से ज़्यादा छोटे जोड़ीदार या डम्बल जैसे निशान कंधों से पिंडलियों तक फैले हैं। Bucklin इन्हें दोहरे और गिनने में कठिन बताते हैं। Zugibe लिखते हैं कि तीन पट्टियों वाले कोड़े के 40 वार लगभग 120 निशान छोड़ेंगे। ये नील नहीं, बल्कि ख़ून के साथ त्वचा के छोटे घाव लगते हैं।",
+   "gospel": "यूहन्ना 19:1",
+   "verse": "इस पर पिलातुस ने यीशु को लेकर कोड़े लगवाए।",
+   "skeptic": "गिनती बढ़ाई हुई तस्वीरों से आती है और लेखक के अनुसार बदलती है। एक जानकार मध्ययुगीन कलाकार रोमन कोड़ों का पैटर्न दोहरा सकता था। Freeman का तर्क है कि ये निशान कभी ज़्यादा चटख रंग में पेंट किए गए थे।",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Zugibe, Turin 2000 व्याख्यान",
+     "url": "https://www.crucifixion-shroud.com/Turin2000.htm"
+    },
+    {
+     "label": "Freeman 2014 (सारांश)",
+     "url": "https://arthistorynews.com/articles/3065_Turin_Shroud_debunked_again"
+    }
+   ]
+  },
+  {
+   "id": "lower-back-blood-belt",
+   "name": "कमर के निचले हिस्से पर ख़ून",
+   "body_region": "कमर का निचला हिस्सा",
+   "side": "back",
+   "x": 0.5,
+   "y": 0.345,
+   "description": "ख़ून की एक पट्टी कमर के निचले हिस्से को पार करती है। इसे आम तौर पर पसली के घाव से बहे ख़ून और तरल के रूप में समझाया जाता है, जब शरीर को हिलाया और लिटाया गया।",
+   "gospel": "यूहन्ना 19:34",
+   "verse": "परन्तु सिपाहियों में से एक ने बरछे से उसका पंजर बेधा और उसमें से तुरन्त लहू और पानी निकला।",
+   "skeptic": "Borrini और Garlaschelli ने लेटे हुए शरीर पर पसली के घाव से मृत्यु के बाद के बहाव के लिए इस पट्टी को \"पूरी तरह अयथार्थवादी\" माना।",
+   "sources": [
+    {
+     "label": "Borrini और Garlaschelli, J. Forensic Sciences",
+     "url": "https://researchonline.ljmu.ac.uk/id/eprint/8813/"
+    }
+   ]
+  },
+  {
+   "id": "feet-wound",
+   "name": "पाँवों में कील का घाव",
+   "body_region": "तलवे, मुख्य रूप से दायाँ पाँव",
+   "side": "back",
+   "x": 0.48,
+   "y": 0.88,
+   "description": "पीछे की छवि में दायाँ पाँव दिखता है, जिसके तलवे के बीच के पास छेद का एक साफ़ निशान है, और बायाँ पाँव कम साफ़ है। Bevilacqua और D'Arienzo कील को टखने के पास की (टार्सल) हड्डियों से गुज़रता बताते हैं।",
+   "gospel": "लूका 24:39",
+   "verse": "मेरे हाथ और मेरे पाँव को देखो, कि मैं वहीं हूँ; मुझे छूकर देखो; क्योंकि आत्मा के हड्डी माँस नहीं होता जैसा मुझ में देखते हो।",
+   "skeptic": "बायाँ पाँव साफ़ नहीं है, और इस पर बहस है कि एक कील इस्तेमाल हुई या दो।",
+   "sources": [
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    },
+    {
+     "label": "Bevilacqua और D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    }
+   ]
+  }
+ ]
+}

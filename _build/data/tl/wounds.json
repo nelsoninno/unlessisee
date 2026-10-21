@@ -1,0 +1,348 @@
+{
+ "items": [
+  {
+   "id": "crown-of-thorns-forehead",
+   "name": "Mga daloy mula sa tusok sa noo",
+   "body_region": "Noo at harapang bahagi ng anit",
+   "side": "front",
+   "x": 0.485,
+   "y": 0.11,
+   "description": "Ilang daloy ng dugo ang bumababa sa noo mula sa mga butas ng tusok. Ang isang daloy ay hugis numero 3 (madalas tawaging epsilon), na ipinaliliwanag ni Bucklin bilang dugong sumusunod sa mga kulubot ng balat.",
+   "gospel": "Juan 19:2",
+   "verse": "At ang mga kawal ay nangagkamakama ng isang putong na tinik, at ipinutong sa kaniyang ulo, at siya'y sinuutan ng isang balabal na kulay-ube;",
+   "skeptic": "Ang koronang tinik ay detalye ng Ebanghelyo na isasama ng sinumang pintor. Ang hugis ng bawat daloy ay binabasa mula sa mga litrato.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    }
+   ]
+  },
+  {
+   "id": "face-injuries",
+   "name": "Mga pinsala sa mukha",
+   "body_region": "Kanang pisngi, kanang mata, ilong",
+   "side": "front",
+   "x": 0.47,
+   "y": 0.145,
+   "description": "Iniulat ni Bucklin ang pamamaga sa kanang pisngi, bahagyang pagsara ng kanang mata, bahagyang baluktot sa ilong at gasgas sa dulo ng ilong. Sa halip, inilalarawan nina Bevilacqua at D'Arienzo ang kanang mata bilang lubog dahil sa pinsala sa nerbiyo.",
+   "gospel": "Mateo 27:30",
+   "verse": "At siya'y kanilang niluluraan, at kinuha nila ang tambo at sinaktan siya sa ulo.",
+   "skeptic": "Malabo ang mga detalye ng mukha at binabasa mula sa mga pinalinaw na imahe; hindi na nga magkasundo ang mga pathologist tungkol sa kanang mata.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Bevilacqua at D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    }
+   ]
+  },
+  {
+   "id": "nose-dirt-fall",
+   "name": "Mga gasgas at dumi sa ilong",
+   "body_region": "Ilong",
+   "side": "front",
+   "x": 0.515,
+   "y": 0.16,
+   "description": "Inilalarawan ni Bucklin ang mga gasgas at dumi sa bahagi ng ilong, na tugma sa pagtama ng mukha sa lupa sa isang pagkadapa. Tradisyon ang mga pagkadapa sa daan patungo sa pagpatay, hindi Ebanghelyo.",
+   "gospel": null,
+   "verse": null,
+   "skeptic": "Ang tanging nailathalang pag-aaral sa mineral (Kohlbeck at Nitowski 1986) ay nag-uulat ng mga partikulo ng limestone mula sa isang tape sa may paa, hindi sa ilong. Hindi pa nakukumpirma ng malayang pagsusuri ang dumi sa ilong.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Nitowski 1986",
+     "url": "https://www.shroud.com/pdfs/ESSJ%20Nitowski%201986.pdf"
+    }
+   ]
+  },
+  {
+   "id": "right-shoulder-dislocation",
+   "name": "Nakababang kanang balikat",
+   "body_region": "Kanang balikat at braso",
+   "side": "front",
+   "x": 0.62,
+   "y": 0.21,
+   "description": "Iniulat nina Bevilacqua at D'Arienzo na nakababa ang kanang balikat nang mga 15 digri, at binasa nila ito bilang na-dislocate na kanang humerus, marahil dahil sa pagkadapa habang pasan ang biga.",
+   "gospel": null,
+   "verse": null,
+   "skeptic": "Pagbasa ito ng iisang grupo, nailathala sa conference proceedings at sa isang journal na mababa ang impact; hindi ito inilalarawan ng ibang pathologist.",
+   "sources": [
+    {
+     "label": "Bevilacqua at D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    },
+    {
+     "label": "Bevilacqua, Fanti, D'Arienzo 2017, Open Journal of Trauma",
+     "url": "https://oalib-perpustakaan.upi.edu/Record/peertech__10_17352_ojt_000009/Description"
+    }
+   ]
+  },
+  {
+   "id": "wrist-nail-wound",
+   "name": "Sugat ng pako sa pulso",
+   "body_region": "Likod ng kaliwang kamay sa may pulso (natatakpan ang kanan)",
+   "side": "front",
+   "x": 0.445,
+   "y": 0.47,
+   "description": "Isang marka ng dugo sa likod ng kaliwang kamay ang nasa bandang pulso, na may dalawang patak na mga 10 digri ang pagitan na umaagos mula rito. Kinalkula ni Bucklin na nakataas ang mga braso nang mga 65 digri at nagbago ng posisyon ang lalaki. Inilagay ni Barbet ang pako sa Destot's space sa pulso; ikinakatwiran naman ni Zugibe na pumasok ito sa itaas na bahagi ng palad at lumabas sa pulso.",
+   "gospel": "Juan 20:25",
+   "verse": "Malibang aking makita sa kaniyang mga kamay ang butas ng mga pako, at maisuot ko ang aking daliri sa butas ng mga pako, at maisuot ko ang aking kamay sa kaniyang tagiliran, ay hindi ako sasampalataya.",
+   "skeptic": "Hindi magkasundo ang mga nangungunang pathologist tungkol sa dinaanan ng pako. Iba ang posisyon ng sugat sa karamihan ng medieval na sining, pero hindi rin naman wala sa sining ang paglalagay nito sa pulso.",
+   "sources": [
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    },
+    {
+     "label": "Zugibe 1995, Pierre Barbet Revisited",
+     "url": "https://shroud.com/zugibe.htm"
+    }
+   ]
+  },
+  {
+   "id": "missing-thumbs",
+   "name": "Hindi makita ang mga hinlalaki",
+   "body_region": "Dalawang kamay",
+   "side": "front",
+   "x": 0.5,
+   "y": 0.495,
+   "description": "Apat na daliri lamang ang makikita sa bawat kamay. Ipinaliliwanag ito nina Barbet at Bucklin bilang pinsala sa nerbiyo na humila sa mga hinlalaki papunta sa palad; sinasabi naman ni Zugibe na nakapatong lamang ang mga hinlalaki sa harap ng hintuturo at hindi dumikit sa tela.",
+   "gospel": null,
+   "verse": null,
+   "skeptic": "May dalawang paliwanag sa medisina na hindi magkatugma. Maaari ring itago ng isang pintor ang mga hinlalaki kapag nagpipinta ng magkakrus na kamay.",
+   "sources": [
+    {
+     "label": "Zugibe 1995, Pierre Barbet Revisited",
+     "url": "https://shroud.com/zugibe.htm"
+    },
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    }
+   ]
+  },
+  {
+   "id": "forearm-blood-flows",
+   "name": "Mga daloy ng dugo sa mga bisig",
+   "body_region": "Dalawang bisig",
+   "side": "front",
+   "x": 0.66,
+   "y": 0.43,
+   "description": "Umaagos ang dugo mula sa mga pulso sa kahabaan ng mga bisig patungo sa siko, gaya ng inaasahan kung nakataas ang mga braso sa ibabaw ng ulo habang dumudugo.",
+   "gospel": "Juan 19:18",
+   "verse": "Na doo'y ipinako nila siya sa krus, at kasama niya ang dalawa pa, isa sa bawa't tagiliran, at si Jesus sa gitna.",
+   "skeptic": "Natuklasan nina Borrini at Garlaschelli (2018) na nangangailangan ang mga daloy sa bisig ng mga brasong halos patayo, habang ang mga patak sa kamay ay nangangailangan ng mga brasong nasa mga 45 digri, na binasa nila bilang hindi magkatugma at gawa ng sining.",
+   "sources": [
+    {
+     "label": "Borrini at Garlaschelli, J. Forensic Sciences",
+     "url": "https://researchonline.ljmu.ac.uk/id/eprint/8813/"
+    },
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    }
+   ]
+  },
+  {
+   "id": "side-wound",
+   "name": "Sugat sa tagiliran na may dugo at malinaw na likido",
+   "body_region": "Kanang bahagi ng dibdib, sa mga ika-5 hanggang ika-6 na tadyang",
+   "side": "front",
+   "x": 0.64,
+   "y": 0.334,
+   "description": "Ang pinakamalaking mantsa ng dugo ay nasa kanang dibdib, na may hugis-itlog na sugat sa balat sa itaas na gilid nito. Nakikita ni Bucklin ang dugo na may malinaw at matubig na likido, at iminumungkahi niyang pleural fluid ito mula sa heart failure; inilalagay nina Bevilacqua at D'Arienzo ang sugat sa ika-6 na intercostal space, mga 4.5 cm ang lapad.",
+   "gospel": "Juan 19:34",
+   "verse": "Gayon ma'y pinalagpasan ang kaniyang tagiliran ng isang sibat ng isa sa mga kawal, at pagdaka'y lumabas ang dugo at tubig.",
+   "skeptic": "Ang 'tubig' ay interpretasyon ng mas maliliwanag na bahagi ng mantsa. Ang sugat ng sibat sa kanang tagiliran ay karaniwang posisyon din sa medieval na sining.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Bevilacqua at D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    }
+   ]
+  },
+  {
+   "id": "scourge-marks-front",
+   "name": "Mga marka ng hagupit (harap)",
+   "body_region": "Dibdib at harap ng mga binti",
+   "side": "front",
+   "x": 0.42,
+   "y": 0.66,
+   "description": "May katulad na magkapares na marka sa dibdib at sa harap ng mga binti, na umiikot mula sa likod. Sinabi ni Bucklin na wala ang mga ito sa mga braso at bisig.",
+   "gospel": "Juan 19:1",
+   "verse": "Nang magkagayon nga'y tinangnan ni Pilato si Jesus, at siya'y hinampas.",
+   "skeptic": "Kapareho ng mga paalala para sa mga marka sa likod.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "knee-abrasions",
+   "name": "Mga gasgas sa tuhod",
+   "body_region": "Mga tuhod, lalo na ang kaliwa",
+   "side": "front",
+   "x": 0.45,
+   "y": 0.73,
+   "description": "Inilalarawan ng mga popular na salaysay ang pamamaga at gasgas sa mga tuhod dahil sa paulit-ulit na pagkadapa. Ang sinabi lamang ni Bucklin ay bahagyang nakabaluktot ang kaliwang tuhod.",
+   "gospel": null,
+   "verse": null,
+   "skeptic": "Mahina ang dokumentasyon: hindi ito inilalarawan ni Bucklin o nina Bevilacqua at D'Arienzo, at tradisyon ang mga pagkadapa, hindi Ebanghelyo. Huwag itong ipakita bilang napatunayan.",
+   "sources": [
+    {
+     "label": "Graves 2021, National Catholic Register",
+     "url": "https://www.ncregister.com/commentaries/clues-on-the-shroud-of-turin-tell-us-what-christ-endured-on-good-friday"
+    },
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "rigor-mortis-posture",
+   "name": "Posturang rigor mortis",
+   "body_region": "Buong katawan: ulo, binti, paa",
+   "side": "front",
+   "x": 0.47,
+   "y": 0.83,
+   "description": "Binabasa ni Bucklin ang pangkalahatang paninigas bilang rigor mortis, na bahagyang nakabaluktot ang kaliwang tuhod at nanatili ang posisyon ng binti pagkamatay. Inilalarawan nina Bevilacqua at D'Arienzo ang ulo na nakayuko at nakabaling, at ikinakatwiran nila na hindi maituwid nang lubos ang katawang nasa rigor.",
+   "gospel": "Juan 19:30",
+   "verse": "Nang matanggap nga ni Jesus ang suka, ay sinabi niya, Naganap na: at iniyukayok ang kaniyang ulo, at nalagot ang kaniyang hininga.",
+   "skeptic": "Hinuhulaan ang rigor mula sa postura sa isang malabong imahe; maaari ring iposisyon nang ganito ng isang iskultor o pintor ang isang pigura.",
+   "sources": [
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    },
+    {
+     "label": "Bevilacqua at D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    }
+   ]
+  },
+  {
+   "id": "crown-of-thorns-back-of-head",
+   "name": "Mga sugat ng tusok sa likod ng ulo",
+   "body_region": "Likod at tuktok ng anit",
+   "side": "back",
+   "x": 0.5,
+   "y": 0.035,
+   "description": "Isang hanay ng mga marka ng dugo ang paikot sa likod ng anit, at may iba pang marka sa itaas ng ulo. Ikinakatwiran ni Bucklin na tugma ito sa isang takip na tinik na tumatakip sa buong ulo, sa halip na sa makitid na singsing na makikita sa karamihan ng sining sa Europa.",
+   "gospel": "Juan 19:2",
+   "verse": "At ang mga kawal ay nangagkamakama ng isang putong na tinik, at ipinutong sa kaniyang ulo, at siya'y sinuutan ng isang balabal na kulay-ube;",
+   "skeptic": "Nakasandal ang argumentong takip laban sa singsing sa pagkalat ng malalabong mantsa, at may ilang mas huling sining na nagpapakita rin ng matitinding sugat sa ulo.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "shoulder-abrasions",
+   "name": "Mga gasgas sa talim ng balikat",
+   "body_region": "Itaas na likod, sa ibabaw ng dalawang talim ng balikat",
+   "side": "back",
+   "x": 0.62,
+   "y": 0.12,
+   "description": "Dalawang malapad na bahaging nag-iba ang kulay sa ibabaw ng mga talim ng balikat ang mukhang gasgas mula sa isang mabigat at magaspang na bagay. Binabasa ito ng mga pathologist bilang marka ng pagpasan sa biga ng krus.",
+   "gospel": "Juan 19:17",
+   "verse": "Kinuha nga nila si Jesus: at siya'y lumabas, na pasan niya ang krus, hanggang sa dakong tinatawag na Dako ng bungo, na sa wikang Hebreo ay tinatawag na Golgota:",
+   "skeptic": "Malabo ang mga bahaging ito at nakasalalay ang pagbasa sa inaasahan. Sinasabi nina Marcos, Mateo at Lucas na pinasan ni Simon ng Cirene ang krus sa bahagi ng daan (Lucas 23:26).",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    }
+   ]
+  },
+  {
+   "id": "scourge-marks-back",
+   "name": "Mga marka ng hagupit (likod)",
+   "body_region": "Mga balikat, likod, puwitan at likod ng mga binti",
+   "side": "back",
+   "x": 0.45,
+   "y": 0.22,
+   "description": "Mahigit 100 maliliit na marka na magkapares o hugis dumbbell ang nakakalat mula sa mga balikat pababa sa mga binti. Tinatawag ito ni Bucklin na bifid at mahirap bilangin; sinabi ni Zugibe na ang latigong may tatlong panali na nagbigay ng 40 hagupit ay mag-iiwan ng mga 120 marka. Mukhang maliliit na sugat sa balat na may dugo ang mga ito, hindi pasa.",
+   "gospel": "Juan 19:1",
+   "verse": "Nang magkagayon nga'y tinangnan ni Pilato si Jesus, at siya'y hinampas.",
+   "skeptic": "Galing ang mga bilang sa mga pinalinaw na litrato at nag-iiba ayon sa awtor. Kayang gayahin ng isang maalam na medieval na pintor ang pattern ng Romanong paghagupit; ikinakatwiran ni Freeman na dati ay mas matingkad na pininturahan ang mga marka.",
+   "sources": [
+    {
+     "label": "Bucklin, Viewpoint of a Forensic Pathologist",
+     "url": "https://shroud.com/pdfs/ssi05part3.pdf"
+    },
+    {
+     "label": "Zugibe, lektyur sa Turin 2000",
+     "url": "https://www.crucifixion-shroud.com/Turin2000.htm"
+    },
+    {
+     "label": "Freeman 2014 (buod)",
+     "url": "https://arthistorynews.com/articles/3065_Turin_Shroud_debunked_again"
+    }
+   ]
+  },
+  {
+   "id": "lower-back-blood-belt",
+   "name": "Dugo sa ibabang likod",
+   "body_region": "Ibabang likod, baywang sa likod",
+   "side": "back",
+   "x": 0.5,
+   "y": 0.345,
+   "description": "Isang guhit ng dugo ang tumatawid sa ibabang likod. Karaniwang ipinaliliwanag ito bilang dugo at likidong umagos mula sa sugat sa tagiliran nang ilipat at ihiga ang katawan.",
+   "gospel": "Juan 19:34",
+   "verse": "Gayon ma'y pinalagpasan ang kaniyang tagiliran ng isang sibat ng isa sa mga kawal, at pagdaka'y lumabas ang dugo at tubig.",
+   "skeptic": "Hinusgahan nina Borrini at Garlaschelli ang guhit na ito na 'lubos na hindi makatotohanan' para sa daloy mula sa sugat sa tagiliran pagkamatay, sa isang katawang nakahiga.",
+   "sources": [
+    {
+     "label": "Borrini at Garlaschelli, J. Forensic Sciences",
+     "url": "https://researchonline.ljmu.ac.uk/id/eprint/8813/"
+    }
+   ]
+  },
+  {
+   "id": "feet-wound",
+   "name": "Sugat ng pako sa mga paa",
+   "body_region": "Mga talampakan, lalo na ang kanang paa",
+   "side": "back",
+   "x": 0.48,
+   "y": 0.88,
+   "description": "Ipinakikita ng imahe sa likod ang kanang paa na may malinaw na marka ng tusok malapit sa gitna ng talampakan, at hindi gaanong malinaw ang kaliwang paa. Inilalagay nina Bevilacqua at D'Arienzo ang pako sa mga buto ng tarsus.",
+   "gospel": "Lucas 24:39",
+   "verse": "Tingnan ninyo ang aking mga kamay at ang aking mga paa, ako rin nga: hipuin ninyo ako, at tingnan; sapagka't ang isang espiritu'y walang laman at mga buto, na gaya ng inyong nakikita na nasa akin.",
+   "skeptic": "Hindi malinaw ang kaliwang paa at pinagtatalunan kung isa o dalawang pako ang ginamit.",
+   "sources": [
+    {
+     "label": "Bucklin, Autopsy on the Man of the Shroud",
+     "url": "https://shroud.com/bucklin.htm"
+    },
+    {
+     "label": "Bevilacqua at D'Arienzo 2015, MATEC 36:03003",
+     "url": "https://www.matec-conferences.org/articles/matecconf/pdf/2015/17/matecconf_wopsas2015_03003.pdf"
+    }
+   ]
+  }
+ ]
+}

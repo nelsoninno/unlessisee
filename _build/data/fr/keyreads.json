@@ -1,0 +1,104 @@
+{
+ "items": [
+  {
+   "id": "sturp-1981-summary-sturps-conclusions",
+   "why": "le verdict officiel de l’équipe du STURP. C’est le point de départ de tous les débats qui ont suivi."
+  },
+  {
+   "id": "schwalbe-1982-physics-chemistry-summary-1978",
+   "why": "le résumé technique, évalué par des pairs, des analyses de 1978."
+  },
+  {
+   "id": "heller-1981-chemical-investigation",
+   "why": "le principal argument chimique selon lequel les taches sont du vrai sang et l’image n’est pas un pigment."
+  },
+  {
+   "id": "jackson-1984-correlation-image-intensity-3d",
+   "why": "l’origine de l’affirmation sur la 3D et la distance entre le linge et le corps."
+  },
+  {
+   "id": "damon-1989-radiocarbon-dating",
+   "why": "l’article de Nature qui date le lin de 1260 à 1390 apr. J.-C. C’est la principale preuve sceptique."
+  },
+  {
+   "id": "meacham-1983-authentication-issue-archaeological-epistemolog",
+   "why": "un archéologue expose comment on pourrait même juger l’authenticité, avec les réponses des critiques en regard."
+  },
+  {
+   "id": "craig-1994-image-formation",
+   "why": "une technique artistique médiévale proposée, qui montre comment un faussaire aurait pu procéder."
+  },
+  {
+   "id": "vikan-1998-debunking-made-human-hands",
+   "why": "l’argumentaire d’un historien de l’art sceptique, avec les réfutations des chercheurs sur la même page."
+  },
+  {
+   "id": "schwortz-2000-medieval-photograph-critical-examination",
+   "why": "met à l’épreuve la théorie populaire de la « photographie médiévale »."
+  },
+  {
+   "id": "marino-2000-evidence-skewing-c14-dating",
+   "why": "l’origine de l’hypothèse du « retissage invisible »."
+  },
+  {
+   "id": "rogers-2005-studies-radiocarbon-sample",
+   "why": "la remise en cause, évaluée par des pairs, la plus solide de la représentativité de l’échantillon de 1988."
+  },
+  {
+   "id": "flury-lemberg-2007-invisible-mending-theory-reality",
+   "why": "l’experte textile de la restauration de 2002 s’oppose à l’idée du retissage."
+  },
+  {
+   "id": "freer-waters-2010-investigating-dated-piece",
+   "why": "le laboratoire de l’Arizona réexamine son propre échantillon et ne trouve aucune réparation."
+  },
+  {
+   "id": "fanti-2010-microscopic-macroscopic-characteristics-image",
+   "why": "à quel point l’image est réellement superficielle, une contrainte clé pour toute explication."
+  },
+  {
+   "id": "dilazzaro-2012-superficial-shroudlike-coloration-linen",
+   "why": "la meilleure tentative en laboratoire de reproduire la couleur, et ses limites."
+  },
+  {
+   "id": "kearse-2012-blood-immunological-review",
+   "why": "une évaluation prudente de la solidité réelle des affirmations sur le sang."
+  },
+  {
+   "id": "nicolotti-2014-mandylion-edessa-metamorphosis-manipulation",
+   "why": "un historien sceptique sur le lien « Édesse = Saint-Suaire » de l’histoire ancienne."
+  },
+  {
+   "id": "bella-2015-there-no-mass-spectrometry",
+   "why": "une réfutation sceptique de Rogers, évaluée par des pairs."
+  },
+  {
+   "id": "barcaccia-2015-uncovering-sources-dna-found",
+   "why": "les données ADN, qui montrent une forte contamination venue de nombreuses régions."
+  },
+  {
+   "id": "borrini-2018-bpa-approach",
+   "why": "une expérience sceptique de morphologie des traces de sang. À lire avec `hermosilla-2019-commentary-borrini-m-garlaschelli`, une réponse parue dans la même revue."
+  },
+  {
+   "id": "casabianca-2019-radiocarbon-dating-new-evidence",
+   "why": "les données brutes de 1988, communiquées puis réanalysées."
+  },
+  {
+   "id": "dilazzaro-2020-statistical-proactive-analysis-interlaborator",
+   "why": "une vérification statistique indépendante des résultats de 1988."
+  },
+  {
+   "id": "wilson-2021-earliest-pilgrim-badges-produced",
+   "why": "une étude évaluée par des pairs sur les enseignes de pèlerinage de Lirey du XIVe siècle. Elle fixe la première apparition sûre du linge."
+  },
+  {
+   "id": "sarzeaud-2025-new-document-appearance-nicole",
+   "why": "une source du XIVe siècle découverte récemment, qui qualifie le linge de fraude (lien vers la notice seulement)."
+  },
+  {
+   "id": "freer-waters-2026-analysis-textile-fragments-1988",
+   "why": "l’analyse de laboratoire la plus récente des fragments datés."
+  }
+ ]
+}

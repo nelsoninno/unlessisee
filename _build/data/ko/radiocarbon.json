@@ -1,0 +1,453 @@
+{
+ "labs": [
+  {
+   "name": "Arizona (Tucson)",
+   "mean": 646,
+   "err": 31,
+   "subs": [
+    [
+     "A1.1b",
+     591,
+     30
+    ],
+    [
+     "A1.2b",
+     690,
+     35
+    ],
+    [
+     "A1.3a",
+     606,
+     41
+    ],
+    [
+     "A1.4a",
+     701,
+     33
+    ]
+   ]
+  },
+  {
+   "name": "Oxford",
+   "mean": 750,
+   "err": 30,
+   "subs": [
+    [
+     "O1.1u",
+     795,
+     65
+    ],
+    [
+     "O1.2b",
+     730,
+     45
+    ],
+    [
+     "O1.1b",
+     745,
+     55
+    ]
+   ]
+  },
+  {
+   "name": "Zurich (ETH)",
+   "mean": 676,
+   "err": 24,
+   "subs": [
+    [
+     "Z1.1u",
+     733,
+     61
+    ],
+    [
+     "Z1.1w",
+     722,
+     56
+    ],
+    [
+     "Z1.1s",
+     635,
+     57
+    ],
+    [
+     "Z1.2w",
+     639,
+     45
+    ],
+    [
+     "Z1.2s",
+     679,
+     51
+    ]
+   ]
+  }
+ ],
+ "combined": {
+  "weighted": [
+   689,
+   16
+  ],
+  "unweighted": [
+   691,
+   31
+  ],
+  "chi2": 6.4
+ },
+ "rows": [
+  {
+   "key": "c14",
+   "label": "방사성 탄소, 1988",
+   "segs": [
+    [
+     1262,
+     1312
+    ],
+    [
+     1353,
+     1384
+    ]
+   ],
+   "kind": "c14",
+   "tip": "1988년 방사성 탄소, 신뢰도 95%: 서기 1262~1312년 및 서기 1353~1384년 (반올림해 1260~1390년으로 발표). Damon 외, Nature 1989."
+  },
+  {
+   "key": "fanti-ftir",
+   "label": "FT-IR (판티)",
+   "segs": [
+    [
+     -700,
+     100
+    ]
+   ],
+   "kind": "alt",
+   "mid": -300,
+   "tip": "낱섬유에 대한 FT-IR 분광 분석, 기원전 300년 ± 400년 (화재 보정 포함). 판티 연구진, 2015."
+  },
+  {
+   "key": "fanti-raman",
+   "label": "라만 (판티)",
+   "segs": [
+    [
+     -700,
+     300
+    ]
+   ],
+   "kind": "alt",
+   "mid": -200,
+   "tip": "낱섬유에 대한 라만 분광 분석, 기원전 200년 ± 500년. 판티 연구진, 2015."
+  },
+  {
+   "key": "fanti-mechanical-montecarlo",
+   "label": "기계적 강도 (판티)",
+   "segs": [
+    [
+     63,
+     495
+    ]
+   ],
+   "kind": "alt",
+   "mid": 279,
+   "tip": "단일 섬유의 파단 강도, 서기 279년 ± 216년 (몬테카를로 재분석). Basso, Fanti, Malfi, 2015."
+  },
+  {
+   "key": "vanillin-2005",
+   "label": "바닐린 (로저스)",
+   "segs": [
+    [
+     -995,
+     705
+    ]
+   ],
+   "kind": "alt",
+   "mid": null,
+   "tip": "리그닌 속 바닐린의 손실: 2005년 기준 1,300~3,000년 전. Rogers, Thermochimica Acta, 2005."
+  },
+  {
+   "key": "waxs",
+   "label": "X선 (데 카로)",
+   "segs": [
+    [
+     55,
+     74
+    ]
+   ],
+   "kind": "point",
+   "tip": "실 한 가닥에 대한 광각 X선 산란: 노화 양상이 마사다의 아마포(서기 55~74년)와 일치하며, 특정한 보관 이력을 가정할 때에만 약 20세기와 들어맞는다. De Caro 외, Heritage, 2022."
+  }
+ ],
+ "controls": [
+  {
+   "sample": 2,
+   "description": "누비아 카스르 이브림의 무덤에서 나온 아마포. 예상 연대 서기 11~12세기",
+   "lab_means_bp": {
+    "Arizona": [
+     927,
+     32
+    ],
+    "Oxford": [
+     940,
+     30
+    ],
+    "Zurich": [
+     941,
+     23
+    ]
+   },
+   "weighted_mean_bp": [
+    937,
+    16
+   ],
+   "chi_squared": 0.1,
+   "significance_percent": 90,
+   "calibrated_95": [
+    [
+     1026,
+     1160
+    ]
+   ]
+  },
+  {
+   "sample": 3,
+   "description": "테베에서 나온 서기 2세기 초 미라의 아마포 (대영박물관)",
+   "lab_means_bp": {
+    "Arizona": [
+     1995,
+     46
+    ],
+    "Oxford": [
+     1980,
+     35
+    ],
+    "Zurich": [
+     1940,
+     30
+    ]
+   },
+   "weighted_mean_bp": [
+    1964,
+    20
+   ],
+   "chi_squared": 1.3,
+   "significance_percent": 50,
+   "calibrated_95": [
+    [
+     -9,
+     78
+    ]
+   ]
+  },
+  {
+   "sample": 4,
+   "description": "생막시맹에 있는 앙주의 성 루이 코프(망토형 제의)의 실. 예상 연대 서기 1290~1310년경",
+   "lab_means_bp": {
+    "Arizona": [
+     722,
+     43
+    ],
+    "Oxford": [
+     755,
+     30
+    ],
+    "Zurich": [
+     685,
+     34
+    ]
+   },
+   "weighted_mean_bp": [
+    724,
+    20
+   ],
+   "chi_squared": 2.4,
+   "significance_percent": 30,
+   "calibrated_95": [
+    [
+     1263,
+     1283
+    ]
+   ]
+  }
+ ],
+ "sampling": {
+  "date": "1988-04-21",
+  "place": "Sacristy, Turin Cathedral",
+  "cut_by": "Giovanni Riggi",
+  "present": [
+   "Cardinal Anastasio Ballestrero",
+   "L. Gonella (Turin Polytechnic)",
+   "F. Testore (Turin Polytechnic)",
+   "G. Vial (Musee des Tissus, Lyon)",
+   "M. S. Tite (British Museum)",
+   "P. E. Damon",
+   "D. J. Donahue",
+   "E. T. Hall",
+   "R. E. M. Hedges",
+   "W. Woelfli"
+  ],
+  "location_on_cloth": "A single site on the main body of the cloth, away from patches and charred areas, just above where a sample was removed in 1973, at the bottom left-hand edge where the cloth was separated from its backing (Damon et al. 1989). De Caro et al. 2022 describe this as the corner corresponding to the feet area of the frontal image.",
+  "strip_size_mm_nature": [
+   10,
+   70
+  ],
+  "strip_size_mm_other_accounts": {
+   "cut": [
+    81,
+    21
+   ],
+   "after_discarding_edge_strip": [
+    81,
+    16
+   ],
+   "source_note": "Wikipedia account of the sampling; differs from the 10 x 70 mm given in Nature."
+  },
+  "total_weight_mg_approx": 300,
+  "total_weight_note": "About 300 mg cut according to the Wikipedia account; roughly half kept in reserve in Vatican custody.",
+  "per_lab_weight_mg_approx": 50,
+  "per_lab_weight_note": "Nature gives about 50 mg per lab. A 2026 summary of Freer-Waters and Jull reports Arizona's first piece was about 40 mg with about 10 mg added, combined 53.9 mg.",
+  "arizona_weight_mg_2026_report": 53.9,
+  "sources": [
+   {
+    "label": "Damon et al. 1989, Nature 337:611",
+    "url": "https://doi.org/10.1038/337611a0"
+   },
+   {
+    "label": "Damon et al. 1989, full text mirror",
+    "url": "https://shroud.com/nature.htm"
+   },
+   {
+    "label": "Wikipedia: Radiocarbon dating of the Shroud of Turin",
+    "url": "https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin"
+   },
+   {
+    "label": "Farey 2026, summary of Freer-Waters and Jull 2026",
+    "url": "https://medievalshroud.com/the-donahue-sliver-resurfaces/"
+   }
+  ]
+ },
+ "reanalyses": [
+  {
+   "id": "riani-2013",
+   "citation": "Riani, Atkinson, Fanti, Crosilla 2013, Statistics and Computing, doi:10.1007/s11222-012-9329-5",
+   "url": "https://riani.unipr.it/pub/RAFC2012.pdf",
+   "findings": {
+    "lab_means_differ_p_unweighted": 0.04,
+    "lab_means_differ_p_original_weights": 0.0043,
+    "lab_means_differ_p_modified_weights": 0.0497,
+    "variance_homogeneity_p_unweighted": 0.787,
+    "spatial_configurations_tested": 387072,
+    "trend": "Age decreases along the length of the strip in every configuration tested (negative slope); significant if Arizona dated only one of its two pieces, which Prof. Jull later confirmed."
+   }
+  },
+  {
+   "id": "casabianca-2019",
+   "citation": "Casabianca, Marinelli, Pernagallo, Torrisi 2019, Archaeometry 61(5):1223-1231, doi:10.1111/arcm.12467",
+   "url": "https://philarchive.org/archive/CASTRD-3",
+   "raw_data_source": "British Museum files released in 2017 after a legal request.",
+   "findings": {
+    "nature_dates_ward_wilson_T": 8.6,
+    "nature_dates_critical_value": 5.99,
+    "nature_dates_oxcal_overall_agreement_percent": 41.8,
+    "raw_data_ward_wilson_T": 15.99,
+    "raw_data_critical_value": 5.99,
+    "raw_data_anova_p": 0.0749,
+    "two_way_anova_lab_effect_F": 6.9527,
+    "two_way_anova_lab_effect_p": 0.0046,
+    "arizona_raw1_intra_lab_ward_wilson_T": 19.24,
+    "arizona_raw1_intra_lab_critical_value": 14.07,
+    "example_discrepancy": {
+     "subsample": "Zurich fifth value",
+     "raw": [
+      595,
+      46
+     ],
+     "nature": [
+      679,
+      51
+     ]
+    },
+    "oxford_example": {
+     "subsample": "O1.2b",
+     "raw_error": 30,
+     "nature_error": 45
+    },
+    "arizona_error_ranges": {
+     "nature": [
+      30,
+      41
+     ],
+     "raw": [
+      37,
+      57
+     ]
+    },
+    "oxford_aggregation": "Five measurements reported as three results (2 + 2 + 1).",
+    "authors_caveat": "The statistical results do not imply that the medieval hypothesis should be ruled out."
+   }
+  },
+  {
+   "id": "di-lazzaro-2020",
+   "citation": "Di Lazzaro, Atkinson, Iacomussi, Riani, Ricci, Wadhams 2020, Entropy 22(9):926, doi:10.3390/e22090926",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7597180",
+   "findings": {
+    "raw_measurement_counts": {
+     "Zurich": 10,
+     "Oxford": 5,
+     "Arizona": 8
+    },
+    "lab_means_differ_p_unweighted": 0.04,
+    "variance_homogeneity_p_range": [
+     0.354,
+     0.787
+    ],
+    "spatial_gradient_years_per_cm": -50,
+    "spatial_gradient_note": "About 50 radiocarbon years per cm, as summarised from the paper; check the full text before displaying as an exact value.",
+    "configurations_tested": 387072
+   }
+  },
+  {
+   "id": "walsh-schwalbe-2020",
+   "citation": "Walsh and Schwalbe 2020, Journal of Archaeological Science: Reports 29:102015",
+   "url": "https://doi.org/10.1016/j.jasrep.2019.102015",
+   "findings": {
+    "shroud_data_heterogeneous": true,
+    "controls_heterogeneous": false,
+    "shift_restoring_homogeneity_years": 10,
+    "shift_bringing_all_into_agreement_years": 88,
+    "shift_note": "Applied upward to the Zurich and Arizona results; the authors call the cause of any offset a matter of speculation."
+   }
+  },
+  {
+   "id": "riani-2026",
+   "citation": "Riani, Atkinson, Corbellini, Di Lazzaro et al. 2026, Statistical Methods and Applications 35(3):605-621",
+   "url": "https://link.springer.com/article/10.1007/s10260-026-00851-2",
+   "findings": {
+    "assignments_tested": 165888,
+    "estimated_date": null
+   },
+   "notes": "Paywalled. I could read only the abstract, which gives no date estimate or trend size. Data and code are on GitHub (UniprJRC/Shroud)."
+  },
+  {
+   "id": "freer-waters-jull-2010",
+   "citation": "Freer-Waters and Jull 2010, Radiocarbon 52(4):1521-1527",
+   "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8CC26C322198300E051C49A0BA5B96D9/S0033822200056277a.pdf/investigating-a-dated-piece-of-the-shroud-of-turin.pdf",
+   "findings": {
+    "fragment_size_cm": [
+     0.5,
+     1.0
+    ],
+    "fragment_original_weight_mg": 12.39,
+    "dye_found": false,
+    "coating_found": false,
+    "cotton": "a few fibres, low levels"
+   }
+  },
+  {
+   "id": "freer-waters-jull-2026",
+   "citation": "Freer-Waters and Jull 2026, Heritage Science, 'Analysis of textile fragments from the 1988 radiocarbon samples of the Turin Shroud'",
+   "url": "https://www.nature.com/articles/s40494-026-02530-7",
+   "findings": {
+    "repair_or_foreign_material_found": false
+   },
+   "notes": "I could not open the full paper. The finding is as reported by IBT (via inkl) and a summary blog by Hugh Farey; verify before quoting."
+  }
+ ]
+}

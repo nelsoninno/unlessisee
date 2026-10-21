@@ -61,12 +61,12 @@ export function makeCtx(lang, L) {
 
 function head(ctx, page, meta) {
   const { L, lang } = ctx, c = L.copy;
-  const alts = CONFIG.langs.map(l => `<link rel="alternate" hreflang="${l.code}" href="${ctx.abs(page.slug, l.code)}">`).join('\n');
+  const alts = CONFIG.langs.map(l => `<link rel="alternate" hreflang="${l.tag || l.code}" href="${ctx.abs(page.slug, l.code)}">`).join('\n');
   const fontUrl = 'https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;600&family=Spectral:ital,wght@0,300;0,400;0,600;1,300;1,400&display=swap';
   const share = ctx.absAsset('assets/images/social-share/' + (c.shareImage || 'social-share-unless-i-see-unlessisee.org.jpg'));
   const ld = meta.jsonld ? `<script type="application/ld+json">${json(meta.jsonld)}</script>` : '';
   return `<!DOCTYPE html>
-<html lang="${lang}"${c.dir ? ` dir="${c.dir}"` : ''}>
+<html lang="${(CONFIG.langs.find(x => x.code === lang) || {}).tag || lang}"${c.dir ? ` dir="${c.dir}"` : ''}>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -119,9 +119,9 @@ const mark = `<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="7" y="1.5" wi
 function langSwitch(ctx, page, inFooter = false) {
   const cur = CONFIG.langs.find(l => l.code === ctx.lang);
   if (CONFIG.langs.length <= 3) return `<div class="lang" aria-label="${attr(ctx.L.copy.ui.language)}">` + CONFIG.langs.map((l, i) =>
-    (i ? '<span aria-hidden="true">/</span>' : '') + (l.code === ctx.lang ? `<span class="active" lang="${l.code}">${l.short}</span>` : `<a href="${ctx.href(page.slug, l.code)}" lang="${l.code}" hreflang="${l.code}">${l.short}</a>`)).join('') + `</div>`;
+    (i ? '<span aria-hidden="true">/</span>' : '') + (l.code === ctx.lang ? `<span class="active" lang="${l.tag || l.code}">${l.short}</span>` : `<a href="${ctx.href(page.slug, l.code)}" lang="${l.tag || l.code}" hreflang="${l.tag || l.code}">${l.short}</a>`)).join('') + `</div>`;
   return `<details class="langmenu${inFooter ? ' langmenu--up' : ''}"><summary aria-label="${attr(ctx.L.copy.ui.language)}">${cur.short}</summary><ul>` + CONFIG.langs.map(l =>
-    `<li>${l.code === ctx.lang ? `<span class="active" lang="${l.code}">${esc(l.name)}</span>` : `<a href="${ctx.href(page.slug, l.code)}" lang="${l.code}" hreflang="${l.code}">${esc(l.name)}</a>`}</li>`).join('') + `</ul></details>`;
+    `<li>${l.code === ctx.lang ? `<span class="active" lang="${l.tag || l.code}">${esc(l.name)}</span>` : `<a href="${ctx.href(page.slug, l.code)}" lang="${l.tag || l.code}" hreflang="${l.tag || l.code}">${esc(l.name)}</a>`}</li>`).join('') + `</ul></details>`;
 }
 
 function header(ctx, page) {
@@ -193,7 +193,7 @@ async function main() {
   for (const l of CONFIG.langs) for (const page of pages) {
     const c0 = ctxs[l.code];
     sm += `  <url><loc>${c0.abs(page.slug)}</loc><lastmod>${today}</lastmod><changefreq>monthly</changefreq><priority>${page.slug === 'index' ? '1.0' : '0.8'}</priority>\n`;
-    for (const l2 of CONFIG.langs) sm += `    <xhtml:link rel="alternate" hreflang="${l2.code}" href="${c0.abs(page.slug, l2.code)}"/>\n`;
+    for (const l2 of CONFIG.langs) sm += `    <xhtml:link rel="alternate" hreflang="${l2.tag || l2.code}" href="${c0.abs(page.slug, l2.code)}"/>\n`;
     sm += `    <xhtml:link rel="alternate" hreflang="x-default" href="${c0.abs(page.slug, CONFIG.defaultLang)}"/>\n  </url>\n`;
   }
   sm += '</urlset>\n';

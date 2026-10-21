@@ -1,0 +1,1141 @@
+{
+ "meta": {
+  "note": "इस कपड़े का प्रलेखित इतिहास 1350 के दशक में लिरे से शुरू होता है। उससे पहले का सब कुछ या तो एक अलग प्रलेखित वस्तु है (मैंडिलियन, सुडेरियम), जिसका इस कपड़े से संबंध एक परिकल्पना है, या फिर किंवदंती है। ईसवी से पहले के वर्ष केवल वहीं ऋणात्मक लिखे गए हैं जहाँ अंकों वाला वर्ष चाहिए। यहाँ सभी घटनाएँ ईसवी की हैं।"
+ },
+ "events": [
+  {
+   "id": "crucifixion-burial",
+   "year": 30,
+   "date_label": "लगभग 30 या 33 ई.",
+   "title": "यीशु को क्रूस पर चढ़ाया जाना और उनका दफ़न",
+   "text": "सुसमाचार कहते हैं कि अरिमतियाह के यूसुफ़ ने शरीर को एक लिनन की चादर (sindon) में लपेटा और चट्टान में बनी एक क़ब्र में रखा। यूहन्ना लिनन के कपड़ों और चेहरे के एक अलग कपड़े का उल्लेख करते हैं। इस कफ़न से कोई भी संबंध एक परिकल्पना है।",
+   "certainty": "hypothesized",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Schwortz 2016 (सुसमाचार से जुड़ी आपत्तियों पर चर्चा)",
+     "url": "https://www.shroud.com/pdfs/fivereasons.pdf"
+    }
+   ]
+  },
+  {
+   "id": "abgar-legend",
+   "year": 325,
+   "date_label": "चौथी सदी की शुरुआत",
+   "title": "Eusebius अबगर के पत्र दर्ज करते हैं, कोई छवि नहीं",
+   "text": "Eusebius एडेसा के राजा अबगर और यीशु के बीच के एक पत्र को सुरक्षित रखते हैं। किसी छवि का उल्लेख नहीं है। छवि किंवदंती में बाद में आती है।",
+   "certainty": "legendary",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Wikipedia: Image of Edessa",
+     "url": "https://en.wikipedia.org/wiki/Image_of_Edessa"
+    }
+   ]
+  },
+  {
+   "id": "egeria-edessa",
+   "year": 384,
+   "date_label": "384",
+   "title": "तीर्थयात्री Egeria पत्र देखती हैं, कोई छवि नहीं",
+   "text": "Egeria एडेसा जाती हैं और अबगर के पत्रों का उल्लेख करती हैं, लेकिन मसीह की किसी छवि का नहीं।",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Wikipedia: Image of Edessa",
+     "url": "https://en.wikipedia.org/wiki/Image_of_Edessa"
+    }
+   ]
+  },
+  {
+   "id": "evagrius-image",
+   "year": 593,
+   "date_label": "लगभग 593",
+   "title": "एडेसा की किसी छवि का पहला उल्लेख",
+   "text": "Evagrius Scholasticus एक चमत्कारी छवि को 544 की फ़ारसी घेराबंदी से एडेसा को बचाने का श्रेय देते हैं। Ian Wilson ने बाद में सुझाव दिया कि चेहरे की यह छवि असल में यही कफ़न थी, इस तरह मोड़ा हुआ कि केवल चेहरा दिखे।",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Image of Edessa",
+     "url": "https://en.wikipedia.org/wiki/Image_of_Edessa"
+    }
+   ]
+  },
+  {
+   "id": "sudarium-legend",
+   "year": 614,
+   "date_label": "614",
+   "title": "कहा जाता है कि सुडेरियम यरूशलेम से निकला",
+   "text": "किंवदंती कहती है कि आज ओविएडो में रखा चेहरे का कपड़ा फ़ारसी आक्रमण से पहले यरूशलेम से निकला। यह कहानी सदियों बाद बिशप Pelagius ने दर्ज की, जो जालसाज़ के रूप में जाने जाते हैं।",
+   "certainty": "legendary",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Wikipedia: Sudarium of Oviedo",
+     "url": "https://en.wikipedia.org/wiki/Sudarium_of_Oviedo"
+    }
+   ]
+  },
+  {
+   "id": "mandylion-constantinople",
+   "year": 944,
+   "date_label": "944",
+   "title": "मैंडिलियन कुस्तुंतुनिया ले जाया गया",
+   "text": "एडेसा की छवि को कुस्तुंतुनिया ले जाकर फ़ारोस चैपल में रखा जाता है। यह स्थानांतरण प्रलेखित है। यह छवि यही कफ़न थी, यह एक परिकल्पना है जिसे ज़्यादातर इतिहासकार नहीं मानते।",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Image of Edessa",
+     "url": "https://en.wikipedia.org/wiki/Image_of_Edessa"
+    }
+   ]
+  },
+  {
+   "id": "sudarium-1075",
+   "year": 1075,
+   "date_label": "14 मार्च 1075",
+   "title": "ओविएडो में सुडेरियम की पेटी खोली गई",
+   "text": "अल्फ़ोंसो छठे, उनकी बहन और एल सिद सुडेरियम वाली पेटी खोलते हैं। यह उस कपड़े का सबसे पुराना स्पष्ट रिकॉर्ड है।",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Wikipedia: Sudarium of Oviedo",
+     "url": "https://en.wikipedia.org/wiki/Sudarium_of_Oviedo"
+    }
+   ]
+  },
+  {
+   "id": "pray-codex",
+   "year": 1192,
+   "date_label": "1192-1195",
+   "title": "प्रे कोडेक्स का चित्र",
+   "text": "एक हंगेरियाई पांडुलिपि में मसीह का दफ़न दिखाया गया है: एक-दूसरे पर रखे हाथ, बिना अँगूठे, और एक कपड़ा जिस पर कफ़न के पुराने जले छेदों जैसे L आकार के गोले हैं। आलोचक इस वस्तु को सजाया हुआ क़ब्र का पत्थर मानते हैं।",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Hungarian Pray Codex",
+     "url": "https://en.wikipedia.org/wiki/Hungarian_Pray_Codex"
+    }
+   ]
+  },
+  {
+   "id": "de-clari",
+   "year": 1203,
+   "date_label": "1203-1204",
+   "title": "Robert de Clari का आकृति वाला कफ़न",
+   "text": "एक फ़्रांसीसी धर्मयोद्धा लिखते हैं कि कुस्तुंतुनिया के ब्लाकेर्ने में प्रभु की आकृति वाला एक कफ़न हर शुक्रवार उठाया जाता था। कोई दूसरा स्रोत इसकी पुष्टि नहीं करता।",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Robert de Clari",
+     "url": "https://en.wikipedia.org/wiki/Robert_de_Clari"
+    }
+   ]
+  },
+  {
+   "id": "sack-constantinople",
+   "year": 1204,
+   "date_label": "1204",
+   "title": "कुस्तुंतुनिया की लूट",
+   "text": "धर्मयोद्धा शहर के अवशेष लूट लेते हैं। कुछ इतिहासकार सुझाते हैं कि तभी एक दफ़न कपड़ा ग़ायब हुआ और बाद में फ़्रांस पहुँचा। यह एक परिकल्पना है।",
+   "certainty": "hypothesized",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "templar-testimony",
+   "year": 1287,
+   "date_label": "1287",
+   "title": "टेम्पलर दीक्षार्थी एक लिनन की छवि को चूमता है",
+   "text": "Arnaut Sabbatier ने गवाही दी कि टेम्पलर दीक्षा के समय उन्हें एक दाढ़ी वाले व्यक्ति की छवि वाला एक लंबा लिनन कपड़ा दिखाया गया। Barbara Frale ने 2009 में सुझाव दिया कि यह यही कफ़न था।",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Frale पर The Register 2009",
+     "url": "https://www.theregister.com/offbeat/2009/04/06/vatican-researcher-claims-templars-worshipped-turin-shroud/968021"
+    }
+   ]
+  },
+  {
+   "id": "lirey-founding",
+   "year": 1353,
+   "date_label": "20 जून 1353",
+   "title": "लिरे में चर्च की स्थापना",
+   "text": "योद्धा Geoffroi de Charny शैम्पेन के लिरे में एक कॉलेजिएट चर्च की स्थापना करते हैं। ट्यूरिन की आधिकारिक साइट इसे पहले निश्चित सबूत की शुरुआत कहती है।",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "ट्यूरिन महाधर्मप्रांत: ऐतिहासिक रूपरेखा",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    },
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "lirey-exhibitions",
+   "year": 1355,
+   "date_label": "लगभग 1355",
+   "title": "लिरे में पहली प्रदर्शनियाँ",
+   "text": "कैनन Robert de Caillac लिरे में कपड़े को दिखाना शुरू करते हैं। Charny और Vergy के कुल-चिह्नों वाले तीर्थयात्री बिल्ले, जिनमें से एक अब पेरिस के म्यूज़े दे क्लूनी में है, एक शरीर की सामने और पीछे की छवियाँ दिखाते हैं।",
+   "certainty": "probable",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+    },
+    {
+     "label": "A Souvenir from Lirey (Cluny badge)",
+     "url": "https://sindonology.org/papers/clunySouvenir.shtml"
+    }
+   ]
+  },
+  {
+   "id": "charny-death",
+   "year": 1356,
+   "date_label": "1356",
+   "title": "Geoffroi de Charny की पोइतिए में मृत्यु",
+   "text": "लिरे के संस्थापक पोइतिए की लड़ाई में मारे जाते हैं। उन्होंने कभी यह लिखित विवरण नहीं छोड़ा कि उन्हें यह कपड़ा कैसे मिला।",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "oresme",
+   "year": 1370,
+   "date_label": "1355-1382 (शायद 1370 के बाद)",
+   "title": "Oresme शैम्पेन के एक कफ़न को नकली कहते हैं",
+   "text": "धर्मशास्त्री Nicole Oresme शैम्पेन के एक चर्च का, जो प्रभु का कफ़न रखने का दावा करता था, पादरियों की धोखाधड़ी के एक साफ़ उदाहरण के रूप में हवाला देते हैं। इस अंश की पहचान Nicolas Sarzeaud ने 2025 में की।",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Sarzeaud पर Classicult 2025",
+     "url": "https://www.classicult.it/en/a-newly-discovered-medieval-document-by-nicole-oresme-is-the-earliest-written-evidence-to-reject-the-shroud-of-turin-as-authentic/"
+    }
+   ]
+  },
+  {
+   "id": "darcis",
+   "year": 1389,
+   "date_label": "1389",
+   "title": "बिशप d'Arcis का ज्ञापन",
+   "text": "त्रोय के बिशप प्रतिपोप क्लेमेंट सप्तम को लिखते हैं कि कपड़ा चालाकी से पेंट किया गया है और एक कलाकार ने एक पुराने बिशप के सामने यह माना था। बचे हुए पाठ बिना हस्ताक्षर वाले मसौदे हैं।",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    },
+    {
+     "label": "Markwardt, BSTS Newsletter 99",
+     "url": "https://www.shroud.com/pdfs/n99part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "clement-bull",
+   "year": 1390,
+   "date_label": "6 जनवरी 1390",
+   "title": "क्लेमेंट सप्तम इसे \"चित्रण\" के रूप में दिखाने की अनुमति देते हैं",
+   "text": "प्रतिपोप प्रदर्शन की अनुमति तभी देते हैं जब इसे एक आकृति या चित्रण के रूप में घोषित किया जाए, और न मोमबत्तियाँ हों, न धूप, न सम्मान-रक्षक।",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "margaret-removes",
+   "year": 1418,
+   "date_label": "1418",
+   "title": "लिरे से हटाया गया",
+   "text": "सौ वर्षीय युद्ध के दौरान Marguerite de Charny सुरक्षा के लिए कपड़े को लिरे से ले जाती हैं। बाद में कैनन इसे वापस पाने के लिए मुक़दमा करते हैं।",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "ट्यूरिन महाधर्मप्रांत: ऐतिहासिक रूपरेखा",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    }
+   ]
+  },
+  {
+   "id": "savoy",
+   "year": 1453,
+   "date_label": "1453",
+   "title": "सावॉय राजघराने के पास पहुँचा",
+   "text": "Marguerite de Charny कपड़ा सावॉय के ड्यूक लुई को सौंप देती हैं। यह 1983 तक सावॉय की संपत्ति रहता है।",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "ट्यूरिन महाधर्मप्रांत: ऐतिहासिक रूपरेखा",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    }
+   ]
+  },
+  {
+   "id": "julius-ii",
+   "year": 1506,
+   "date_label": "1506",
+   "title": "जूलियस द्वितीय एक पर्व को मंज़ूरी देते हैं",
+   "text": "पोप जूलियस द्वितीय सावॉय के लिए 4 मई को पवित्र कफ़न के एक धार्मिक पर्व को मंज़ूरी देते हैं, और इसे एक अवशेष मानते हैं।",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "ट्यूरिन महाधर्मप्रांत: ऐतिहासिक रूपरेखा",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    }
+   ]
+  },
+  {
+   "id": "chambery-fire",
+   "year": 1532,
+   "date_label": "4 दिसंबर 1532",
+   "title": "शाम्बेरी में आग",
+   "text": "शाम्बेरी के सैंत-शापेल में लगी आग चाँदी की अवशेष-पेटी का एक हिस्सा पिघला देती है। पिघली धातु मोड़े हुए कपड़े को जलाकर पार कर जाती है, और छेदों तथा झुलसे निशानों का एक सममित पैटर्न छोड़ जाती है।",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "ट्यूरिन महाधर्मप्रांत: ऐतिहासिक रूपरेखा",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    },
+    {
+     "label": "Wikipedia: Conservation-restoration of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "poor-clares",
+   "year": 1534,
+   "date_label": "1534",
+   "title": "पुअर क्लेयर ननें छेदों पर पैबंद लगाती हैं",
+   "text": "ननें जले छेदों पर पैबंद सिलती हैं और पीछे हॉलैंड कपड़े का अस्तर लगाती हैं।",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Conservation-restoration of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "calvin",
+   "year": 1543,
+   "date_label": "1543",
+   "title": "कैल्विन इस पर हमला करते हैं",
+   "text": "जॉन कैल्विन की \"अवशेषों पर निबंध\" (Treatise on Relics) नीस में दिखाए गए कफ़न का नकली कहकर मज़ाक़ उड़ाती है।",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "to-turin",
+   "year": 1578,
+   "date_label": "14 सितंबर 1578",
+   "title": "ट्यूरिन लाया गया",
+   "text": "ड्यूक इमानुएल फ़िलिबर्ट कपड़े को ट्यूरिन लाते हैं। मौक़ा था कार्लो बोर्रोमेओ की तीर्थयात्रा। तब से यह ट्यूरिन में ही है, युद्ध के समय कहीं और ले जाए जाने को छोड़कर।",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "ट्यूरिन महाधर्मप्रांत: ऐतिहासिक रूपरेखा",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    }
+   ]
+  },
+  {
+   "id": "guarini-1694",
+   "year": 1694,
+   "date_label": "1694",
+   "title": "गुआरीनी चैपल और Valfre की मरम्मत",
+   "text": "कपड़े को गुआरीनो गुआरीनी के चैपल में रखा जाता है, जहाँ यह 1993 तक रहता है। Sebastian Valfre इसे मज़बूत करते हैं।",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "clotilde-1868",
+   "year": 1868,
+   "date_label": "1868",
+   "title": "राजकुमारी क्लोटिल्डे इसकी मरम्मत करती हैं",
+   "text": "सावॉय की क्लोटिल्डे कपड़े की मरम्मत करती हैं। भावी उम्बेर्तो प्रथम के विवाह के अवसर पर इसे 24 से 27 अप्रैल 1868 तक दिखाया जाता है।",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Conservation-restoration of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "pia-1898",
+   "year": 1898,
+   "date_label": "28 मई 1898",
+   "title": "Secondo Pia का नेगेटिव",
+   "text": "शौक़िया फ़ोटोग्राफ़र Secondo Pia पाते हैं कि उनकी नेगेटिव प्लेट पर एक साफ़, पॉज़िटिव जैसी मानव आकृति दिखती है। आधुनिक वैज्ञानिक रुचि यहीं से शुरू होती है।",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Wikipedia: Secondo Pia",
+     "url": "https://en.wikipedia.org/wiki/Secondo_Pia"
+    }
+   ]
+  },
+  {
+   "id": "vignon-1902",
+   "year": 1902,
+   "date_label": "1902",
+   "title": "Vignon छवि की ज्यामिति का अध्ययन करते हैं",
+   "text": "Paul Vignon अध्ययन करते हैं कि शरीर पर रखा कपड़ा किसी छवि को कैसे बिगाड़ेगा, और देखते हैं कि यह छवि एक सीधे (ऑर्थोगोनल) प्रक्षेपण जैसी लगती है। यही बात Moraes ने 2025 में फिर उठाई।",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Vatican News 2026",
+     "url": "https://www.vaticannews.va/en/church/news/2026-02/shroud-turin-medieval-bas-relief-hypothesis-challenged.html"
+    },
+    {
+     "label": "Catholic World Report 2025 (CISS का वक्तव्य)",
+     "url": "https://www.catholicworldreport.com/2025/08/05/shroud-of-turin-center-disputes-new-study-that-challenges-authenticity-of-burial-cloth/"
+    }
+   ]
+  },
+  {
+   "id": "enrie-1931",
+   "year": 1931,
+   "date_label": "1931",
+   "title": "Enrie की तस्वीरें",
+   "text": "पेशेवर फ़ोटोग्राफ़र Giuseppe Enrie ज़्यादा साफ़ प्लेटों से Pia के नतीजे की पुष्टि करते हैं। Enrie की छवियाँ बाद के 3D काम और 2025 के मॉडलिंग काम में इस्तेमाल हुईं।",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Wikipedia: Secondo Pia",
+     "url": "https://en.wikipedia.org/wiki/Secondo_Pia"
+    }
+   ]
+  },
+  {
+   "id": "commission-1969",
+   "year": 1969,
+   "date_label": "1969",
+   "title": "पहला वैज्ञानिक आयोग",
+   "text": "ट्यूरिन के आर्चबिशप कपड़े की हालत की जाँच के लिए एक आयोग नियुक्त करते हैं, जिसे शुरू में गोपनीय रखा गया।",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "tv-1973",
+   "year": 1973,
+   "date_label": "23 नवंबर 1973",
+   "title": "पहला टीवी प्रदर्शन और पहले नमूने",
+   "text": "कपड़े को टेलीविज़न पर सीधा दिखाया जाता है। अध्ययन के लिए धागे काटे जाते हैं, जिनमें वे भी हैं जिनकी Gilbert Raes ने जाँच की, और Max Frei पराग के लिए टेप नमूने लेते हैं।",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "ट्यूरिन महाधर्मप्रांत: 1973 का प्रदर्शन",
+     "url": "https://sindone.org/en/home-english/expositions/1973-2/"
+    },
+    {
+     "label": "Raes पर Smith, Shroud Spectrum",
+     "url": "https://www.shroud.com/pdfs/ssi3536part5.pdf"
+    },
+    {
+     "label": "Frei के पराग पर Farey 2014",
+     "url": "https://shroud.com/pdfs/n79part8.pdf"
+    }
+   ]
+  },
+  {
+   "id": "vp8-1976",
+   "year": 1976,
+   "date_label": "1976",
+   "title": "VP-8 विश्लेषक 3D जानकारी दिखाता है",
+   "text": "सैंडिया में VP-8 इमेज एनालाइज़र का उपयोग करके John Jackson और Eric Jumper पाते हैं कि Enrie की एक तस्वीर से एक सुसंगत उभार बनता है। इसी से STURP का गठन होता है।",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "VP-8 पर STERA का पेज",
+     "url": "https://shroud.com/78strp10.htm"
+    }
+   ]
+  },
+  {
+   "id": "sturp-1978",
+   "year": 1978,
+   "date_label": "26 अगस्त से अक्टूबर 1978",
+   "title": "सार्वजनिक प्रदर्शन और STURP की जाँच",
+   "text": "लगभग 30 लाख लोग कपड़े को देखते हैं। इसके बाद STURP टीम पाँच दिन तक लगातार दिन-रात इसका अध्ययन करती है, और तस्वीरें, स्पेक्ट्रम, एक्स-रे फ़्लोरेसेंस और चिपकने वाले टेप के नमूने लेती है।",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Wikipedia: Shroud of Turin Research Project",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin_Research_Project"
+    }
+   ]
+  },
+  {
+   "id": "mccrone-1980",
+   "year": 1980,
+   "date_label": "1979-1990",
+   "title": "McCrone कहते हैं कि यह पेंट है",
+   "text": "Walter McCrone 1978 के टेपों पर कोलेजन बाइंडर में लाल गेरू और सिंदूर बताते हैं, और निष्कर्ष निकालते हैं कि यह 14वीं सदी की पेंटिंग है। वे 1980 में STURP छोड़ देते हैं और 1990 में Accounts of Chemical Research में अपना पक्ष प्रकाशित करते हैं।",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "McCrone Research Institute",
+     "url": "https://mccroneinstitute.org/research/shroud-of-turin-research-at-mccrone"
+    },
+    {
+     "label": "Wikipedia: Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+    },
+    {
+     "label": "McCrone 1990 (संग्रहीत)",
+     "url": "https://web.archive.org/web/20230131030206/http://www.mccroneinstitute.org/uploads/the_microscope__shroud_small-1422560933.pdf"
+    }
+   ]
+  },
+  {
+   "id": "sturp-papers-1980",
+   "year": 1980,
+   "date_label": "1980",
+   "title": "Applied Optics में STURP के शोधपत्र",
+   "text": "STURP स्पेक्ट्रम, इन्फ़्रारेड, UV और ख़ून के नतीजे प्रकाशित करता है, जिनमें Heller और Adler का \"Blood on the Shroud of Turin\" भी है।",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "STURP के प्रकाशित शोधपत्र",
+     "url": "http://www.shroud.com/78papers.htm"
+    },
+    {
+     "label": "Heller और Adler 1980",
+     "url": "https://www.shroud.com/pdfs/ssi43part2.pdf"
+    }
+   ]
+  },
+  {
+   "id": "sturp-1981",
+   "year": 1981,
+   "date_label": "1981",
+   "title": "STURP का अंतिम सारांश",
+   "text": "STURP का निष्कर्ष है कि छवि पेंट नहीं है और किसी कलाकार की बनाई नहीं है, दाग़ों में हीमोग्लोबिन है, और छवि कैसे बनी, यह एक रहस्य बना हुआ है। Heller और Adler अपना रासायनिक अध्ययन प्रकाशित करते हैं।",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "STURP, निष्कर्षों का सारांश",
+     "url": "http://www.shroud.com/78conclu.htm"
+    },
+    {
+     "label": "Heller और Adler 1981",
+     "url": "https://www.shroud.com/pdfs/ssi43part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "holy-see-1983",
+   "year": 1983,
+   "date_label": "1983",
+   "title": "परमधर्मपीठ को सौंपा गया",
+   "text": "स्वामित्व सावॉय राजघराने से परमधर्मपीठ (होली सी) के पास चला जाता है। पोप द्वारा नियुक्त संरक्षक, ट्यूरिन के आर्चबिशप, इसकी देखभाल करते हैं।",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "jackson-1984",
+   "year": 1984,
+   "date_label": "1984",
+   "title": "छवि की तीव्रता बनाम दूरी वाला शोधपत्र",
+   "text": "Jackson, Jumper और Ercoline Applied Optics में प्रकाशित करते हैं कि छवि का छायांकन कपड़े और शरीर की दूरी से जुड़ा है (13 बिंदुओं से r² 0.60)।",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Jackson et al. 1984",
+     "url": "https://shroud.com/pdfs/Correlation%20of%20Image%20Intensity%20Jackson%20Jumper%20Ercoline%201984%20OCRsm.pdf"
+    }
+   ]
+  },
+  {
+   "id": "sampling-1988",
+   "year": 1988,
+   "date_label": "21 अप्रैल 1988",
+   "title": "रेडियोकार्बन नमूना काटा गया",
+   "text": "कैथेड्रल के पूजा-सामग्री कक्ष में Giovanni Riggi एक कोने से एक पट्टी काटते हैं। टुकड़े तीन नियंत्रण कपड़ों के साथ एरिज़ोना, ऑक्सफ़ोर्ड और ज़्यूरिख़ भेजे जाते हैं। एक हिस्सा सुरक्षित रख लिया जाता है।",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Damon et al. 1989",
+     "url": "https://shroud.com/nature.htm"
+    },
+    {
+     "label": "Wikipedia: Radiocarbon dating",
+     "url": "https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "nature-1989",
+   "year": 1989,
+   "date_label": "फ़रवरी 1989",
+   "title": "Nature 1260-1390 ई. प्रकाशित करता है",
+   "text": "तीनों प्रयोगशालाओं के Damon और साथी 95% पर 1260-1390 ई. की अवधि बताते हैं और इसे मध्ययुगीन तिथि का निर्णायक सबूत कहते हैं। कार्डिनल Ballestrero ने चर्च की ओर से आधिकारिक अवधि की घोषणा की।",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Damon et al. 1989, Nature 337:611",
+     "url": "https://doi.org/10.1038/337611a0"
+    }
+   ]
+  },
+  {
+   "id": "sudarium-c14",
+   "year": 1990,
+   "date_label": "1990, 1992, 2007",
+   "title": "ओविएडो के सुडेरियम की रेडियोकार्बन डेटिंग",
+   "text": "एरिज़ोना, टोरंटो और मैड्रिड सुडेरियम की तिथि छठी से नौवीं सदी के बीच बताते हैं, सबसे संभावित रूप से लगभग 700 ई.।",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Wikipedia: Sudarium of Oviedo",
+     "url": "https://en.wikipedia.org/wiki/Sudarium_of_Oviedo"
+    }
+   ]
+  },
+  {
+   "id": "fire-1997",
+   "year": 1997,
+   "date_label": "11 अप्रैल 1997",
+   "title": "कैथेड्रल में आग",
+   "text": "गुआरीनी चैपल में आग लग जाती है। अग्निशामक Mario Trematore हथौड़े से बुलेटप्रूफ़ पेटी तोड़ते हैं और कपड़े को बिना नुक़सान के बाहर ले आया जाता है।",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Conservation-restoration of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "jpii-1998",
+   "year": 1998,
+   "date_label": "24 मई 1998",
+   "title": "जॉन पॉल द्वितीय: विश्वास का विषय नहीं",
+   "text": "ट्यूरिन में पोप कहते हैं कि प्रामाणिकता पर निर्णय देने की चर्च के पास कोई विशेष क्षमता नहीं है, और यह सवाल वैज्ञानिकों को सौंपते हैं। वे कफ़न को सुसमाचार का दर्पण कहते हैं।",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "वेटिकन: जॉन पॉल द्वितीय का संबोधन, 24 मई 1998",
+     "url": "https://www.vatican.va/content/john-paul-ii/en/travels/1998/documents/hf_jp-ii_spe_24051998_sindone.html"
+    }
+   ]
+  },
+  {
+   "id": "jubilee-2000",
+   "year": 2000,
+   "date_label": "2000",
+   "title": "महान जुबली का प्रदर्शन",
+   "text": "जुबली वर्ष के लिए कपड़े को सार्वजनिक रूप से दिखाया जाता है।",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "restoration-2002",
+   "year": 2002,
+   "date_label": "20 जून से 22 जुलाई 2002",
+   "title": "बड़ी पुनर्स्थापना",
+   "text": "Mechthild Flury-Lemberg की टीम 1534 के 30 पैबंद और हॉलैंड वाला अस्तर हटाती है, नया अस्तर लगाती है, और दोनों ओर स्कैन करती है। कुछ विद्वान इस काम की आलोचना करते हैं कि इससे सबूत को नुक़सान पहुँचा।",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "ट्यूरिन महाधर्मप्रांत: पुनर्स्थापना",
+     "url": "https://sindone.org/en/home-english/the-shroud/the-fire/the-restoration/"
+    },
+    {
+     "label": "Wikipedia: Conservation-restoration",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "back-image-2004",
+   "year": 2004,
+   "date_label": "2004",
+   "title": "पीछे की ओर एक धुँधली छवि का दावा",
+   "text": "Fanti और Maggiolo 2002 की तस्वीरों से उलटी ओर चेहरे की एक धुँधली छवि बताते हैं। बताया जाता है कि 2002 में सीधे देखने वालों को कोई छवि नहीं दिखी।",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Fanti और Maggiolo 2004 की समीक्षा",
+     "url": "https://sindonology.org/reviews/doubleSuperficiality.shtml"
+    }
+   ]
+  },
+  {
+   "id": "rogers-2005",
+   "year": 2005,
+   "date_label": "जनवरी 2005",
+   "title": "Rogers: जिस नमूने की तिथि निकाली गई, वह अलग था",
+   "text": "Raymond Rogers Thermochimica Acta में तर्क देते हैं कि रेडियोकार्बन वाले हिस्से में कपास और गोंद-रंग की परत है, और वैनिलिन के क्षय के आधार पर कपड़े की उम्र 1,300 से 3,000 वर्ष आँकते हैं।",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Rogers 2005",
+     "url": "https://zenodo.org/record/1259381"
+    },
+    {
+     "label": "Ball 2005, Nature समाचार",
+     "url": "https://www.nature.com/news/2005/050124/full/news050124-17.html"
+    }
+   ]
+  },
+  {
+   "id": "ramsey-2008",
+   "year": 2008,
+   "date_label": "2008",
+   "title": "ऑक्सफ़ोर्ड कार्बन मोनोऑक्साइड वाले विचार को परखता है",
+   "text": "Christopher Ramsey परखते हैं कि क्या कार्बन मोनोऑक्साइड लिनन में नया कार्बन जोड़ सकती है, और कोई उल्लेखनीय असर नहीं पाते।",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Oxford Radiocarbon Accelerator Unit",
+     "url": "https://c14.arch.ox.ac.uk/shroud.html"
+    }
+   ]
+  },
+  {
+   "id": "garlaschelli-2009",
+   "year": 2009,
+   "date_label": "अक्टूबर 2009",
+   "title": "Garlaschelli की पूरे आकार की नक़ल",
+   "text": "रसायनशास्त्री Luigi Garlaschelli एक स्वयंसेवक और एक बास-रिलीफ़ पर अम्लीय पिगमेंट रगड़कर, फिर पकाकर और धोकर बनाया गया मनुष्य के आकार का कपड़ा दिखाते हैं। शोधपत्र 2010 में छपता है।",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Garlaschelli 2010, JIST 54(4)",
+     "url": "https://library.imaging.org/jist/articles/54/4/art00002"
+    }
+   ]
+  },
+  {
+   "id": "enea-2010",
+   "year": 2010,
+   "date_label": "2010-2011",
+   "title": "ENEA के पराबैंगनी लेज़र अध्ययन",
+   "text": "ENEA के भौतिकविद UV लेज़र की बहुत छोटी पल्सों से लिनन को रंगते हैं और कफ़न जैसा पतला पीलापन पाते हैं। वे ज़ोर देते हैं कि इससे यह नहीं पता चलता कि छवि असल में कैसे बनी।",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Di Lazzaro et al. 2010",
+     "url": "https://www.sindone.info/DILAZZA1.PDF"
+    }
+   ]
+  },
+  {
+   "id": "jull-2010",
+   "year": 2010,
+   "date_label": "2010",
+   "title": "एरिज़ोना तिथि निकाले गए एक टुकड़े की फिर से जाँच करता है",
+   "text": "Freer-Waters और Jull को एरिज़ोना के एक बचे हुए टुकड़े पर न कोई रंग मिलता है, न परत, और केवल कपास के कुछ रेशे मिलते हैं। 2010 में कपड़े को सार्वजनिक रूप से दिखाया भी जाता है।",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Freer-Waters और Jull 2010, Radiocarbon 52(4)",
+     "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8CC26C322198300E051C49A0BA5B96D9/S0033822200056277a.pdf/investigating-a-dated-piece-of-the-shroud-of-turin.pdf"
+    }
+   ]
+  },
+  {
+   "id": "riani-fanti-2013",
+   "year": 2013,
+   "date_label": "2013",
+   "title": "सांख्यिकी का शोधपत्र और Fanti की डेटिंग वाली किताब",
+   "text": "Riani और साथी Statistics and Computing में स्थानिक रुझान का विश्लेषण प्रकाशित करते हैं। Fanti पहली सदी के आसपास की FT-IR, रामन और यांत्रिक तिथियों की घोषणा करते हैं। ट्यूरिन के आर्चबिशप कहते हैं कि सामग्री का स्रोत निश्चित नहीं है।",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Riani et al. 2013",
+     "url": "https://riani.unipr.it/pub/RAFC2012.pdf"
+    },
+    {
+     "label": "National Catholic Register 2013",
+     "url": "https://www.ncregister.com/news/science-shines-new-light-on-shroud-of-turin-s-age"
+    }
+   ]
+  },
+  {
+   "id": "freeman-2014",
+   "year": 2014,
+   "date_label": "2014",
+   "title": "Freeman का ईस्टर नाटक के सामान वाला सिद्धांत",
+   "text": "इतिहासकार Charles Freeman History Today में तर्क देते हैं कि यह कपड़ा मध्ययुगीन ईस्टर नाटकों का एक सामान था, जो कभी पेंट किया गया था और अब फीका पड़ गया है।",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Freeman पर Art History News",
+     "url": "https://arthistorynews.com/articles/3065_Turin_Shroud_debunked_again"
+    }
+   ]
+  },
+  {
+   "id": "expo-2015",
+   "year": 2015,
+   "date_label": "2015",
+   "title": "प्रदर्शन और DNA का पहला सर्वेक्षण",
+   "text": "पोप फ़्रांसिस की मंज़ूरी से कपड़े को दिखाया जाता है। Barcaccia और साथी कई क्षेत्रों के पौधों और मानव DNA की रिपोर्ट देते हैं, और जोड़ते हैं कि मध्ययुगीन यूरोपीय उत्पत्ति ख़ारिज नहीं होती।",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Wikipedia: Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+    },
+    {
+     "label": "Barcaccia et al. 2015",
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4593049/"
+    }
+   ]
+  },
+  {
+   "id": "raw-data-2017",
+   "year": 2017,
+   "date_label": "2017",
+   "title": "रेडियोकार्बन के कच्चे आँकड़े जारी",
+   "text": "एक क़ानूनी अनुरोध के बाद ब्रिटिश म्यूज़ियम 1988 की प्रयोगशालाओं के कच्चे आँकड़े शोधकर्ता Tristan Casabianca को जारी करता है।",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Casabianca et al. 2019",
+     "url": "https://philarchive.org/archive/CASTRD-3"
+    }
+   ]
+  },
+  {
+   "id": "bpa-2018",
+   "year": 2018,
+   "date_label": "2018",
+   "title": "ख़ून के दाग़ों के पैटर्न का अध्ययन",
+   "text": "Borrini और Garlaschelli Journal of Forensic Sciences में बताते हैं कि ख़ून की धाराएँ असंगत मुद्राओं की ओर इशारा करती हैं। अगस्त में एक सार्वजनिक प्रदर्शन होता है।",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Borrini और Garlaschelli",
+     "url": "https://researchonline.ljmu.ac.uk/id/eprint/8813/"
+    }
+   ]
+  },
+  {
+   "id": "casabianca-2019",
+   "year": 2019,
+   "date_label": "मार्च 2019",
+   "title": "कच्चे आँकड़े असमरूपता दिखाते हैं",
+   "text": "Casabianca और साथी Archaeometry में प्रकाशित करते हैं कि कच्चे आँकड़ों में समरूपता नहीं है और 1988 की प्रक्रिया पर फिर से विचार होना चाहिए, हालाँकि वे मध्ययुगीन तिथि को ख़ारिज नहीं करते।",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Casabianca et al. 2019, Archaeometry 61(5)",
+     "url": "https://philarchive.org/rec/CASTRD-3"
+    }
+   ]
+  },
+  {
+   "id": "holy-saturday-2020",
+   "year": 2020,
+   "date_label": "पवित्र शनिवार, अप्रैल 2020",
+   "title": "लॉकडाउन में ऑनलाइन सीधा प्रदर्शन",
+   "text": "COVID-19 लॉकडाउन के दौरान महाधर्मप्रांत टेलीविज़न और इंटरनेट पर कपड़ा दिखाता है। पोप फ़्रांसिस इसे क्रूस पर चढ़ाए गए, मरे हुए और जी उठे प्रभु का आइकन कहते हैं।",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Vatican News, अप्रैल 2020",
+     "url": "https://vaticannews.va/en/pope/news/2020-04/pope-expresses-gratitude-for-exposition-of-the-shroud-of-turin.html"
+    }
+   ]
+  },
+  {
+   "id": "stats-2020",
+   "year": 2020,
+   "date_label": "2020",
+   "title": "दो और सांख्यिकीय पुनर्विश्लेषण",
+   "text": "Walsh और Schwalbe, तथा Di Lazzaro और साथी प्रकाशित करते हैं कि कफ़न के नतीजे असमरूप हैं, उनमें एक स्थानिक रुझान है, और मध्ययुगीन निष्कर्ष पर फिर से विचार होना चाहिए।",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Walsh और Schwalbe 2020",
+     "url": "https://doi.org/10.1016/j.jasrep.2019.102015"
+    },
+    {
+     "label": "Di Lazzaro et al. 2020, Entropy",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7597180"
+    }
+   ]
+  },
+  {
+   "id": "waxs-2022",
+   "year": 2022,
+   "date_label": "अप्रैल 2022",
+   "title": "एक धागे की WAXS डेटिंग",
+   "text": "De Caro और साथी Heritage में बताते हैं कि मानी हुई भंडारण परिस्थितियों में एक धागे के सेलूलोज़ की उम्र 55-74 ई. के मसादा के एक लिनन से मेल खाती है।",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "De Caro et al. 2022",
+     "url": "https://dsctm.cnr.it/images/Highlights/Sindone/DeCaro_Heritage_2022.pdf"
+    }
+   ]
+  },
+  {
+   "id": "review-2025",
+   "year": 2025,
+   "date_label": "फ़रवरी 2025",
+   "title": "तटस्थ समीक्षा: तिथि बनी रहती है, फिर से जाँच ज़रूरी",
+   "text": "Textiles की एक समीक्षा का निष्कर्ष है कि 1989 की तिथि के ख़िलाफ़ सबूत उसे पलटने के लिए काफ़ी नहीं हैं, छवि का बनना अब भी एक रहस्य है, और एक दूसरी रेडियोकार्बन जाँच की ज़रूरत है।",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Karapanagiotis 2025",
+     "url": "https://www.mdpi.com/2673-7248/5/1/8"
+    }
+   ]
+  },
+  {
+   "id": "jubilee-2025",
+   "year": 2025,
+   "date_label": "28 अप्रैल से 5 मई 2025",
+   "title": "जुबली के लिए डिजिटल कफ़न",
+   "text": "असली कपड़े के प्रदर्शन के बजाय कार्डिनल Repole ट्यूरिन के पियाज़ा कास्तेलो में एक तंबू में मनुष्य के आकार की एक डिजिटल प्रतिकृति प्रस्तुत करते हैं।",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Catholic Weekly 2025",
+     "url": "https://catholicweekly.com.au/shroud-of-turin-to-be-digitally-showcased-for-holy-year/"
+    }
+   ]
+  },
+  {
+   "id": "moraes-2025",
+   "year": 2025,
+   "date_label": "28 जुलाई 2025",
+   "title": "Moraes: उथला उभार बेहतर मेल खाता है",
+   "text": "Cicero Moraes Archaeometry में कपड़ा ओढ़ाने के 3D सिमुलेशन प्रकाशित करते हैं, जो सुझाते हैं कि छवि शरीर से ज़्यादा एक उथली उभरी मूर्ति से मेल खाती है। ट्यूरिन का केंद्र CISS 4 अगस्त को जवाब देता है कि यह कोई नई बात नहीं है।",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Live Science 2025",
+     "url": "https://www.livescience.com/archaeology/shroud-of-turin-wasnt-laid-on-jesus-body-but-rather-a-sculpture-modeling-study-suggests"
+    },
+    {
+     "label": "Catholic World Report 2025",
+     "url": "https://www.catholicworldreport.com/2025/08/05/shroud-of-turin-center-disputes-new-study-that-challenges-authenticity-of-burial-cloth/"
+    }
+   ]
+  },
+  {
+   "id": "oresme-find-2025",
+   "year": 2025,
+   "date_label": "अगस्त 2025",
+   "title": "Oresme का अंश प्रकाशित",
+   "text": "Nicolas Sarzeaud Journal of Medieval History में Oresme का पाठ प्रकाशित करते हैं। यह कपड़े की सबसे पुरानी ज्ञात लिखित अस्वीकृति है।",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Classicult 2025",
+     "url": "https://www.classicult.it/en/a-newly-discovered-medieval-document-by-nicole-oresme-is-the-earliest-written-evidence-to-reject-the-shroud-of-turin-as-authentic/"
+    }
+   ]
+  },
+  {
+   "id": "moraes-rebuttal-2026",
+   "year": 2026,
+   "date_label": "फ़रवरी 2026",
+   "title": "Archaeometry में Moraes का खंडन",
+   "text": "Casabianca, Marinelli और Piana उसी जर्नल में Moraes के मॉडल की आलोचना प्रकाशित करते हैं, जिसमें मॉडलिंग की ग़लतियों और नज़रअंदाज़ किए गए सबूतों की ओर इशारा है।",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Vatican News, 10 फ़रवरी 2026",
+     "url": "https://www.vaticannews.va/en/church/news/2026-02/shroud-turin-medieval-bas-relief-hypothesis-challenged.html"
+    }
+   ]
+  },
+  {
+   "id": "jull-2026",
+   "year": 2026,
+   "date_label": "अप्रैल 2026",
+   "title": "एरिज़ोना के दूसरे टुकड़े की जाँच",
+   "text": "Freer-Waters और Jull 1988 के एरिज़ोना के एक बचे हुए टुकड़े पर Heritage Science में प्रकाशित करते हैं। समाचार रिपोर्टों के अनुसार उन्हें मरम्मत या बाहरी सामग्री का कोई निशान नहीं मिला।",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Freer-Waters और Jull 2026, Heritage Science",
+     "url": "https://www.nature.com/articles/s40494-026-02530-7"
+    },
+    {
+     "label": "Farey 2026, ब्लॉग पर सारांश",
+     "url": "https://medievalshroud.com/the-donahue-sliver-resurfaces/"
+    }
+   ]
+  },
+  {
+   "id": "riani-2026",
+   "year": 2026,
+   "date_label": "11 जून 2026",
+   "title": "कच्चे आँकड़ों पर रिग्रेशन",
+   "text": "Riani, Atkinson, Corbellini और Di Lazzaro Statistical Methods and Applications में कच्चे आँकड़ों का एक पुनर्विश्लेषण प्रकाशित करते हैं, जिसमें 165,888 संभव उप-नमूना व्यवस्थाओं को परखा गया।",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Riani et al. 2026",
+     "url": "https://link.springer.com/article/10.1007/s10260-026-00851-2"
+    }
+   ]
+  },
+  {
+   "id": "sudarium-exam-2026",
+   "year": 2026,
+   "date_label": "जुलाई 2026",
+   "title": "सुडेरियम की नई जाँच",
+   "text": "EDICES और ओविएडो विश्वविद्यालय 2012 के बाद सुडेरियम की पहली बिना छेड़छाड़ वाली (नॉन-इनवेसिव) तकनीकी जाँच की रिपोर्ट देते हैं।",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "STERA की ताज़ा ख़बरें",
+     "url": "https://www.shroud.com/latebrak.htm"
+    }
+   ]
+  },
+  {
+   "id": "dna-2026",
+   "year": 2026,
+   "date_label": "जुलाई 2026",
+   "title": "1978 के नमूनों का DNA अध्ययन",
+   "text": "Barcaccia और साथी Scientific Reports में बताते हैं कि मुख्य मानव DNA नमूने इकट्ठा करने वाले वैज्ञानिक से मेल खाता है, और साथ में पौधों, पशुओं और सूक्ष्मजीवों के कई निशान हैं। अवशेष-पेटी के दो धागों की तिथि 1534 और 1694 की मरम्मतों से मेल खाती है।",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Barcaccia et al. 2026",
+     "url": "https://www.nature.com/articles/s41598-026-60684-7"
+    },
+    {
+     "label": "ScienceDaily 2026",
+     "url": "https://www.sciencedaily.com/releases/2026/08/260803080859.htm"
+    },
+    {
+     "label": "IBT via inkl 2026",
+     "url": "https://www.inkl.com/news/turin-shroud-dna-jesus-claim-hits-a-snag-strongest-match-points-to-man-who-collected-samples"
+    }
+   ]
+  },
+  {
+   "id": "kearse-2026",
+   "year": 2026,
+   "date_label": "22 जुलाई 2026",
+   "title": "ख़ून और छवि के क्रम की जाँच",
+   "text": "Kelly Kearse दिखाते हैं कि अम्ल से उपचारित लिनन पर ख़ून बाद के रंग को रोक देता है, इसलिए \"ख़ून के नीचे छवि नहीं\" से घटनाओं का क्रम तय नहीं होता।",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Kearse 2026, International Journal of Archaeology",
+     "url": "https://sciencepublishinggroup.com/article/10.11648/j.ija.20261402.11"
+    }
+   ]
+  }
+ ]
+}

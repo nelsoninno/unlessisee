@@ -57,6 +57,13 @@ small{font-size:.85em}
   .nav a{padding:.75rem 0;border-bottom:1px solid var(--linen-edge)}
   .site-head .lang{margin-left:.5rem}
 }
+/* Same collapsed menu when a language's labels do not fit (set by main.js) */
+.site-head .brand,.site-head .nav,.site-head .langmenu{flex-shrink:0}
+.langmenu summary{white-space:nowrap}
+.site-head.compact .menu-btn{display:block}
+.site-head.compact .nav{display:none;position:absolute;left:0;right:0;top:64px;flex-direction:column;gap:0;background:var(--linen);border-bottom:1px solid var(--linen-edge);padding:.5rem clamp(1rem,4vw,2.5rem) 1rem}
+.site-head.compact .nav.open{display:flex}
+.site-head.compact .nav a{padding:.75rem 0;border-bottom:1px solid var(--linen-edge)}
 
 /* Buttons */
 .btn{display:inline-flex;align-items:center;gap:.5rem;font-size:.95rem;font-weight:500;padding:.85rem 1.4rem;border-radius:999px;text-decoration:none;border:1px solid var(--ink);color:var(--ink);background:transparent;transition:background .2s,color .2s}
@@ -451,3 +458,6 @@ h1{font-size:clamp(2.5rem,5.6vw,4.6rem)}
 
 [dir="rtl"] .lang,[dir="rtl"] .site-head .lang{margin-inline-start:.5rem}
 [dir="rtl"] .exhibit details{padding-right:1rem;padding-left:0}
+
+/* Korean: break between words, not inside them */
+:lang(ko){word-break:keep-all;overflow-wrap:anywhere}

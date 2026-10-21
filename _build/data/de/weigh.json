@@ -1,0 +1,87 @@
+{
+ "prior": {
+  "neutral": -3,
+  "skeptic": -5,
+  "believer": -1
+ },
+ "items": [
+  {
+   "id": "c14",
+   "label": "Die Radiokarbondatierung von 1988: 1260 bis 1390 n. Chr.",
+   "skeptic": -3,
+   "believer": -0.5
+  },
+  {
+   "id": "c14-flaws",
+   "label": "Die Ergebnisse von 1988 passen schlecht zueinander",
+   "skeptic": 0,
+   "believer": 0.5
+  },
+  {
+   "id": "history",
+   "label": "Kein sicherer Beleg für das Tuch vor etwa 1354",
+   "skeptic": -1,
+   "believer": -0.3
+  },
+  {
+   "id": "darcis",
+   "label": "Ein Bischof (1389) und ein Gelehrter (Oresme) nannten es eine Fälschung",
+   "skeptic": -0.7,
+   "believer": -0.2
+  },
+  {
+   "id": "no-paint",
+   "label": "Keine Farbe und kein Bindemittel bilden das Bild",
+   "skeptic": 0.3,
+   "believer": 1
+  },
+  {
+   "id": "thin",
+   "label": "Die Färbung sitzt nur auf den äußersten Fasern",
+   "skeptic": 0.3,
+   "believer": 1
+  },
+  {
+   "id": "negative",
+   "label": "Das Bild verhält sich wie ein fotografisches Negativ",
+   "skeptic": 0,
+   "believer": 0.7
+  },
+  {
+   "id": "three-d",
+   "label": "Die Helligkeit des Bildes kodiert Abstand, wie eine 3D-Karte",
+   "skeptic": 0.2,
+   "believer": 0.8
+  },
+  {
+   "id": "blood",
+   "label": "Flecken, die als Blut getestet wurden, offenbar vor dem Bild auf dem Tuch",
+   "skeptic": 0.2,
+   "believer": 0.7
+  },
+  {
+   "id": "wounds",
+   "label": "Die Wunden passen zu einer römischen Kreuzigung, Nägel durch die Handgelenke",
+   "skeptic": 0.3,
+   "believer": 1
+  },
+  {
+   "id": "unreproduced",
+   "label": "Niemand hat alle Merkmale des Bildes nachgebildet",
+   "skeptic": 0.5,
+   "believer": 1.2
+  },
+  {
+   "id": "pray",
+   "label": "Die Zeichnung im Codex Pray von etwa 1192",
+   "skeptic": 0,
+   "believer": 0.5
+  },
+  {
+   "id": "pollen-coins",
+   "label": "Pollen, Münzen auf den Augen, Blumenbilder (als schwach oder widerlegt bewertet)",
+   "skeptic": 0,
+   "believer": 0
+  }
+ ]
+}

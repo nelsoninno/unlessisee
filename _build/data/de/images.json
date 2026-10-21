@@ -1,0 +1,40 @@
+{
+ "credits": [
+  {
+   "what": "Das ganze Tuch (Seite Erkunden, Faltfigur, Körperansichten)",
+   "author": "Fotografie von Giuseppe Enrie, 1931. Digitale Ausgabe in voller Länge von Rudolf Berwanger. Neu eingefärbt und zugeschnitten von Wenn ich nicht sehe",
+   "license": "CC BY-SA 4.0 (unsere abgeleiteten Bilder stehen unter derselben Lizenz)",
+   "source": "https://commons.wikimedia.org/wiki/File:Turiner_Grabtuch_in_voller_L%C3%A4nge,_kolorierte_Aufnahme_von_Giuseppe_Enrie_1931.jpg"
+  },
+  {
+   "what": "Nahaufnahme des Gesichts (Titelbild, Vergleich mit dem Negativ, Bild zum Teilen)",
+   "author": "Fotografie von Giuseppe Enrie, 1931",
+   "license": "Gemeinfrei (laut Kennzeichnung auf Wikimedia Commons)",
+   "source": "https://commons.wikimedia.org/wiki/File:Grabtuch_Enrie_HiRes.jpg"
+  },
+  {
+   "what": "Gesicht für das 3D-Relief",
+   "author": "Fotografie von Giuseppe Enrie, 1931. Hochaufgelöste Ausgabe von Rudolf Berwanger",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Turiner_Grabtuch,_Negativ-Positiv,_in_hoher_Aufl%C3%B6sung.jpg"
+  },
+  {
+   "what": "Gemaltes Gesicht für den 3D-Vergleich",
+   "author": "Haupt Christi, The Metropolitan Museum of Art",
+   "license": "Gemeinfrei (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Head_of_Christ_MET_DP145916.jpg"
+  },
+  {
+   "what": "Ikone Christus Pantokrator vom Sinai, 6. Jahrhundert",
+   "author": "Unbekannter Künstler, Katharinenkloster, Sinai",
+   "license": "Gemeinfrei",
+   "source": "https://commons.wikimedia.org/wiki/File:Spas_vsederzhitel_sinay.jpg"
+  },
+  {
+   "what": "Bibeltext",
+   "author": "World English Bible (Englisch), Reina-Valera 1909 (Spanisch) und Lutherbibel 1912 (Deutsch)",
+   "license": "Gemeinfrei",
+   "source": "https://ebible.org/"
+  }
+ ]
+}

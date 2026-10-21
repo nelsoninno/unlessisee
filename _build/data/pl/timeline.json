@@ -1,0 +1,1141 @@
+{
+ "meta": {
+  "note": "Udokumentowana historia tego płótna zaczyna się w Lirey w latach 50. XIV wieku. Wszystko wcześniej to albo osobny, udokumentowany przedmiot (Mandylion, Sudarion), którego związek z tym płótnem jest hipotezą, albo legenda. Lata przed naszą erą są ujemne tylko tam, gdzie potrzebny jest rok liczbowy. Tutaj wszystkie wydarzenia pochodzą z naszej ery."
+ },
+ "events": [
+  {
+   "id": "crucifixion-burial",
+   "year": 30,
+   "date_label": "około 30 lub 33 r. n.e.",
+   "title": "Ukrzyżowanie i pogrzeb Jezusa",
+   "text": "Ewangelie mówią, że Józef z Arymatei owinął ciało w lniane płótno (sindon) i złożył je w grobie wykutym w skale. Jan wspomina lniane płótna i osobną chustę na twarz. Każdy związek z tym Całunem jest hipotezą.",
+   "certainty": "hypothesized",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Schwortz 2016 (omówienie zarzutów z Ewangelii)",
+     "url": "https://www.shroud.com/pdfs/fivereasons.pdf"
+    }
+   ]
+  },
+  {
+   "id": "abgar-legend",
+   "year": 325,
+   "date_label": "początek IV wieku",
+   "title": "Euzebiusz zapisuje listy Abgara, bez obrazu",
+   "text": "Euzebiusz przekazuje list między królem Edessy Abgarem a Jezusem. Nie wspomina o żadnym obrazie. Obraz pojawia się w legendzie później.",
+   "certainty": "legendary",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Wikipedia: Image of Edessa",
+     "url": "https://en.wikipedia.org/wiki/Image_of_Edessa"
+    }
+   ]
+  },
+  {
+   "id": "egeria-edessa",
+   "year": 384,
+   "date_label": "384",
+   "title": "Pątniczka Egeria widzi listy, a nie obraz",
+   "text": "Egeria odwiedza Edessę i opisuje listy Abgara, ale nie wspomina o żadnym obrazie Chrystusa.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Wikipedia: Image of Edessa",
+     "url": "https://en.wikipedia.org/wiki/Image_of_Edessa"
+    }
+   ]
+  },
+  {
+   "id": "evagrius-image",
+   "year": 593,
+   "date_label": "około 593",
+   "title": "Pierwsza wzmianka o obrazie z Edessy",
+   "text": "Ewagriusz Scholastyk przypisuje cudownemu obrazowi ocalenie Edessy z perskiego oblężenia w 544 roku. Ian Wilson zaproponował później, że ten obraz twarzy był Całunem złożonym tak, że widać było tylko twarz.",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Image of Edessa",
+     "url": "https://en.wikipedia.org/wiki/Image_of_Edessa"
+    }
+   ]
+  },
+  {
+   "id": "sudarium-legend",
+   "year": 614,
+   "date_label": "614",
+   "title": "Sudarion ma opuścić Jerozolimę",
+   "text": "Według legendy chusta na twarz, która dziś jest w Oviedo, opuściła Jerozolimę przed najazdem perskim. Historię tę zapisał stulecia później biskup Pelagiusz, znany fałszerz.",
+   "certainty": "legendary",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Wikipedia: Sudarium of Oviedo",
+     "url": "https://en.wikipedia.org/wiki/Sudarium_of_Oviedo"
+    }
+   ]
+  },
+  {
+   "id": "mandylion-constantinople",
+   "year": 944,
+   "date_label": "944",
+   "title": "Mandylion przeniesiony do Konstantynopola",
+   "text": "Obraz z Edessy zostaje przewieziony do Konstantynopola i umieszczony w kaplicy Faros. Przeniesienie jest udokumentowane. To, że był to ten Całun, jest hipotezą odrzucaną przez większość historyków.",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Image of Edessa",
+     "url": "https://en.wikipedia.org/wiki/Image_of_Edessa"
+    }
+   ]
+  },
+  {
+   "id": "sudarium-1075",
+   "year": 1075,
+   "date_label": "14 marca 1075",
+   "title": "Otwarcie skrzyni z Sudarionem w Oviedo",
+   "text": "Alfons VI, jego siostra i Cyd otwierają skrzynię, w której jest Sudarion. To najwcześniejszy wyraźny zapis o tej tkaninie.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Wikipedia: Sudarium of Oviedo",
+     "url": "https://en.wikipedia.org/wiki/Sudarium_of_Oviedo"
+    }
+   ]
+  },
+  {
+   "id": "pray-codex",
+   "year": 1192,
+   "date_label": "1192-1195",
+   "title": "Rysunek w Kodeksie Praya",
+   "text": "Węgierski rękopis przedstawia pogrzeb Chrystusa ze skrzyżowanymi dłońmi, bez kciuków, oraz płótno z kółkami ułożonymi w L, jak dawne otwory po przypaleniu na Całunie. Krytycy odczytują ten przedmiot jako zdobioną płytę nagrobną.",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Hungarian Pray Codex",
+     "url": "https://en.wikipedia.org/wiki/Hungarian_Pray_Codex"
+    }
+   ]
+  },
+  {
+   "id": "de-clari",
+   "year": 1203,
+   "date_label": "1203-1204",
+   "title": "Całun z postacią opisany przez Roberta de Clari",
+   "text": "Francuski krzyżowiec pisze, że w Blachernach w Konstantynopolu w każdy piątek podnoszono całun z postacią Pana. Żadne inne źródło tego nie potwierdza.",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Robert de Clari",
+     "url": "https://en.wikipedia.org/wiki/Robert_de_Clari"
+    }
+   ]
+  },
+  {
+   "id": "sack-constantinople",
+   "year": 1204,
+   "date_label": "1204",
+   "title": "Złupienie Konstantynopola",
+   "text": "Krzyżowcy grabią relikwie miasta. Niektórzy historycy sugerują, że zaginęło wtedy płótno grobowe, które później trafiło do Francji. To hipoteza.",
+   "certainty": "hypothesized",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "templar-testimony",
+   "year": 1287,
+   "date_label": "1287",
+   "title": "Nowicjusz templariuszy całuje lniany wizerunek",
+   "text": "Arnaut Sabbatier zeznał, że podczas przyjęcia do templariuszy pokazano mu długie lniane płótno z wizerunkiem brodatego mężczyzny. Barbara Frale zaproponowała w 2009 roku, że był to Całun.",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "The Register 2009 o Frale",
+     "url": "https://www.theregister.com/offbeat/2009/04/06/vatican-researcher-claims-templars-worshipped-turin-shroud/968021"
+    }
+   ]
+  },
+  {
+   "id": "lirey-founding",
+   "year": 1353,
+   "date_label": "20 czerwca 1353",
+   "title": "Założenie kościoła w Lirey",
+   "text": "Rycerz Geoffroi de Charny zakłada kolegiatę w Lirey w Szampanii. Oficjalna strona turyńska nazywa to początkiem pierwszych pewnych świadectw.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Archidiecezja turyńska: zarys historii",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    },
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "lirey-exhibitions",
+   "year": 1355,
+   "date_label": "około 1355",
+   "title": "Pierwsze wystawienia w Lirey",
+   "text": "Kanonik Robert de Caillac zaczyna wystawiać płótno w Lirey. Odznaki pielgrzymie z herbami Charny i Vergy, z których jedna jest dziś w Musée de Cluny, przedstawiają przedni i tylny obraz ciała.",
+   "certainty": "probable",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+    },
+    {
+     "label": "A Souvenir from Lirey (odznaka z Cluny)",
+     "url": "https://sindonology.org/papers/clunySouvenir.shtml"
+    }
+   ]
+  },
+  {
+   "id": "charny-death",
+   "year": 1356,
+   "date_label": "1356",
+   "title": "Geoffroi de Charny ginie pod Poitiers",
+   "text": "Założyciel Lirey ginie w bitwie pod Poitiers. Nigdy nie zostawił pisemnej relacji o tym, jak zdobył płótno.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "oresme",
+   "year": 1370,
+   "date_label": "1355-1382 (prawdopodobnie po 1370)",
+   "title": "Oresme nazywa całun z Szampanii fałszerstwem",
+   "text": "Teolog Mikołaj z Oresme przytacza kościół w Szampanii, który twierdził, że ma całun Pana, jako oczywisty przykład oszustwa duchownych. Fragment ten zidentyfikował Nicolas Sarzeaud w 2025 roku.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Classicult 2025 o Sarzeaudzie",
+     "url": "https://www.classicult.it/en/a-newly-discovered-medieval-document-by-nicole-oresme-is-the-earliest-written-evidence-to-reject-the-shroud-of-turin-as-authentic/"
+    }
+   ]
+  },
+  {
+   "id": "darcis",
+   "year": 1389,
+   "date_label": "1389",
+   "title": "Memorandum biskupa d'Arcisa",
+   "text": "Biskup Troyes pisze do antypapieża Klemensa VII, że płótno jest przemyślnie namalowane i że artysta przyznał się do tego wcześniejszemu biskupowi. Zachowane teksty to niepodpisane brudnopisy.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    },
+    {
+     "label": "Markwardt, BSTS Newsletter 99",
+     "url": "https://www.shroud.com/pdfs/n99part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "clement-bull",
+   "year": 1390,
+   "date_label": "6 stycznia 1390",
+   "title": "Klemens VII pozwala wystawiać je jako „przedstawienie”",
+   "text": "Antypapież pozwala na wystawienia tylko wtedy, gdy ogłasza się płótno jako figurę lub przedstawienie, bez świec, kadzidła i straży honorowej.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "margaret-removes",
+   "year": 1418,
+   "date_label": "1418",
+   "title": "Zabrane z Lirey",
+   "text": "W czasie wojny stuletniej Małgorzata de Charny zabiera płótno z Lirey dla bezpieczeństwa. Kanonicy później procesują się o jego zwrot.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Archidiecezja turyńska: zarys historii",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    }
+   ]
+  },
+  {
+   "id": "savoy",
+   "year": 1453,
+   "date_label": "1453",
+   "title": "Przechodzi w ręce dynastii sabaudzkiej",
+   "text": "Małgorzata de Charny przekazuje płótno księciu Sabaudii Ludwikowi. Pozostaje ono własnością Sabaudii do 1983 roku.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Archidiecezja turyńska: zarys historii",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    }
+   ]
+  },
+  {
+   "id": "julius-ii",
+   "year": 1506,
+   "date_label": "1506",
+   "title": "Juliusz II zatwierdza święto",
+   "text": "Papież Juliusz II zatwierdza dla Sabaudii liturgiczne święto Świętego Całunu w dniu 4 maja, traktując go jako relikwię.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Archidiecezja turyńska: zarys historii",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    }
+   ]
+  },
+  {
+   "id": "chambery-fire",
+   "year": 1532,
+   "date_label": "4 grudnia 1532",
+   "title": "Pożar w Chambéry",
+   "text": "Pożar w Sainte-Chapelle w Chambéry topi część srebrnego relikwiarza. Stopiony metal przepala złożone płótno i zostawia symetryczny wzór otworów i przypaleń.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Archidiecezja turyńska: zarys historii",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    },
+    {
+     "label": "Wikipedia: Conservation-restoration of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "poor-clares",
+   "year": 1534,
+   "date_label": "1534",
+   "title": "Siostry klaryski łatają otwory",
+   "text": "Siostry naszywają łaty na otwory po przypaleniu i dodają podszewkę z płótna holenderskiego.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Conservation-restoration of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "calvin",
+   "year": 1543,
+   "date_label": "1543",
+   "title": "Kalwin atakuje Całun",
+   "text": "Traktat o relikwiach Jana Kalwina wyśmiewa całun pokazywany w Nicei jako fałszerstwo.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "to-turin",
+   "year": 1578,
+   "date_label": "14 września 1578",
+   "title": "Przeniesienie do Turynu",
+   "text": "Książę Emanuel Filibert przywozi płótno do Turynu z okazji pielgrzymki Karola Boromeusza. Od tamtej pory pozostaje w Turynie, z wyjątkiem wywiezień w czasie wojen.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Archidiecezja turyńska: zarys historii",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    }
+   ]
+  },
+  {
+   "id": "guarini-1694",
+   "year": 1694,
+   "date_label": "1694",
+   "title": "Kaplica Guariniego i naprawy Valfrégo",
+   "text": "Płótno zostaje umieszczone w kaplicy Guarina Guariniego, gdzie spoczywa do 1993 roku. Sebastiano Valfré je wzmacnia.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "clotilde-1868",
+   "year": 1868,
+   "date_label": "1868",
+   "title": "Księżniczka Klotylda je naprawia",
+   "text": "Klotylda Sabaudzka naprawia płótno. Jest ono wystawione od 24 do 27 kwietnia 1868 roku z okazji ślubu przyszłego króla Humberta I.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Conservation-restoration of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "pia-1898",
+   "year": 1898,
+   "date_label": "28 maja 1898",
+   "title": "Negatyw Secondo Pii",
+   "text": "Fotograf amator Secondo Pia odkrywa, że jego klisza negatywowa pokazuje wyraźną postać człowieka, wyglądającą jak pozytyw. Tu zaczyna się nowoczesne zainteresowanie naukowe.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Wikipedia: Secondo Pia",
+     "url": "https://en.wikipedia.org/wiki/Secondo_Pia"
+    }
+   ]
+  },
+  {
+   "id": "vignon-1902",
+   "year": 1902,
+   "date_label": "1902",
+   "title": "Vignon bada geometrię obrazu",
+   "text": "Paul Vignon bada, jak płótno położone na ciele zniekształciłoby obraz, i zauważa, że obraz wygląda jak rzut prostokątny. Tę kwestię podniósł ponownie Moraes w 2025 roku.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Vatican News 2026",
+     "url": "https://www.vaticannews.va/en/church/news/2026-02/shroud-turin-medieval-bas-relief-hypothesis-challenged.html"
+    },
+    {
+     "label": "Catholic World Report 2025 (oświadczenie CISS)",
+     "url": "https://www.catholicworldreport.com/2025/08/05/shroud-of-turin-center-disputes-new-study-that-challenges-authenticity-of-burial-cloth/"
+    }
+   ]
+  },
+  {
+   "id": "enrie-1931",
+   "year": 1931,
+   "date_label": "1931",
+   "title": "Zdjęcia Enriego",
+   "text": "Zawodowy fotograf Giuseppe Enrie potwierdza wynik Pii na ostrzejszych kliszach. Zdjęcia Enriego wykorzystano w późniejszych pracach 3D i w modelowaniu z 2025 roku.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Wikipedia: Secondo Pia",
+     "url": "https://en.wikipedia.org/wiki/Secondo_Pia"
+    }
+   ]
+  },
+  {
+   "id": "commission-1969",
+   "year": 1969,
+   "date_label": "1969",
+   "title": "Pierwsza komisja naukowa",
+   "text": "Arcybiskup Turynu powołuje komisję, początkowo utrzymywaną w tajemnicy, aby zbadała stan płótna.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "tv-1973",
+   "year": 1973,
+   "date_label": "23 listopada 1973",
+   "title": "Pierwsze wystawienie w telewizji i pierwsze próbki",
+   "text": "Płótno zostaje pokazane na żywo w telewizji. Wycina się nici do badań, w tym te, które zbadał Gilbert Raes, a Max Frei pobiera próbki taśmowe pyłków.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Archidiecezja turyńska: wystawienie w 1973 roku",
+     "url": "https://sindone.org/en/home-english/expositions/1973-2/"
+    },
+    {
+     "label": "Smith o Raesie, Shroud Spectrum",
+     "url": "https://www.shroud.com/pdfs/ssi3536part5.pdf"
+    },
+    {
+     "label": "Farey 2014 o pyłkach Freia",
+     "url": "https://shroud.com/pdfs/n79part8.pdf"
+    }
+   ]
+  },
+  {
+   "id": "vp8-1976",
+   "year": 1976,
+   "date_label": "1976",
+   "title": "Analizator VP-8 pokazuje informację 3D",
+   "text": "Korzystając z analizatora obrazu VP-8 w Sandia, John Jackson i Eric Jumper odkrywają, że zdjęcie Enriego daje spójny relief. Prowadzi to do powstania STURP.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Strona STERA o VP-8",
+     "url": "https://shroud.com/78strp10.htm"
+    }
+   ]
+  },
+  {
+   "id": "sturp-1978",
+   "year": 1978,
+   "date_label": "od 26 sierpnia do października 1978",
+   "title": "Publiczne wystawienie i badanie STURP",
+   "text": "Płótno ogląda około 3 milionów ludzi. Potem zespół STURP bada je przez pięć dni bez przerwy, wykonując zdjęcia, widma, pomiary fluorescencji rentgenowskiej i pobierając próbki na taśmy samoprzylepne.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Wikipedia: Shroud of Turin Research Project",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin_Research_Project"
+    }
+   ]
+  },
+  {
+   "id": "mccrone-1980",
+   "year": 1980,
+   "date_label": "1979-1990",
+   "title": "McCrone mówi, że to farba",
+   "text": "Walter McCrone opisuje czerwoną ochrę i cynober na spoiwie kolagenowym na taśmach z 1978 roku i dochodzi do wniosku, że to malowidło z XIV wieku. Odchodzi ze STURP w 1980 roku i publikuje swoje argumenty w Accounts of Chemical Research w 1990 roku.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "McCrone Research Institute",
+     "url": "https://mccroneinstitute.org/research/shroud-of-turin-research-at-mccrone"
+    },
+    {
+     "label": "Wikipedia: Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+    },
+    {
+     "label": "McCrone 1990 (archiwum)",
+     "url": "https://web.archive.org/web/20230131030206/http://www.mccroneinstitute.org/uploads/the_microscope__shroud_small-1422560933.pdf"
+    }
+   ]
+  },
+  {
+   "id": "sturp-papers-1980",
+   "year": 1980,
+   "date_label": "1980",
+   "title": "Artykuły STURP w Applied Optics",
+   "text": "STURP publikuje wyniki badań widmowych, w podczerwieni, w ultrafiolecie i badań krwi, w tym artykuł Hellera i Adlera „Blood on the Shroud of Turin”.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Opublikowane artykuły STURP",
+     "url": "http://www.shroud.com/78papers.htm"
+    },
+    {
+     "label": "Heller i Adler 1980",
+     "url": "https://www.shroud.com/pdfs/ssi43part2.pdf"
+    }
+   ]
+  },
+  {
+   "id": "sturp-1981",
+   "year": 1981,
+   "date_label": "1981",
+   "title": "Końcowe podsumowanie STURP",
+   "text": "STURP stwierdza, że obraz nie jest farbą ani dziełem artysty, plamy zawierają hemoglobinę, a sposób powstania obrazu pozostaje zagadką. Heller i Adler publikują swoje badanie chemiczne.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Podsumowanie wniosków STURP",
+     "url": "http://www.shroud.com/78conclu.htm"
+    },
+    {
+     "label": "Heller i Adler 1981",
+     "url": "https://www.shroud.com/pdfs/ssi43part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "holy-see-1983",
+   "year": 1983,
+   "date_label": "1983",
+   "title": "Przekazanie Stolicy Apostolskiej",
+   "text": "Własność przechodzi z rąk dynastii sabaudzkiej na Stolicę Apostolską. Opiekuje się nim papieski kustosz, arcybiskup Turynu.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "jackson-1984",
+   "year": 1984,
+   "date_label": "1984",
+   "title": "Artykuł o intensywności obrazu i odległości",
+   "text": "Jackson, Jumper i Ercoline publikują w Applied Optics, że cieniowanie obrazu koreluje z odległością płótna od ciała (r kwadrat 0,60 z 13 punktów).",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Jackson et al. 1984",
+     "url": "https://shroud.com/pdfs/Correlation%20of%20Image%20Intensity%20Jackson%20Jumper%20Ercoline%201984%20OCRsm.pdf"
+    }
+   ]
+  },
+  {
+   "id": "sampling-1988",
+   "year": 1988,
+   "date_label": "21 kwietnia 1988",
+   "title": "Wycięcie próbki do datowania radiowęglowego",
+   "text": "W zakrystii katedry Giovanni Riggi wycina pasek z jednego rogu. Kawałki trafiają do Arizony, Oksfordu i Zurychu razem z trzema tkaninami kontrolnymi. Część zostaje zachowana w rezerwie.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Damon et al. 1989",
+     "url": "https://shroud.com/nature.htm"
+    },
+    {
+     "label": "Wikipedia: Radiocarbon dating",
+     "url": "https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "nature-1989",
+   "year": 1989,
+   "date_label": "luty 1989",
+   "title": "Nature publikuje lata 1260-1390 n.e.",
+   "text": "Damon i współpracownicy z trzech laboratoriów podają przedział 95% wynoszący 1260-1390 n.e. i nazywają go rozstrzygającym dowodem średniowiecznej daty. Kardynał Ballestrero ogłosił oficjalny przedział w imieniu Kościoła.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Damon et al. 1989, Nature 337:611",
+     "url": "https://doi.org/10.1038/337611a0"
+    }
+   ]
+  },
+  {
+   "id": "sudarium-c14",
+   "year": 1990,
+   "date_label": "1990, 1992, 2007",
+   "title": "Datowanie radiowęglowe Sudarionu z Oviedo",
+   "text": "Arizona, Toronto i Madryt datują Sudarion na okres od VI do IX wieku, najprawdopodobniej około 700 roku n.e.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Wikipedia: Sudarium of Oviedo",
+     "url": "https://en.wikipedia.org/wiki/Sudarium_of_Oviedo"
+    }
+   ]
+  },
+  {
+   "id": "fire-1997",
+   "year": 1997,
+   "date_label": "11 kwietnia 1997",
+   "title": "Pożar w katedrze",
+   "text": "W kaplicy Guariniego wybucha pożar. Strażak Mario Trematore rozbija młotem kuloodporną gablotę, a płótno zostaje wyniesione bez uszkodzeń.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Conservation-restoration of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "jpii-1998",
+   "year": 1998,
+   "date_label": "24 maja 1998",
+   "title": "Jan Paweł II: to nie jest kwestia wiary",
+   "text": "W Turynie papież mówi, że Kościół nie ma szczególnych kompetencji, by rozstrzygać o autentyczności, powierza to pytanie naukowcom i nazywa Całun lustrem Ewangelii.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Watykan: przemówienie Jana Pawła II, 24 maja 1998",
+     "url": "https://www.vatican.va/content/john-paul-ii/en/travels/1998/documents/hf_jp-ii_spe_24051998_sindone.html"
+    }
+   ]
+  },
+  {
+   "id": "jubilee-2000",
+   "year": 2000,
+   "date_label": "2000",
+   "title": "Wystawienie w Wielkim Jubileuszu",
+   "text": "Płótno zostaje publicznie wystawione z okazji roku jubileuszowego.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "restoration-2002",
+   "year": 2002,
+   "date_label": "od 20 czerwca do 22 lipca 2002",
+   "title": "Duża restauracja",
+   "text": "Zespół Mechthild Flury-Lemberg usuwa 30 łat z 1534 roku i holenderską podszewkę, zakłada nową podszewkę i skanuje obie strony. Niektórzy badacze krytykują te prace jako niszczące dowody.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Archidiecezja turyńska: restauracja",
+     "url": "https://sindone.org/en/home-english/the-shroud/the-fire/the-restoration/"
+    },
+    {
+     "label": "Wikipedia: Conservation-restoration",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "back-image-2004",
+   "year": 2004,
+   "date_label": "2004",
+   "title": "Domniemany słaby obraz na tylnej stronie",
+   "text": "Fanti i Maggiolo opisują słaby obraz twarzy na odwrotnej stronie na podstawie zdjęć z 2002 roku. Bezpośredni obserwatorzy w 2002 roku podobno żadnego nie zobaczyli.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Recenzja Fanti i Maggiolo 2004",
+     "url": "https://sindonology.org/reviews/doubleSuperficiality.shtml"
+    }
+   ]
+  },
+  {
+   "id": "rogers-2005",
+   "year": 2005,
+   "date_label": "styczeń 2005",
+   "title": "Rogers: datowana próbka była inna",
+   "text": "Raymond Rogers przekonuje w Thermochimica Acta, że obszar próbki radiowęglowej zawiera bawełnę i powłokę z gumy i barwnika, a na podstawie ubytku waniliny szacuje wiek płótna na 1300 do 3000 lat.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Rogers 2005",
+     "url": "https://zenodo.org/record/1259381"
+    },
+    {
+     "label": "Ball 2005, wiadomości Nature",
+     "url": "https://www.nature.com/news/2005/050124/full/news050124-17.html"
+    }
+   ]
+  },
+  {
+   "id": "ramsey-2008",
+   "year": 2008,
+   "date_label": "2008",
+   "title": "Oksford sprawdza hipotezę tlenku węgla",
+   "text": "Christopher Ramsey sprawdza, czy tlenek węgla mógłby dodać do lnu młody węgiel, i nie znajduje istotnego efektu.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Oxford Radiocarbon Accelerator Unit",
+     "url": "https://c14.arch.ox.ac.uk/shroud.html"
+    }
+   ]
+  },
+  {
+   "id": "garlaschelli-2009",
+   "year": 2009,
+   "date_label": "październik 2009",
+   "title": "Replika naturalnej wielkości Garlaschellego",
+   "text": "Chemik Luigi Garlaschelli pokazuje płótno naturalnej wielkości wykonane przez wcieranie kwaśnego pigmentu na ochotniku i bareliefie, a potem wypiekanie i pranie. Artykuł ukazuje się w 2010 roku.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Garlaschelli 2010, JIST 54(4)",
+     "url": "https://library.imaging.org/jist/articles/54/4/art00002"
+    }
+   ]
+  },
+  {
+   "id": "enea-2010",
+   "year": 2010,
+   "date_label": "2010-2011",
+   "title": "Badania ENEA z laserem ultrafioletowym",
+   "text": "Fizycy z ENEA barwią len bardzo krótkimi impulsami lasera UV i uzyskują cienkie zażółcenie podobne do Całunu. Podkreślają, że nie pokazuje to, jak naprawdę powstał obraz.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Di Lazzaro et al. 2010",
+     "url": "https://www.sindone.info/DILAZZA1.PDF"
+    }
+   ]
+  },
+  {
+   "id": "jull-2010",
+   "year": 2010,
+   "date_label": "2010",
+   "title": "Arizona ponownie bada datowany fragment",
+   "text": "Freer-Waters i Jull nie znajdują barwnika ani powłoki, a jedynie kilka włókien bawełny na pozostałym fragmencie z Arizony. W 2010 roku płótno jest też wystawione publicznie.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Freer-Waters i Jull 2010, Radiocarbon 52(4)",
+     "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8CC26C322198300E051C49A0BA5B96D9/S0033822200056277a.pdf/investigating-a-dated-piece-of-the-shroud-of-turin.pdf"
+    }
+   ]
+  },
+  {
+   "id": "riani-fanti-2013",
+   "year": 2013,
+   "date_label": "2013",
+   "title": "Artykuł statystyczny i książka Fantiego o datowaniu",
+   "text": "Riani i współpracownicy publikują analizę trendu przestrzennego w Statistics and Computing. Fanti ogłasza daty z metod FT-IR, Ramana i mechanicznych bliskie I wiekowi. Arcybiskup Turynu mówi, że pochodzenie materiału nie jest pewne.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Riani et al. 2013",
+     "url": "https://riani.unipr.it/pub/RAFC2012.pdf"
+    },
+    {
+     "label": "National Catholic Register 2013",
+     "url": "https://www.ncregister.com/news/science-shines-new-light-on-shroud-of-turin-s-age"
+    }
+   ]
+  },
+  {
+   "id": "freeman-2014",
+   "year": 2014,
+   "date_label": "2014",
+   "title": "Teoria Freemana o rekwizycie wielkanocnym",
+   "text": "Historyk Charles Freeman przekonuje w History Today, że płótno było wyblakłym, niegdyś malowanym rekwizytem do średniowiecznych misteriów wielkanocnych.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Art History News o Freemanie",
+     "url": "https://arthistorynews.com/articles/3065_Turin_Shroud_debunked_again"
+    }
+   ]
+  },
+  {
+   "id": "expo-2015",
+   "year": 2015,
+   "date_label": "2015",
+   "title": "Wystawienie i pierwsze badanie DNA",
+   "text": "Płótno zostaje wystawione za zgodą papieża Franciszka. Barcaccia i współpracownicy opisują roślinne i ludzkie DNA z wielu regionów, dodając, że średniowieczne pochodzenie europejskie nie jest wykluczone.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Wikipedia: Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+    },
+    {
+     "label": "Barcaccia et al. 2015",
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4593049/"
+    }
+   ]
+  },
+  {
+   "id": "raw-data-2017",
+   "year": 2017,
+   "date_label": "2017",
+   "title": "Udostępnienie surowych danych radiowęglowych",
+   "text": "Po wniosku prawnym British Museum udostępnia badaczowi Tristanowi Casabiance surowe dane laboratoriów z 1988 roku.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Casabianca et al. 2019",
+     "url": "https://philarchive.org/archive/CASTRD-3"
+    }
+   ]
+  },
+  {
+   "id": "bpa-2018",
+   "year": 2018,
+   "date_label": "2018",
+   "title": "Badanie śladów krwi",
+   "text": "Borrini i Garlaschelli podają w Journal of Forensic Sciences, że strugi krwi wskazują na niespójne postawy. W sierpniu odbywa się publiczne wystawienie.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Borrini i Garlaschelli",
+     "url": "https://researchonline.ljmu.ac.uk/id/eprint/8813/"
+    }
+   ]
+  },
+  {
+   "id": "casabianca-2019",
+   "year": 2019,
+   "date_label": "marzec 2019",
+   "title": "Surowe dane wykazują niejednorodność",
+   "text": "Casabianca i współpracownicy publikują w Archaeometry, że surowe dane nie są jednorodne, a procedurę z 1988 roku należy rozważyć ponownie, choć nie wykluczają daty średniowiecznej.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Casabianca et al. 2019, Archaeometry 61(5)",
+     "url": "https://philarchive.org/rec/CASTRD-3"
+    }
+   ]
+  },
+  {
+   "id": "holy-saturday-2020",
+   "year": 2020,
+   "date_label": "Wielka Sobota, kwiecień 2020",
+   "title": "Wystawienie transmitowane w czasie lockdownu",
+   "text": "Podczas lockdownu z powodu COVID-19 archidiecezja pokazuje płótno w telewizji i internecie. Papież Franciszek nazywa je ikoną Pana ukrzyżowanego, umarłego i zmartwychwstałego.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Vatican News, kwiecień 2020",
+     "url": "https://vaticannews.va/en/pope/news/2020-04/pope-expresses-gratitude-for-exposition-of-the-shroud-of-turin.html"
+    }
+   ]
+  },
+  {
+   "id": "stats-2020",
+   "year": 2020,
+   "date_label": "2020",
+   "title": "Dwie kolejne ponowne analizy statystyczne",
+   "text": "Walsh i Schwalbe oraz Di Lazzaro i współpracownicy publikują, że wyniki dla Całunu są niejednorodne, wykazują trend przestrzenny, a wniosek o średniowieczu należy rozważyć ponownie.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Walsh i Schwalbe 2020",
+     "url": "https://doi.org/10.1016/j.jasrep.2019.102015"
+    },
+    {
+     "label": "Di Lazzaro et al. 2020, Entropy",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7597180"
+    }
+   ]
+  },
+  {
+   "id": "waxs-2022",
+   "year": 2022,
+   "date_label": "kwiecień 2022",
+   "title": "Datowanie jednej nici metodą WAXS",
+   "text": "De Caro i współpracownicy podają w Heritage, że starzenie się celulozy w jednej nici odpowiada lnowi z Masady z lat 55-74 n.e., przy założonych warunkach przechowywania.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "De Caro et al. 2022",
+     "url": "https://dsctm.cnr.it/images/Highlights/Sindone/DeCaro_Heritage_2022.pdf"
+    }
+   ]
+  },
+  {
+   "id": "review-2025",
+   "year": 2025,
+   "date_label": "luty 2025",
+   "title": "Neutralny przegląd: data się utrzymuje, potrzebne nowe badanie",
+   "text": "Przegląd w Textiles stwierdza, że dowody przeciw dacie z 1989 roku nie wystarczają, by ją obalić, powstanie obrazu wciąż jest zagadką, a potrzebne jest drugie badanie radiowęglowe.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Karapanagiotis 2025",
+     "url": "https://www.mdpi.com/2673-7248/5/1/8"
+    }
+   ]
+  },
+  {
+   "id": "jubilee-2025",
+   "year": 2025,
+   "date_label": "od 28 kwietnia do 5 maja 2025",
+   "title": "Cyfrowy Całun na Jubileusz",
+   "text": "Zamiast fizycznego wystawienia kardynał Repole prezentuje cyfrową replikę naturalnej wielkości w namiocie na Piazza Castello w Turynie.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Catholic Weekly 2025",
+     "url": "https://catholicweekly.com.au/shroud-of-turin-to-be-digitally-showcased-for-holy-year/"
+    }
+   ]
+  },
+  {
+   "id": "moraes-2025",
+   "year": 2025,
+   "date_label": "28 lipca 2025",
+   "title": "Moraes: niski relief pasuje lepiej",
+   "text": "Cicero Moraes publikuje w Archaeometry symulacje okrywania płótnem w 3D, sugerujące, że rzeźba w niskim reliefie lepiej pasuje do obrazu niż ciało. Turyński ośrodek CISS odpowiada 4 sierpnia, że to nic nowego.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Live Science 2025",
+     "url": "https://www.livescience.com/archaeology/shroud-of-turin-wasnt-laid-on-jesus-body-but-rather-a-sculpture-modeling-study-suggests"
+    },
+    {
+     "label": "Catholic World Report 2025",
+     "url": "https://www.catholicworldreport.com/2025/08/05/shroud-of-turin-center-disputes-new-study-that-challenges-authenticity-of-burial-cloth/"
+    }
+   ]
+  },
+  {
+   "id": "oresme-find-2025",
+   "year": 2025,
+   "date_label": "sierpień 2025",
+   "title": "Publikacja fragmentu Oresme'a",
+   "text": "Nicolas Sarzeaud publikuje tekst Oresme'a w Journal of Medieval History. To najwcześniejsze znane pisemne odrzucenie płótna.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Classicult 2025",
+     "url": "https://www.classicult.it/en/a-newly-discovered-medieval-document-by-nicole-oresme-is-the-earliest-written-evidence-to-reject-the-shroud-of-turin-as-authentic/"
+    }
+   ]
+  },
+  {
+   "id": "moraes-rebuttal-2026",
+   "year": 2026,
+   "date_label": "luty 2026",
+   "title": "Polemika z Moraesem w Archaeometry",
+   "text": "Casabianca, Marinelli i Piana publikują w tym samym czasopiśmie krytykę modelu Moraesa, wskazując błędy modelowania i pominięte dowody.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Vatican News, 10 lutego 2026",
+     "url": "https://www.vaticannews.va/en/church/news/2026-02/shroud-turin-medieval-bas-relief-hypothesis-challenged.html"
+    }
+   ]
+  },
+  {
+   "id": "jull-2026",
+   "year": 2026,
+   "date_label": "kwiecień 2026",
+   "title": "Zbadanie drugiego fragmentu z Arizony",
+   "text": "Freer-Waters i Jull publikują w Heritage Science badanie pozostałego fragmentu z Arizony z 1988 roku. Według doniesień prasowych nie znaleźli śladów naprawy ani obcego materiału.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Freer-Waters i Jull 2026, Heritage Science",
+     "url": "https://www.nature.com/articles/s40494-026-02530-7"
+    },
+    {
+     "label": "Farey 2026, podsumowanie na blogu",
+     "url": "https://medievalshroud.com/the-donahue-sliver-resurfaces/"
+    }
+   ]
+  },
+  {
+   "id": "riani-2026",
+   "year": 2026,
+   "date_label": "11 czerwca 2026",
+   "title": "Regresja na surowych danych",
+   "text": "Riani, Atkinson, Corbellini i Di Lazzaro publikują w Statistical Methods and Applications ponowną analizę surowych danych, sprawdzając wszystkie 165 888 możliwych układów podpróbek.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Riani et al. 2026",
+     "url": "https://link.springer.com/article/10.1007/s10260-026-00851-2"
+    }
+   ]
+  },
+  {
+   "id": "sudarium-exam-2026",
+   "year": 2026,
+   "date_label": "lipiec 2026",
+   "title": "Nowe badanie Sudarionu",
+   "text": "EDICES i Uniwersytet w Oviedo podają wyniki pierwszego od 2012 roku nieinwazyjnego badania technicznego Sudarionu.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Najnowsze wiadomości STERA",
+     "url": "https://www.shroud.com/latebrak.htm"
+    }
+   ]
+  },
+  {
+   "id": "dna-2026",
+   "year": 2026,
+   "date_label": "lipiec 2026",
+   "title": "Badanie DNA próbek z 1978 roku",
+   "text": "Barcaccia i współpracownicy podają w Scientific Reports, że główne ludzkie DNA odpowiada naukowcowi, który pobrał próbki, a do tego jest wiele śladów roślin, zwierząt i drobnoustrojów. Dwie nici z relikwiarza datowano na okres napraw z 1534 i 1694 roku.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Barcaccia et al. 2026",
+     "url": "https://www.nature.com/articles/s41598-026-60684-7"
+    },
+    {
+     "label": "ScienceDaily 2026",
+     "url": "https://www.sciencedaily.com/releases/2026/08/260803080859.htm"
+    },
+    {
+     "label": "IBT przez inkl 2026",
+     "url": "https://www.inkl.com/news/turin-shroud-dna-jesus-claim-hits-a-snag-strongest-match-points-to-man-who-collected-samples"
+    }
+   ]
+  },
+  {
+   "id": "kearse-2026",
+   "year": 2026,
+   "date_label": "22 lipca 2026",
+   "title": "Sprawdzenie kolejności krwi i obrazu",
+   "text": "Kelly Kearse pokazuje, że krew na lnie potraktowanym kwasem blokuje późniejsze barwienie, więc „brak obrazu pod krwią” nie wyznacza kolejności zdarzeń.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Kearse 2026, International Journal of Archaeology",
+     "url": "https://sciencepublishinggroup.com/article/10.11648/j.ija.20261402.11"
+    }
+   ]
+  }
+ ]
+}

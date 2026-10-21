@@ -1,0 +1,1141 @@
+{
+ "meta": {
+  "note": "这块布有文献记载的历史始于1350年代的利雷。在此之前的一切，要么是另一件有文献记载的物品（曼迪利翁、汗巾），它与这块布的关联只是假说，要么是传说。只有在需要数字年份时，公元前的年份才用负数表示；这里所有事件都在公元后。"
+ },
+ "events": [
+  {
+   "id": "crucifixion-burial",
+   "year": 30,
+   "date_label": "约公元30年或33年",
+   "title": "耶稣被钉十字架和埋葬",
+   "text": "福音书说，亚利马太的约瑟用细麻布（sindon）裹好耶稣的身体，安放在磐石凿成的坟墓里。约翰提到细麻布和另外一块包头的巾。它与这块裹尸布的任何关联都只是假说。",
+   "certainty": "hypothesized",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Schwortz 2016（讨论了来自福音书的反对意见）",
+     "url": "https://www.shroud.com/pdfs/fivereasons.pdf"
+    }
+   ]
+  },
+  {
+   "id": "abgar-legend",
+   "year": 325,
+   "date_label": "4世纪初",
+   "title": "优西比乌记载了阿布加尔书信，没有提到图像",
+   "text": "优西比乌保存了埃德萨国王阿布加尔与耶稣之间的一封书信。其中没有提到任何图像。图像是后来才进入这个传说的。",
+   "certainty": "legendary",
+   "track": "world",
+   "sources": [
+    {
+     "label": "维基百科：Image of Edessa",
+     "url": "https://en.wikipedia.org/wiki/Image_of_Edessa"
+    }
+   ]
+  },
+  {
+   "id": "egeria-edessa",
+   "year": 384,
+   "date_label": "384年",
+   "title": "朝圣者埃杰里娅看到的是书信，不是图像",
+   "text": "埃杰里娅访问埃德萨，记载了阿布加尔书信，但没有提到基督的图像。",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "维基百科：Image of Edessa",
+     "url": "https://en.wikipedia.org/wiki/Image_of_Edessa"
+    }
+   ]
+  },
+  {
+   "id": "evagrius-image",
+   "year": 593,
+   "date_label": "约593年",
+   "title": "首次提到埃德萨图像",
+   "text": "埃瓦格里乌斯（Evagrius Scholasticus）记载，一幅神迹图像在544年波斯人围城时拯救了埃德萨。Ian Wilson后来提出，这幅面容图像就是折叠起来、只露出面部的裹尸布。",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "维基百科：Image of Edessa",
+     "url": "https://en.wikipedia.org/wiki/Image_of_Edessa"
+    }
+   ]
+  },
+  {
+   "id": "sudarium-legend",
+   "year": 614,
+   "date_label": "614年",
+   "title": "据说汗巾离开了耶路撒冷",
+   "text": "传说现存于奥维耶多的那块面巾在波斯入侵之前离开了耶路撒冷。这个故事是几个世纪后由以伪造文献闻名的佩拉约主教记下的。",
+   "certainty": "legendary",
+   "track": "world",
+   "sources": [
+    {
+     "label": "维基百科：Sudarium of Oviedo",
+     "url": "https://en.wikipedia.org/wiki/Sudarium_of_Oviedo"
+    }
+   ]
+  },
+  {
+   "id": "mandylion-constantinople",
+   "year": 944,
+   "date_label": "944年",
+   "title": "曼迪利翁被移往君士坦丁堡",
+   "text": "埃德萨圣像被带到君士坦丁堡，安放在法罗斯小堂。这次转移有文献记载；至于它就是这块裹尸布，只是一种假说，大多数历史学家并不接受。",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "维基百科：Image of Edessa",
+     "url": "https://en.wikipedia.org/wiki/Image_of_Edessa"
+    }
+   ]
+  },
+  {
+   "id": "sudarium-1075",
+   "year": 1075,
+   "date_label": "1075年3月14日",
+   "title": "奥维耶多的汗巾匣被打开",
+   "text": "阿方索六世、他的姐妹和熙德打开了存放汗巾的匣子。这是关于那块布最早的明确记载。",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "维基百科：Sudarium of Oviedo",
+     "url": "https://en.wikipedia.org/wiki/Sudarium_of_Oviedo"
+    }
+   ]
+  },
+  {
+   "id": "pray-codex",
+   "year": 1192,
+   "date_label": "1192年至1195年",
+   "title": "普雷抄本中的图画",
+   "text": "一部匈牙利手稿描绘了基督的埋葬：双手交叉，没有拇指，还有一块布上有L形排列的小圆圈，很像裹尸布上古老的烧洞。批评者认为画中的物体是一块有装饰的墓石。",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "维基百科：Hungarian Pray Codex",
+     "url": "https://en.wikipedia.org/wiki/Hungarian_Pray_Codex"
+    }
+   ]
+  },
+  {
+   "id": "de-clari",
+   "year": 1203,
+   "date_label": "1203年至1204年",
+   "title": "Robert de Clari所见的有人像的裹尸布",
+   "text": "一位法国十字军战士写道，在君士坦丁堡的布雷契耐，每个星期五都会举起一块显出主的形像的裹尸布。没有其他资料证实这一点。",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "维基百科：Robert de Clari",
+     "url": "https://en.wikipedia.org/wiki/Robert_de_Clari"
+    }
+   ]
+  },
+  {
+   "id": "sack-constantinople",
+   "year": 1204,
+   "date_label": "1204年",
+   "title": "君士坦丁堡遭洗劫",
+   "text": "十字军掠夺了城中的圣物。一些历史学家认为，有一块裹尸布在那时失踪，后来到了法国。这是一种假说。",
+   "certainty": "hypothesized",
+   "track": "world",
+   "sources": [
+    {
+     "label": "维基百科：History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "templar-testimony",
+   "year": 1287,
+   "date_label": "1287年",
+   "title": "圣殿骑士团新成员亲吻一幅亚麻布图像",
+   "text": "Arnaut Sabbatier作证说，他在加入圣殿骑士团的仪式上，被出示了一块长长的亚麻布，上面有一个有胡须的男人的图像。Barbara Frale在2009年提出，这就是裹尸布。",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "The Register 2009，关于Frale",
+     "url": "https://www.theregister.com/offbeat/2009/04/06/vatican-researcher-claims-templars-worshipped-turin-shroud/968021"
+    }
+   ]
+  },
+  {
+   "id": "lirey-founding",
+   "year": 1353,
+   "date_label": "1353年6月20日",
+   "title": "利雷教堂建立",
+   "text": "骑士Geoffroi de Charny在香槟地区的利雷建立了一座牧师会教堂。都灵的官方网站称，这是第一批确切证据的开端。",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "都灵总教区：历史概要",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    },
+    {
+     "label": "维基百科：History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "lirey-exhibitions",
+   "year": 1355,
+   "date_label": "约1355年",
+   "title": "在利雷首次展示",
+   "text": "司铎Robert de Caillac开始在利雷展示这块布。印有Charny和Vergy两个家族纹章的朝圣徽章（其中一枚现藏于克吕尼博物馆）显示了一个身体的正面和背面图像。",
+   "certainty": "probable",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "维基百科：Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+    },
+    {
+     "label": "A Souvenir from Lirey（克吕尼徽章）",
+     "url": "https://sindonology.org/papers/clunySouvenir.shtml"
+    }
+   ]
+  },
+  {
+   "id": "charny-death",
+   "year": 1356,
+   "date_label": "1356年",
+   "title": "Geoffroi de Charny死于普瓦捷",
+   "text": "利雷教堂的创建者在普瓦捷战役中阵亡。他从未留下书面记录，说明自己是如何得到这块布的。",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "维基百科：Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "oresme",
+   "year": 1370,
+   "date_label": "1355年至1382年（很可能在1370年之后）",
+   "title": "Oresme称香槟地区的一块裹尸布是伪造品",
+   "text": "神学家Nicole Oresme举出香槟地区一座声称拥有主的裹尸布的教堂，作为神职人员行骗的明显例子。这段文字是Nicolas Sarzeaud在2025年发现的。",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Classicult 2025，关于Sarzeaud",
+     "url": "https://www.classicult.it/en/a-newly-discovered-medieval-document-by-nicole-oresme-is-the-earliest-written-evidence-to-reject-the-shroud-of-turin-as-authentic/"
+    }
+   ]
+  },
+  {
+   "id": "darcis",
+   "year": 1389,
+   "date_label": "1389年",
+   "title": "d'Arcis主教的备忘录",
+   "text": "特鲁瓦主教写信给对立教宗克莱孟七世，说这块布是巧妙画成的，还说有一位画家曾向前任主教认罪。现存的文本是未署名的草稿。",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "维基百科：History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    },
+    {
+     "label": "Markwardt, BSTS Newsletter 99",
+     "url": "https://www.shroud.com/pdfs/n99part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "clement-bull",
+   "year": 1390,
+   "date_label": "1390年1月6日",
+   "title": "克莱孟七世允许作为“表现物”展示",
+   "text": "这位对立教宗规定，只有宣布它是一幅形像或表现物，才可以展示，而且不得点蜡烛、焚香或设仪仗守卫。",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "维基百科：History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "margaret-removes",
+   "year": 1418,
+   "date_label": "1418年",
+   "title": "移出利雷",
+   "text": "百年战争期间，Marguerite de Charny为了安全把这块布从利雷带走。教堂的司铎们后来提起诉讼，要求归还。",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "都灵总教区：历史概要",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    }
+   ]
+  },
+  {
+   "id": "savoy",
+   "year": 1453,
+   "date_label": "1453年",
+   "title": "转归萨伏依家族",
+   "text": "Marguerite de Charny把这块布转交给萨伏依公爵路易。直到1983年，它一直是萨伏依家族的财产。",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "都灵总教区：历史概要",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    }
+   ]
+  },
+  {
+   "id": "julius-ii",
+   "year": 1506,
+   "date_label": "1506年",
+   "title": "儒略二世批准设立节日",
+   "text": "教宗儒略二世批准萨伏依在5月4日庆祝圣裹尸布的礼仪节日，把它当作圣物看待。",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "都灵总教区：历史概要",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    }
+   ]
+  },
+  {
+   "id": "chambery-fire",
+   "year": 1532,
+   "date_label": "1532年12月4日",
+   "title": "尚贝里的火灾",
+   "text": "尚贝里圣礼拜堂起火，银质圣物匣部分熔化。熔化的金属烧穿了折叠的布，留下对称排列的破洞和焦痕。",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "都灵总教区：历史概要",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    },
+    {
+     "label": "维基百科：Conservation-restoration of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "poor-clares",
+   "year": 1534,
+   "date_label": "1534年",
+   "title": "嘉勒会修女修补破洞",
+   "text": "修女们在烧穿的破洞上缝上补丁，并在背面加衬一块荷兰亚麻布。",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "维基百科：Conservation-restoration of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "calvin",
+   "year": 1543,
+   "date_label": "1543年",
+   "title": "加尔文抨击它",
+   "text": "约翰·加尔文在《论圣物》中嘲笑在尼斯展示的裹尸布是伪造品。",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "维基百科：History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "to-turin",
+   "year": 1578,
+   "date_label": "1578年9月14日",
+   "title": "移往都灵",
+   "text": "公爵埃马努埃莱·菲利贝托把这块布带到都灵，起因是嘉禄·鲍荣茂的一次朝圣。此后它一直留在都灵，只在战时被移走过。",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "都灵总教区：历史概要",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    }
+   ]
+  },
+  {
+   "id": "guarini-1694",
+   "year": 1694,
+   "date_label": "1694年",
+   "title": "瓜里尼小堂和Valfrè的修补",
+   "text": "这块布被安放在瓜里诺·瓜里尼设计的小堂里，一直存放到1993年。Sebastian Valfrè对它进行了加固。",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "维基百科：History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "clotilde-1868",
+   "year": 1868,
+   "date_label": "1868年",
+   "title": "克洛蒂尔德公主修补它",
+   "text": "萨伏依的克洛蒂尔德修补了这块布。1868年4月24日至27日，为庆祝未来的翁贝托一世的婚礼，它被公开展示。",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "维基百科：Conservation-restoration of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "pia-1898",
+   "year": 1898,
+   "date_label": "1898年5月28日",
+   "title": "Secondo Pia的底片",
+   "text": "业余摄影师Secondo Pia发现，他的玻璃底片上显出一个清晰的、看起来像正片的人形。现代科学对它的兴趣从这里开始。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "维基百科：Secondo Pia",
+     "url": "https://en.wikipedia.org/wiki/Secondo_Pia"
+    }
+   ]
+  },
+  {
+   "id": "vignon-1902",
+   "year": 1902,
+   "date_label": "1902年",
+   "title": "Vignon研究图像的几何特征",
+   "text": "Paul Vignon研究了盖在身体上的布会如何使图像变形，并指出这幅图像看起来像正射投影。Moraes在2025年再次提出了这一点。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "梵蒂冈新闻网 2026",
+     "url": "https://www.vaticannews.va/en/church/news/2026-02/shroud-turin-medieval-bas-relief-hypothesis-challenged.html"
+    },
+    {
+     "label": "Catholic World Report 2025（CISS声明）",
+     "url": "https://www.catholicworldreport.com/2025/08/05/shroud-of-turin-center-disputes-new-study-that-challenges-authenticity-of-burial-cloth/"
+    }
+   ]
+  },
+  {
+   "id": "enrie-1931",
+   "year": 1931,
+   "date_label": "1931年",
+   "title": "Enrie的照片",
+   "text": "专业摄影师Giuseppe Enrie用更清晰的底片证实了Pia的结果。Enrie的图像后来被用于3D研究和2025年的建模工作。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "维基百科：Secondo Pia",
+     "url": "https://en.wikipedia.org/wiki/Secondo_Pia"
+    }
+   ]
+  },
+  {
+   "id": "commission-1969",
+   "year": 1969,
+   "date_label": "1969年",
+   "title": "第一个科学委员会",
+   "text": "都灵总主教任命了一个委员会，起初对外保密，负责检查这块布的状况。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "维基百科：History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "tv-1973",
+   "year": 1973,
+   "date_label": "1973年11月23日",
+   "title": "首次电视展示和首次取样",
+   "text": "这块布在电视上直播展示。研究人员剪下了一些线用于研究，其中包括Gilbert Raes检查的那些，Max Frei还用胶带采集了花粉样本。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "都灵总教区：1973年展示",
+     "url": "https://sindone.org/en/home-english/expositions/1973-2/"
+    },
+    {
+     "label": "Smith，关于Raes，Shroud Spectrum",
+     "url": "https://www.shroud.com/pdfs/ssi3536part5.pdf"
+    },
+    {
+     "label": "Farey 2014，关于Frei的花粉",
+     "url": "https://shroud.com/pdfs/n79part8.pdf"
+    }
+   ]
+  },
+  {
+   "id": "vp8-1976",
+   "year": 1976,
+   "date_label": "1976年",
+   "title": "VP-8分析仪显示出3D信息",
+   "text": "John Jackson和Eric Jumper在桑迪亚使用VP-8图像分析仪，发现Enrie的一张照片能生成连贯的浮雕。这促成了STURP的成立。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "STERA关于VP-8的页面",
+     "url": "https://shroud.com/78strp10.htm"
+    }
+   ]
+  },
+  {
+   "id": "sturp-1978",
+   "year": 1978,
+   "date_label": "1978年8月26日至10月",
+   "title": "公开展示和STURP检查",
+   "text": "约300万人前来瞻仰这块布。展示结束后，STURP团队昼夜不停地研究了五天，拍摄照片，测量光谱，进行X射线荧光分析，并采集胶带样本。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "维基百科：Shroud of Turin Research Project",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin_Research_Project"
+    }
+   ]
+  },
+  {
+   "id": "mccrone-1980",
+   "year": 1980,
+   "date_label": "1979年至1990年",
+   "title": "McCrone说它是颜料画",
+   "text": "Walter McCrone报告在1978年的胶带样本上发现了胶原黏合剂中的红赭石和朱砂，断定它是一幅14世纪的画。他在1980年退出STURP，1990年在Accounts of Chemical Research上发表了他的论证。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "McCrone研究所",
+     "url": "https://mccroneinstitute.org/research/shroud-of-turin-research-at-mccrone"
+    },
+    {
+     "label": "维基百科：Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+    },
+    {
+     "label": "McCrone 1990（存档）",
+     "url": "https://web.archive.org/web/20230131030206/http://www.mccroneinstitute.org/uploads/the_microscope__shroud_small-1422560933.pdf"
+    }
+   ]
+  },
+  {
+   "id": "sturp-papers-1980",
+   "year": 1980,
+   "date_label": "1980年",
+   "title": "STURP在Applied Optics上发表的论文",
+   "text": "STURP发表了光谱、红外、紫外和血迹方面的结果，其中包括Heller和Adler的《都灵裹尸布上的血》（Blood on the Shroud of Turin）。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "STURP发表的论文",
+     "url": "http://www.shroud.com/78papers.htm"
+    },
+    {
+     "label": "Heller和Adler 1980",
+     "url": "https://www.shroud.com/pdfs/ssi43part2.pdf"
+    }
+   ]
+  },
+  {
+   "id": "sturp-1981",
+   "year": 1981,
+   "date_label": "1981年",
+   "title": "STURP最终总结",
+   "text": "STURP的结论是：图像不是颜料，也不是画家的作品；污渍中含有血红蛋白；图像如何形成仍然是个谜。Heller和Adler发表了他们的化学研究。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "STURP结论摘要",
+     "url": "http://www.shroud.com/78conclu.htm"
+    },
+    {
+     "label": "Heller和Adler 1981",
+     "url": "https://www.shroud.com/pdfs/ssi43part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "holy-see-1983",
+   "year": 1983,
+   "date_label": "1983年",
+   "title": "赠予圣座",
+   "text": "所有权从萨伏依家族转归圣座。由教宗指定的保管人，即都灵总主教，负责照管。",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "维基百科：History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "jackson-1984",
+   "year": 1984,
+   "date_label": "1984年",
+   "title": "关于图像强度与距离的论文",
+   "text": "Jackson、Jumper和Ercoline在Applied Optics上发表论文，指出图像的明暗与布和身体之间的距离相关（13个点，r²为0.60）。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Jackson et al. 1984",
+     "url": "https://shroud.com/pdfs/Correlation%20of%20Image%20Intensity%20Jackson%20Jumper%20Ercoline%201984%20OCRsm.pdf"
+    }
+   ]
+  },
+  {
+   "id": "sampling-1988",
+   "year": 1988,
+   "date_label": "1988年4月21日",
+   "title": "切取放射性碳样本",
+   "text": "Giovanni Riggi在主教座堂的圣器室里从一个角上切下一条布样。样本分别送往亚利桑那、牛津和苏黎世，同时附上三块对照布样。另有一部分留作备用。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Damon et al. 1989",
+     "url": "https://shroud.com/nature.htm"
+    },
+    {
+     "label": "维基百科：Radiocarbon dating",
+     "url": "https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "nature-1989",
+   "year": 1989,
+   "date_label": "1989年2月",
+   "title": "《自然》发表公元1260年至1390年",
+   "text": "Damon和来自三个实验室的同事报告，95%置信区间为公元1260年至1390年，并称这是中世纪年代的确凿证据。Ballestrero枢机代表教会宣布了官方的年代范围。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Damon et al. 1989, Nature 337:611",
+     "url": "https://doi.org/10.1038/337611a0"
+    }
+   ]
+  },
+  {
+   "id": "sudarium-c14",
+   "year": 1990,
+   "date_label": "1990年、1992年、2007年",
+   "title": "奥维耶多汗巾的放射性碳定年",
+   "text": "亚利桑那、多伦多和马德里的实验室把汗巾定年在6世纪至9世纪之间，最可能是公元700年前后。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "维基百科：Sudarium of Oviedo",
+     "url": "https://en.wikipedia.org/wiki/Sudarium_of_Oviedo"
+    }
+   ]
+  },
+  {
+   "id": "fire-1997",
+   "year": 1997,
+   "date_label": "1997年4月11日",
+   "title": "主教座堂火灾",
+   "text": "瓜里尼小堂起火。消防员Mario Trematore用大锤砸开防弹柜，这块布被完好无损地抢救出来。",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "维基百科：Conservation-restoration of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "jpii-1998",
+   "year": 1998,
+   "date_label": "1998年5月24日",
+   "title": "若望保禄二世：这不是信仰问题",
+   "text": "教宗在都灵说，教会没有专门的权限来裁定真伪，并把这个问题交给科学家，称裹尸布是福音的一面镜子。",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "梵蒂冈：若望保禄二世讲话，1998年5月24日",
+     "url": "https://www.vatican.va/content/john-paul-ii/en/travels/1998/documents/hf_jp-ii_spe_24051998_sindone.html"
+    }
+   ]
+  },
+  {
+   "id": "jubilee-2000",
+   "year": 2000,
+   "date_label": "2000年",
+   "title": "大禧年展示",
+   "text": "这块布在禧年期间公开展示。",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "维基百科：History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "restoration-2002",
+   "year": 2002,
+   "date_label": "2002年6月20日至7月22日",
+   "title": "大规模修复",
+   "text": "Mechthild Flury-Lemberg的团队拆除了1534年的30块补丁和荷兰亚麻衬布，换上新的衬布，并对正反两面进行扫描。一些学者批评这项工作破坏了证据。",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "都灵总教区：修复工作",
+     "url": "https://sindone.org/en/home-english/the-shroud/the-fire/the-restoration/"
+    },
+    {
+     "label": "维基百科：Conservation-restoration",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "back-image-2004",
+   "year": 2004,
+   "date_label": "2004年",
+   "title": "据称背面有一幅模糊图像",
+   "text": "Fanti和Maggiolo根据2002年的照片，报告布的背面有一幅模糊的面部图像。据报道，2002年直接观察的人没有看到。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "对Fanti和Maggiolo 2004的评论",
+     "url": "https://sindonology.org/reviews/doubleSuperficiality.shtml"
+    }
+   ]
+  },
+  {
+   "id": "rogers-2005",
+   "year": 2005,
+   "date_label": "2005年1月",
+   "title": "Rogers：被定年的样本与众不同",
+   "text": "Raymond Rogers在Thermochimica Acta上提出，放射性碳取样区域含有棉和一层树胶染料涂层，并根据香草醛的流失估计这块布有1,300至3,000年的历史。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Rogers 2005",
+     "url": "https://zenodo.org/record/1259381"
+    },
+    {
+     "label": "Ball 2005，《自然》新闻",
+     "url": "https://www.nature.com/news/2005/050124/full/news050124-17.html"
+    }
+   ]
+  },
+  {
+   "id": "ramsey-2008",
+   "year": 2008,
+   "date_label": "2008年",
+   "title": "牛津检验一氧化碳假说",
+   "text": "Christopher Ramsey检验一氧化碳能否给亚麻布增加年轻的碳，发现没有显著影响。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "牛津放射性碳加速器研究室",
+     "url": "https://c14.arch.ox.ac.uk/shroud.html"
+    }
+   ]
+  },
+  {
+   "id": "garlaschelli-2009",
+   "year": 2009,
+   "date_label": "2009年10月",
+   "title": "Garlaschelli的原尺寸复制品",
+   "text": "化学家Luigi Garlaschelli展示了一块真人大小的布，方法是在一位志愿者和一块浅浮雕上用酸性颜料摩擦，然后烘烤并洗涤。论文于2010年发表。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Garlaschelli 2010, JIST 54(4)",
+     "url": "https://library.imaging.org/jist/articles/54/4/art00002"
+    }
+   ]
+  },
+  {
+   "id": "enea-2010",
+   "year": 2010,
+   "date_label": "2010年至2011年",
+   "title": "ENEA的紫外激光研究",
+   "text": "ENEA的物理学家用极短的紫外激光脉冲给亚麻布上色，得到了很薄的、与裹尸布相似的泛黄。他们强调，这并不能说明图像实际上是如何形成的。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Di Lazzaro et al. 2010",
+     "url": "https://www.sindone.info/DILAZZA1.PDF"
+    }
+   ]
+  },
+  {
+   "id": "jull-2010",
+   "year": 2010,
+   "date_label": "2010年",
+   "title": "亚利桑那重新检查一块已定年的碎片",
+   "text": "Freer-Waters和Jull在亚利桑那剩余的一块碎片上没有发现染料或涂层，只有几根棉纤维。这块布在2010年也公开展示过。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Freer-Waters和Jull 2010, Radiocarbon 52(4)",
+     "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8CC26C322198300E051C49A0BA5B96D9/S0033822200056277a.pdf/investigating-a-dated-piece-of-the-shroud-of-turin.pdf"
+    }
+   ]
+  },
+  {
+   "id": "riani-fanti-2013",
+   "year": 2013,
+   "date_label": "2013年",
+   "title": "统计学论文和Fanti的定年著作",
+   "text": "Riani和同事在Statistics and Computing上发表空间趋势分析。Fanti宣布了接近一世纪的红外光谱、拉曼光谱和力学定年结果；都灵总主教说，这些材料的来源并不确定。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Riani et al. 2013",
+     "url": "https://riani.unipr.it/pub/RAFC2012.pdf"
+    },
+    {
+     "label": "National Catholic Register 2013",
+     "url": "https://www.ncregister.com/news/science-shines-new-light-on-shroud-of-turin-s-age"
+    }
+   ]
+  },
+  {
+   "id": "freeman-2014",
+   "year": 2014,
+   "date_label": "2014年",
+   "title": "Freeman的复活节道具理论",
+   "text": "历史学家Charles Freeman在History Today上提出，这块布是中世纪复活节戏剧使用的道具，曾经画过，后来褪色了。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Art History News，关于Freeman",
+     "url": "https://arthistorynews.com/articles/3065_Turin_Shroud_debunked_again"
+    }
+   ]
+  },
+  {
+   "id": "expo-2015",
+   "year": 2015,
+   "date_label": "2015年",
+   "title": "展示和第一次DNA调查",
+   "text": "经教宗方济各批准，这块布公开展示。Barcaccia和同事报告布上有来自许多地区的植物和人类DNA，并补充说不能排除它起源于中世纪的欧洲。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "维基百科：Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+    },
+    {
+     "label": "Barcaccia et al. 2015",
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4593049/"
+    }
+   ]
+  },
+  {
+   "id": "raw-data-2017",
+   "year": 2017,
+   "date_label": "2017年",
+   "title": "放射性碳原始数据公开",
+   "text": "在一项法律申请之后，大英博物馆向研究者Tristan Casabianca公开了1988年各实验室的原始数据。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Casabianca et al. 2019",
+     "url": "https://philarchive.org/archive/CASTRD-3"
+    }
+   ]
+  },
+  {
+   "id": "bpa-2018",
+   "year": 2018,
+   "date_label": "2018年",
+   "title": "血迹形态研究",
+   "text": "Borrini和Garlaschelli在Journal of Forensic Sciences上报告，这些血流意味着前后不一致的姿势。8月举行了一次公开展示。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Borrini和Garlaschelli",
+     "url": "https://researchonline.ljmu.ac.uk/id/eprint/8813/"
+    }
+   ]
+  },
+  {
+   "id": "casabianca-2019",
+   "year": 2019,
+   "date_label": "2019年3月",
+   "title": "原始数据显示不同质",
+   "text": "Casabianca和同事在Archaeometry上发表论文，指出原始数据缺乏同质性，应当重新审视1988年的程序，但并不排除中世纪的年代。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Casabianca et al. 2019, Archaeometry 61(5)",
+     "url": "https://philarchive.org/rec/CASTRD-3"
+    }
+   ]
+  },
+  {
+   "id": "holy-saturday-2020",
+   "year": 2020,
+   "date_label": "2020年4月，圣周六",
+   "title": "封城期间的直播展示",
+   "text": "在新冠疫情封城期间，总教区通过电视和网络展示了这块布。教宗方济各称它是被钉十字架、死亡并复活的主的圣像。",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "梵蒂冈新闻网，2020年4月",
+     "url": "https://vaticannews.va/en/pope/news/2020-04/pope-expresses-gratitude-for-exposition-of-the-shroud-of-turin.html"
+    }
+   ]
+  },
+  {
+   "id": "stats-2020",
+   "year": 2020,
+   "date_label": "2020年",
+   "title": "另外两项统计学重新分析",
+   "text": "Walsh和Schwalbe，以及Di Lazzaro和同事，分别发表论文，指出裹尸布的结果不同质，存在空间趋势，应当重新审视中世纪的结论。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Walsh和Schwalbe 2020",
+     "url": "https://doi.org/10.1016/j.jasrep.2019.102015"
+    },
+    {
+     "label": "Di Lazzaro et al. 2020, Entropy",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7597180"
+    }
+   ]
+  },
+  {
+   "id": "waxs-2022",
+   "year": 2022,
+   "date_label": "2022年4月",
+   "title": "用广角X射线散射为一根线定年",
+   "text": "De Caro和同事在Heritage上报告，在假定的保存条件下，一根线的纤维素老化程度与马萨达公元55年至74年的亚麻布相符。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "De Caro et al. 2022",
+     "url": "https://dsctm.cnr.it/images/Highlights/Sindone/DeCaro_Heritage_2022.pdf"
+    }
+   ]
+  },
+  {
+   "id": "review-2025",
+   "year": 2025,
+   "date_label": "2025年2月",
+   "title": "中立的综述：年代成立，需要重新检测",
+   "text": "Textiles上的一篇综述认为，反对1989年年代的证据不足以推翻它，图像如何形成仍然是个谜，需要进行第二次放射性碳检测。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Karapanagiotis 2025",
+     "url": "https://www.mdpi.com/2673-7248/5/1/8"
+    }
+   ]
+  },
+  {
+   "id": "jubilee-2025",
+   "year": 2025,
+   "date_label": "2025年4月28日至5月5日",
+   "title": "禧年的数字裹尸布",
+   "text": "Repole枢机没有安排实物展示，而是在都灵城堡广场的一个帐篷里展出了一件真人大小的数字复制品。",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Catholic Weekly 2025",
+     "url": "https://catholicweekly.com.au/shroud-of-turin-to-be-digitally-showcased-for-holy-year/"
+    }
+   ]
+  },
+  {
+   "id": "moraes-2025",
+   "year": 2025,
+   "date_label": "2025年7月28日",
+   "title": "Moraes：浅浮雕更吻合",
+   "text": "Cicero Moraes在Archaeometry上发表3D覆盖模拟，认为浅浮雕雕塑比人体更符合这幅图像。都灵的研究中心CISS在8月4日回应说，这并不新鲜。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Live Science 2025",
+     "url": "https://www.livescience.com/archaeology/shroud-of-turin-wasnt-laid-on-jesus-body-but-rather-a-sculpture-modeling-study-suggests"
+    },
+    {
+     "label": "Catholic World Report 2025",
+     "url": "https://www.catholicworldreport.com/2025/08/05/shroud-of-turin-center-disputes-new-study-that-challenges-authenticity-of-burial-cloth/"
+    }
+   ]
+  },
+  {
+   "id": "oresme-find-2025",
+   "year": 2025,
+   "date_label": "2025年8月",
+   "title": "Oresme的文字发表",
+   "text": "Nicolas Sarzeaud在Journal of Medieval History上发表了Oresme的文字，这是已知最早否定这块布的书面记录。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Classicult 2025",
+     "url": "https://www.classicult.it/en/a-newly-discovered-medieval-document-by-nicole-oresme-is-the-earliest-written-evidence-to-reject-the-shroud-of-turin-as-authentic/"
+    }
+   ]
+  },
+  {
+   "id": "moraes-rebuttal-2026",
+   "year": 2026,
+   "date_label": "2026年2月",
+   "title": "Archaeometry上对Moraes的反驳",
+   "text": "Casabianca、Marinelli和Piana在同一期刊上发表对Moraes模型的批评，指出其中的建模错误和被忽视的证据。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "梵蒂冈新闻网，2026年2月10日",
+     "url": "https://www.vaticannews.va/en/church/news/2026-02/shroud-turin-medieval-bas-relief-hypothesis-challenged.html"
+    }
+   ]
+  },
+  {
+   "id": "jull-2026",
+   "year": 2026,
+   "date_label": "2026年4月",
+   "title": "检查亚利桑那的第二块碎片",
+   "text": "Freer-Waters和Jull在Heritage Science上发表论文，研究1988年亚利桑那剩余的一块碎片。媒体报道说，他们没有发现修补或外来物质的迹象。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Freer-Waters和Jull 2026, Heritage Science",
+     "url": "https://www.nature.com/articles/s40494-026-02530-7"
+    },
+    {
+     "label": "Farey 2026博客摘要",
+     "url": "https://medievalshroud.com/the-donahue-sliver-resurfaces/"
+    }
+   ]
+  },
+  {
+   "id": "riani-2026",
+   "year": 2026,
+   "date_label": "2026年6月11日",
+   "title": "对原始数据的回归分析",
+   "text": "Riani、Atkinson、Corbellini和Di Lazzaro在Statistical Methods and Applications上发表对原始数据的重新分析，检验了全部165,888种可能的子样本排列方式。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Riani et al. 2026",
+     "url": "https://link.springer.com/article/10.1007/s10260-026-00851-2"
+    }
+   ]
+  },
+  {
+   "id": "sudarium-exam-2026",
+   "year": 2026,
+   "date_label": "2026年7月",
+   "title": "对汗巾的新一轮检查",
+   "text": "EDICES和奥维耶多大学报告了自2012年以来对汗巾进行的第一次非侵入性技术检查。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "STERA最新消息",
+     "url": "https://www.shroud.com/latebrak.htm"
+    }
+   ]
+  },
+  {
+   "id": "dna-2026",
+   "year": 2026,
+   "date_label": "2026年7月",
+   "title": "对1978年样本的DNA研究",
+   "text": "Barcaccia和同事在Scientific Reports上报告，主要的人类DNA与采集样本的那位科学家相符，此外还有许多植物、动物和微生物的痕迹。两根取自圣物匣的线，年代分别对应1534年和1694年的修补。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Barcaccia et al. 2026",
+     "url": "https://www.nature.com/articles/s41598-026-60684-7"
+    },
+    {
+     "label": "ScienceDaily 2026",
+     "url": "https://www.sciencedaily.com/releases/2026/08/260803080859.htm"
+    },
+    {
+     "label": "IBT（经inkl转载）2026",
+     "url": "https://www.inkl.com/news/turin-shroud-dna-jesus-claim-hits-a-snag-strongest-match-points-to-man-who-collected-samples"
+    }
+   ]
+  },
+  {
+   "id": "kearse-2026",
+   "year": 2026,
+   "date_label": "2026年7月22日",
+   "title": "检验血迹与图像的先后",
+   "text": "Kelly Kearse证明，酸处理过的亚麻布上的血迹会阻止后来的着色，因此“血迹下面没有图像”并不能确定事件的先后顺序。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Kearse 2026, International Journal of Archaeology",
+     "url": "https://sciencepublishinggroup.com/article/10.11648/j.ija.20261402.11"
+    }
+   ]
+  }
+ ]
+}

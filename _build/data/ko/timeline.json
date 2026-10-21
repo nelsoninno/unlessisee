@@ -1,0 +1,1141 @@
+{
+ "meta": {
+  "note": "이 천에 대한 기록된 역사는 1350년대 리레에서 시작된다. 그 이전의 모든 것은 이 천과의 연관성이 가설에 그치는 별개의 기록된 물건(만딜리온, 수다리움)이거나 전설이다. 서기 이전의 연도는 숫자가 필요한 경우에만 음수로 표기하며, 여기의 모든 사건은 서기이다."
+ },
+ "events": [
+  {
+   "id": "crucifixion-burial",
+   "year": 30,
+   "date_label": "서기 30년 또는 33년경",
+   "title": "예수의 십자가 처형과 매장",
+   "text": "복음서에 따르면 아리마대 요셉이 시신을 아마포 천(신돈)으로 싸서 바위 무덤에 두었습니다. 요한은 세마포들과 따로 놓인 얼굴 수건을 언급합니다. 이 수의와의 연관성은 모두 가설입니다.",
+   "certainty": "hypothesized",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Schwortz 2016 (복음서에 근거한 반론 논의)",
+     "url": "https://www.shroud.com/pdfs/fivereasons.pdf"
+    }
+   ]
+  },
+  {
+   "id": "abgar-legend",
+   "year": 325,
+   "date_label": "4세기 초",
+   "title": "에우세비우스가 아브가르 서신을 기록하다, 형상은 없음",
+   "text": "에우세비우스는 에데사의 아브가르 왕과 예수가 주고받은 편지를 전합니다. 형상은 언급되지 않습니다. 형상은 나중에야 전설에 들어옵니다.",
+   "certainty": "legendary",
+   "track": "world",
+   "sources": [
+    {
+     "label": "위키백과(영어): Image of Edessa",
+     "url": "https://en.wikipedia.org/wiki/Image_of_Edessa"
+    }
+   ]
+  },
+  {
+   "id": "egeria-edessa",
+   "year": 384,
+   "date_label": "384",
+   "title": "순례자 에게리아가 본 것은 형상이 아니라 편지",
+   "text": "에게리아는 에데사를 방문해 아브가르 서신에 대해 보고하지만, 그리스도의 형상은 언급하지 않습니다.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "위키백과(영어): Image of Edessa",
+     "url": "https://en.wikipedia.org/wiki/Image_of_Edessa"
+    }
+   ]
+  },
+  {
+   "id": "evagrius-image",
+   "year": 593,
+   "date_label": "593년경",
+   "title": "에데사 형상에 대한 첫 언급",
+   "text": "에바그리우스 스콜라스티쿠스는 544년 페르시아의 포위에서 에데사를 구한 것이 기적의 형상 덕분이라고 씁니다. 훗날 이언 윌슨은 이 얼굴 형상이 얼굴만 보이도록 접은 수의였다고 제안했습니다.",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "위키백과(영어): Image of Edessa",
+     "url": "https://en.wikipedia.org/wiki/Image_of_Edessa"
+    }
+   ]
+  },
+  {
+   "id": "sudarium-legend",
+   "year": 614,
+   "date_label": "614",
+   "title": "수다리움이 예루살렘을 떠났다고 전해지다",
+   "text": "전설에 따르면 지금 오비에도에 있는 얼굴 수건은 페르시아의 침공에 앞서 예루살렘을 떠났습니다. 이 이야기는 수백 년 뒤, 위조자로 알려진 펠라기우스 주교가 기록했습니다.",
+   "certainty": "legendary",
+   "track": "world",
+   "sources": [
+    {
+     "label": "위키백과(영어): Sudarium of Oviedo",
+     "url": "https://en.wikipedia.org/wiki/Sudarium_of_Oviedo"
+    }
+   ]
+  },
+  {
+   "id": "mandylion-constantinople",
+   "year": 944,
+   "date_label": "944",
+   "title": "만딜리온이 콘스탄티노폴리스로 옮겨지다",
+   "text": "에데사의 성상이 콘스탄티노폴리스로 옮겨져 파로스 예배당에 안치됩니다. 이 이전은 기록되어 있지만, 그것이 이 수의였다는 것은 대부분의 역사가가 받아들이지 않는 가설입니다.",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "위키백과(영어): Image of Edessa",
+     "url": "https://en.wikipedia.org/wiki/Image_of_Edessa"
+    }
+   ]
+  },
+  {
+   "id": "sudarium-1075",
+   "year": 1075,
+   "date_label": "1075년 3월 14일",
+   "title": "오비에도에서 수다리움 상자가 열리다",
+   "text": "알폰소 6세와 그의 누이, 그리고 엘 시드가 수다리움이 든 상자를 엽니다. 그 천에 대한 가장 이른 명시적 기록입니다.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "위키백과(영어): Sudarium of Oviedo",
+     "url": "https://en.wikipedia.org/wiki/Sudarium_of_Oviedo"
+    }
+   ]
+  },
+  {
+   "id": "pray-codex",
+   "year": 1192,
+   "date_label": "1192~1195",
+   "title": "프레이 코덱스의 그림",
+   "text": "헝가리의 한 필사본에 그리스도의 매장 장면이 그려져 있습니다. 손은 교차되어 있고 엄지가 없으며, 천에는 수의의 오래된 불탄 구멍처럼 L자 모양의 원들이 있습니다. 비판자들은 이 물체를 장식된 묘석으로 해석합니다.",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "위키백과(영어): Hungarian Pray Codex",
+     "url": "https://en.wikipedia.org/wiki/Hungarian_Pray_Codex"
+    }
+   ]
+  },
+  {
+   "id": "de-clari",
+   "year": 1203,
+   "date_label": "1203~1204",
+   "title": "로베르 드 클라리가 본 형상이 있는 수의",
+   "text": "한 프랑스 십자군 병사는 주님의 모습이 나타난 수의가 콘스탄티노폴리스의 블라케르나이에서 매주 금요일 들어 올려졌다고 씁니다. 이를 확인해 주는 다른 자료는 없습니다.",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "위키백과(영어): Robert de Clari",
+     "url": "https://en.wikipedia.org/wiki/Robert_de_Clari"
+    }
+   ]
+  },
+  {
+   "id": "sack-constantinople",
+   "year": 1204,
+   "date_label": "1204",
+   "title": "콘스탄티노폴리스 약탈",
+   "text": "십자군이 도시의 유물을 약탈합니다. 일부 역사가는 그때 한 수의가 사라졌다가 나중에 프랑스에 이르렀다고 봅니다. 이는 가설입니다.",
+   "certainty": "hypothesized",
+   "track": "world",
+   "sources": [
+    {
+     "label": "위키백과(영어): History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "templar-testimony",
+   "year": 1287,
+   "date_label": "1287",
+   "title": "성전 기사단 입단자가 아마포 형상에 입 맞추다",
+   "text": "아르노 사바티에는 성전 기사단 입단식에서 수염 난 남자의 형상이 있는 긴 아마포 천을 보았다고 증언했습니다. 바르바라 프랄레는 2009년 이것이 수의였다고 제안했습니다.",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "The Register 2009, 프랄레에 관하여",
+     "url": "https://www.theregister.com/offbeat/2009/04/06/vatican-researcher-claims-templars-worshipped-turin-shroud/968021"
+    }
+   ]
+  },
+  {
+   "id": "lirey-founding",
+   "year": 1353,
+   "date_label": "1353년 6월 20일",
+   "title": "리레 성당 설립",
+   "text": "기사 조프루아 드 샤르니가 샹파뉴 지방 리레에 참사회 성당을 세웁니다. 토리노의 공식 사이트는 이를 최초의 확실한 증거가 시작되는 시점으로 봅니다.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "토리노 대교구: 역사 개요",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    },
+    {
+     "label": "위키백과(영어): History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "lirey-exhibitions",
+   "year": 1355,
+   "date_label": "1355년경",
+   "title": "리레에서의 첫 공개",
+   "text": "로베르 드 카이야크 참사회원이 리레에서 천을 공개하기 시작합니다. 샤르니 가문과 베르지 가문의 문장이 새겨진 순례 배지들이 몸의 앞면과 뒷면 형상을 보여 주며, 그중 하나는 지금 클뤼니 박물관에 있습니다.",
+   "certainty": "probable",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "위키백과(영어): Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+    },
+    {
+     "label": "A Souvenir from Lirey (클뤼니 배지)",
+     "url": "https://sindonology.org/papers/clunySouvenir.shtml"
+    }
+   ]
+  },
+  {
+   "id": "charny-death",
+   "year": 1356,
+   "date_label": "1356",
+   "title": "조프루아 드 샤르니, 푸아티에에서 전사",
+   "text": "리레 성당의 설립자가 푸아티에 전투에서 전사합니다. 그는 천을 어떻게 얻었는지 글로 남긴 적이 없습니다.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "위키백과(영어): Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "oresme",
+   "year": 1370,
+   "date_label": "1355~1382 (1370년 이후일 가능성이 큼)",
+   "title": "오렘이 샹파뉴의 한 수의를 가짜라고 부르다",
+   "text": "신학자 니콜 오렘은 주님의 수의를 가지고 있다고 주장한 샹파뉴의 한 성당을 성직자 사기의 명백한 사례로 듭니다. 이 대목은 2025년 니콜라 사르조가 찾아냈습니다.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Classicult 2025, 사르조에 관하여",
+     "url": "https://www.classicult.it/en/a-newly-discovered-medieval-document-by-nicole-oresme-is-the-earliest-written-evidence-to-reject-the-shroud-of-turin-as-authentic/"
+    }
+   ]
+  },
+  {
+   "id": "darcis",
+   "year": 1389,
+   "date_label": "1389",
+   "title": "다르시 주교의 비망록",
+   "text": "트루아 주교는 대립 교황 클레멘스 7세에게, 이 천은 교묘하게 그린 것이며 한 화가가 이전 주교에게 자백했다고 씁니다. 남아 있는 문서는 서명되지 않은 초안입니다.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "위키백과(영어): History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    },
+    {
+     "label": "Markwardt, BSTS Newsletter 99",
+     "url": "https://www.shroud.com/pdfs/n99part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "clement-bull",
+   "year": 1390,
+   "date_label": "1390년 1월 6일",
+   "title": "클레멘스 7세, '재현물'로서의 전시를 허락하다",
+   "text": "대립 교황은 형상 또는 재현물이라고 알리는 경우에만, 그리고 촛불, 향, 의장대 없이만 공개를 허락합니다.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "위키백과(영어): History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "margaret-removes",
+   "year": 1418,
+   "date_label": "1418",
+   "title": "리레에서 옮겨지다",
+   "text": "백년 전쟁 중에 마르그리트 드 샤르니가 안전한 보관을 위해 천을 리레에서 가져갑니다. 참사회원들은 나중에 반환을 요구하는 소송을 제기합니다.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "토리노 대교구: 역사 개요",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    }
+   ]
+  },
+  {
+   "id": "savoy",
+   "year": 1453,
+   "date_label": "1453",
+   "title": "사보이아 가문으로 넘어가다",
+   "text": "마르그리트 드 샤르니가 천을 사보이아 공작 루이에게 넘깁니다. 천은 1983년까지 사보이아 가문의 소유로 남습니다.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "토리노 대교구: 역사 개요",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    }
+   ]
+  },
+  {
+   "id": "julius-ii",
+   "year": 1506,
+   "date_label": "1506",
+   "title": "율리오 2세가 축일을 승인하다",
+   "text": "교황 율리오 2세가 사보이아를 위해 5월 4일을 거룩한 수의 전례 축일로 승인하며, 이를 유물로 대우합니다.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "토리노 대교구: 역사 개요",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    }
+   ]
+  },
+  {
+   "id": "chambery-fire",
+   "year": 1532,
+   "date_label": "1532년 12월 4일",
+   "title": "샹베리 화재",
+   "text": "샹베리의 생트샤펠에서 난 불로 은 성유물함 일부가 녹습니다. 녹은 금속이 접혀 있던 천을 뚫고 타 들어가, 대칭을 이루는 구멍과 그을음 무늬를 남깁니다.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "토리노 대교구: 역사 개요",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    },
+    {
+     "label": "위키백과(영어): Conservation-restoration of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "poor-clares",
+   "year": 1534,
+   "date_label": "1534",
+   "title": "클라라회 수녀들이 구멍을 덧대다",
+   "text": "수녀들이 불탄 구멍 위에 천 조각을 꿰매어 덧대고, 뒤에 홀란드 천으로 받침을 댑니다.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "위키백과(영어): Conservation-restoration of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "calvin",
+   "year": 1543,
+   "date_label": "1543",
+   "title": "칼뱅의 공격",
+   "text": "장 칼뱅은 『성유물론』에서 니스에서 공개된 수의를 가짜라고 조롱합니다.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "위키백과(영어): History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "to-turin",
+   "year": 1578,
+   "date_label": "1578년 9월 14일",
+   "title": "토리노로 옮겨지다",
+   "text": "에마누엘레 필리베르토 공작이 카를로 보로메오의 순례를 계기로 천을 토리노로 가져옵니다. 전쟁 때 옮겨진 경우를 빼면 그 뒤로 줄곧 토리노에 있습니다.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "토리노 대교구: 역사 개요",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    }
+   ]
+  },
+  {
+   "id": "guarini-1694",
+   "year": 1694,
+   "date_label": "1694",
+   "title": "과리니 예배당과 발프레의 보수",
+   "text": "천은 과리노 과리니가 설계한 예배당에 안치되어 1993년까지 그곳에 머뭅니다. 세바스티아노 발프레가 천을 보강합니다.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "위키백과(영어): History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "clotilde-1868",
+   "year": 1868,
+   "date_label": "1868",
+   "title": "클로틸드 공주의 보수",
+   "text": "사보이아의 클로틸드가 천을 보수합니다. 천은 훗날의 움베르토 1세의 결혼식을 위해 1868년 4월 24일부터 27일까지 공개됩니다.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "위키백과(영어): Conservation-restoration of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "pia-1898",
+   "year": 1898,
+   "date_label": "1898년 5월 28일",
+   "title": "세콘도 피아의 음화",
+   "text": "아마추어 사진가 세콘도 피아는 자신의 음화 건판에 양화처럼 보이는 뚜렷한 사람의 모습이 나타난 것을 발견합니다. 현대의 과학적 관심이 여기서 시작됩니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "위키백과(영어): Secondo Pia",
+     "url": "https://en.wikipedia.org/wiki/Secondo_Pia"
+    }
+   ]
+  },
+  {
+   "id": "vignon-1902",
+   "year": 1902,
+   "date_label": "1902",
+   "title": "비뇽이 형상의 기하학을 연구하다",
+   "text": "폴 비뇽은 몸을 덮은 천이 형상을 어떻게 일그러뜨릴지 연구하고, 형상이 정사영처럼 보인다고 지적합니다. 이 점은 2025년 모라이스가 다시 제기합니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Vatican News 2026",
+     "url": "https://www.vaticannews.va/en/church/news/2026-02/shroud-turin-medieval-bas-relief-hypothesis-challenged.html"
+    },
+    {
+     "label": "Catholic World Report 2025 (CISS 성명)",
+     "url": "https://www.catholicworldreport.com/2025/08/05/shroud-of-turin-center-disputes-new-study-that-challenges-authenticity-of-burial-cloth/"
+    }
+   ]
+  },
+  {
+   "id": "enrie-1931",
+   "year": 1931,
+   "date_label": "1931",
+   "title": "엔리에의 사진",
+   "text": "전문 사진가 주세페 엔리에가 더 선명한 건판으로 피아의 결과를 확인합니다. 엔리에의 이미지는 이후 3D 연구와 2025년 모델링 작업에 쓰였습니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "위키백과(영어): Secondo Pia",
+     "url": "https://en.wikipedia.org/wiki/Secondo_Pia"
+    }
+   ]
+  },
+  {
+   "id": "commission-1969",
+   "year": 1969,
+   "date_label": "1969",
+   "title": "첫 과학 위원회",
+   "text": "토리노 대주교가 천의 상태를 조사할 위원회를 임명하며, 처음에는 이를 비밀로 합니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "위키백과(영어): History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "tv-1973",
+   "year": 1973,
+   "date_label": "1973년 11월 23일",
+   "title": "첫 TV 공개와 첫 시료 채취",
+   "text": "천이 텔레비전으로 생중계됩니다. 연구를 위해 실을 잘라 내는데, 길베르 라스가 조사한 실도 그중에 있습니다. 막스 프라이는 꽃가루 분석을 위해 테이프로 시료를 채취합니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "토리노 대교구: 1973년 공개",
+     "url": "https://sindone.org/en/home-english/expositions/1973-2/"
+    },
+    {
+     "label": "Smith, 라스에 관하여, Shroud Spectrum",
+     "url": "https://www.shroud.com/pdfs/ssi3536part5.pdf"
+    },
+    {
+     "label": "Farey 2014, 프라이의 꽃가루에 관하여",
+     "url": "https://shroud.com/pdfs/n79part8.pdf"
+    }
+   ]
+  },
+  {
+   "id": "vp8-1976",
+   "year": 1976,
+   "date_label": "1976",
+   "title": "VP-8 분석기가 3D 정보를 보여 주다",
+   "text": "존 잭슨과 에릭 점퍼는 샌디아에서 VP-8 이미지 분석기를 사용해, 엔리에의 사진이 일관된 부조를 만들어 낸다는 것을 발견합니다. 이것이 STURP 결성으로 이어집니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "STERA의 VP-8 페이지",
+     "url": "https://shroud.com/78strp10.htm"
+    }
+   ]
+  },
+  {
+   "id": "sturp-1978",
+   "year": 1978,
+   "date_label": "1978년 8월 26일~10월",
+   "title": "공개 전시와 STURP 조사",
+   "text": "약 300만 명이 천을 관람합니다. 그 뒤 STURP 조사단이 닷새 동안 밤낮없이 천을 연구하며 사진, 스펙트럼, X선 형광 분석 자료와 점착 테이프 시료를 얻습니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "위키백과(영어): Shroud of Turin Research Project",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin_Research_Project"
+    }
+   ]
+  },
+  {
+   "id": "mccrone-1980",
+   "year": 1980,
+   "date_label": "1979~1990",
+   "title": "맥크론, 물감이라고 주장하다",
+   "text": "월터 맥크론은 1978년 테이프에서 콜라겐 접착제에 섞인 붉은 황토와 주사를 발견했다고 보고하고, 14세기의 그림이라고 결론 내립니다. 그는 1980년 STURP를 떠났고, 1990년 Accounts of Chemical Research에 자신의 논증을 발표합니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "McCrone Research Institute",
+     "url": "https://mccroneinstitute.org/research/shroud-of-turin-research-at-mccrone"
+    },
+    {
+     "label": "위키백과(영어): Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+    },
+    {
+     "label": "McCrone 1990 (보관본)",
+     "url": "https://web.archive.org/web/20230131030206/http://www.mccroneinstitute.org/uploads/the_microscope__shroud_small-1422560933.pdf"
+    }
+   ]
+  },
+  {
+   "id": "sturp-papers-1980",
+   "year": 1980,
+   "date_label": "1980",
+   "title": "Applied Optics에 실린 STURP 논문들",
+   "text": "STURP는 분광, 적외선, 자외선, 혈흔 분석 결과를 발표합니다. 헬러와 애들러의 「토리노의 수의 위의 피」도 그중 하나입니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "STURP 발표 논문",
+     "url": "http://www.shroud.com/78papers.htm"
+    },
+    {
+     "label": "Heller·Adler 1980",
+     "url": "https://www.shroud.com/pdfs/ssi43part2.pdf"
+    }
+   ]
+  },
+  {
+   "id": "sturp-1981",
+   "year": 1981,
+   "date_label": "1981",
+   "title": "STURP 최종 요약",
+   "text": "STURP는 형상이 물감이 아니고 화가의 작품도 아니며, 얼룩에는 헤모글로빈이 들어 있고, 형상이 어떻게 생겼는지는 여전히 수수께끼라고 결론 내립니다. 헬러와 애들러는 화학 연구를 발표합니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "STURP 결론 요약",
+     "url": "http://www.shroud.com/78conclu.htm"
+    },
+    {
+     "label": "Heller·Adler 1981",
+     "url": "https://www.shroud.com/pdfs/ssi43part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "holy-see-1983",
+   "year": 1983,
+   "date_label": "1983",
+   "title": "교황청에 기증되다",
+   "text": "소유권이 사보이아 가문에서 교황청으로 넘어갑니다. 교황이 임명한 관리자인 토리노 대주교가 천을 돌봅니다.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "위키백과(영어): History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "jackson-1984",
+   "year": 1984,
+   "date_label": "1984",
+   "title": "형상의 밝기와 거리에 관한 논문",
+   "text": "잭슨, 점퍼, 어콜린은 Applied Optics에 형상의 음영이 천과 몸 사이의 거리와 상관관계가 있다는 논문을 발표합니다(측정점 13개, r 제곱 0.60).",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Jackson et al. 1984",
+     "url": "https://shroud.com/pdfs/Correlation%20of%20Image%20Intensity%20Jackson%20Jumper%20Ercoline%201984%20OCRsm.pdf"
+    }
+   ]
+  },
+  {
+   "id": "sampling-1988",
+   "year": 1988,
+   "date_label": "1988년 4월 21일",
+   "title": "방사성 탄소 시료 채취",
+   "text": "대성당 제의실에서 조반니 리기가 한쪽 모서리에서 띠 하나를 잘라 냅니다. 조각들은 대조용 천 세 개와 함께 애리조나, 옥스퍼드, 취리히로 갑니다. 일부는 예비로 보관됩니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Damon et al. 1989",
+     "url": "https://shroud.com/nature.htm"
+    },
+    {
+     "label": "위키백과(영어): Radiocarbon dating",
+     "url": "https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "nature-1989",
+   "year": 1989,
+   "date_label": "1989년 2월",
+   "title": "네이처가 서기 1260~1390년을 발표하다",
+   "text": "데이먼과 세 연구소의 동료들은 95% 범위로 서기 1260~1390년을 보고하고, 이를 중세 연대의 결정적 증거라고 부릅니다. 발레스트레로 추기경은 교회를 대표해 공식 범위를 발표했습니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Damon et al. 1989, Nature 337:611",
+     "url": "https://doi.org/10.1038/337611a0"
+    }
+   ]
+  },
+  {
+   "id": "sudarium-c14",
+   "year": 1990,
+   "date_label": "1990, 1992, 2007",
+   "title": "오비에도 수다리움의 방사성 탄소 연대 측정",
+   "text": "애리조나, 토론토, 마드리드의 연구소들이 수다리움의 연대를 6세기에서 9세기 사이, 가장 가능성 높게는 서기 700년경으로 측정합니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "위키백과(영어): Sudarium of Oviedo",
+     "url": "https://en.wikipedia.org/wiki/Sudarium_of_Oviedo"
+    }
+   ]
+  },
+  {
+   "id": "fire-1997",
+   "year": 1997,
+   "date_label": "1997년 4월 11일",
+   "title": "대성당 화재",
+   "text": "과리니 예배당에서 불이 납니다. 소방관 마리오 트레마토레가 해머로 방탄 보관함을 부수고, 천은 손상 없이 밖으로 옮겨집니다.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "위키백과(영어): Conservation-restoration of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "jpii-1998",
+   "year": 1998,
+   "date_label": "1998년 5월 24일",
+   "title": "요한 바오로 2세: 신앙의 문제가 아니다",
+   "text": "교황은 토리노에서, 교회에는 진품 여부를 판정할 특별한 권한이 없다며 이 질문을 과학자들에게 맡기고, 수의를 복음의 거울이라고 부릅니다.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "교황청: 요한 바오로 2세 연설, 1998년 5월 24일",
+     "url": "https://www.vatican.va/content/john-paul-ii/en/travels/1998/documents/hf_jp-ii_spe_24051998_sindone.html"
+    }
+   ]
+  },
+  {
+   "id": "jubilee-2000",
+   "year": 2000,
+   "date_label": "2000",
+   "title": "대희년 공개 전시",
+   "text": "희년을 맞아 천이 공개됩니다.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "위키백과(영어): History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "restoration-2002",
+   "year": 2002,
+   "date_label": "2002년 6월 20일~7월 22일",
+   "title": "대규모 복원",
+   "text": "메히틸트 플루리렘베르크의 팀이 1534년에 덧댄 천 조각 30개와 홀란드 천 받침을 제거하고, 새 받침을 대고, 양면을 스캔합니다. 일부 학자는 이 작업이 증거를 훼손했다고 비판합니다.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "토리노 대교구: 복원",
+     "url": "https://sindone.org/en/home-english/the-shroud/the-fire/the-restoration/"
+    },
+    {
+     "label": "위키백과(영어): Conservation-restoration",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "back-image-2004",
+   "year": 2004,
+   "date_label": "2004",
+   "title": "뒷면에 희미한 형상이 있다는 주장",
+   "text": "판티와 마졸로는 2002년 사진에서 천 뒷면에 희미한 얼굴 형상이 있다고 보고합니다. 2002년에 직접 관찰한 사람들은 아무것도 보지 못했다고 합니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Fanti·Maggiolo 2004 검토",
+     "url": "https://sindonology.org/reviews/doubleSuperficiality.shtml"
+    }
+   ]
+  },
+  {
+   "id": "rogers-2005",
+   "year": 2005,
+   "date_label": "2005년 1월",
+   "title": "로저스: 연대 측정 시료는 달랐다",
+   "text": "레이먼드 로저스는 Thermochimica Acta에서 방사성 탄소 시료 부위에 면과 고무질 염료 코팅이 있다고 주장하고, 바닐린 손실을 근거로 천의 나이를 1,300~3,000년으로 추정합니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Rogers 2005",
+     "url": "https://zenodo.org/record/1259381"
+    },
+    {
+     "label": "Ball 2005, Nature 뉴스",
+     "url": "https://www.nature.com/news/2005/050124/full/news050124-17.html"
+    }
+   ]
+  },
+  {
+   "id": "ramsey-2008",
+   "year": 2008,
+   "date_label": "2008",
+   "title": "옥스퍼드가 일산화탄소 가설을 검증하다",
+   "text": "크리스토퍼 램지는 일산화탄소가 아마포에 젊은 탄소를 더할 수 있는지 검증하고, 의미 있는 효과가 없다는 것을 발견합니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Oxford Radiocarbon Accelerator Unit",
+     "url": "https://c14.arch.ox.ac.uk/shroud.html"
+    }
+   ]
+  },
+  {
+   "id": "garlaschelli-2009",
+   "year": 2009,
+   "date_label": "2009년 10월",
+   "title": "가를라스켈리의 실물 크기 복제품",
+   "text": "화학자 루이지 가를라스켈리가 자원자와 저부조 위에 산성 안료를 문지른 뒤 굽고 빨아서 만든 실물 크기의 천을 공개합니다. 논문은 2010년에 나옵니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Garlaschelli 2010, JIST 54(4)",
+     "url": "https://library.imaging.org/jist/articles/54/4/art00002"
+    }
+   ]
+  },
+  {
+   "id": "enea-2010",
+   "year": 2010,
+   "date_label": "2010~2011",
+   "title": "ENEA 자외선 레이저 연구",
+   "text": "ENEA 물리학자들은 아주 짧은 자외선 레이저 펄스로 아마포를 물들여, 수의와 비슷한 얇은 황변을 얻습니다. 그들은 이것이 형상이 실제로 어떻게 만들어졌는지를 보여 주지는 않는다고 강조합니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Di Lazzaro et al. 2010",
+     "url": "https://www.sindone.info/DILAZZA1.PDF"
+    }
+   ]
+  },
+  {
+   "id": "jull-2010",
+   "year": 2010,
+   "date_label": "2010",
+   "title": "애리조나가 연대 측정 조각을 다시 조사하다",
+   "text": "프리어워터스와 줄은 애리조나에 남아 있던 조각에서 염료나 코팅을 찾지 못했고, 면섬유 몇 가닥만 발견했습니다. 천은 2010년에도 공개됩니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Freer-Waters·Jull 2010, Radiocarbon 52(4)",
+     "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8CC26C322198300E051C49A0BA5B96D9/S0033822200056277a.pdf/investigating-a-dated-piece-of-the-shroud-of-turin.pdf"
+    }
+   ]
+  },
+  {
+   "id": "riani-fanti-2013",
+   "year": 2013,
+   "date_label": "2013",
+   "title": "통계 논문과 판티의 연대 측정 책",
+   "text": "리아니와 동료들이 Statistics and Computing에 공간적 경향 분석을 발표합니다. 판티는 FT-IR, 라만, 기계적 강도 방법으로 1세기에 가까운 연대를 얻었다고 발표하고, 토리노 대주교는 그 시료의 출처가 확실하지 않다고 말합니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Riani et al. 2013",
+     "url": "https://riani.unipr.it/pub/RAFC2012.pdf"
+    },
+    {
+     "label": "National Catholic Register 2013",
+     "url": "https://www.ncregister.com/news/science-shines-new-light-on-shroud-of-turin-s-age"
+    }
+   ]
+  },
+  {
+   "id": "freeman-2014",
+   "year": 2014,
+   "date_label": "2014",
+   "title": "프리먼의 부활절 소품 이론",
+   "text": "역사가 찰스 프리먼은 History Today에서, 이 천이 한때 그림이 그려져 있다가 색이 바랜 중세 부활절 연극의 소품이었다고 주장합니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Art History News, 프리먼에 관하여",
+     "url": "https://arthistorynews.com/articles/3065_Turin_Shroud_debunked_again"
+    }
+   ]
+  },
+  {
+   "id": "expo-2015",
+   "year": 2015,
+   "date_label": "2015",
+   "title": "공개 전시와 첫 DNA 조사",
+   "text": "프란치스코 교황의 승인으로 천이 공개됩니다. 바르카치아와 동료들은 여러 지역에서 온 식물과 사람의 DNA를 보고하며, 중세 유럽 기원도 배제되지 않는다고 덧붙입니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "위키백과(영어): Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+    },
+    {
+     "label": "Barcaccia et al. 2015",
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4593049/"
+    }
+   ]
+  },
+  {
+   "id": "raw-data-2017",
+   "year": 2017,
+   "date_label": "2017",
+   "title": "방사성 탄소 원자료 공개",
+   "text": "법적 요청 끝에 대영박물관이 1988년 연구소들의 원자료를 연구자 트리스탕 카사비앙카에게 공개합니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Casabianca et al. 2019",
+     "url": "https://philarchive.org/archive/CASTRD-3"
+    }
+   ]
+  },
+  {
+   "id": "bpa-2018",
+   "year": 2018,
+   "date_label": "2018",
+   "title": "혈흔 형태 연구",
+   "text": "보리니와 가를라스켈리는 Journal of Forensic Sciences에서 핏줄기들이 서로 맞지 않는 자세를 암시한다고 보고합니다. 8월에 공개 전시가 열립니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Borrini·Garlaschelli",
+     "url": "https://researchonline.ljmu.ac.uk/id/eprint/8813/"
+    }
+   ]
+  },
+  {
+   "id": "casabianca-2019",
+   "year": 2019,
+   "date_label": "2019년 3월",
+   "title": "원자료가 불균질성을 보여 주다",
+   "text": "카사비앙카와 동료들은 Archaeometry에서 원자료가 균질하지 않으며 1988년의 절차를 재검토해야 한다고 발표하면서도, 중세 연대를 배제하지는 않습니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Casabianca et al. 2019, Archaeometry 61(5)",
+     "url": "https://philarchive.org/rec/CASTRD-3"
+    }
+   ]
+  },
+  {
+   "id": "holy-saturday-2020",
+   "year": 2020,
+   "date_label": "2020년 4월, 성토요일",
+   "title": "봉쇄 중의 생중계 공개",
+   "text": "코로나19 봉쇄 기간에 대교구가 텔레비전과 온라인으로 천을 공개합니다. 프란치스코 교황은 이를 십자가에 못 박히고, 죽고, 부활하신 주님의 이콘이라고 부릅니다.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Vatican News, 2020년 4월",
+     "url": "https://vaticannews.va/en/pope/news/2020-04/pope-expresses-gratitude-for-exposition-of-the-shroud-of-turin.html"
+    }
+   ]
+  },
+  {
+   "id": "stats-2020",
+   "year": 2020,
+   "date_label": "2020",
+   "title": "두 편의 통계적 재분석",
+   "text": "월시와 슈왈브, 그리고 디 라차로와 동료들은 수의의 결과가 공간적 경향을 띤 불균질한 결과이며 중세라는 결론을 재검토해야 한다고 발표합니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Walsh·Schwalbe 2020",
+     "url": "https://doi.org/10.1016/j.jasrep.2019.102015"
+    },
+    {
+     "label": "Di Lazzaro et al. 2020, Entropy",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7597180"
+    }
+   ]
+  },
+  {
+   "id": "waxs-2022",
+   "year": 2022,
+   "date_label": "2022년 4월",
+   "title": "실 한 가닥의 WAXS 연대 측정",
+   "text": "데 카로와 동료들은 Heritage에서, 가정된 보관 조건 아래에서 실 한 가닥의 셀룰로스 노화가 서기 55~74년의 마사다 아마포와 일치한다고 보고합니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "De Caro et al. 2022",
+     "url": "https://dsctm.cnr.it/images/Highlights/Sindone/DeCaro_Heritage_2022.pdf"
+    }
+   ]
+  },
+  {
+   "id": "review-2025",
+   "year": 2025,
+   "date_label": "2025년 2월",
+   "title": "중립적 검토: 연대는 유효, 재검사 필요",
+   "text": "Textiles에 실린 한 검토 논문은 1989년 연대에 반하는 증거가 그것을 뒤집기에는 충분하지 않고, 형상의 형성은 여전히 수수께끼이며, 두 번째 방사성 탄소 검사가 필요하다고 결론 내립니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Karapanagiotis 2025",
+     "url": "https://www.mdpi.com/2673-7248/5/1/8"
+    }
+   ]
+  },
+  {
+   "id": "jubilee-2025",
+   "year": 2025,
+   "date_label": "2025년 4월 28일~5월 5일",
+   "title": "희년을 위한 디지털 수의",
+   "text": "레폴레 추기경은 실물 공개 대신, 토리노 카스텔로 광장의 천막에서 실물 크기의 디지털 복제본을 선보입니다.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Catholic Weekly 2025",
+     "url": "https://catholicweekly.com.au/shroud-of-turin-to-be-digitally-showcased-for-holy-year/"
+    }
+   ]
+  },
+  {
+   "id": "moraes-2025",
+   "year": 2025,
+   "date_label": "2025년 7월 28일",
+   "title": "모라이스: 낮은 부조가 더 잘 맞는다",
+   "text": "시세로 모라이스는 Archaeometry에 3D 천 씌우기 시뮬레이션을 발표하며, 몸보다 낮은 부조 조각이 형상에 더 잘 맞는다고 시사합니다. 토리노의 연구 센터 CISS는 8월 4일 이것이 새로운 내용이 아니라고 답합니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Live Science 2025",
+     "url": "https://www.livescience.com/archaeology/shroud-of-turin-wasnt-laid-on-jesus-body-but-rather-a-sculpture-modeling-study-suggests"
+    },
+    {
+     "label": "Catholic World Report 2025",
+     "url": "https://www.catholicworldreport.com/2025/08/05/shroud-of-turin-center-disputes-new-study-that-challenges-authenticity-of-burial-cloth/"
+    }
+   ]
+  },
+  {
+   "id": "oresme-find-2025",
+   "year": 2025,
+   "date_label": "2025년 8월",
+   "title": "오렘의 글 발표",
+   "text": "니콜라 사르조가 Journal of Medieval History에 오렘의 글을 발표합니다. 이 천을 거부한, 알려진 가장 이른 기록입니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Classicult 2025",
+     "url": "https://www.classicult.it/en/a-newly-discovered-medieval-document-by-nicole-oresme-is-the-earliest-written-evidence-to-reject-the-shroud-of-turin-as-authentic/"
+    }
+   ]
+  },
+  {
+   "id": "moraes-rebuttal-2026",
+   "year": 2026,
+   "date_label": "2026년 2월",
+   "title": "Archaeometry에 실린 모라이스 반박",
+   "text": "카사비앙카, 마리넬리, 피아나는 같은 학술지에 모라이스의 모델에 대한 비판을 발표하며, 모델링 오류와 무시된 증거를 지적합니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Vatican News, 2026년 2월 10일",
+     "url": "https://www.vaticannews.va/en/church/news/2026-02/shroud-turin-medieval-bas-relief-hypothesis-challenged.html"
+    }
+   ]
+  },
+  {
+   "id": "jull-2026",
+   "year": 2026,
+   "date_label": "2026년 4월",
+   "title": "두 번째 애리조나 조각 조사",
+   "text": "프리어워터스와 줄은 Heritage Science에 1988년 애리조나에 남은 조각에 대한 연구를 발표합니다. 언론 보도에 따르면 그들은 수선이나 이물질의 흔적을 찾지 못했습니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Freer-Waters·Jull 2026, Heritage Science",
+     "url": "https://www.nature.com/articles/s40494-026-02530-7"
+    },
+    {
+     "label": "Farey 2026 블로그 요약",
+     "url": "https://medievalshroud.com/the-donahue-sliver-resurfaces/"
+    }
+   ]
+  },
+  {
+   "id": "riani-2026",
+   "year": 2026,
+   "date_label": "2026년 6월 11일",
+   "title": "원자료에 대한 회귀 분석",
+   "text": "리아니, 앳킨슨, 코르벨리니, 디 라차로는 Statistical Methods and Applications에 원자료 재분석을 발표하며, 가능한 하위 시료 배치 165,888가지를 모두 검증합니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Riani et al. 2026",
+     "url": "https://link.springer.com/article/10.1007/s10260-026-00851-2"
+    }
+   ]
+  },
+  {
+   "id": "sudarium-exam-2026",
+   "year": 2026,
+   "date_label": "2026년 7월",
+   "title": "수다리움에 대한 새 조사",
+   "text": "EDICES와 오비에도 대학교는 2012년 이후 처음으로 수다리움에 대한 비파괴 기술 조사를 보고합니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "STERA 최신 소식",
+     "url": "https://www.shroud.com/latebrak.htm"
+    }
+   ]
+  },
+  {
+   "id": "dna-2026",
+   "year": 2026,
+   "date_label": "2026년 7월",
+   "title": "1978년 시료의 DNA 연구",
+   "text": "바르카치아와 동료들은 Scientific Reports에서, 주된 사람 DNA는 시료를 채취한 과학자의 것과 일치하며 그 밖에 여러 식물, 동물, 미생물의 흔적이 있다고 보고합니다. 성유물함에서 나온 실 두 가닥은 1534년과 1694년 보수 때의 것으로 측정됩니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Barcaccia et al. 2026",
+     "url": "https://www.nature.com/articles/s41598-026-60684-7"
+    },
+    {
+     "label": "ScienceDaily 2026",
+     "url": "https://www.sciencedaily.com/releases/2026/08/260803080859.htm"
+    },
+    {
+     "label": "IBT, inkl 경유 2026",
+     "url": "https://www.inkl.com/news/turin-shroud-dna-jesus-claim-hits-a-snag-strongest-match-points-to-man-who-collected-samples"
+    }
+   ]
+  },
+  {
+   "id": "kearse-2026",
+   "year": 2026,
+   "date_label": "2026년 7월 22일",
+   "title": "피와 형상의 순서를 검증하다",
+   "text": "켈리 커스는 산으로 처리한 아마포 위의 피가 이후의 착색을 막는다는 것을 보여 줍니다. 그러므로 '피 아래에 형상이 없다'는 사실로 사건의 순서가 정해지지는 않습니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Kearse 2026, International Journal of Archaeology",
+     "url": "https://sciencepublishinggroup.com/article/10.11648/j.ija.20261402.11"
+    }
+   ]
+  }
+ ]
+}

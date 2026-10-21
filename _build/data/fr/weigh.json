@@ -1,0 +1,87 @@
+{
+ "prior": {
+  "neutral": -3,
+  "skeptic": -5,
+  "believer": -1
+ },
+ "items": [
+  {
+   "id": "c14",
+   "label": "La datation au carbone 14 de 1988 : 1260 à 1390 apr. J.-C.",
+   "skeptic": -3,
+   "believer": -0.5
+  },
+  {
+   "id": "c14-flaws",
+   "label": "Les résultats de 1988 concordent mal entre eux",
+   "skeptic": 0,
+   "believer": 0.5
+  },
+  {
+   "id": "history",
+   "label": "Aucune trace sûre du linge avant 1354 environ",
+   "skeptic": -1,
+   "believer": -0.3
+  },
+  {
+   "id": "darcis",
+   "label": "Un évêque (1389) et un savant (Oresme) l’ont qualifié de faux",
+   "skeptic": -0.7,
+   "believer": -0.2
+  },
+  {
+   "id": "no-paint",
+   "label": "Aucune peinture ni aucun liant ne forme l’image",
+   "skeptic": 0.3,
+   "believer": 1
+  },
+  {
+   "id": "thin",
+   "label": "La couleur ne se trouve que sur les fibres les plus externes",
+   "skeptic": 0.3,
+   "believer": 1
+  },
+  {
+   "id": "negative",
+   "label": "L’image se comporte comme un négatif photographique",
+   "skeptic": 0,
+   "believer": 0.7
+  },
+  {
+   "id": "three-d",
+   "label": "La densité de l’image code la distance, comme une carte 3D",
+   "skeptic": 0.2,
+   "believer": 0.8
+  },
+  {
+   "id": "blood",
+   "label": "Des taches qui réagissent comme du sang, apparemment présentes sur le linge avant l’image",
+   "skeptic": 0.2,
+   "believer": 0.7
+  },
+  {
+   "id": "wounds",
+   "label": "Des blessures conformes à une crucifixion romaine, clous dans les poignets",
+   "skeptic": 0.3,
+   "believer": 1
+  },
+  {
+   "id": "unreproduced",
+   "label": "Personne n’a reproduit toutes les caractéristiques de l’image",
+   "skeptic": 0.5,
+   "believer": 1.2
+  },
+  {
+   "id": "pray",
+   "label": "Le dessin du Codex Pray, vers 1192",
+   "skeptic": 0,
+   "believer": 0.5
+  },
+  {
+   "id": "pollen-coins",
+   "label": "Pollen, pièces sur les yeux, images de fleurs (notés faibles ou réfutés)",
+   "skeptic": 0,
+   "believer": 0
+  }
+ ]
+}

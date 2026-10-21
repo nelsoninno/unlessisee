@@ -1,0 +1,104 @@
+{
+ "items": [
+  {
+   "id": "sturp-1981-summary-sturps-conclusions",
+   "why": "STURP团队的官方结论。此后的所有争论都从这里出发。"
+  },
+  {
+   "id": "schwalbe-1982-physics-chemistry-summary-1978",
+   "why": "经过同行评审的1978年检测技术总结。"
+  },
+  {
+   "id": "heller-1981-chemical-investigation",
+   "why": "主要的化学论证：污渍是真正的血，图像不是颜料。"
+  },
+  {
+   "id": "jackson-1984-correlation-image-intensity-3d",
+   "why": "3D信息和布与身体距离这一说法的源头。"
+  },
+  {
+   "id": "damon-1989-radiocarbon-dating",
+   "why": "《自然》期刊上把亚麻布定年为公元1260年至1390年的论文。这是怀疑方的核心证据。"
+  },
+  {
+   "id": "meacham-1983-authentication-issue-archaeological-epistemolog",
+   "why": "一位考古学家阐述真伪究竟能如何判断，并附有批评者的回应。"
+  },
+  {
+   "id": "craig-1994-image-formation",
+   "why": "提出一种中世纪艺术技法，说明伪造者可能如何下手。"
+  },
+  {
+   "id": "vikan-1998-debunking-made-human-hands",
+   "why": "一位艺术史怀疑者的论证，同一页上附有研究者的反驳。"
+  },
+  {
+   "id": "schwortz-2000-medieval-photograph-critical-examination",
+   "why": "检验流行的“中世纪照片”理论。"
+  },
+  {
+   "id": "marino-2000-evidence-skewing-c14-dating",
+   "why": "“隐形织补”假说的源头。"
+  },
+  {
+   "id": "rogers-2005-studies-radiocarbon-sample",
+   "why": "对1988年样本是否具有代表性最有力的同行评审质疑。"
+  },
+  {
+   "id": "flury-lemberg-2007-invisible-mending-theory-reality",
+   "why": "2002年修复工作的纺织专家反驳织补说。"
+  },
+  {
+   "id": "freer-waters-2010-investigating-dated-piece",
+   "why": "亚利桑那实验室重新检查自己的样本，没有发现修补痕迹。"
+  },
+  {
+   "id": "fanti-2010-microscopic-macroscopic-characteristics-image",
+   "why": "图像究竟有多浅，这是任何解释都必须面对的关键限制。"
+  },
+  {
+   "id": "dilazzaro-2012-superficial-shroudlike-coloration-linen",
+   "why": "在实验室中复制这种颜色的最佳尝试，以及它的局限。"
+  },
+  {
+   "id": "kearse-2012-blood-immunological-review",
+   "why": "审慎评估关于血迹的说法到底有多可靠。"
+  },
+  {
+   "id": "nicolotti-2014-mandylion-edessa-metamorphosis-manipulation",
+   "why": "一位持怀疑态度的历史学家谈“埃德萨圣像就是裹尸布”这一早期历史说法。"
+  },
+  {
+   "id": "bella-2015-there-no-mass-spectrometry",
+   "why": "一篇持怀疑态度、经过同行评审的对Rogers的反驳。"
+  },
+  {
+   "id": "barcaccia-2015-uncovering-sources-dna-found",
+   "why": "DNA证据，显示布上有来自许多地区的大量污染。"
+  },
+  {
+   "id": "borrini-2018-bpa-approach",
+   "why": "一项持怀疑态度的血迹形态实验。请与 `hermosilla-2019-commentary-borrini-m-garlaschelli` 对照阅读，那是同一期刊上的回应。"
+  },
+  {
+   "id": "casabianca-2019-radiocarbon-dating-new-evidence",
+   "why": "1988年的原始数据，已公开并重新分析。"
+  },
+  {
+   "id": "dilazzaro-2020-statistical-proactive-analysis-interlaborator",
+   "why": "对1988年结果的独立统计检验。"
+  },
+  {
+   "id": "wilson-2021-earliest-pilgrim-badges-produced",
+   "why": "经过同行评审的14世纪利雷朝圣徽章研究。它确定了这块布第一次可靠出现的时间。"
+  },
+  {
+   "id": "sarzeaud-2025-new-document-appearance-nicole",
+   "why": "新发现的一份14世纪文献，称这块布是骗局（仅有目录链接）。"
+  },
+  {
+   "id": "freer-waters-2026-analysis-textile-fragments-1988",
+   "why": "对已定年碎片的最新实验室分析。"
+  }
+ ]
+}

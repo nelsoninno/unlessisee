@@ -1,0 +1,104 @@
+{
+ "items": [
+  {
+   "id": "sturp-1981-summary-sturps-conclusions",
+   "why": "STURP टीम का आधिकारिक फ़ैसला। बाद की हर बहस यहीं से शुरू होती है।"
+  },
+  {
+   "id": "schwalbe-1982-physics-chemistry-summary-1978",
+   "why": "1978 के परीक्षणों का पीयर-रिव्यू हुआ तकनीकी सारांश।"
+  },
+  {
+   "id": "heller-1981-chemical-investigation",
+   "why": "मुख्य रासायनिक पक्ष कि दाग़ असली ख़ून हैं और छवि पिगमेंट नहीं है।"
+  },
+  {
+   "id": "jackson-1984-correlation-image-intensity-3d",
+   "why": "3D और कपड़े से शरीर की दूरी वाले दावे का स्रोत।"
+  },
+  {
+   "id": "damon-1989-radiocarbon-dating",
+   "why": "Nature का वह शोधपत्र जिसने लिनन की तिथि 1260 से 1390 ई. बताई। यह संशयवादी पक्ष का मुख्य सबूत है।"
+  },
+  {
+   "id": "meacham-1983-authentication-issue-archaeological-epistemolog",
+   "why": "एक पुरातत्वविद् बताते हैं कि प्रामाणिकता को परखा भी कैसे जा सकता है, साथ में आलोचकों के जवाब।"
+  },
+  {
+   "id": "craig-1994-image-formation",
+   "why": "एक सुझाई गई मध्ययुगीन कलात्मक तकनीक, जो दिखाती है कि कोई जालसाज़ कैसे काम कर सकता था।"
+  },
+  {
+   "id": "vikan-1998-debunking-made-human-hands",
+   "why": "एक कला-इतिहासकार संशयवादी का पक्ष, उसी पेज पर शोधकर्ताओं के खंडन के साथ।"
+  },
+  {
+   "id": "schwortz-2000-medieval-photograph-critical-examination",
+   "why": "लोकप्रिय \"मध्ययुगीन फ़ोटोग्राफ़\" वाले सिद्धांत की जाँच।"
+  },
+  {
+   "id": "marino-2000-evidence-skewing-c14-dating",
+   "why": "\"अदृश्य रफ़ू\" वाली परिकल्पना का स्रोत।"
+  },
+  {
+   "id": "rogers-2005-studies-radiocarbon-sample",
+   "why": "इस पर सबसे मज़बूत पीयर-रिव्यू हुई चुनौती कि क्या 1988 का नमूना पूरे कपड़े का प्रतिनिधित्व करता है।"
+  },
+  {
+   "id": "flury-lemberg-2007-invisible-mending-theory-reality",
+   "why": "2002 की पुनर्स्थापना की वस्त्र विशेषज्ञ रफ़ू वाले विचार के ख़िलाफ़ तर्क देती हैं।"
+  },
+  {
+   "id": "freer-waters-2010-investigating-dated-piece",
+   "why": "एरिज़ोना की प्रयोगशाला अपने ही नमूने की फिर से जाँच करती है और कोई मरम्मत नहीं पाती।"
+  },
+  {
+   "id": "fanti-2010-microscopic-macroscopic-characteristics-image",
+   "why": "छवि असल में कितनी सतही है, जो किसी भी व्याख्या के लिए एक मुख्य शर्त है।"
+  },
+  {
+   "id": "dilazzaro-2012-superficial-shroudlike-coloration-linen",
+   "why": "रंग को दोहराने की सबसे अच्छी प्रयोगशाला कोशिश, और उसकी सीमाएँ।"
+  },
+  {
+   "id": "kearse-2012-blood-immunological-review",
+   "why": "ख़ून वाले दावे असल में कितने मज़बूत हैं, इसका एक सावधान आकलन।"
+  },
+  {
+   "id": "nicolotti-2014-mandylion-edessa-metamorphosis-manipulation",
+   "why": "शुरुआती इतिहास वाले \"एडेसा = कफ़न\" संबंध पर एक संशयवादी इतिहासकार।"
+  },
+  {
+   "id": "bella-2015-there-no-mass-spectrometry",
+   "why": "Rogers का एक संशयवादी, पीयर-रिव्यू हुआ खंडन।"
+  },
+  {
+   "id": "barcaccia-2015-uncovering-sources-dna-found",
+   "why": "DNA वाला सबूत, जो कई क्षेत्रों से भारी संदूषण दिखाता है।"
+  },
+  {
+   "id": "borrini-2018-bpa-approach",
+   "why": "ख़ून के दाग़ों के पैटर्न पर एक संशयवादी प्रयोग। इसे `hermosilla-2019-commentary-borrini-m-garlaschelli` के साथ पढ़ें, जो उसी जर्नल में एक जवाब है।"
+  },
+  {
+   "id": "casabianca-2019-radiocarbon-dating-new-evidence",
+   "why": "1988 के कच्चे आँकड़े, जारी किए गए और फिर से विश्लेषित।"
+  },
+  {
+   "id": "dilazzaro-2020-statistical-proactive-analysis-interlaborator",
+   "why": "1988 के नतीजों की एक स्वतंत्र सांख्यिकीय जाँच।"
+  },
+  {
+   "id": "wilson-2021-earliest-pilgrim-badges-produced",
+   "why": "14वीं सदी के लिरे बिल्लों का पीयर-रिव्यू हुआ अध्ययन। यह कपड़े के पहले पक्के प्रकट होने का आधार है।"
+  },
+  {
+   "id": "sarzeaud-2025-new-document-appearance-nicole",
+   "why": "14वीं सदी का एक नया मिला स्रोत जो कपड़े को धोखा कहता है (केवल सूची वाला लिंक)।"
+  },
+  {
+   "id": "freer-waters-2026-analysis-textile-fragments-1988",
+   "why": "तिथि निकाले गए टुकड़ों का सबसे नया प्रयोगशाला विश्लेषण।"
+  }
+ ]
+}

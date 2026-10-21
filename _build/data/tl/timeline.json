@@ -1,0 +1,1141 @@
+{
+ "meta": {
+  "note": "Nagsisimula ang dokumentadong kasaysayan ng telang ito sa Lirey noong dekada 1350. Ang lahat ng nauna roon ay alinman sa isang hiwalay na dokumentadong bagay (Mandylion, Sudarium) na ipinapalagay lamang ang ugnayan sa telang ito, o alamat. Negatibo ang mga taon bago ang AD kung kailangan lamang ng numerong taon; dito, AD ang lahat ng pangyayari."
+ },
+ "events": [
+  {
+   "id": "crucifixion-burial",
+   "year": 30,
+   "date_label": "mga AD 30 o 33",
+   "title": "Pagpapako sa krus at paglilibing kay Hesus",
+   "text": "Sinasabi ng mga Ebanghelyo na binalot ni Jose ng Arimatea ang katawan sa isang telang lino (sindon) at inilagay sa isang libingang inukit sa bato. Binabanggit ni Juan ang mga telang lino at isang hiwalay na telang pantakip sa mukha. Hipotesis ang anumang ugnayan sa Shroud na ito.",
+   "certainty": "hypothesized",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Schwortz 2016 (tinatalakay ang mga pagtutol batay sa Ebanghelyo)",
+     "url": "https://www.shroud.com/pdfs/fivereasons.pdf"
+    }
+   ]
+  },
+  {
+   "id": "abgar-legend",
+   "year": 325,
+   "date_label": "unang bahagi ng ika-4 na siglo",
+   "title": "Itinala ni Eusebius ang mga sulat ni Abgar, walang imahe",
+   "text": "Iningatan ni Eusebius ang isang sulat sa pagitan ni Haring Abgar ng Edessa at ni Hesus. Walang binabanggit na imahe. Kalaunan na pumasok ang imahe sa alamat.",
+   "certainty": "legendary",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Wikipedia: Image of Edessa",
+     "url": "https://en.wikipedia.org/wiki/Image_of_Edessa"
+    }
+   ]
+  },
+  {
+   "id": "egeria-edessa",
+   "year": 384,
+   "date_label": "384",
+   "title": "Nakakita ang peregrinang si Egeria ng mga sulat, hindi ng imahe",
+   "text": "Bumisita si Egeria sa Edessa at iniulat ang mga sulat ni Abgar pero walang imahe ni Kristo.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Wikipedia: Image of Edessa",
+     "url": "https://en.wikipedia.org/wiki/Image_of_Edessa"
+    }
+   ]
+  },
+  {
+   "id": "evagrius-image",
+   "year": 593,
+   "date_label": "mga 593",
+   "title": "Unang pagbanggit sa isang imahe sa Edessa",
+   "text": "Sinabi ni Evagrius Scholasticus na isang mapaghimalang imahe ang nagligtas sa Edessa mula sa paglusob ng mga Persiano noong 544. Kalaunan, iminungkahi ni Ian Wilson na ang imaheng ito ng mukha ay ang Shroud na nakatupi kaya mukha lamang ang nakikita.",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Image of Edessa",
+     "url": "https://en.wikipedia.org/wiki/Image_of_Edessa"
+    }
+   ]
+  },
+  {
+   "id": "sudarium-legend",
+   "year": 614,
+   "date_label": "614",
+   "title": "Sinasabing umalis ang Sudarium sa Jerusalem",
+   "text": "Ayon sa alamat, ang telang pantakip sa mukha na nasa Oviedo ngayon ay umalis sa Jerusalem bago ang pagsalakay ng mga Persiano. Itinala ang kuwento makalipas ang ilang siglo ni Obispo Pelagius, na kilalang manloloko ng mga dokumento.",
+   "certainty": "legendary",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Wikipedia: Sudarium of Oviedo",
+     "url": "https://en.wikipedia.org/wiki/Sudarium_of_Oviedo"
+    }
+   ]
+  },
+  {
+   "id": "mandylion-constantinople",
+   "year": 944,
+   "date_label": "944",
+   "title": "Inilipat ang Mandylion sa Constantinople",
+   "text": "Dinala ang Imahe ng Edessa sa Constantinople at inilagay sa kapilya ng Pharos. Dokumentado ang paglilipat; hipotesis na tinatanggihan ng karamihan ng mga historyador na ito ang Shroud na ito.",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Image of Edessa",
+     "url": "https://en.wikipedia.org/wiki/Image_of_Edessa"
+    }
+   ]
+  },
+  {
+   "id": "sudarium-1075",
+   "year": 1075,
+   "date_label": "14 Marso 1075",
+   "title": "Binuksan ang kaban ng Sudarium sa Oviedo",
+   "text": "Binuksan nina Alfonso VI, ng kaniyang kapatid na babae at ni El Cid ang kabang naglalaman ng Sudarium. Ito ang pinakaunang tahasang tala tungkol sa telang iyon.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Wikipedia: Sudarium of Oviedo",
+     "url": "https://en.wikipedia.org/wiki/Sudarium_of_Oviedo"
+    }
+   ]
+  },
+  {
+   "id": "pray-codex",
+   "year": 1192,
+   "date_label": "1192-1195",
+   "title": "Drowing sa Pray Codex",
+   "text": "Ipinakikita ng isang manuskritong Hungarian ang paglilibing kay Kristo na magkakrus ang mga kamay, walang hinlalaki, at may telang may mga bilog na hugis L tulad ng mga lumang butas ng sunog sa Shroud. Binabasa ito ng mga kritiko bilang isang pinalamutiang lapida.",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Hungarian Pray Codex",
+     "url": "https://en.wikipedia.org/wiki/Hungarian_Pray_Codex"
+    }
+   ]
+  },
+  {
+   "id": "de-clari",
+   "year": 1203,
+   "date_label": "1203-1204",
+   "title": "Ang shroud na may pigura ayon kay Robert de Clari",
+   "text": "Isinulat ng isang krusadong Pranses na isang shroud na may pigura ng Panginoon ang itinatayo tuwing Biyernes sa Blachernae sa Constantinople. Walang ibang source na nagpapatunay nito.",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Robert de Clari",
+     "url": "https://en.wikipedia.org/wiki/Robert_de_Clari"
+    }
+   ]
+  },
+  {
+   "id": "sack-constantinople",
+   "year": 1204,
+   "date_label": "1204",
+   "title": "Pagsalakay sa Constantinople",
+   "text": "Sinamsam ng mga krusado ang mga relikya ng lungsod. May ilang historyador na nagmumungkahing may nawalang telang panlibing noon na kalaunan ay nakarating sa France. Hipotesis ito.",
+   "certainty": "hypothesized",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "templar-testimony",
+   "year": 1287,
+   "date_label": "1287",
+   "title": "Hinalikan ng isang bagong Templar ang isang imahe sa lino",
+   "text": "Nagpatotoo si Arnaut Sabbatier na ipinakita sa kaniya ang isang mahabang telang lino na may imahe ng lalaking may balbas noong siya ay pumasok sa mga Templar. Iminungkahi ni Barbara Frale noong 2009 na ito ang Shroud.",
+   "certainty": "hypothesized",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "The Register 2009 tungkol kay Frale",
+     "url": "https://www.theregister.com/offbeat/2009/04/06/vatican-researcher-claims-templars-worshipped-turin-shroud/968021"
+    }
+   ]
+  },
+  {
+   "id": "lirey-founding",
+   "year": 1353,
+   "date_label": "20 Hunyo 1353",
+   "title": "Itinatag ang simbahan sa Lirey",
+   "text": "Nagtatag ang kabalyerong si Geoffroi de Charny ng isang collegiate church sa Lirey sa Champagne. Tinatawag ito ng opisyal na site ng Turin na simula ng unang tiyak na ebidensiya.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Arkidiyosesis ng Turin: balangkas ng kasaysayan",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    },
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "lirey-exhibitions",
+   "year": 1355,
+   "date_label": "mga 1355",
+   "title": "Unang pagtatanghal sa Lirey",
+   "text": "Sinimulan ni Canon Robert de Caillac ang pagtatanghal sa tela sa Lirey. Ang mga badge ng peregrino na may sagisag ng Charny at Vergy, na isa ay nasa Musée de Cluny ngayon, ay nagpapakita ng imahe ng harap at likod ng isang katawan.",
+   "certainty": "probable",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+    },
+    {
+     "label": "A Souvenir from Lirey (badge sa Cluny)",
+     "url": "https://sindonology.org/papers/clunySouvenir.shtml"
+    }
+   ]
+  },
+  {
+   "id": "charny-death",
+   "year": 1356,
+   "date_label": "1356",
+   "title": "Namatay si Geoffroi de Charny sa Poitiers",
+   "text": "Napatay ang nagtatag ng Lirey sa Labanan sa Poitiers. Hindi siya nag-iwan kailanman ng nakasulat na salaysay kung paano niya nakuha ang tela.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "oresme",
+   "year": 1370,
+   "date_label": "1355-1382 (malamang pagkatapos ng 1370)",
+   "title": "Tinawag ni Oresme na peke ang isang shroud sa Champagne",
+   "text": "Binanggit ng teologong si Nicole Oresme ang isang simbahan sa Champagne na nag-aangking may hawak ng shroud ng Panginoon bilang malinaw na halimbawa ng pandaraya ng klero. Natukoy ni Nicolas Sarzeaud ang talata noong 2025.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Classicult 2025 tungkol kay Sarzeaud",
+     "url": "https://www.classicult.it/en/a-newly-discovered-medieval-document-by-nicole-oresme-is-the-earliest-written-evidence-to-reject-the-shroud-of-turin-as-authentic/"
+    }
+   ]
+  },
+  {
+   "id": "darcis",
+   "year": 1389,
+   "date_label": "1389",
+   "title": "Ang memorandum ni Obispo d'Arcis",
+   "text": "Sumulat ang Obispo ng Troyes kay Antipapa Clemente VII na tusong pininturahan ang tela at may pintor na umamin sa isang naunang obispo. Mga draft na walang pirma ang mga natirang teksto.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    },
+    {
+     "label": "Markwardt, BSTS Newsletter 99",
+     "url": "https://www.shroud.com/pdfs/n99part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "clement-bull",
+   "year": 1390,
+   "date_label": "6 Enero 1390",
+   "title": "Pinahintulutan ni Clemente VII ang pagtatanghal bilang 'representasyon'",
+   "text": "Pinahintulutan ng antipapa ang pagtatanghal kung iaanunsiyo lamang ito bilang pigura o representasyon, nang walang kandila, insenso o bantay na pandangal.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "margaret-removes",
+   "year": 1418,
+   "date_label": "1418",
+   "title": "Inalis sa Lirey",
+   "text": "Noong Hundred Years War, kinuha ni Marguerite de Charny ang tela mula sa Lirey para ingatan. Kalaunan, nagdemanda ang mga canon para maibalik ito.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Arkidiyosesis ng Turin: balangkas ng kasaysayan",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    }
+   ]
+  },
+  {
+   "id": "savoy",
+   "year": 1453,
+   "date_label": "1453",
+   "title": "Napunta sa House of Savoy",
+   "text": "Inilipat ni Marguerite de Charny ang tela kay Duke Louis ng Savoy. Nanatili itong pag-aari ng Savoy hanggang 1983.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Arkidiyosesis ng Turin: balangkas ng kasaysayan",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    }
+   ]
+  },
+  {
+   "id": "julius-ii",
+   "year": 1506,
+   "date_label": "1506",
+   "title": "Inaprubahan ni Julio II ang isang kapistahan",
+   "text": "Inaprubahan ni Papa Julio II ang isang liturhikong kapistahan ng Banal na Shroud para sa Savoy tuwing 4 Mayo, at itinuring itong relikya.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Arkidiyosesis ng Turin: balangkas ng kasaysayan",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    }
+   ]
+  },
+  {
+   "id": "chambery-fire",
+   "year": 1532,
+   "date_label": "4 Disyembre 1532",
+   "title": "Sunog sa Chambéry",
+   "text": "Tinunaw ng sunog sa Sainte-Chapelle ng Chambéry ang bahagi ng pilak na relikaryo. Tumagos ang tunaw na metal sa nakatuping tela, at nag-iwan ng simetrikong pattern ng mga butas at sunog.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Arkidiyosesis ng Turin: balangkas ng kasaysayan",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    },
+    {
+     "label": "Wikipedia: Conservation-restoration of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "poor-clares",
+   "year": 1534,
+   "date_label": "1534",
+   "title": "Tinagpian ng mga madreng Poor Clare ang mga butas",
+   "text": "Nagtahi ang mga madre ng mga tagpi sa ibabaw ng mga butas ng sunog at nagdagdag ng Holland cloth bilang backing.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Conservation-restoration of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "calvin",
+   "year": 1543,
+   "date_label": "1543",
+   "title": "Inatake ito ni Calvin",
+   "text": "Kinutya ng Treatise on Relics ni John Calvin bilang peke ang shroud na itinanghal sa Nice.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "to-turin",
+   "year": 1578,
+   "date_label": "14 Setyembre 1578",
+   "title": "Inilipat sa Turin",
+   "text": "Dinala ni Duke Emmanuel Philibert ang tela sa Turin, sa okasyon ng isang peregrinasyon ni Carlo Borromeo. Nanatili ito sa Turin mula noon, maliban sa mga paglilipat noong panahon ng digmaan.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Arkidiyosesis ng Turin: balangkas ng kasaysayan",
+     "url": "https://sindone.org/en/home-english/the-shroud/historical-outline/"
+    }
+   ]
+  },
+  {
+   "id": "guarini-1694",
+   "year": 1694,
+   "date_label": "1694",
+   "title": "Ang kapilya ni Guarini at ang pagkukumpuni ni Valfrè",
+   "text": "Inilagay ang tela sa kapilya ni Guarino Guarini, kung saan ito nanatili hanggang 1993. Pinatibay ito ni Sebastian Valfrè.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "clotilde-1868",
+   "year": 1868,
+   "date_label": "1868",
+   "title": "Kinumpuni ito ni Prinsesa Clotilde",
+   "text": "Kinumpuni ni Clotilde ng Savoy ang tela. Itinanghal ito mula 24 hanggang 27 Abril 1868 para sa kasal ng magiging Umberto I.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Conservation-restoration of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "pia-1898",
+   "year": 1898,
+   "date_label": "28 Mayo 1898",
+   "title": "Ang negative ni Secondo Pia",
+   "text": "Natuklasan ng amateur na photographer na si Secondo Pia na ipinakikita ng kaniyang negative plate ang isang malinaw na pigura ng tao na mukhang positibo. Dito nagsimula ang modernong interes ng agham.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Wikipedia: Secondo Pia",
+     "url": "https://en.wikipedia.org/wiki/Secondo_Pia"
+    }
+   ]
+  },
+  {
+   "id": "vignon-1902",
+   "year": 1902,
+   "date_label": "1902",
+   "title": "Pinag-aralan ni Vignon ang heometriya ng imahe",
+   "text": "Pinag-aralan ni Paul Vignon kung paano babaluktutin ng telang nakapatong sa katawan ang isang imahe, at napansin niyang mukhang orthogonal projection ang imahe, isang puntong muling itinaas ni Moraes noong 2025.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Vatican News 2026",
+     "url": "https://www.vaticannews.va/en/church/news/2026-02/shroud-turin-medieval-bas-relief-hypothesis-challenged.html"
+    },
+    {
+     "label": "Catholic World Report 2025 (pahayag ng CISS)",
+     "url": "https://www.catholicworldreport.com/2025/08/05/shroud-of-turin-center-disputes-new-study-that-challenges-authenticity-of-burial-cloth/"
+    }
+   ]
+  },
+  {
+   "id": "enrie-1931",
+   "year": 1931,
+   "date_label": "1931",
+   "title": "Ang mga litrato ni Enrie",
+   "text": "Kinumpirma ng propesyonal na photographer na si Giuseppe Enrie ang resulta ni Pia gamit ang mas malilinaw na plate. Ginamit ang mga imahe ni Enrie sa mga sumunod na pag-aaral sa 3D at sa pagmomodelo noong 2025.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Wikipedia: Secondo Pia",
+     "url": "https://en.wikipedia.org/wiki/Secondo_Pia"
+    }
+   ]
+  },
+  {
+   "id": "commission-1969",
+   "year": 1969,
+   "date_label": "1969",
+   "title": "Unang komisyong siyentipiko",
+   "text": "Nagtalaga ang Arsobispo ng Turin ng isang komisyon, na inilihim sa simula, para suriin ang kalagayan ng tela.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "tv-1973",
+   "year": 1973,
+   "date_label": "23 Nobyembre 1973",
+   "title": "Unang pagtatanghal sa TV at unang mga sample",
+   "text": "Ipinakita nang live sa telebisyon ang tela. Ginupit ang mga sinulid para pag-aralan, kabilang ang mga sinuri ni Gilbert Raes, at kumuha si Max Frei ng mga tape sample para sa pollen.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Arkidiyosesis ng Turin: pagtatanghal noong 1973",
+     "url": "https://sindone.org/en/home-english/expositions/1973-2/"
+    },
+    {
+     "label": "Smith tungkol kay Raes, Shroud Spectrum",
+     "url": "https://www.shroud.com/pdfs/ssi3536part5.pdf"
+    },
+    {
+     "label": "Farey 2014 tungkol sa pollen ni Frei",
+     "url": "https://shroud.com/pdfs/n79part8.pdf"
+    }
+   ]
+  },
+  {
+   "id": "vp8-1976",
+   "year": 1976,
+   "date_label": "1976",
+   "title": "Ipinakita ng VP-8 analyzer ang 3D na impormasyon",
+   "text": "Gamit ang isang VP-8 Image Analyzer sa Sandia, natuklasan nina John Jackson at Eric Jumper na nagbibigay ng buong relief ang isang litrato ni Enrie. Ito ang humantong sa pagbuo ng STURP.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Pahina ng STERA tungkol sa VP-8",
+     "url": "https://shroud.com/78strp10.htm"
+    }
+   ]
+  },
+  {
+   "id": "sturp-1978",
+   "year": 1978,
+   "date_label": "26 Agosto hanggang Oktubre 1978",
+   "title": "Pampublikong pagtatanghal at pagsusuri ng STURP",
+   "text": "Mga 3 milyong tao ang tumingin sa tela. Pagkatapos, pinag-aralan ito ng grupo ng STURP nang limang araw nang walang tigil, kumuha ng mga litrato, spectra, X-ray fluorescence at mga sample gamit ang sticky tape.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Wikipedia: Shroud of Turin Research Project",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin_Research_Project"
+    }
+   ]
+  },
+  {
+   "id": "mccrone-1980",
+   "year": 1980,
+   "date_label": "1979-1990",
+   "title": "Sinabi ni McCrone na pintura ito",
+   "text": "Iniulat ni Walter McCrone ang red ochre at vermilion sa isang collagen binder sa mga tape noong 1978 at nagtapos na isa itong painting mula sa ika-14 na siglo. Umalis siya sa STURP noong 1980 at inilathala ang kaniyang argumento sa Accounts of Chemical Research noong 1990.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "McCrone Research Institute",
+     "url": "https://mccroneinstitute.org/research/shroud-of-turin-research-at-mccrone"
+    },
+    {
+     "label": "Wikipedia: Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+    },
+    {
+     "label": "McCrone 1990 (naka-archive)",
+     "url": "https://web.archive.org/web/20230131030206/http://www.mccroneinstitute.org/uploads/the_microscope__shroud_small-1422560933.pdf"
+    }
+   ]
+  },
+  {
+   "id": "sturp-papers-1980",
+   "year": 1980,
+   "date_label": "1980",
+   "title": "Mga papel ng STURP sa Applied Optics",
+   "text": "Inilathala ng STURP ang mga resulta tungkol sa spectrum, infrared, UV at dugo, kabilang ang 'Blood on the Shroud of Turin' nina Heller at Adler.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Mga nailathalang papel ng STURP",
+     "url": "http://www.shroud.com/78papers.htm"
+    },
+    {
+     "label": "Heller at Adler 1980",
+     "url": "https://www.shroud.com/pdfs/ssi43part2.pdf"
+    }
+   ]
+  },
+  {
+   "id": "sturp-1981",
+   "year": 1981,
+   "date_label": "1981",
+   "title": "Huling buod ng STURP",
+   "text": "Nagtapos ang STURP na hindi pintura ang imahe at hindi gawa ng isang pintor, na may hemoglobin ang mga mantsa, at nananatiling misteryo kung paano nabuo ang imahe. Inilathala nina Heller at Adler ang kanilang pag-aaral sa kimika.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Buod ng mga konklusyon ng STURP",
+     "url": "http://www.shroud.com/78conclu.htm"
+    },
+    {
+     "label": "Heller at Adler 1981",
+     "url": "https://www.shroud.com/pdfs/ssi43part3.pdf"
+    }
+   ]
+  },
+  {
+   "id": "holy-see-1983",
+   "year": 1983,
+   "date_label": "1983",
+   "title": "Ibinigay sa Holy See",
+   "text": "Lumipat ang pagmamay-ari mula sa House of Savoy patungo sa Holy See. Isang papal custodian, ang Arsobispo ng Turin, ang nag-aalaga rito.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "jackson-1984",
+   "year": 1984,
+   "date_label": "1984",
+   "title": "Papel tungkol sa tindi ng imahe at layo",
+   "text": "Inilathala nina Jackson, Jumper at Ercoline sa Applied Optics na may ugnayan ang pagtatabing ng imahe at ang layo ng tela sa katawan (r squared 0.60 mula sa 13 punto).",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Jackson et al. 1984",
+     "url": "https://shroud.com/pdfs/Correlation%20of%20Image%20Intensity%20Jackson%20Jumper%20Ercoline%201984%20OCRsm.pdf"
+    }
+   ]
+  },
+  {
+   "id": "sampling-1988",
+   "year": 1988,
+   "date_label": "21 Abril 1988",
+   "title": "Ginupit ang radiocarbon sample",
+   "text": "Sa sakristiya ng katedral, gumupit si Giovanni Riggi ng isang piraso mula sa isang sulok. Napunta ang mga bahagi sa Arizona, Oxford at Zurich, kasama ang tatlong control na tela. Itinabi ang isang bahagi bilang reserba.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Damon et al. 1989",
+     "url": "https://shroud.com/nature.htm"
+    },
+    {
+     "label": "Wikipedia: Radiocarbon dating",
+     "url": "https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "nature-1989",
+   "year": 1989,
+   "date_label": "Pebrero 1989",
+   "title": "Inilathala ng Nature ang AD 1260-1390",
+   "text": "Iniulat ni Damon at ng mga kasama mula sa tatlong laboratoryo ang 95% na saklaw na AD 1260-1390 at tinawag itong tiyak na ebidensiya ng medieval na petsa. Inanunsiyo ni Kardinal Ballestrero ang opisyal na saklaw sa ngalan ng Simbahan.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Damon et al. 1989, Nature 337:611",
+     "url": "https://doi.org/10.1038/337611a0"
+    }
+   ]
+  },
+  {
+   "id": "sudarium-c14",
+   "year": 1990,
+   "date_label": "1990, 1992, 2007",
+   "title": "Pinetsahan ng radiocarbon ang Sudarium ng Oviedo",
+   "text": "Pinetsahan ng Arizona, Toronto at Madrid ang Sudarium sa pagitan ng ika-6 at ika-9 na siglo, malamang sa mga AD 700.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Wikipedia: Sudarium of Oviedo",
+     "url": "https://en.wikipedia.org/wiki/Sudarium_of_Oviedo"
+    }
+   ]
+  },
+  {
+   "id": "fire-1997",
+   "year": 1997,
+   "date_label": "11 Abril 1997",
+   "title": "Sunog sa katedral",
+   "text": "Nagkasunog sa kapilya ni Guarini. Binasag ng bumberong si Mario Trematore ang bulletproof na lalagyan gamit ang maso, at nailabas ang tela nang walang pinsala.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Wikipedia: Conservation-restoration of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "jpii-1998",
+   "year": 1998,
+   "date_label": "24 Mayo 1998",
+   "title": "Juan Pablo II: hindi ito usapin ng pananampalataya",
+   "text": "Sa Turin, sinabi ng papa na walang tiyak na kakayahan ang Simbahan na magpasya tungkol sa pagiging tunay, at ipinagkatiwala niya ang tanong sa mga siyentipiko, at tinawag ang Shroud na salamin ng Ebanghelyo.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Vaticano: talumpati ni Juan Pablo II, 24 Mayo 1998",
+     "url": "https://www.vatican.va/content/john-paul-ii/en/travels/1998/documents/hf_jp-ii_spe_24051998_sindone.html"
+    }
+   ]
+  },
+  {
+   "id": "jubilee-2000",
+   "year": 2000,
+   "date_label": "2000",
+   "title": "Pagtatanghal para sa Dakilang Jubileo",
+   "text": "Ipinakita sa publiko ang tela para sa Taon ng Jubileo.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "restoration-2002",
+   "year": 2002,
+   "date_label": "20 Hunyo hanggang 22 Hulyo 2002",
+   "title": "Malaking restorasyon",
+   "text": "Inalis ng grupo ni Mechthild Flury-Lemberg ang 30 tagpi noong 1534 at ang Holland backing, naglagay ng bagong backing, at ini-scan ang magkabilang panig. May ilang iskolar na pumuna sa gawain dahil sinira raw nito ang ebidensiya.",
+   "certainty": "documented",
+   "track": "cloth",
+   "sources": [
+    {
+     "label": "Arkidiyosesis ng Turin: ang restorasyon",
+     "url": "https://sindone.org/en/home-english/the-shroud/the-fire/the-restoration/"
+    },
+    {
+     "label": "Wikipedia: Conservation-restoration",
+     "url": "https://en.wikipedia.org/wiki/Conservation-restoration_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "back-image-2004",
+   "year": 2004,
+   "date_label": "2004",
+   "title": "Inangking malabong imahe sa likod",
+   "text": "Iniulat nina Fanti at Maggiolo ang isang malabong imahe ng mukha sa kabilang panig batay sa mga litrato noong 2002. Ang mga direktang nakakita noong 2002 ay iniulat na walang nakita.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Review ng Fanti at Maggiolo 2004",
+     "url": "https://sindonology.org/reviews/doubleSuperficiality.shtml"
+    }
+   ]
+  },
+  {
+   "id": "rogers-2005",
+   "year": 2005,
+   "date_label": "Enero 2005",
+   "title": "Rogers: iba ang sample na pinetsahan",
+   "text": "Ikinatwiran ni Raymond Rogers sa Thermochimica Acta na may cotton at patong ng gum at tina ang bahaging kinunan ng radiocarbon sample, at tinantiya niya ang edad ng tela sa 1,300 hanggang 3,000 taon batay sa pagkawala ng vanillin.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Rogers 2005",
+     "url": "https://zenodo.org/record/1259381"
+    },
+    {
+     "label": "Ball 2005, balita sa Nature",
+     "url": "https://www.nature.com/news/2005/050124/full/news050124-17.html"
+    }
+   ]
+  },
+  {
+   "id": "ramsey-2008",
+   "year": 2008,
+   "date_label": "2008",
+   "title": "Sinubok ng Oxford ang ideya tungkol sa carbon monoxide",
+   "text": "Sinubok ni Christopher Ramsey kung kayang magdagdag ng carbon monoxide ng batang carbon sa lino, at walang nakitang makabuluhang epekto.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Oxford Radiocarbon Accelerator Unit",
+     "url": "https://c14.arch.ox.ac.uk/shroud.html"
+    }
+   ]
+  },
+  {
+   "id": "garlaschelli-2009",
+   "year": 2009,
+   "date_label": "Oktubre 2009",
+   "title": "Ang buong-laking replica ni Garlaschelli",
+   "text": "Ipinakita ng chemist na si Luigi Garlaschelli ang isang buong-laking tela na ginawa sa pagkuskos ng acidic na pigment sa isang boluntaryo at sa isang bas-relief, saka inihurno at nilabhan. Lumabas ang papel noong 2010.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Garlaschelli 2010, JIST 54(4)",
+     "url": "https://library.imaging.org/jist/articles/54/4/art00002"
+    }
+   ]
+  },
+  {
+   "id": "enea-2010",
+   "year": 2010,
+   "date_label": "2010-2011",
+   "title": "Mga pag-aaral ng ENEA gamit ang ultraviolet laser",
+   "text": "Kinulayan ng mga physicist ng ENEA ang lino gamit ang napakaikling pulso ng UV laser at nakakuha ng manipis na paninilaw na kahawig ng sa Shroud. Idinidiin nila na hindi nito ipinakikita kung paano talaga ginawa ang imahe.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Di Lazzaro et al. 2010",
+     "url": "https://www.sindone.info/DILAZZA1.PDF"
+    }
+   ]
+  },
+  {
+   "id": "jull-2010",
+   "year": 2010,
+   "date_label": "2010",
+   "title": "Muling sinuri ng Arizona ang isang piraso na pinetsahan",
+   "text": "Walang nakitang tina o patong at kaunting hibla lang ng cotton sina Freer-Waters at Jull sa isang natirang piraso ng Arizona. Itinanghal din sa publiko ang tela noong 2010.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Freer-Waters at Jull 2010, Radiocarbon 52(4)",
+     "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8CC26C322198300E051C49A0BA5B96D9/S0033822200056277a.pdf/investigating-a-dated-piece-of-the-shroud-of-turin.pdf"
+    }
+   ]
+  },
+  {
+   "id": "riani-fanti-2013",
+   "year": 2013,
+   "date_label": "2013",
+   "title": "Papel sa estadistika at ang aklat ni Fanti tungkol sa pagpepetsa",
+   "text": "Inilathala ni Riani at ng mga kasama ang pagsusuri sa spatial trend sa Statistics and Computing. Inanunsiyo ni Fanti ang mga petsa mula sa FT-IR, Raman at mekanikal na pagsusuri na malapit sa unang siglo; sinabi ng Arsobispo ng Turin na hindi tiyak ang pinagmulan ng materyal.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Riani et al. 2013",
+     "url": "https://riani.unipr.it/pub/RAFC2012.pdf"
+    },
+    {
+     "label": "National Catholic Register 2013",
+     "url": "https://www.ncregister.com/news/science-shines-new-light-on-shroud-of-turin-s-age"
+    }
+   ]
+  },
+  {
+   "id": "freeman-2014",
+   "year": 2014,
+   "date_label": "2014",
+   "title": "Ang teorya ni Freeman tungkol sa props sa Pasko ng Pagkabuhay",
+   "text": "Ikinatwiran ng historyador na si Charles Freeman sa History Today na ang tela ay isang kupas at dating pininturahang props para sa mga medieval na dula tuwing Pasko ng Pagkabuhay.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Art History News tungkol kay Freeman",
+     "url": "https://arthistorynews.com/articles/3065_Turin_Shroud_debunked_again"
+    }
+   ]
+  },
+  {
+   "id": "expo-2015",
+   "year": 2015,
+   "date_label": "2015",
+   "title": "Pagtatanghal at unang survey ng DNA",
+   "text": "Itinanghal ang tela nang may pag-apruba ni Papa Francisco. Iniulat ni Barcaccia at ng mga kasama ang DNA ng halaman at tao mula sa maraming rehiyon, at idinagdag na hindi inaalis ang posibilidad ng medieval na pinagmulan sa Europa.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Wikipedia: Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Shroud_of_Turin"
+    },
+    {
+     "label": "Barcaccia et al. 2015",
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4593049/"
+    }
+   ]
+  },
+  {
+   "id": "raw-data-2017",
+   "year": 2017,
+   "date_label": "2017",
+   "title": "Inilabas ang raw data ng radiocarbon",
+   "text": "Matapos ang isang legal na kahilingan, inilabas ng British Museum ang raw data ng mga laboratoryo noong 1988 sa mananaliksik na si Tristan Casabianca.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Casabianca et al. 2019",
+     "url": "https://philarchive.org/archive/CASTRD-3"
+    }
+   ]
+  },
+  {
+   "id": "bpa-2018",
+   "year": 2018,
+   "date_label": "2018",
+   "title": "Pag-aaral sa bloodstain pattern",
+   "text": "Iniulat nina Borrini at Garlaschelli sa Journal of Forensic Sciences na nagpapahiwatig ang mga daloy ng dugo ng hindi magkatugmang postura. Nagkaroon ng pampublikong pagtatanghal noong Agosto.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Borrini at Garlaschelli",
+     "url": "https://researchonline.ljmu.ac.uk/id/eprint/8813/"
+    }
+   ]
+  },
+  {
+   "id": "casabianca-2019",
+   "year": 2019,
+   "date_label": "Marso 2019",
+   "title": "Ipinakita ng raw data ang heterogeneity",
+   "text": "Inilathala ni Casabianca at ng mga kasama sa Archaeometry na walang homogeneity ang raw data at dapat muling pag-isipan ang proseso noong 1988, bagaman hindi nila inaalis ang medieval na petsa.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Casabianca et al. 2019, Archaeometry 61(5)",
+     "url": "https://philarchive.org/rec/CASTRD-3"
+    }
+   ]
+  },
+  {
+   "id": "holy-saturday-2020",
+   "year": 2020,
+   "date_label": "Sabado de Gloria, Abril 2020",
+   "title": "Pagtatanghal na naka-livestream noong lockdown",
+   "text": "Noong lockdown dahil sa COVID-19, ipinakita ng arkidiyosesis ang tela sa telebisyon at online. Tinawag ito ni Papa Francisco na icon ng Panginoong ipinako sa krus, namatay at muling nabuhay.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Vatican News, Abril 2020",
+     "url": "https://vaticannews.va/en/pope/news/2020-04/pope-expresses-gratitude-for-exposition-of-the-shroud-of-turin.html"
+    }
+   ]
+  },
+  {
+   "id": "stats-2020",
+   "year": 2020,
+   "date_label": "2020",
+   "title": "Dalawa pang reanalysis sa estadistika",
+   "text": "Inilathala nina Walsh at Schwalbe, at ni Di Lazzaro at ng mga kasama, na heterogeneous ang mga resulta ng shroud na may spatial trend, at dapat muling pag-isipan ang konklusyong medieval.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Walsh at Schwalbe 2020",
+     "url": "https://doi.org/10.1016/j.jasrep.2019.102015"
+    },
+    {
+     "label": "Di Lazzaro et al. 2020, Entropy",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7597180"
+    }
+   ]
+  },
+  {
+   "id": "waxs-2022",
+   "year": 2022,
+   "date_label": "Abril 2022",
+   "title": "Pagpepetsa sa isang sinulid gamit ang WAXS",
+   "text": "Iniulat ni De Caro at ng mga kasama sa Heritage na ang pagtanda ng cellulose ng isang sinulid ay tugma sa isang lino mula sa Masada noong AD 55-74, sa ilalim ng ipinapalagay na kondisyon ng pagkakatago.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "De Caro et al. 2022",
+     "url": "https://dsctm.cnr.it/images/Highlights/Sindone/DeCaro_Heritage_2022.pdf"
+    }
+   ]
+  },
+  {
+   "id": "review-2025",
+   "year": 2025,
+   "date_label": "Pebrero 2025",
+   "title": "Neutral na review: nananatili ang petsa, kailangan ng bagong pagsusuri",
+   "text": "Nagtapos ang isang review sa Textiles na hindi sapat ang ebidensiya laban sa petsa noong 1989 para baligtarin ito, misteryo pa rin ang pagkabuo ng imahe, at kailangan ng ikalawang radiocarbon test.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Karapanagiotis 2025",
+     "url": "https://www.mdpi.com/2673-7248/5/1/8"
+    }
+   ]
+  },
+  {
+   "id": "jubilee-2025",
+   "year": 2025,
+   "date_label": "28 Abril hanggang 5 Mayo 2025",
+   "title": "Digital na Shroud para sa Jubileo",
+   "text": "Sa halip na pisikal na pagtatanghal, ipinakita ni Kardinal Repole ang isang buong-laking digital na replica sa isang tolda sa Piazza Castello, Turin.",
+   "certainty": "documented",
+   "track": "church",
+   "sources": [
+    {
+     "label": "Catholic Weekly 2025",
+     "url": "https://catholicweekly.com.au/shroud-of-turin-to-be-digitally-showcased-for-holy-year/"
+    }
+   ]
+  },
+  {
+   "id": "moraes-2025",
+   "year": 2025,
+   "date_label": "28 Hulyo 2025",
+   "title": "Moraes: mas tugma ang mababang relief",
+   "text": "Inilathala ni Cicero Moraes sa Archaeometry ang mga 3D simulation ng pagbabalot na nagpapahiwatig na mas tugma sa imahe ang isang low-relief na eskultura kaysa sa isang katawan. Sumagot ang sentro sa Turin, ang CISS, noong 4 Agosto na hindi na ito bago.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Live Science 2025",
+     "url": "https://www.livescience.com/archaeology/shroud-of-turin-wasnt-laid-on-jesus-body-but-rather-a-sculpture-modeling-study-suggests"
+    },
+    {
+     "label": "Catholic World Report 2025",
+     "url": "https://www.catholicworldreport.com/2025/08/05/shroud-of-turin-center-disputes-new-study-that-challenges-authenticity-of-burial-cloth/"
+    }
+   ]
+  },
+  {
+   "id": "oresme-find-2025",
+   "year": 2025,
+   "date_label": "Agosto 2025",
+   "title": "Inilathala ang talata ni Oresme",
+   "text": "Inilathala ni Nicolas Sarzeaud ang teksto ni Oresme sa Journal of Medieval History, ang pinakaunang kilalang nakasulat na pagtanggi sa tela.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Classicult 2025",
+     "url": "https://www.classicult.it/en/a-newly-discovered-medieval-document-by-nicole-oresme-is-the-earliest-written-evidence-to-reject-the-shroud-of-turin-as-authentic/"
+    }
+   ]
+  },
+  {
+   "id": "moraes-rebuttal-2026",
+   "year": 2026,
+   "date_label": "Pebrero 2026",
+   "title": "Sagot kay Moraes sa Archaeometry",
+   "text": "Naglathala sina Casabianca, Marinelli at Piana ng puna sa modelo ni Moraes sa parehong journal, at binanggit ang mga mali sa pagmomodelo at ang ebidensiyang hindi pinansin.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Vatican News, 10 Pebrero 2026",
+     "url": "https://www.vaticannews.va/en/church/news/2026-02/shroud-turin-medieval-bas-relief-hypothesis-challenged.html"
+    }
+   ]
+  },
+  {
+   "id": "jull-2026",
+   "year": 2026,
+   "date_label": "Abril 2026",
+   "title": "Sinuri ang ikalawang piraso ng Arizona",
+   "text": "Naglathala sina Freer-Waters at Jull sa Heritage Science tungkol sa isang natirang piraso ng Arizona mula 1988. Ayon sa mga ulat sa media, wala silang nakitang bakas ng pagkukumpuni o ibang materyal.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Freer-Waters at Jull 2026, Heritage Science",
+     "url": "https://www.nature.com/articles/s40494-026-02530-7"
+    },
+    {
+     "label": "Farey 2026, buod sa kaniyang blog",
+     "url": "https://medievalshroud.com/the-donahue-sliver-resurfaces/"
+    }
+   ]
+  },
+  {
+   "id": "riani-2026",
+   "year": 2026,
+   "date_label": "11 Hunyo 2026",
+   "title": "Regression sa raw data",
+   "text": "Naglathala sina Riani, Atkinson, Corbellini at Di Lazzaro ng reanalysis ng raw data sa Statistical Methods and Applications, at sinubok ang lahat ng 165,888 posibleng ayos ng subsample.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Riani et al. 2026",
+     "url": "https://link.springer.com/article/10.1007/s10260-026-00851-2"
+    }
+   ]
+  },
+  {
+   "id": "sudarium-exam-2026",
+   "year": 2026,
+   "date_label": "Hulyo 2026",
+   "title": "Bagong pagsusuri sa Sudarium",
+   "text": "Iniulat ng EDICES at ng University of Oviedo ang unang non-invasive na teknikal na pagsusuri sa Sudarium mula noong 2012.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "STERA, pinakabagong balita",
+     "url": "https://www.shroud.com/latebrak.htm"
+    }
+   ]
+  },
+  {
+   "id": "dna-2026",
+   "year": 2026,
+   "date_label": "Hulyo 2026",
+   "title": "Pag-aaral sa DNA ng mga sample noong 1978",
+   "text": "Iniulat ni Barcaccia at ng mga kasama sa Scientific Reports na ang pangunahing DNA ng tao ay tugma sa siyentipikong kumuha ng mga sample, kasama ang maraming bakas ng halaman, hayop at mikrobyo. Ang dalawang sinulid mula sa relikaryo ay may petsang tugma sa mga pagkukumpuni noong 1534 at 1694.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Barcaccia et al. 2026",
+     "url": "https://www.nature.com/articles/s41598-026-60684-7"
+    },
+    {
+     "label": "ScienceDaily 2026",
+     "url": "https://www.sciencedaily.com/releases/2026/08/260803080859.htm"
+    },
+    {
+     "label": "IBT via inkl 2026",
+     "url": "https://www.inkl.com/news/turin-shroud-dna-jesus-claim-hits-a-snag-strongest-match-points-to-man-who-collected-samples"
+    }
+   ]
+  },
+  {
+   "id": "kearse-2026",
+   "year": 2026,
+   "date_label": "22 Hulyo 2026",
+   "title": "Sinubok ang pagkakasunod ng dugo at imahe",
+   "text": "Ipinakita ni Kelly Kearse na hinaharangan ng dugo sa linong ginamot ng acid ang sumunod na pagkulay, kaya hindi naitatakda ng 'walang imahe sa ilalim ng dugo' ang pagkakasunod-sunod ng mga pangyayari.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Kearse 2026, International Journal of Archaeology",
+     "url": "https://sciencepublishinggroup.com/article/10.11648/j.ija.20261402.11"
+    }
+   ]
+  }
+ ]
+}

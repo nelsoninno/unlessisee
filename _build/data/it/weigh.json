@@ -1,0 +1,87 @@
+{
+ "prior": {
+  "neutral": -3,
+  "skeptic": -5,
+  "believer": -1
+ },
+ "items": [
+  {
+   "id": "c14",
+   "label": "La datazione al carbonio del 1988: dal 1260 al 1390 d.C.",
+   "skeptic": -3,
+   "believer": -0.5
+  },
+  {
+   "id": "c14-flaws",
+   "label": "I risultati del 1988 non concordano bene tra loro",
+   "skeptic": 0,
+   "believer": 0.5
+  },
+  {
+   "id": "history",
+   "label": "Nessuna testimonianza sicura del telo prima del 1354 circa",
+   "skeptic": -1,
+   "believer": -0.3
+  },
+  {
+   "id": "darcis",
+   "label": "Un vescovo (1389) e uno studioso (Oresme) la definirono un falso",
+   "skeptic": -0.7,
+   "believer": -0.2
+  },
+  {
+   "id": "no-paint",
+   "label": "Nessuna pittura né legante forma l'immagine",
+   "skeptic": 0.3,
+   "believer": 1
+  },
+  {
+   "id": "thin",
+   "label": "Il colore si trova solo sulle fibre più esterne",
+   "skeptic": 0.3,
+   "believer": 1
+  },
+  {
+   "id": "negative",
+   "label": "L'immagine si comporta come un negativo fotografico",
+   "skeptic": 0,
+   "believer": 0.7
+  },
+  {
+   "id": "three-d",
+   "label": "L'intensità dell'immagine codifica la distanza, come una mappa 3D",
+   "skeptic": 0.2,
+   "believer": 0.8
+  },
+  {
+   "id": "blood",
+   "label": "Macchie che risultano essere sangue, a quanto pare presenti sul telo prima dell'immagine",
+   "skeptic": 0.2,
+   "believer": 0.7
+  },
+  {
+   "id": "wounds",
+   "label": "Ferite compatibili con una crocifissione romana, con i chiodi nei polsi",
+   "skeptic": 0.3,
+   "believer": 1
+  },
+  {
+   "id": "unreproduced",
+   "label": "Nessuno ha riprodotto tutte le caratteristiche dell'immagine",
+   "skeptic": 0.5,
+   "believer": 1.2
+  },
+  {
+   "id": "pray",
+   "label": "Il disegno del Codice Pray, del 1192 circa",
+   "skeptic": 0,
+   "believer": 0.5
+  },
+  {
+   "id": "pollen-coins",
+   "label": "Pollini, monete sugli occhi, immagini di fiori (valutati deboli o smentiti)",
+   "skeptic": 0,
+   "believer": 0
+  }
+ ]
+}
