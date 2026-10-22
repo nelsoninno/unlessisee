@@ -33,6 +33,13 @@
    "for": "U Ciebie wygrywa autentyczność.",
    "against": "U Ciebie wygrywa średniowieczne pochodzenie.",
    "close": "U Ciebie jest blisko. Żadna strona nie prowadzi wyraźnie."
+  },
+  "presets": {
+   "label": "Wypróbuj punkt widzenia:",
+   "skeptic": "Sceptyk",
+   "believer": "Wierzący",
+   "neutral": "Neutralnie, według dowodów",
+   "note": "Każdy przycisk zaznacza odpowiedzi typowego sceptyka lub wierzącego, abyś mógł porównać. Opcja neutralna to nasza własna ocena dowodów. Każdą odpowiedź możesz zmienić."
   }
  }
 }

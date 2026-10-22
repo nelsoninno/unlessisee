@@ -33,6 +33,13 @@
    "for": "Pour vous, l’authenticité l’emporte.",
    "against": "Pour vous, l’origine médiévale l’emporte.",
    "close": "Pour vous, c’est serré. Aucun camp ne se détache nettement."
+  },
+  "presets": {
+   "label": "Essayez un point de vue :",
+   "skeptic": "Sceptique",
+   "believer": "Croyant",
+   "neutral": "Neutre, selon les faits",
+   "note": "Chaque bouton coche les réponses d’un sceptique ou d’un croyant typique, pour comparer. L’option neutre est notre propre lecture des faits. Vous pouvez modifier chaque réponse."
   }
  }
 }

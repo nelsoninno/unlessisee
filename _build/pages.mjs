@@ -346,11 +346,14 @@ ${s.top ? `<p class="claim__top claim__top--${s.side}">${esc(s.side === 'for' ? 
 ${obj ? `<details class="claim__obj"><summary>${esc(p.obj)}</summary><p>${esc(obj)}</p><p><a href="${ctx.href('evidence')}#${attr(s.ev)}">${esc(p.more)}</a></p></details>` : ''}
 </article>`;
   }).join('\n');
-  const ui = { verdict: p.verdict, answered: p.answered, total: S.length };
+  const ui = { verdict: p.verdict, answered: p.answered, total: S.length, presets: readJ('weigh-presets.json', {}) };
+  const pr = p.presets || {};
   const body = `${pageHead(ctx, p)}
 <section class="linen band band--tight" style="padding-top:0"><div class="wrap">
 <div class="weigh2" data-weigh='${attr(JSON.stringify(ui))}'>
-  <div class="claims">${cards}</div>
+  <div class="claims">
+  ${pr.label ? `<div class="presets"><p class="presets__label">${esc(pr.label)}</p><div class="presets__row">${['skeptic', 'neutral', 'believer'].map(k => `<button class="tool presets__btn presets__btn--${k}" type="button" data-preset="${k}" aria-pressed="false">${esc(pr[k])}</button>`).join('')}</div><p class="meta">${esc(pr.note)}</p></div>` : ''}
+  ${cards}</div>
   <aside class="verdict" id="verdict" aria-live="polite">
     <h2 class="verdict__h">${esc(p.resultH)}</h2>
     <div class="tug" aria-hidden="true"><i class="tug__for" data-bar></i><b class="tug__mid"></b></div>

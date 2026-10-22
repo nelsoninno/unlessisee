@@ -33,6 +33,13 @@
    "for": "Para sa iyo, nananalo ang argumento para sa pagiging tunay.",
    "against": "Para sa iyo, nananalo ang argumento para sa medieval na pinagmulan.",
    "close": "Para sa iyo, dikit ang laban. Walang panig na malinaw na nangunguna."
+  },
+  "presets": {
+   "label": "Subukan ang isang pananaw:",
+   "skeptic": "Mapag-alinlangan",
+   "believer": "Mananampalataya",
+   "neutral": "Neutral, batay sa ebidensiya",
+   "note": "Pinipili ng bawat button ang mga sagot ng karaniwang mapag-alinlangan o mananampalataya, para maihambing mo. Ang neutral ay ang sarili naming pagbasa sa ebidensiya. Mababago mo ang anumang sagot."
   }
  }
 }

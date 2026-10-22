@@ -135,7 +135,7 @@ function langSwitch(ctx, page, inFooter = false) {
 
 function header(ctx, page) {
   const c = ctx.L.copy;
-  const links = c.nav.map(n => `<a href="${ctx.href(n.slug)}"${n.slug === page.slug ? ' aria-current="page"' : ''}>${esc(n.label)}</a>`).join('');
+  const links = c.nav.map(n => `<a href="${ctx.href(n.slug)}"${n.slug === 'weigh' ? ' class="nav-cta"' : ''}${n.slug === page.slug ? ' aria-current="page"' : ''}>${esc(n.label)}</a>`).join('');
   return `<a class="skip" href="#main">${esc(c.ui.skip)}</a>
 <header class="site-head"><div class="wrap">
 <a class="brand" href="${ctx.href('index')}">${mark}<span>${esc(c.brand)}</span></a>

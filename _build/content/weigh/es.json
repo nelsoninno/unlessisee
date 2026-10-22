@@ -33,6 +33,13 @@
    "for": "Para ti, va ganando la autenticidad.",
    "against": "Para ti, va ganando el origen medieval.",
    "close": "Para ti, está parejo. Ningún lado gana con claridad."
+  },
+  "presets": {
+   "label": "Prueba un punto de vista:",
+   "skeptic": "Escéptico",
+   "believer": "Creyente",
+   "neutral": "Neutral, según la evidencia",
+   "note": "Cada botón marca las respuestas que daría un escéptico o un creyente típico, para comparar. La opción neutral es nuestra propia lectura de la evidencia. Puedes cambiar cualquier respuesta."
   }
  }
 }

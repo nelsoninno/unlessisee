@@ -33,6 +33,13 @@
    "for": "Für Sie gewinnt die Echtheit.",
    "against": "Für Sie gewinnt der mittelalterliche Ursprung.",
    "close": "Für Sie ist es knapp. Keine Seite liegt klar vorn."
+  },
+  "presets": {
+   "label": "Einen Standpunkt ausprobieren:",
+   "skeptic": "Skeptiker",
+   "believer": "Gläubige",
+   "neutral": "Neutral, nach den Belegen",
+   "note": "Jeder Knopf setzt die Antworten, die ein typischer Skeptiker oder Gläubiger geben würde, zum Vergleich. Die neutrale Auswahl ist unsere eigene Lesart der Belege. Sie können jede Antwort ändern."
   }
  }
 }

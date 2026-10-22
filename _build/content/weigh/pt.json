@@ -33,6 +33,13 @@
    "for": "Para você, a autenticidade está ganhando.",
    "against": "Para você, a origem medieval está ganhando.",
    "close": "Para você, está equilibrado. Nenhum lado está claramente à frente."
+  },
+  "presets": {
+   "label": "Experimente um ponto de vista:",
+   "skeptic": "Cético",
+   "believer": "Crente",
+   "neutral": "Neutro, pela evidência",
+   "note": "Cada botão marca as respostas que um cético ou um crente típico daria, para você comparar. A opção neutra é a nossa leitura da evidência. Você pode mudar qualquer resposta."
   }
  }
 }

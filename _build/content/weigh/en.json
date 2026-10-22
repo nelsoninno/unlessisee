@@ -33,6 +33,13 @@
    "for": "For you, the case for authenticity is winning.",
    "against": "For you, the case for a medieval origin is winning.",
    "close": "For you, it is close. Neither side is clearly ahead."
+  },
+  "presets": {
+   "label": "Try a viewpoint:",
+   "skeptic": "Skeptic",
+   "believer": "Believer",
+   "neutral": "Neutral, evidence-based",
+   "note": "Each button fills in the answers a typical skeptic or believer would give, so you can compare. The neutral set is our own reading of the evidence. You can change any answer."
   }
  }
 }

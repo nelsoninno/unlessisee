@@ -55,8 +55,18 @@
     } else strong.hidden=true;
     if(miniTxt)miniTxt.textContent=tot>0?(pct+'% / '+(100-pct)+'%'):UI.verdict.none;
   }
+  // Viewpoint buttons: fill in a whole set of answers at once
+  var pbtns=[].slice.call(root.querySelectorAll('[data-preset]'));
+  function markPreset(k){pbtns.forEach(function(b){b.setAttribute('aria-pressed',b.dataset.preset===k?'true':'false');});}
+  pbtns.forEach(function(b){b.addEventListener('click',function(){
+    var set=(UI.presets||{})[b.dataset.preset]; if(!set)return;
+    ans={}; Object.keys(set).forEach(function(id){ans[id]=set[id];});
+    save(); claims.forEach(mark); markPreset(b.dataset.preset); calc();
+    var v=document.getElementById('verdict'); if(v&&window.innerWidth<=900)v.scrollIntoView({behavior:'smooth',block:'start'});
+  });});
+  claims.forEach(function(cl){cl.querySelectorAll('[data-v]').forEach(function(x){x.addEventListener('click',function(){markPreset(null);});});});
   var reset=root.querySelector('[data-reset]');
-  if(reset)reset.addEventListener('click',function(){ans={};save();claims.forEach(function(cl){mark(cl);var d=cl.querySelector('details');if(d)d.open=false;});calc();});
+  if(reset)reset.addEventListener('click',function(){ans={};markPreset(null);save();claims.forEach(function(cl){mark(cl);var d=cl.querySelector('details');if(d)d.open=false;});calc();});
 
   // Small result bar pinned to the bottom on phones while the list is on screen
   if(mini&&'IntersectionObserver' in window){
