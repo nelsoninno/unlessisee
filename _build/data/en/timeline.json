@@ -124,6 +124,21 @@
    ]
   },
   {
+   "id": "mesarites-1201",
+   "year": 1201,
+   "date_label": "1201",
+   "title": "Mesarites lists plain burial linens",
+   "text": "Nicholas Mesarites, keeper of the palace relics in Constantinople, lists Jesus' burial linens as plain, inexpensive linen that still smells of myrrh. He mentions no image on them, though he describes an image of Christ on a separate towel.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Mesarites, excerpt in Shroud Spectrum International 17",
+     "url": "https://www.shroud.com/pdfs/ssi17part4.pdf"
+    }
+   ]
+  },
+  {
    "id": "de-clari",
    "year": 1203,
    "date_label": "1203-1204",
@@ -459,6 +474,25 @@
    ]
   },
   {
+   "id": "yehohanan-1968",
+   "year": 1968,
+   "date_label": "1968",
+   "title": "A crucified man's heel bone is found",
+   "text": "Builders at Giv'at ha-Mivtar in Jerusalem uncover a Jewish tomb with the ossuary of Yehohanan, whose right heel bone is still pierced by an iron nail. A 1985 restudy finds the nail went through one heel, from the side.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Wikipedia: Jehohanan",
+     "url": "https://en.wikipedia.org/wiki/Jehohanan"
+    },
+    {
+     "label": "Biblical Archaeology Review on Zias and Sekeles 1985",
+     "url": "https://library.biblicalarchaeology.org/department/scholars-corner-new-analysis-of-the-crucified-man"
+    }
+   ]
+  },
+  {
    "id": "commission-1969",
    "year": 1969,
    "date_label": "1969",
@@ -614,6 +648,40 @@
     {
      "label": "Jackson et al. 1984",
      "url": "https://shroud.com/pdfs/Correlation%20of%20Image%20Intensity%20Jackson%20Jumper%20Ercoline%201984%20OCRsm.pdf"
+    }
+   ]
+  },
+  {
+   "id": "protocol-1986",
+   "year": 1986,
+   "date_label": "September-October 1986",
+   "title": "Seven labs propose a dating plan",
+   "text": "At a meeting in Turin, seven radiocarbon labs (five AMS and two small gas-counter labs) recommend a protocol for dating the cloth.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Damon et al. 1989",
+     "url": "https://shroud.com/nature.htm"
+    }
+   ]
+  },
+  {
+   "id": "three-labs-1987",
+   "year": 1987,
+   "date_label": "October 1987",
+   "title": "Only three labs are chosen",
+   "text": "Acting on instructions from the Holy See, the Archbishop of Turin selects three AMS labs: Arizona, Oxford and Zurich. The Nature paper reports that blind testing was also dropped.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Damon et al. 1989",
+     "url": "https://shroud.com/nature.htm"
+    },
+    {
+     "label": "Gove 1990, Radiocarbon",
+     "url": "https://doi.org/10.1017/S0033822200039990"
     }
    ]
   },
@@ -908,6 +976,21 @@
    ]
   },
   {
+   "id": "carlino-retraction-2018",
+   "year": 2018,
+   "date_label": "July 2018",
+   "title": "Trauma blood paper retracted",
+   "text": "PLOS ONE retracts a 2017 paper that claimed nanoparticles in one Shroud fibre showed severe trauma, citing insufficient data and controls. The authors objected.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Retraction Watch, 19 July 2018",
+     "url": "https://retractionwatch.com/2018/07/19/over-authors-objections-plos-one-retracts-paper-claiming-shroud-of-turin-showed-evidence-of-trauma"
+    }
+   ]
+  },
+  {
    "id": "casabianca-2019",
    "year": 2019,
    "date_label": "March 2019",
@@ -953,6 +1036,21 @@
     {
      "label": "Di Lazzaro et al. 2020, Entropy",
      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7597180"
+    }
+   ]
+  },
+  {
+   "id": "fenstanton-2021",
+   "year": 2021,
+   "date_label": "December 2021",
+   "title": "A crucified man found in Roman Britain",
+   "text": "Archaeologists report a man buried at Fenstanton, Cambridgeshire, who died between AD 130 and 360 with an iron nail through his right heel bone. He was given a normal burial in the settlement cemetery.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "University of Cambridge, 8 December 2021",
+     "url": "https://www.cam.ac.uk/stories/romancrucifixion"
     }
    ]
   },

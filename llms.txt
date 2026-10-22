@@ -14,7 +14,7 @@
 ## Pages
 - [Home](https://seetheshroud.org/): overview, the negative image, 3D information, the wounds, the dating and the image-formation question
 - [Explore the cloth](https://seetheshroud.org/explore.html): zoomable full-cloth image with negative filter and annotated marks
-- [The case file](https://seetheshroud.org/evidence.html): 45 arguments for and against, rated by strength, plus a Bayesian "weigh it yourself" calculator
+- [The case file](https://seetheshroud.org/evidence.html): 52 arguments for and against, rated by strength, plus a Bayesian "weigh it yourself" calculator
 - [The wounds](https://seetheshroud.org/wounds.html): each wound described by forensic pathologists, next to the Gospel text
 - [Carbon dating](https://seetheshroud.org/dating.html): the 1988 test, all twelve measurements, the sample, the reanalyses
 - [How was it made?](https://seetheshroud.org/image.html): image properties and every hypothesis, including painting, scorch, rubbing, proto-photography, Maillard reaction and radiation

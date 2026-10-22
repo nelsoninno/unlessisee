@@ -487,6 +487,11 @@
    "strength_reason": "Good lab physics but no evidence such a source existed; the wattage number must not be used as a 'proof'.",
    "sources": [
     {
+     "label": "Di Lazzaro et al. 2012, Applied Optics 51(36):8567-8578",
+     "url": "https://doi.org/10.1364/AO.51.008567",
+     "type": "peer-reviewed"
+    },
+    {
      "label": "Di Lazzaro et al. 2010, ENEA Frascati workshop proceedings",
      "url": "https://www.sindone.info/DILAZZA1.PDF",
      "type": "peer-reviewed"
@@ -656,7 +661,7 @@
    "title": "High bilirubin keeps the blood red",
    "claim": "Adler argued that very high bilirubin, from severe trauma, explains why the old blood looks red rather than black.",
    "detail": "Heller and Adler (1981) reported azobilirubin colour on some blood particles and a spectral peak near 450 nm. Adler said bilirubin mixed with methemoglobin would look red.",
-   "skeptic": "Bilirubin is orange and unstable in light and oxygen. No quantity was ever properly measured, and a 2010 test reportedly found no colour difference after four months between normal and high-bilirubin blood. The 'too red' blood is itself a skeptic argument for paint.",
+   "skeptic": "Bilirubin is orange and unstable in light and oxygen. No quantity was ever properly measured, and a 2010 test reportedly found no colour difference after four months between normal and high-bilirubin blood. The 'too red' blood is itself a skeptic argument for paint. A 2017 PLOS ONE paper by Carlino and colleagues, which claimed that nanoparticles in a single Shroud fibre showed severe trauma, was retracted by the journal in July 2018 over the authors' objections, because the data and controls did not support its conclusions.",
    "reply": "No strong reply; the red colour is an open question.",
    "strength": "weak",
    "strength_reason": "Never quantified or experimentally confirmed.",
@@ -670,6 +675,11 @@
      "label": "Discussion of bilirubin evidence, 2015",
      "url": "https://shroudstory.com/2015/03/28/is-bilirubin-still-accepted-as-an-explanation-for-the-red-blood/",
      "type": "website"
+    },
+    {
+     "label": "Retraction Watch 2018, PLOS ONE retracts Carlino et al. 2017",
+     "url": "https://retractionwatch.com/2018/07/19/over-authors-objections-plos-one-retracts-paper-claiming-shroud-of-turin-showed-evidence-of-trauma",
+     "type": "news"
     }
    ],
    "lean": "for"
@@ -1338,6 +1348,206 @@
     }
    ],
    "lean": "neutral"
+  },
+  {
+   "id": "radiocarbon-protocol-1986",
+   "exhibit": 46,
+   "category": "dating",
+   "title": "The 1988 test was narrower than the 1986 plan",
+   "claim": "The radiocarbon test departed from the protocol agreed in 1986: seven labs of two kinds were cut to three labs of one kind, and blind testing was dropped, so the test actually run was weaker than the one planned.",
+   "detail": "The Nature paper itself records the change. At a meeting in Turin in September and October 1986, seven radiocarbon labs (five AMS and two small gas-counter labs) recommended a protocol for dating the cloth. In October 1987 the Archbishop of Turin, acting on instructions from the Holy See, selected the offers of only three AMS labs: Arizona, Oxford and Zurich. Because the cloth had been exposed to many possible sources of contamination, Nature says 'it was decided to abandon blind-test procedures in the interests of effective sample pretreatment.' The labs were not told which container held the Shroud sample, but the paper admits that its three-to-one herringbone weave could not be matched in the controls, so a lab could recognise it. At Oxford and Zurich the samples were recoded after combustion, so the staff making the measurements did not know which was which. Harry Gove, a pioneer of AMS dating, wrote in 1990 that the procedures 'differed substantially' from those the workshop had recommended.",
+   "skeptic": "None of this makes the result wrong. Three labs worked independently, each with its own cleaning and measurement, and all three controls came out right. A truly blind test was impossible anyway, because no control cloth had the same weave, and the recoding at two labs kept the measuring step blind. Gove, who pointed out the changes, still judged the results credible. Fewer labs mainly limits how much cross-checking was possible, not whether the carbon was measured correctly.",
+   "reply": "The fair point is narrow, and the site should not claim more. The design change does not move the date. It matters because the final test rested on one strip from one corner, measured by labs that could tell which sample was the Shroud. That is why the later finding that the 12 results do not agree well with each other gets serious attention, and why calls for a new test with more samples continue.",
+   "strength": "moderate",
+   "strength_reason": "Documented in the Nature paper itself, but it shows a narrower test than planned, not a wrong result.",
+   "sources": [
+    {
+     "label": "Damon et al. 1989, Nature 337:611",
+     "url": "https://doi.org/10.1038/337611a0",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Damon et al. 1989, full text mirror",
+     "url": "https://shroud.com/nature.htm",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Gove 1990, Radiocarbon 32(1):87-92",
+     "url": "https://doi.org/10.1017/S0033822200039990",
+     "type": "peer-reviewed"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "no-spices-or-decay-products",
+   "exhibit": 47,
+   "category": "other",
+   "title": "No burial spices and no body chemicals were found",
+   "claim": "STURP's chemical tests found no trace of spices, oils or substances a body produces in life or after death, although John's Gospel says the body was bound with about a hundred Roman pounds of myrrh and aloes.",
+   "detail": "STURP's 1981 summary says microchemical evaluation 'indicated no evidence of any spices, oils, or any biochemicals known to be produced by the body in life or in death.' John 19:39-40 says Nicodemus brought 'a mixture of myrrh and aloes, about a hundred Roman pounds,' and that the body was bound 'in linen cloths with the spices.' Both sides use this negative result, and they read it in opposite ways.",
+   "skeptic": "A cloth that wrapped a corpse with that much spice should carry traces of it, and a cloth that held a dead body should carry traces of the body too. Finding neither is what you would expect from a cloth that never touched a body. Blood is the only body material reported, and a forger could add blood.",
+   "reply": "Supporters answer that the spices may have been placed around the body or in the tomb rather than soaked into this cloth, and that the 1978 tests worked on surface fibres lifted with sticky tape, which could miss small traces. Some supporters also read the lack of decay products as a sign that the body left the cloth early. That is an inference, not a measurement, and this site does not count it as evidence.",
+   "strength": "moderate",
+   "strength_reason": "A documented negative result from direct testing, but from small surface samples, and each side reads it differently.",
+   "sources": [
+    {
+     "label": "STURP 1981 summary of conclusions",
+     "url": "https://www.shroud.com/78conclu.htm",
+     "type": "official"
+    },
+    {
+     "label": "John 19:39-40, World English Bible",
+     "url": "https://ebible.org/eng-web/JHN19.htm",
+     "type": "website"
+    }
+   ],
+   "lean": "neutral"
+  },
+  {
+   "id": "crucifixion-archaeology",
+   "exhibit": 48,
+   "category": "anatomy",
+   "title": "What archaeology shows about crucifixion",
+   "claim": "Two excavated skeletons give physical evidence of crucifixion in the Roman era. In both, an iron nail went sideways through the right heel bone, and both men received a normal burial.",
+   "detail": "In 1968 builders at Giv'at ha-Mivtar in Jerusalem uncovered a Jewish family tomb. One ossuary, inscribed 'Yehohanan son of Hagkol,' held a right heel bone still pierced by an iron nail, with a plaque of olive wood under the nail head. The first study (1970) described both heels nailed together, the forearms nailed and the legs broken. Zias and Sekeles (1985) corrected this: the nail is about 11.5 cm long and pierced only the right heel, from the side; the leg break happened after death; and the arms were probably tied rather than nailed. In 2017 an excavation at Fenstanton in Cambridgeshire found a man who died between AD 130 and 360 with a 5 cm iron nail driven horizontally through his right heel bone. He was laid out in the settlement cemetery like the others. The Cambridge team calls skeletal evidence of crucifixion extremely rare.",
+   "skeptic": "Both real victims had a nail through the side of the heel, while the Shroud shows a puncture near the middle of the sole of the right foot. With only two skeletons, crucifixion clearly varied, so the Shroud's wounds cannot be matched to Roman practice in detail. The burials show only that a crucified man could be buried properly, which fits the Gospels, not this cloth in particular.",
+   "reply": "That is fair, and the finds cut both ways. They correct the popular claim that crucified men were always thrown into mass graves, so a proper burial in a linen sheet is historically possible. And if methods varied, a nail through the sole is not ruled out either. These finds are context for the debate, not evidence for or against the cloth.",
+   "strength": "strong",
+   "strength_reason": "Peer-reviewed bone studies and a university excavation report. They describe crucifixion, not this cloth.",
+   "sources": [
+    {
+     "label": "Biblical Archaeology Review on Zias and Sekeles 1985, Israel Exploration Journal 35(1):22-27",
+     "url": "https://library.biblicalarchaeology.org/department/scholars-corner-new-analysis-of-the-crucified-man",
+     "type": "website"
+    },
+    {
+     "label": "Biblical Archaeology Society, Roman crucifixion methods",
+     "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/crucifixion/roman-crucifixion-methods-reveal-the-history-of-crucifixion/",
+     "type": "website"
+    },
+    {
+     "label": "Wikipedia: Jehohanan",
+     "url": "https://en.wikipedia.org/wiki/Jehohanan",
+     "type": "website"
+    },
+    {
+     "label": "University of Cambridge 2021, Evidence of a Roman crucifixion found in Cambridgeshire",
+     "url": "https://www.cam.ac.uk/stories/romancrucifixion",
+     "type": "news"
+    }
+   ],
+   "lean": "neutral"
+  },
+  {
+   "id": "uv-fluorescence-1978",
+   "exhibit": 49,
+   "category": "image",
+   "title": "Under ultraviolet light the image does not glow, but the scorches do",
+   "claim": "Ultraviolet photographs from 1978 show that the body image does not fluoresce while the 1532 scorches do, which argues against a scorch, and that many blood marks have a lighter border that the authors read as blood serum.",
+   "detail": "Vernon Miller and Samuel Pellicori photographed the whole cloth under ultraviolet light during the 1978 examination and published the results in the Journal of Biological Photography in 1981. They write that 'scorches emit a reddish brown fluorescence while the body image is nonfluorescent,' and conclude that 'hypotheses such as a scorch cause or paint are contradicted by the fluorescence photography results.' The blood areas absorb ultraviolet, as whole blood did in their lab tests. They also describe 'the lighter bordering area seen with many bloodstained areas,' including fluorescing borders at the hand and foot wounds, and offer the interpretation that 'blood serum is present.' The borders were photographed, not tested chemically.",
+   "skeptic": "A pale edge around a stain is what you get whenever a water-based liquid soaks into cloth: the water spreads further than the coloured part and leaves a lighter tide line. That shows a liquid soaked in, not that serum separated from a real clot. As for the image, not fluorescing rules out a high-heat scorch like the 1532 burns, but it says nothing about how or when the image was made. ENEA's laser colouring of linen, for example, is also non-fluorescent.",
+   "reply": "The scorch result is the strongest part and it holds: the image does not behave like the scorches on the same cloth. The serum reading is an interpretation, but it fits STURP's report that the blood areas test positive for serum albumin. Both points would be stronger with modern imaging and targeted sampling of the borders.",
+   "strength": "moderate",
+   "strength_reason": "Solid photographs from direct study. The point against a scorch is clear; 'serum' is an interpretation.",
+   "sources": [
+    {
+     "label": "Miller and Pellicori 1981, Journal of Biological Photography 49(3):71-85",
+     "url": "https://www.shroud.com/pdfs/UV%20Fluorescence%20Miller%20Pellicori%201981%20OCRsm.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "STURP 1981 summary of conclusions",
+     "url": "https://www.shroud.com/78conclu.htm",
+     "type": "official"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "xray-no-image",
+   "exhibit": 50,
+   "category": "image",
+   "title": "X-rays show the weave but no body image",
+   "claim": "X-ray radiographs taken in 1978 show the weave, patches and water-stain edges, but no trace of the body image, which rules out a dense layer of paint or pigment.",
+   "detail": "Mottern, London and Morris X-rayed the cloth in 1978 and reported in Materials Evaluation that 'details of the two body images, the blood stains and the scorch marks are not discernible in the radiographs,' while the herringbone weave, the backing cloth, the patches and ring-like dense areas matching the water stains do show. Schwalbe and Rogers (1982) sum up: 'No density discontinuities that correspond to visible body image could be observed anywhere,' although the weave and cloth density variations 'are easily visible in all of the radiographs.'",
+   "skeptic": "Radiography is a blunt tool for this question. Schwalbe and Rogers themselves say its sensitivity to iron oxide and similar pigments is roughly ten times lower than that of X-ray fluorescence. The radiographs do not show the blood marks either, which contain iron, so they would not show a thin, watery wash of ochre of the kind McCrone described. They rule out a heavy painted layer, not a dilute one.",
+   "reply": "Correct, and the claim should stay that narrow. The more sensitive tests point the same way: STURP's summary says X-ray fluorescence and microchemistry on the fibrils 'preclude the possibility of paint' as the source of the image. The radiographs add one independent line of evidence that no thick pigment layer is present.",
+   "strength": "moderate",
+   "strength_reason": "Direct, documented imaging, but on its own too insensitive to rule out a thin pigment wash.",
+   "sources": [
+    {
+     "label": "Mottern, London and Morris, Materials Evaluation 38(12):39-44",
+     "url": "https://www.shroud.com/pdfs/Radiographic%20Examination%20Preliminary%20Report%20Mottern%20London%20Morris%201979%20OCRsm.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Schwalbe and Rogers 1982, Analytica Chimica Acta 135:3-49",
+     "url": "https://shroud.com/pdfs/Physics%20Chemistry%20of%20Shroud%20Schwalbe%20Rogers%201981%20OCRsm.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "STURP 1981 summary of conclusions",
+     "url": "https://www.shroud.com/78conclu.htm",
+     "type": "official"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "icon-face-comparison",
+   "exhibit": 51,
+   "category": "history",
+   "title": "Early icons of Christ share details with the Shroud face",
+   "claim": "Supporters argue that the standard face of Christ in Byzantine art, from about the 6th century, copies odd details of the Shroud face, so the cloth must have existed and been seen by then.",
+   "detail": "In the late 1930s Paul Vignon listed unusual features shared by many icons and the Shroud face, such as a square-shaped mark between the brows; they became known as the Vignon markings. Alan and Mary Whanger later developed a way to compare two faces by projecting them through polarizing filters, published in Applied Optics in 1985. That paper describes the method only; their results come from later conference papers. There they report about 250 'points of congruence' between the Shroud face and the 6th-century Christ Pantocrator icon at St Catherine's Monastery, Sinai, and 145 with a gold coin of Justinian II (AD 692-695), against a threshold of 45 to 60 that they take from forensic face matching.",
+   "skeptic": "The link can run the other way. A 14th-century maker would naturally copy the face of Christ that Byzantine art had used for some 800 years, so a match is expected from a forgery too. The markings are picked out after the fact on faint, blotchy features. Hugh Farey, reading Vignon's own text, shows that the popular list includes marks Vignon never named, and that Vignon treated almost any resemblance as proof of copying while explaining away the differences. Points of congruence are counted by the researchers who propose the link, and forensic thresholds were never designed for paintings.",
+   "reply": "The direction of copying is a real problem, and overlays cannot settle it. The narrower point supporters can make is that the Sinai icon and the Justinian II coins are dated centuries before 1350, so if any detail on them could only come from the Shroud, the cloth would be older than its carbon date. So far that case rests on the judgment of the people doing the matching.",
+   "strength": "disputed",
+   "strength_reason": "The early images are real, but whether they copy the Shroud depends on subjective matching, and a forger copying icons would produce the same match.",
+   "sources": [
+    {
+     "label": "Whanger and Whanger 1985, Applied Optics 24(6):766-772",
+     "url": "https://doi.org/10.1364/AO.24.000766",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "M. Whanger 2000, The Impact of the Shroud Face on Art Work, Sindone 2000 congress",
+     "url": "https://www.shroud.com/pdfs/orvWHANGER%20M.%20Paper%20English.PDF",
+     "type": "website"
+    },
+    {
+     "label": "Farey 2019, The Vignon Markings, according to Paul Vignon himself",
+     "url": "https://www.shroud.com/pdfs/anc-farey-pap2.pdf",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "against-mesarites-1201",
+   "exhibit": 52,
+   "category": "history",
+   "title": "In 1201 the palace burial linens were described with no image",
+   "claim": "Skeptics argue: the keeper of the imperial relics in Constantinople described Jesus' burial linens in 1201 as plain, inexpensive linen that smelled of myrrh, with no image, which makes it unlikely that a cloth with a full-body image was there.",
+   "detail": "During the failed palace revolt of John Comnenus in 1201 (some scholars date it to 1200), Nicholas Mesarites, custodian of the holy things in the churches of the Grand Palace, defended the relic church of the Virgin of the Pharos. His account of the revolt includes a list of its relics: 'The burial shrouds of Jesus; these are of linen, an inexpensive fabric, which still smell of myrrh.' He says nothing about an image on them. In the same list he does describe an image of Christ 'imprinted on a towel,' a separate relic. The Greek text was edited by August Heisenberg in 1907; an English excerpt appeared in Shroud Spectrum International in 1985.",
+   "skeptic": "This is an eyewitness who looked after these relics, writing in the same list where he took care to note an image on a towel. If the linens had borne a full-length figure of the crucified Christ, that would have been the most striking thing about them. His plain linens also weaken Robert de Clari's report, two or three years later, of a shroud in the city showing the figure of the Lord.",
+   "reply": "Mesarites was writing a rhetorical speech, a list he calls a decalogue of relics with a sentence or two for each, not a description of each object, so his silence about an image is weak evidence. He uses the plural, 'burial shrouds,' and may mean several cloths. The passage does show that linens venerated as Jesus' burial cloths were kept in the palace in 1201, which the Edessa and de Clari hypotheses need. It cannot show whether one of them was this Shroud.",
+   "strength": "moderate",
+   "strength_reason": "A firsthand text from the relics' own keeper, but an argument from silence in a short rhetorical list.",
+   "sources": [
+    {
+     "label": "Mesarites, The Palace Revolution of John Comnenus (excerpts), Shroud Spectrum International 17, 1985",
+     "url": "https://www.shroud.com/pdfs/ssi17part4.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Wikipedia: John Komnenos the Fat",
+     "url": "https://en.wikipedia.org/wiki/John_Komnenos_the_Fat",
+     "type": "website"
+    }
+   ],
+   "lean": "against"
   }
  ]
 }
