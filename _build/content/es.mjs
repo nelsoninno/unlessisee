@@ -93,7 +93,7 @@ export default {
   pages: {
     index: {
       title: 'Sábana Santa de Turín: la evidencia a favor y en contra | Hasta que no vea',
-      description: '¿Es real la Sábana Santa de Turín? Explora la tela en alta resolución, mira el negativo y la imagen en 3D, y pesa la evidencia de ambos lados, con todas las fuentes.',
+      description: '¿Es real la Sábana Santa de Turín? Explora la tela en alta resolución, en negativo y en 3D, y pesa la evidencia de ambos lados, con todas las fuentes.',
       h1: 'Examina tú mismo la Sábana Santa de Turín',
       lede: 'Una tela de lino de 4,4 metros de largo lleva la imagen tenue de un hombre que fue flagelado y crucificado. Algunos la llaman una falsificación medieval. Otros, la mortaja de Jesús. Aquí está la evidencia de ambos lados, con todas las fuentes, para que la juzgues tú mismo.',
       cta1: 'Explora la tela', cta2: 'Lee el expediente',
@@ -195,7 +195,7 @@ export default {
 
     evidence: {
       title: 'Evidencia sobre la Sábana Santa de Turín, a favor y en contra | Hasta que no vea',
-      description: 'Cada argumento importante sobre la Sábana Santa de Turín, a favor y en contra de su autenticidad, calificado según su fuerza, con la mejor respuesta escéptica y enlaces a las fuentes.',
+      description: 'Cada argumento importante sobre la Sábana Santa de Turín, a favor y en contra, calificado según su fuerza, con la mejor respuesta escéptica y sus fuentes.',
       h1: 'El expediente',
       lede: 'Cada argumento importante sobre la Sábana Santa, a favor y en contra. Cada uno está calificado según su fuerza, con la mejor objeción, la mejor réplica y las fuentes. Incluimos los argumentos contra la autenticidad con toda su fuerza, porque debes escucharlos primero de nosotros.',
       counts: '{n} pruebas: {f} apuntan a la autenticidad y {a} apuntan a un origen medieval.',
@@ -217,7 +217,7 @@ export default {
 
     wounds: {
       title: 'Las heridas de la Sábana Santa de Turín y los Evangelios | Hasta que no vea',
-      description: 'Cada herida de la Sábana Santa de Turín, desde las marcas del flagelo hasta el clavo en la muñeca y la herida del costado, mostrada en la tela junto al texto del Evangelio que la describe.',
+      description: 'Cada herida de la Sábana Santa de Turín, del flagelo al clavo en la muñeca y la herida del costado, mostrada en la tela junto al texto del Evangelio.',
       h1: 'Las heridas, y lo que dicen los Evangelios',
       lede: 'Haz clic en un número sobre la tela o en una herida de la lista. Cada marca se explica como la describen los patólogos forenses, junto al versículo del Evangelio al que corresponde y, cuando la hay, la nota del escéptico.',
       front: 'Frente', back: 'Espalda', alt_front: 'Imagen frontal del hombre de la Sábana Santa, vista en negativo', alt_back: 'Imagen dorsal del hombre de la Sábana Santa, vista en negativo',
@@ -236,8 +236,8 @@ export default {
     },
 
     dating: {
-      title: 'Datación por radiocarbono de la Sábana Santa de Turín: los resultados de 1988 y el debate | Hasta que no vea',
-      description: 'La datación por radiocarbono de 1988 dio para la Sábana Santa de Turín de 1260 a 1390 d. C. Mira las 12 mediciones de los laboratorios, de dónde salió la muestra, los nuevos análisis de los datos originales y otros métodos de datación.',
+      title: 'Datación por radiocarbono de la Sábana Santa: 1988 y el debate | Hasta que no vea',
+      description: 'La datación por radiocarbono de 1988 situó la Sábana Santa de Turín entre 1260 y 1390. Mira las 12 mediciones, la muestra, los nuevos análisis y otros métodos.',
       h1: 'La prueba del carbono 14',
       lede: 'Este es el argumento individual más fuerte de que la Sábana Santa es medieval, y merece una mirada cuidadosa. Aquí está lo que se hizo, lo que se encontró, lo que los críticos han encontrado desde entonces y lo que prueba y no prueba.',
       compareH: 'Todas las fechas propuestas, en una sola línea',
@@ -266,7 +266,7 @@ export default {
 
     image: {
       title: '¿Cómo se formó la imagen de la Sábana Santa de Turín? | Hasta que no vea',
-      description: '¿Pintura, quemadura, frotado, fotografía primitiva, una reacción química o un estallido de luz? Todas las hipótesis sobre la imagen de la Sábana Santa de Turín, con lo que explican y dónde fallan.',
+      description: '¿Pintura, quemadura, frotado, fotografía o un estallido de luz? Todas las hipótesis sobre la imagen de la Sábana Santa de Turín, qué explican y dónde fallan.',
       h1: '¿Cómo se formó la imagen?',
       lede: 'Esta es la pregunta abierta más profunda sobre la Sábana Santa. Cualquier explicación, natural o no, tiene que dar cuenta de una lista de propiedades muy extrañas. Aquí están, seguidas de cada hipótesis importante y sus problemas.',
       propsH: 'Lo que cualquier explicación debe explicar',
@@ -322,8 +322,8 @@ export default {
     },
 
     timeline: {
-      title: 'Cronología de la Sábana Santa de Turín: su historia desde Lirey hasta hoy | Hasta que no vea',
-      description: 'Una cronología interactiva de la Sábana Santa de Turín: la historia temprana hipotética, el registro documentado desde hacia 1354, los incendios, las fotografías y las pruebas científicas.',
+      title: 'Cronología de la Sábana Santa de Turín, de Lirey a hoy | Hasta que no vea',
+      description: 'Cronología interactiva de la Sábana Santa de Turín: su posible historia temprana, el registro documentado desde 1354, los incendios, las fotos y las pruebas.',
       h1: 'Cronología',
       lede: 'La historia documentada de la Sábana Santa comienza en Francia hacia 1354. Antes de eso, su historia es una hipótesis, construida con imágenes y textos que pueden o no describir esta tela. La cronología mantiene separadas las dos cosas.',
       tracks: { cloth: 'La tela', science: 'Ciencia', church: 'Iglesia', world: 'Mundo' },
@@ -344,8 +344,8 @@ export default {
     },
 
     videos: {
-      title: 'Videos sobre la Sábana Santa de Turín, verificados afirmación por afirmación | Hasta que no vea',
-      description: 'Tres videos populares sobre la Sábana Santa de Turín, verificados afirmación por afirmación y con marcas de tiempo: qué se sostiene, qué está en disputa y qué es falso.',
+      title: 'Videos sobre la Sábana Santa de Turín, verificados | Hasta que no vea',
+      description: 'Tres videos populares sobre la Sábana Santa de Turín, verificados afirmación por afirmación: qué se sostiene, qué está en disputa y qué es falso.',
       h1: 'Videos populares, verificados',
       lede: 'La mayoría de la gente conoce la Sábana Santa por medio de videos. Vimos tres videos populares de principio a fin, incluidas sus transcripciones, y verificamos sus afirmaciones principales. Varias son excelentes. Algunas son falsas. Haz clic en un tiempo para saltar a ese momento.',
       play: 'Reproducir el video (carga YouTube)', watch: 'Ver en YouTube',
@@ -355,8 +355,8 @@ export default {
     },
 
     library: {
-      title: 'Biblioteca de investigación sobre la Sábana Santa de Turín: artículos y estudios | Hasta que no vea',
-      description: 'Una biblioteca con buscador de artículos científicos, estudios y textos sobre la Sábana Santa de Turín, a favor y en contra, con enlaces directos a los originales en shroud.com y en revistas.',
+      title: 'Biblioteca de investigación sobre la Sábana Santa de Turín | Hasta que no vea',
+      description: 'Biblioteca con buscador de artículos y estudios sobre la Sábana Santa de Turín, a favor y en contra, con enlaces a los originales en shroud.com y en revistas.',
       h1: 'Biblioteca',
       lede: 'Más de 2.400 artículos, estudios, textos y boletines, casi todos del archivo de shroud.com, que Barrie Schwortz creó y mantuvo desde la década de 1990 hasta su muerte en 2024. Empieza por las 25 lecturas clave; luego busca por palabra, filtra por tema y ve directo al original.',
       keyH: 'Empieza aquí: 25 lecturas clave, de ambos lados', keyLede: 'Elegidas para que un lector escéptico conozca el trabajo más sólido de cada lado, más o menos en el orden en que se desarrolló el debate.', allH: 'La biblioteca completa',
@@ -386,7 +386,7 @@ export default {
     },
     about: {
       title: 'Acerca de «Hasta que no vea»: por qué existe este sitio | Hasta que no vea',
-      description: '«Hasta que no vea» es un sitio gratuito y sin fines de lucro sobre la Sábana Santa de Turín. Cómo calificamos la evidencia, de dónde vienen nuestras imágenes y quién lo hizo.',
+      description: '«Hasta que no vea» es un sitio gratuito sobre la Sábana Santa de Turín. Cómo calificamos la evidencia, de dónde vienen las imágenes y quién lo hizo.',
       h1: 'Acerca de este sitio',
       lede: 'Por qué existe, cómo trabajamos y de dónde viene todo.',
       body: `<h2>Por qué existe este sitio</h2>

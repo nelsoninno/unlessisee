@@ -236,7 +236,7 @@ export default {
 
     dating: {
       title: 'Shroud of Turin Carbon Dating: 1988 Results and the Debate | Unless I See',
-      description: 'The 1988 radiocarbon dating of the Shroud of Turin gave AD 1260 to 1390. See all 12 lab measurements, where the sample came from, the raw data reanalyses and other dating methods.',
+      description: 'The 1988 radiocarbon dating put the Shroud of Turin at AD 1260 to 1390. See all 12 lab results, where the sample came from, the reanalyses and other methods.',
       h1: 'The carbon dating',
       lede: 'This is the strongest single argument that the Shroud is medieval, and it deserves a careful look. Here is what was done, what was found, what critics have found since, and what it does and does not prove.',
       compareH: 'Every date ever proposed, on one line',
@@ -265,7 +265,7 @@ export default {
 
     image: {
       title: 'How Was the Image on the Shroud of Turin Made? | Unless I See',
-      description: 'Paint, scorch, rubbing, early photography, a chemical reaction or a burst of light? Every hypothesis for the Shroud of Turin image, with what it explains and where it fails.',
+      description: 'Paint, scorch, rubbing, early photography or a burst of light? Every hypothesis for the Shroud of Turin image, what it explains and where it fails.',
       h1: 'How was the image made?',
       lede: 'This is the deepest open question about the Shroud. Any explanation, natural or not, has to account for a list of very strange properties. Here they are, followed by every major hypothesis and its problems.',
       propsH: 'What any explanation must account for',
@@ -322,7 +322,7 @@ export default {
 
     timeline: {
       title: 'Shroud of Turin Timeline: History From Lirey to Today | Unless I See',
-      description: 'An interactive timeline of the Shroud of Turin: the hypothesized early history, the documented record since about 1354, the fires, the photographs and the scientific tests.',
+      description: 'Interactive timeline of the Shroud of Turin: its possible early history, the documented record since about 1354, the fires, the photographs and the tests.',
       h1: 'Timeline',
       lede: 'The documented history of the Shroud starts in France around 1354. Before that, its history is a hypothesis, built from images and texts that may or may not describe this cloth. The timeline keeps the two apart.',
       tracks: { cloth: 'The cloth', science: 'Science', church: 'Church', world: 'World' },
@@ -370,7 +370,7 @@ export default {
 
     next: {
       title: 'What Now? After the Shroud of Turin | Unless I See',
-      description: 'You have seen the evidence on the Shroud of Turin. Whether you doubt, wonder or believe, here are honest next steps.',
+      description: 'You have seen the evidence on the Shroud of Turin. Whether you doubt, wonder or believe, here are honest next steps: what to read, watch and ask next.',
       h1: 'What now?',
       lede: 'Wherever you landed after looking at the evidence, there is a sensible next step. None of them require you to pretend to be more certain than you are.',
       paths: [

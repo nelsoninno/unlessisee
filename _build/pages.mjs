@@ -302,7 +302,7 @@ function evidence(ctx, page) {
 <div class="exhibit__no">${esc(c.ui.exhibit)}<b>${String(k + 1).padStart(2, '0')}</b></div>
 <div class="measure" style="max-width:72ch">
 <div class="exhibit__head"><span class="exhibit__lean exhibit__lean--${lean}">${esc(c.lean[lean])}</span><span class="meta">${esc(c.categories[it.category] || it.category)}</span>${meter(c, it.strength)}</div>
-<h3>${esc(it.title)}</h3>
+<h2 class="exhibit__title">${esc(it.title)}</h2>
 <p class="exhibit__claim">${esc(it.claim)}</p>
 <details><summary>${esc(c.ui.detail)}</summary><p>${esc(it.detail)}</p>${it.strength_reason ? `<p class="meta" style="margin-top:.6rem">${esc(c.ui.whyRating)} ${esc(it.strength_reason)}</p>` : ''}</details>
 ${it.skeptic ? `<details class="skeptic"><summary>${esc(lean === 'against' ? c.ui.theCase : c.ui.skeptic)}</summary><p>${esc(it.skeptic)}</p></details>` : ''}
@@ -376,7 +376,7 @@ function wounds(ctx, page) {
   const c = ctx.L.copy, p = c.pages.wounds, Wn = ctx.L.data.wounds || { items: [] };
   const spot = (w, i) => w.x != null ? `<button class="hotspot" type="button" data-id="${attr(w.id)}" style="left:${w.x * 100}%;top:${w.y * 100}%" aria-label="${attr(w.name)}">${i + 1}</button>` : '';
   const fig = side => `<div class="bodymap__fig" data-side="${side}"><img src="${ctx.asset(IMG + 'shroud/body-' + side + '-shroud-of-turin-unlessisee.org.webp')}" alt="${attr(p['alt_' + side])}" loading="lazy">${Wn.items.map((w, i) => w.side === side ? spot(w, i) : '').join('')}</div>`;
-  const list = Wn.items.map((w, i) => `<div class="wound" tabindex="0" data-id="${attr(w.id)}" data-side="${w.side}"><p class="meta">${i + 1} &middot; ${esc(w.side === 'front' ? p.front : p.back)}${w.body_region ? ' &middot; ' + esc(w.body_region) : ''}</p><h3>${esc(w.name)}</h3><p>${esc(w.description)}</p>${w.verse ? `<p class="gospel">${esc(w.verse)} <span class="meta">(${esc(w.gospel)})</span></p>` : (w.gospel ? `<p class="meta" style="margin-top:.5rem">${esc(w.gospel)}</p>` : '')}${w.skeptic ? `<p class="meta" style="margin-top:.6rem">${esc(c.ui.skeptic)}: ${esc(w.skeptic)}</p>` : ''}${srcList(w.sources)}</div>`).join('');
+  const list = Wn.items.map((w, i) => `<div class="wound" tabindex="0" data-id="${attr(w.id)}" data-side="${w.side}"><p class="meta">${i + 1} &middot; ${esc(w.side === 'front' ? p.front : p.back)}${w.body_region ? ' &middot; ' + esc(w.body_region) : ''}</p><h2 class="wound__title">${esc(w.name)}</h2><p>${esc(w.description)}</p>${w.verse ? `<p class="gospel">${esc(w.verse)} <span class="meta">(${esc(w.gospel)})</span></p>` : (w.gospel ? `<p class="meta" style="margin-top:.5rem">${esc(w.gospel)}</p>` : '')}${w.skeptic ? `<p class="meta" style="margin-top:.6rem">${esc(c.ui.skeptic)}: ${esc(w.skeptic)}</p>` : ''}${srcList(w.sources)}</div>`).join('');
   const body = `${pageHead(ctx, p)}
 <section class="plate band"><div class="wrap bodymap">
   <div class="bodymap__stick">

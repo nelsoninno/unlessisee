@@ -1,0 +1,4 @@
+# Internal files live in the repository but are never served as pages
+/CLAUDE.md / 301
+/README.md / 301
+/_build/* / 301

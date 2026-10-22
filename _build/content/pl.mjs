@@ -236,8 +236,8 @@ export default {
     },
 
     dating: {
-      title: 'Datowanie radiowęglowe Całunu Turyńskiego: wyniki z 1988 roku i spór | Jeśli nie zobaczę',
-      description: 'Datowanie radiowęglowe Całunu Turyńskiego z 1988 roku dało lata 1260 do 1390 n.e. Zobacz wszystkie 12 pomiarów laboratoryjnych, miejsce pobrania próbki, ponowne analizy surowych danych i inne metody datowania.',
+      title: 'Datowanie radiowęglowe Całunu Turyńskiego: wyniki i spór | Jeśli nie zobaczę',
+      description: 'Datowanie radiowęglowe Całunu Turyńskiego z 1988 roku dało lata 1260 do 1390 n.e. Zobacz 12 pomiarów, miejsce pobrania próbki, ponowne analizy i inne metody.',
       h1: 'Datowanie radiowęglowe',
       lede: 'To najmocniejszy pojedynczy argument, że Całun jest średniowieczny, i zasługuje na uważne przyjrzenie się. Oto co zrobiono, co znaleziono, co krytycy odkryli od tamtej pory i czego to dowodzi, a czego nie.',
       compareH: 'Wszystkie zaproponowane daty na jednej linii',
@@ -266,7 +266,7 @@ export default {
 
     image: {
       title: 'Jak powstał obraz na Całunie Turyńskim? | Jeśli nie zobaczę',
-      description: 'Farba, przypalenie, pocieranie, wczesna fotografia, reakcja chemiczna czy błysk światła? Każda hipoteza o obrazie na Całunie Turyńskim, z tym, co wyjaśnia, i z tym, gdzie zawodzi.',
+      description: 'Każda hipoteza o obrazie na Całunie Turyńskim, od farby, przypalenia i wczesnej fotografii po błysk światła, z tym, co wyjaśnia, i z tym, gdzie zawodzi.',
       h1: 'Jak powstał obraz?',
       lede: 'To najgłębsze otwarte pytanie o Całun. Każde wyjaśnienie, naturalne czy nie, musi uwzględnić listę bardzo dziwnych cech. Oto one, a po nich każda ważna hipoteza i jej problemy.',
       propsH: 'Co musi wyjaśnić każda hipoteza',
@@ -344,7 +344,7 @@ export default {
     },
 
     videos: {
-      title: 'Filmy o Całunie Turyńskim sprawdzone twierdzenie po twierdzeniu | Jeśli nie zobaczę',
+      title: 'Filmy o Całunie Turyńskim: sprawdzone twierdzenia | Jeśli nie zobaczę',
       description: 'Trzy popularne filmy o Całunie Turyńskim sprawdzone twierdzenie po twierdzeniu, ze znacznikami czasu: co się broni, co jest sporne, a co błędne.',
       h1: 'Popularne filmy, sprawdzone',
       lede: 'Większość ludzi poznaje Całun dzięki filmom. Obejrzeliśmy trzy popularne filmy od początku do końca, razem z transkrypcjami, i sprawdziliśmy ich główne twierdzenia. Kilka jest znakomitych. Niektóre są błędne. Kliknij czas, aby przejść do tego momentu.',
@@ -355,7 +355,7 @@ export default {
     },
     library: {
       title: 'Biblioteka badań o Całunie Turyńskim: artykuły i studia | Jeśli nie zobaczę',
-      description: 'Biblioteka z wyszukiwarką: artykuły naukowe, studia i teksty o Całunie Turyńskim, za i przeciw, z bezpośrednimi linkami do oryginałów na shroud.com i w czasopismach.',
+      description: 'Biblioteka z wyszukiwarką: artykuły naukowe i studia o Całunie Turyńskim, za i przeciw, z bezpośrednimi linkami do oryginałów na shroud.com i w czasopismach.',
       h1: 'Biblioteka',
       lede: 'Ponad 2400 artykułów, badań, tekstów i biuletynów, prawie wszystkie z archiwum shroud.com, które Barrie Schwortz tworzył i prowadził od lat 90. aż do swojej śmierci w 2024 roku. Zacznij od 25 kluczowych lektur, potem szukaj według słów, filtruj według tematu i przechodź prosto do oryginału.',
       keyH: 'Zacznij tutaj: 25 kluczowych lektur obu stron', keyLede: 'Wybrane tak, aby sceptyczny czytelnik poznał najmocniejsze prace każdej strony, mniej więcej w kolejności, w jakiej rozwijał się spór.', allH: 'Cała biblioteka',
@@ -371,7 +371,7 @@ export default {
 
     next: {
       title: 'Co dalej? Po Całunie Turyńskim | Jeśli nie zobaczę',
-      description: 'Znasz już dowody dotyczące Całunu Turyńskiego. Czy wątpisz, zastanawiasz się, czy wierzysz, oto uczciwe kolejne kroki.',
+      description: 'Co dalej po Całunie Turyńskim? Znasz już dowody. Czy wątpisz, zastanawiasz się, czy wierzysz, oto uczciwe kolejne kroki, które możesz teraz zrobić.',
       h1: 'Co dalej?',
       lede: 'Gdziekolwiek doszedłeś po przyjrzeniu się dowodom, jest rozsądny kolejny krok. Żaden z nich nie wymaga, abyś udawał większą pewność, niż masz.',
       paths: [

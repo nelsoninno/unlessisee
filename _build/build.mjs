@@ -67,6 +67,8 @@ export function makeCtx(lang, L) {
 }
 
 function head(ctx, page, meta) {
+  // Google cuts titles at about 60 to 65 characters: drop the " | site name" suffix when it would not fit
+  if (meta.title && meta.title.length > 65 && meta.title.includes(' | ')) meta = { ...meta, title: meta.title.slice(0, meta.title.lastIndexOf(' | ')) };
   const { L, lang } = ctx, c = L.copy;
   const alts = CONFIG.langs.map(l => `<link rel="alternate" hreflang="${l.tag || l.code}" href="${ctx.abs(page.slug, l.code)}">`).join('\n');
   const fontUrl = 'https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;600&family=Spectral:ital,wght@0,300;0,400;0,600;1,300;1,400&display=swap';
@@ -145,7 +147,7 @@ ${langSwitch(ctx, page)}
 
 function footer(ctx, page) {
   const c = ctx.L.copy;
-  const col = (title, items) => `<div><h4>${esc(title)}</h4><ul>${items.map(n => `<li><a href="${ctx.href(n.slug)}">${esc(n.label)}</a></li>`).join('')}</ul></div>`;
+  const col = (title, items) => `<div><p class="foot-h">${esc(title)}</p><ul>${items.map(n => `<li><a href="${ctx.href(n.slug)}">${esc(n.label)}</a></li>`).join('')}</ul></div>`;
   return `<footer class="site-foot"><div class="wrap">
 <div class="foot-grid">
 <div><p style="font-family:var(--font-serif);font-size:1.4rem;color:#fff">${esc(c.brand)}</p><p style="margin-top:.6rem;max-width:42ch;color:var(--silver-soft)">${c.footer.about}</p></div>
@@ -203,6 +205,7 @@ async function main() {
     for (const l2 of CONFIG.langs) sm += `    <xhtml:link rel="alternate" hreflang="${l2.tag || l2.code}" href="${c0.abs(page.slug, l2.code)}"/>\n`;
     sm += `    <xhtml:link rel="alternate" hreflang="x-default" href="${c0.abs(page.slug, CONFIG.defaultLang)}"/>\n  </url>\n`;
   }
+  for (const [f, pr] of [['llms.txt', '0.6'], ['llms-full.txt', '0.5']]) sm += `  <url><loc>https://${CONFIG.domain}/${f}</loc><lastmod>${today}</lastmod><changefreq>monthly</changefreq><priority>${pr}</priority></url>\n`;
   sm += '</urlset>\n';
   fs.writeFileSync(path.join(ROOT, 'sitemap.xml'), sm);
   // llms.txt + llms-full.txt from the English content

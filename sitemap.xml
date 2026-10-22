@@ -2160,4 +2160,6 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://unlessisee.org/hi/about.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://unlessisee.org/about.html"/>
   </url>
+  <url><loc>https://unlessisee.org/llms.txt</loc><lastmod>2026-10-22</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://unlessisee.org/llms-full.txt</loc><lastmod>2026-10-22</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
 </urlset>

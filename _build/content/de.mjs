@@ -94,7 +94,7 @@ export default {
   pages: {
     index: {
       title: 'Grabtuch von Turin: Die Belege dafür und dagegen | Es sei denn, daß ich … sehe',
-      description: 'Ist das Grabtuch von Turin echt? Erkunden Sie das Tuch in hoher Auflösung, sehen Sie das Negativ und das 3D-Bild, und wägen Sie die Belege beider Seiten ab, mit allen Quellen.',
+      description: 'Ist das Grabtuch von Turin echt? Erkunden Sie es in hoher Auflösung, sehen Sie Negativ und 3D-Bild und wägen Sie die Belege beider Seiten ab, mit Quellen.',
       h1: 'Prüfen Sie das Grabtuch von Turin selbst',
       lede: 'Ein Leinentuch, 4,4 Meter lang, trägt das blasse Bild eines Mannes, der gegeißelt und gekreuzigt wurde. Manche halten es für eine mittelalterliche Fälschung. Andere halten es für das Grabtuch Jesu. Hier finden Sie die Belege beider Seiten, mit allen Quellen, damit Sie selbst urteilen können.',
       cta1: 'Das Tuch erkunden', cta2: 'Die Fallakte lesen',
@@ -179,7 +179,7 @@ export default {
 
     explore: {
       title: 'Das Grabtuch von Turin in hoher Auflösung erkunden | Es sei denn, daß ich … sehe',
-      description: 'Zoomen Sie in das ganze Grabtuch von Turin, schalten Sie auf das fotografische Negativ, verstärken Sie das Bild, und finden Sie jede Wunde, jede Brandstelle und jeden Flicken, mit Erklärungen.',
+      description: 'Zoomen Sie ins ganze Grabtuch von Turin, wechseln Sie zum Negativ, verstärken Sie das Bild und finden Sie Wunden, Brandstellen und Flicken, mit Erklärungen.',
       h1: 'Das Tuch erkunden',
       lede: 'Das ist das ganze Grabtuch, Vorder- und Rückenansicht, Kopf an Kopf. Ziehen zum Verschieben, scrollen oder mit zwei Fingern zoomen. Schalten Sie auf Negativ, um zu sehen, was Secondo Pia 1898 sah. Die nummerierten Markierungen erklären, was Sie sehen.',
       imgAlt: 'Das ganze Grabtuch von Turin, Vorder- und Rückenansicht',
@@ -196,7 +196,7 @@ export default {
 
     evidence: {
       title: 'Grabtuch von Turin: Belege dafür und dagegen | Es sei denn, daß ich … sehe',
-      description: 'Jedes wichtige Argument über das Grabtuch von Turin, für und gegen die Echtheit, nach Stärke bewertet, mit der besten Antwort der Skeptiker und Links zu den Quellen.',
+      description: 'Die wichtigsten Argumente über das Grabtuch von Turin, für und gegen die Echtheit, nach Stärke bewertet, mit der besten Antwort der Skeptiker und den Quellen.',
       h1: 'Die Fallakte',
       lede: 'Jedes wichtige Argument über das Grabtuch, dafür und dagegen. Jedes ist danach bewertet, wie stark es ist, mit dem besten Einwand, der besten Erwiderung und den Quellen. Die Argumente gegen die Echtheit zeigen wir in voller Stärke, denn Sie sollten sie zuerst von uns hören.',
       counts: '{n} Beweisstücke: {f} sprechen für die Echtheit, {a} für einen mittelalterlichen Ursprung.',
@@ -218,7 +218,7 @@ export default {
 
     wounds: {
       title: 'Die Wunden auf dem Grabtuch von Turin und die Evangelien | Es sei denn, daß ich … sehe',
-      description: 'Jede Wunde auf dem Grabtuch von Turin, von den Geißelspuren bis zum Nagel im Handgelenk und der Seitenwunde, auf dem Tuch gezeigt, neben dem Text der Evangelien, der sie beschreibt.',
+      description: 'Jede Wunde auf dem Grabtuch von Turin, von den Geißelspuren bis zum Nagel im Handgelenk und der Seitenwunde, auf dem Tuch neben dem Evangelientext gezeigt.',
       h1: 'Die Wunden und was die Evangelien sagen',
       lede: 'Klicken Sie auf eine Nummer auf dem Tuch oder auf eine Wunde in der Liste. Jedes Mal wird so erklärt, wie forensische Pathologen es beschreiben, neben dem Vers aus den Evangelien, dem es entspricht, und mit dem Hinweis der Skeptiker, wo es einen gibt.',
       front: 'Vorderansicht', back: 'Rückenansicht', alt_front: 'Vorderansicht des Mannes auf dem Grabtuch, Negativansicht', alt_back: 'Rückenansicht des Mannes auf dem Grabtuch, Negativansicht',
@@ -237,8 +237,8 @@ export default {
     },
 
     dating: {
-      title: 'Radiokarbondatierung des Grabtuchs von Turin: Ergebnisse von 1988 und die Debatte | Es sei denn, daß ich … sehe',
-      description: 'Die Radiokarbondatierung des Grabtuchs von Turin von 1988 ergab 1260 bis 1390 n. Chr. Sehen Sie alle 12 Labormessungen, woher die Probe stammte, die Neuauswertungen der Rohdaten und andere Datierungsmethoden.',
+      title: 'Radiokarbondatierung des Grabtuchs von Turin und die Debatte | Es sei denn, daß ich … sehe',
+      description: 'Die Radiokarbondatierung des Grabtuchs von Turin von 1988 ergab 1260 bis 1390 n. Chr. Die 12 Messungen, die Probenstelle, Neuauswertungen und andere Methoden.',
       h1: 'Die Radiokarbondatierung',
       lede: 'Das ist das stärkste einzelne Argument dafür, dass das Grabtuch mittelalterlich ist, und es verdient einen genauen Blick. Hier steht, was gemacht wurde, was herauskam, was Kritiker seitdem gefunden haben und was es beweist und was nicht.',
       compareH: 'Alle je vorgeschlagenen Daten auf einer Linie',
@@ -267,7 +267,7 @@ export default {
 
     image: {
       title: 'Wie entstand das Bild auf dem Grabtuch von Turin? | Es sei denn, daß ich … sehe',
-      description: 'Farbe, Versengung, Abreibung, frühe Fotografie, eine chemische Reaktion oder ein Lichtblitz? Jede Hypothese zum Bild auf dem Grabtuch von Turin, mit dem, was sie erklärt, und dem, woran sie scheitert.',
+      description: 'Jede Hypothese zum Bild auf dem Grabtuch von Turin, von Farbe und Versengung bis zum Lichtblitz, mit dem, was sie erklärt, und dem, woran sie scheitert.',
       h1: 'Wie entstand das Bild?',
       lede: 'Das ist die tiefste offene Frage zum Grabtuch. Jede Erklärung, ob natürlich oder nicht, muss eine Reihe sehr seltsamer Eigenschaften erklären. Hier sind sie, gefolgt von jeder wichtigen Hypothese und ihren Problemen.',
       propsH: 'Was jede Erklärung erklären muss',
@@ -323,8 +323,8 @@ export default {
     },
 
     timeline: {
-      title: 'Zeitleiste des Grabtuchs von Turin: Geschichte von Lirey bis heute | Es sei denn, daß ich … sehe',
-      description: 'Eine interaktive Zeitleiste des Grabtuchs von Turin: die vermutete frühe Geschichte, die belegte Überlieferung seit etwa 1354, die Brände, die Fotografien und die wissenschaftlichen Untersuchungen.',
+      title: 'Zeitleiste des Grabtuchs von Turin: von Lirey bis heute | Es sei denn, daß ich … sehe',
+      description: 'Interaktive Zeitleiste des Grabtuchs von Turin: vermutete frühe Geschichte, belegte Überlieferung seit etwa 1354, Brände, Fotografien und Untersuchungen.',
       h1: 'Zeitleiste',
       lede: 'Die belegte Geschichte des Grabtuchs beginnt um 1354 in Frankreich. Davor ist seine Geschichte eine Hypothese, aufgebaut aus Bildern und Texten, die dieses Tuch beschreiben können oder auch nicht. Die Zeitleiste hält beides auseinander.',
       tracks: { cloth: 'Das Tuch', science: 'Wissenschaft', church: 'Kirche', world: 'Welt' },
@@ -345,7 +345,7 @@ export default {
     },
 
     videos: {
-      title: 'Videos über das Grabtuch von Turin, Aussage für Aussage geprüft | Es sei denn, daß ich … sehe',
+      title: 'Videos über das Grabtuch von Turin: Aussagen geprüft | Es sei denn, daß ich … sehe',
       description: 'Drei beliebte Videos über das Grabtuch von Turin, Aussage für Aussage mit Zeitmarken geprüft: was standhält, was umstritten ist und was falsch ist.',
       h1: 'Beliebte Videos, geprüft',
       lede: 'Die meisten Menschen begegnen dem Grabtuch über Videos. Wir haben drei beliebte Videos von Anfang bis Ende angesehen, einschließlich der Transkripte, und ihre wichtigsten Aussagen geprüft. Einige sind ausgezeichnet. Manche sind falsch. Klicken Sie auf eine Zeitangabe, um zu dieser Stelle zu springen.',
@@ -355,8 +355,8 @@ export default {
       missingAfter: 'Eine faire Darstellung muss sich auch damit befassen. Jeden dieser Punkte finden Sie in der <a href="evidence.html">Fallakte</a>.'
     },
     library: {
-      title: 'Forschungsbibliothek zum Grabtuch von Turin: Artikel und Studien | Es sei denn, daß ich … sehe',
-      description: 'Eine durchsuchbare Bibliothek mit Forschungsartikeln, Studien und Beiträgen zum Grabtuch von Turin, dafür und dagegen, mit direkten Links zu den Originalen auf shroud.com und in Fachzeitschriften.',
+      title: 'Forschungsbibliothek zum Grabtuch von Turin | Es sei denn, daß ich … sehe',
+      description: 'Durchsuchbare Bibliothek mit Studien zum Grabtuch von Turin, dafür und dagegen, mit direkten Links zu den Originalen auf shroud.com und in Fachzeitschriften.',
       h1: 'Bibliothek',
       lede: 'Mehr als 2.400 Artikel, Studien, Beiträge und Newsletter, fast alle aus dem Archiv von shroud.com, das Barrie Schwortz seit den 1990er-Jahren aufbaute und bis zu seinem Tod 2024 pflegte. Beginnen Sie mit den 25 wichtigsten Texten, suchen Sie dann nach Wörtern, filtern Sie nach Thema, und gehen Sie direkt zum Original.',
       keyH: 'Hier beginnen: 25 wichtige Texte, beide Seiten', keyLede: 'So ausgewählt, dass ein skeptischer Leser auf jeder Seite die stärksten Arbeiten kennenlernt, ungefähr in der Reihenfolge, in der sich die Debatte entwickelte.', allH: 'Die ganze Bibliothek',
@@ -385,8 +385,8 @@ export default {
       quoteCite: 'Johannes 20,31'
     },
     about: {
-      title: 'Über „Es sei denn, daß ich … sehe“: Warum es diese Website gibt | Es sei denn, daß ich … sehe',
-      description: '„Es sei denn, daß ich … sehe“ ist eine kostenlose, nicht kommerzielle Website über das Grabtuch von Turin. Wie wir Belege bewerten, woher unsere Bilder stammen und wer sie gebaut hat.',
+      title: 'Über „Es sei denn, daß ich … sehe“: Warum es sie gibt | Es sei denn, daß ich … sehe',
+      description: 'Eine kostenlose, nicht kommerzielle Website über das Grabtuch von Turin: wie wir Belege bewerten, woher unsere Bilder stammen und wer sie gebaut hat.',
       h1: 'Über diese Website',
       lede: 'Warum es sie gibt, wie wir arbeiten und woher alles stammt.',
       body: `<h2>Warum es diese Website gibt</h2>

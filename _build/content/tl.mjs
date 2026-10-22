@@ -93,7 +93,7 @@ export default {
   pages: {
     index: {
       title: "Shroud of Turin: Ang Ebidensiya Para at Laban | Malibang aking makita",
-      description: "Totoo ba ang Shroud of Turin? Tuklasin ang tela sa high resolution, tingnan ang negative at ang 3D na imahe, at timbangin ang ebidensiya ng magkabilang panig, kasama ang bawat source.",
+      description: "Totoo ba ang Shroud of Turin? Tingnan ang tela sa high resolution, ang negative at 3D na imahe, at timbangin ang ebidensiya ng magkabilang panig, may source.",
       h1: "Suriin mo mismo ang Shroud of Turin",
       lede: "Isang telang lino, 4.4 metro ang haba, ang may malabong imahe ng isang lalaking hinagupit at ipinako sa krus. May nagsasabing pamemeke ito noong Middle Ages. May iba namang nagsasabing ito ang telang ipinambalot sa bangkay ni Hesus. Narito ang ebidensiya mula sa magkabilang panig, kasama ang bawat source, para ikaw mismo ang humusga.",
       cta1: "Tuklasin ang tela", cta2: "Basahin ang case file",
@@ -195,7 +195,7 @@ export default {
 
     evidence: {
       title: "Ebidensiya tungkol sa Shroud of Turin, Para at Laban | Malibang aking makita",
-      description: "Bawat pangunahing argumento tungkol sa Shroud of Turin, para at laban sa pagiging tunay, may marka ayon sa tibay, kasama ang pinakamahusay na sagot ng skeptic at mga link sa source.",
+      description: "Bawat pangunahing argumento tungkol sa Shroud of Turin, para at laban, may marka ayon sa tibay, kasama ang pinakamahusay na sagot ng skeptic at mga source.",
       h1: "Ang case file",
       lede: "Bawat pangunahing argumento tungkol sa Shroud, para at laban. May marka ang bawat isa ayon sa tibay nito, kasama ang pinakamahusay na pagtutol, ang pinakamahusay na tugon at ang mga source. Isinasama namin nang buong lakas ang mga argumento laban sa pagiging tunay, dahil dapat mo itong marinig muna mula sa amin.",
       counts: "{n} exhibit: {f} na tumuturo sa pagiging tunay, {a} na tumuturo sa medieval na pinagmulan.",
@@ -217,7 +217,7 @@ export default {
 
     wounds: {
       title: "Ang mga Sugat sa Shroud of Turin at ang mga Ebanghelyo | Malibang aking makita",
-      description: "Bawat sugat sa Shroud of Turin, mula sa mga marka ng hagupit hanggang sa pako sa pulso at sa sugat sa tagiliran, ipinakita sa tela katabi ng teksto ng Ebanghelyo na naglalarawan dito.",
+      description: "Bawat sugat sa Shroud of Turin, mula sa hagupit hanggang sa pako sa pulso at sugat sa tagiliran, ipinakita sa tela katabi ng teksto ng Ebanghelyo.",
       h1: "Ang mga sugat, at ang sinasabi ng mga Ebanghelyo",
       lede: "I-click ang isang numero sa tela o isang sugat sa listahan. Ipinaliliwanag ang bawat marka gaya ng paglalarawan dito ng mga forensic pathologist, katabi ng talata ng Ebanghelyo na katapat nito, at ang tala ng skeptic kung mayroon.",
       front: "Harap", back: "Likod", alt_front: "Imahe sa harap ng lalaki sa Shroud, negative na view", alt_back: "Imahe sa likod ng lalaki sa Shroud, negative na view",
@@ -236,8 +236,8 @@ export default {
     },
 
     dating: {
-      title: "Carbon Dating ng Shroud of Turin: Mga Resulta noong 1988 at ang Debate | Malibang aking makita",
-      description: "Ang radiocarbon dating ng Shroud of Turin noong 1988 ay nagbigay ng AD 1260 hanggang 1390. Tingnan ang lahat ng 12 sukat ng laboratoryo, kung saan galing ang sample, ang mga reanalysis ng raw data at ang ibang paraan ng pagpepetsa.",
+      title: "Carbon Dating ng Shroud of Turin: Mga Resulta at ang Debate | Malibang aking makita",
+      description: "Ang radiocarbon dating ng Shroud of Turin noong 1988 ay nagbigay ng AD 1260 hanggang 1390. Ang 12 sukat, pinagmulan ng sample, mga reanalysis at ibang paraan.",
       h1: "Ang carbon dating",
       lede: "Ito ang pinakamatibay na iisang argumento na medieval ang Shroud, at nararapat itong suriin nang maingat. Narito ang ginawa, ang natuklasan, ang natuklasan ng mga kritiko mula noon, at ang napapatunayan at hindi napapatunayan nito.",
       compareH: "Bawat petsang iminungkahi, sa iisang linya",
@@ -266,7 +266,7 @@ export default {
 
     image: {
       title: "Paano Ginawa ang Imahe sa Shroud of Turin? | Malibang aking makita",
-      description: "Pintura, sunog, pagkuskos, sinaunang potograpiya, kemikal na reaksiyon o biglang paglabas ng liwanag? Bawat hipotesis tungkol sa imahe sa Shroud of Turin, kung ano ang naipapaliwanag nito at kung saan ito bumabagsak.",
+      description: "Bawat hipotesis tungkol sa imahe sa Shroud of Turin, mula pintura at sunog hanggang biglang paglabas ng liwanag, ano ang naipapaliwanag at saan bumabagsak.",
       h1: "Paano ginawa ang imahe?",
       lede: "Ito ang pinakamalalim na bukas na tanong tungkol sa Shroud. Ang anumang paliwanag, natural man o hindi, ay kailangang sumagot sa isang listahan ng napakakakaibang katangian. Narito ang mga ito, kasunod ang bawat pangunahing hipotesis at ang mga problema nito.",
       propsH: "Ang dapat ipaliwanag ng anumang paliwanag",
@@ -322,8 +322,8 @@ export default {
     },
 
     timeline: {
-      title: "Timeline ng Shroud of Turin: Kasaysayan Mula Lirey Hanggang Ngayon | Malibang aking makita",
-      description: "Isang interactive na timeline ng Shroud of Turin: ang ipinapalagay na maagang kasaysayan, ang dokumentadong tala mula mga 1354, ang mga sunog, ang mga litrato at ang mga siyentipikong pagsusuri.",
+      title: "Timeline ng Shroud of Turin: Mula Lirey Hanggang Ngayon | Malibang aking makita",
+      description: "Interactive na timeline ng Shroud of Turin: ang ipinapalagay na maagang kasaysayan, ang dokumentadong tala mula mga 1354, mga sunog, litrato at pagsusuri.",
       h1: "Timeline",
       lede: "Nagsisimula ang dokumentadong kasaysayan ng Shroud sa France noong mga 1354. Bago noon, hipotesis ang kasaysayan nito, na binuo mula sa mga imahe at teksto na maaaring tumutukoy o hindi tumutukoy sa telang ito. Pinaghihiwalay ng timeline ang dalawa.",
       tracks: { cloth: "Ang tela", science: "Agham", church: "Simbahan", world: "Mundo" },
@@ -354,8 +354,8 @@ export default {
       missingAfter: "Kailangan ding harapin ng isang makatarungang argumento ang mga ito. Makikita mo ang bawat isa sa <a href=\"evidence.html\">case file</a>."
     },
     library: {
-      title: "Aklatan ng Pananaliksik sa Shroud of Turin: Mga Papel at Pag-aaral | Malibang aking makita",
-      description: "Isang mahahanap na aklatan ng mga research paper, pag-aaral at artikulo tungkol sa Shroud of Turin, para at laban, may direktang link sa mga orihinal sa shroud.com at sa mga journal.",
+      title: "Aklatan ng Pananaliksik sa Shroud of Turin | Malibang aking makita",
+      description: "Mahahanap na aklatan ng mga research paper at pag-aaral sa Shroud of Turin, para at laban, may direktang link sa mga orihinal sa shroud.com at mga journal.",
       h1: "Aklatan",
       lede: "Mahigit 2,400 papel, pag-aaral, artikulo at newsletter, halos lahat mula sa archive sa shroud.com, na binuo at iningatan ni Barrie Schwortz mula dekada 1990 hanggang sa kaniyang pagpanaw noong 2024. Magsimula sa 25 pangunahing babasahin, saka maghanap ayon sa salita, mag-filter ayon sa paksa, at dumiretso sa orihinal.",
       keyH: "Magsimula rito: 25 pangunahing babasahin, magkabilang panig", keyLede: "Pinili para makilala ng isang skeptic na mambabasa ang pinakamatibay na gawa ng bawat panig, halos ayon sa pagkakasunod ng pag-usad ng debate.", allH: "Ang buong aklatan",
@@ -385,7 +385,7 @@ export default {
     },
     about: {
       title: "Tungkol sa “Malibang aking makita”: Bakit May Site na Ito | Malibang aking makita",
-      description: "Ang “Malibang aking makita” ay isang libre at hindi pangkomersiyong site tungkol sa Shroud of Turin. Kung paano namin minamarkahan ang ebidensiya, kung saan galing ang aming mga imahe, at kung sino ang gumawa nito.",
+      description: "Libre at hindi pangkomersiyong site tungkol sa Shroud of Turin. Kung paano namin minamarkahan ang ebidensiya, saan galing ang imahe, at sino ang gumawa nito.",
       h1: "Tungkol sa site na ito",
       lede: "Kung bakit ito umiiral, kung paano kami nagtatrabaho, at kung saan galing ang lahat.",
       body: `<h2>Bakit may site na ito</h2>

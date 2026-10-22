@@ -93,7 +93,7 @@ export default {
   pages: {
     index: {
       title: 'Saint-Suaire de Turin : les arguments pour et contre | Si je ne vois',
-      description: 'Le Saint-Suaire de Turin est-il authentique ? Explorez le linge en haute résolution, découvrez le négatif et l’image en 3D, et pesez les arguments des deux camps, avec toutes les sources.',
+      description: 'Le Saint-Suaire de Turin est-il authentique ? Explorez-le en haute résolution, voyez le négatif et l’image en 3D, et pesez les deux camps, sources à l’appui.',
       h1: 'Examinez vous-même le Saint-Suaire de Turin',
       lede: 'Un linge de lin, long de 4,4 mètres, porte l’image pâle d’un homme flagellé et crucifié. Certains y voient un faux médiéval. D’autres, le linceul de Jésus. Voici les arguments des deux camps, avec toutes les sources, pour que vous puissiez juger par vous-même.',
       cta1: 'Explorer le linge', cta2: 'Lire le dossier',
@@ -178,7 +178,7 @@ export default {
 
     explore: {
       title: 'Explorer le Saint-Suaire de Turin en haute résolution | Si je ne vois',
-      description: 'Zoomez sur le Saint-Suaire de Turin entier, passez au négatif photographique, renforcez l’image et retrouvez chaque blessure, brûlure et pièce, avec des explications.',
+      description: 'Zoomez sur le Saint-Suaire de Turin entier, passez au négatif, renforcez l’image et retrouvez chaque blessure, brûlure et pièce, avec des explications.',
       h1: 'Explorer le linge',
       lede: 'Voici le Saint-Suaire entier, image de face et image de dos, tête contre tête. Faites glisser pour vous déplacer, utilisez la molette ou pincez pour zoomer. Passez au négatif pour voir ce que Secondo Pia a vu en 1898. Les marques numérotées expliquent ce que vous regardez.',
       imgAlt: 'Le Saint-Suaire de Turin entier, image de face et image de dos',
@@ -195,7 +195,7 @@ export default {
 
     evidence: {
       title: 'Saint-Suaire de Turin : les preuves pour et contre | Si je ne vois',
-      description: 'Tous les grands arguments sur le Saint-Suaire de Turin, pour et contre son authenticité, notés selon leur solidité, avec la meilleure réponse sceptique et des liens vers les sources.',
+      description: 'Les grands arguments sur le Saint-Suaire de Turin, pour et contre son authenticité, notés par solidité, avec la meilleure réponse sceptique et les sources.',
       h1: 'Le dossier',
       lede: 'Tous les grands arguments sur le Saint-Suaire, pour et contre. Chacun est noté selon sa solidité, avec la meilleure objection, la meilleure réplique et les sources. Nous présentons les arguments contre l’authenticité dans toute leur force, car vous devez d’abord les entendre de notre bouche.',
       counts: '{n} pièces : {f} vont dans le sens de l’authenticité, {a} dans le sens d’une origine médiévale.',
@@ -217,7 +217,7 @@ export default {
 
     wounds: {
       title: 'Les blessures du Saint-Suaire de Turin et les Évangiles | Si je ne vois',
-      description: 'Chaque blessure du Saint-Suaire de Turin, des marques de flagellation au clou dans le poignet et à la plaie du côté, montrée sur le linge à côté du texte de l’Évangile qui la décrit.',
+      description: 'Chaque blessure du Saint-Suaire de Turin, de la flagellation au clou dans le poignet et à la plaie du côté, montrée sur le linge face au texte de l’Évangile.',
       h1: 'Les blessures, et ce que disent les Évangiles',
       lede: 'Cliquez sur un numéro sur le linge ou sur une blessure dans la liste. Chaque marque est expliquée comme la décrivent les médecins légistes, à côté du verset de l’Évangile qui lui correspond, avec la remarque sceptique quand il y en a une.',
       front: 'Face', back: 'Dos', alt_front: 'Image de face de l’homme du Saint-Suaire, vue en négatif', alt_back: 'Image de dos de l’homme du Saint-Suaire, vue en négatif',
@@ -236,8 +236,8 @@ export default {
     },
 
     dating: {
-      title: 'Datation au carbone 14 du Saint-Suaire de Turin : les résultats de 1988 et le débat | Si je ne vois',
-      description: 'La datation au radiocarbone du Saint-Suaire de Turin en 1988 a donné 1260 à 1390 apr. J.-C. Voyez les 12 mesures des laboratoires, l’endroit du prélèvement, les nouvelles analyses des données brutes et les autres méthodes de datation.',
+      title: 'Datation au carbone 14 du Saint-Suaire de Turin et le débat | Si je ne vois',
+      description: 'La datation au carbone 14 du Saint-Suaire de Turin en 1988 a donné 1260 à 1390 apr. J.-C. Les 12 mesures, le prélèvement, les réanalyses et d’autres méthodes.',
       h1: 'La datation au carbone 14',
       lede: 'C’est l’argument le plus fort pour dire que le Saint-Suaire est médiéval, et il mérite un examen attentif. Voici ce qui a été fait, ce qui a été trouvé, ce que les critiques ont trouvé depuis, et ce que cela prouve ou ne prouve pas.',
       compareH: 'Toutes les dates jamais proposées, sur une seule ligne',
@@ -266,7 +266,7 @@ export default {
 
     image: {
       title: 'Comment l’image du Saint-Suaire de Turin s’est-elle formée ? | Si je ne vois',
-      description: 'Peinture, brûlure, frottis, photographie primitive, réaction chimique ou éclair de lumière ? Toutes les hypothèses sur l’image du Saint-Suaire de Turin, avec ce qu’elles expliquent et là où elles échouent.',
+      description: 'Toutes les hypothèses sur l’image du Saint-Suaire de Turin, de la peinture à un éclair de lumière, avec ce qu’elles expliquent et là où elles échouent.',
       h1: 'Comment l’image s’est-elle formée ?',
       lede: 'C’est la question ouverte la plus profonde sur le Saint-Suaire. Toute explication, naturelle ou non, doit rendre compte d’une liste de propriétés très étranges. Les voici, suivies de chaque grande hypothèse et de ses problèmes.',
       propsH: 'Ce que toute explication doit expliquer',
@@ -322,8 +322,8 @@ export default {
     },
 
     timeline: {
-      title: 'Chronologie du Saint-Suaire de Turin : de Lirey à aujourd’hui | Si je ne vois',
-      description: 'Une chronologie interactive du Saint-Suaire de Turin : l’histoire ancienne supposée, les faits documentés depuis 1354 environ, les incendies, les photographies et les analyses scientifiques.',
+      title: 'Chronologie du Saint-Suaire de Turin : de Lirey à nos jours | Si je ne vois',
+      description: 'Chronologie interactive du Saint-Suaire de Turin : l’histoire ancienne supposée, les faits attestés depuis 1354 environ, les incendies, photos et analyses.',
       h1: 'Chronologie',
       lede: 'L’histoire documentée du Saint-Suaire commence en France vers 1354. Avant cela, son histoire est une hypothèse, construite à partir d’images et de textes qui décrivent peut-être ce linge, ou peut-être pas. La chronologie sépare les deux.',
       tracks: { cloth: 'Le linge', science: 'La science', church: 'L’Église', world: 'Le monde' },
@@ -344,8 +344,8 @@ export default {
     },
 
     videos: {
-      title: 'Vidéos sur le Saint-Suaire de Turin, vérifiées affirmation par affirmation | Si je ne vois',
-      description: 'Trois vidéos populaires sur le Saint-Suaire de Turin, vérifiées affirmation par affirmation, avec les minutages : ce qui tient, ce qui est contesté et ce qui est faux.',
+      title: 'Vidéos sur le Saint-Suaire de Turin : affirmations vérifiées | Si je ne vois',
+      description: 'Trois vidéos populaires sur le Saint-Suaire de Turin, vérifiées affirmation par affirmation : ce qui tient, ce qui est contesté et ce qui est faux.',
       h1: 'Des vidéos populaires, vérifiées',
       lede: 'La plupart des gens découvrent le Saint-Suaire par des vidéos. Nous en avons regardé trois, parmi les plus populaires, du début à la fin, transcriptions comprises, et nous avons vérifié leurs principales affirmations. Plusieurs sont excellentes. Certaines sont fausses. Cliquez sur un minutage pour aller à ce moment.',
       play: 'Lire la vidéo (charge YouTube)', watch: 'Regarder sur YouTube',
@@ -354,8 +354,8 @@ export default {
       missingAfter: 'Une présentation honnête doit aussi traiter ces points. Vous trouverez chacun d’eux dans le <a href="evidence.html">dossier</a>.'
     },
     library: {
-      title: 'Bibliothèque de recherche sur le Saint-Suaire de Turin : articles et études | Si je ne vois',
-      description: 'Une bibliothèque consultable d’articles de recherche, d’études et d’articles sur le Saint-Suaire de Turin, pour et contre, avec des liens directs vers les originaux sur shroud.com et dans les revues.',
+      title: 'Bibliothèque de recherche sur le Saint-Suaire de Turin | Si je ne vois',
+      description: 'Bibliothèque consultable d’études sur le Saint-Suaire de Turin, pour et contre, avec des liens directs vers les originaux sur shroud.com et dans les revues.',
       h1: 'Bibliothèque',
       lede: 'Plus de 2 400 articles, études, textes et bulletins, presque tous issus des archives de shroud.com, que Barrie Schwortz a créées et entretenues depuis les années 1990 jusqu’à sa mort en 2024. Commencez par les 25 lectures essentielles, puis cherchez par mot, filtrez par thème et allez directement à l’original.',
       keyH: 'Pour commencer : 25 lectures essentielles, des deux camps', keyLede: 'Choisies pour qu’un lecteur sceptique rencontre les travaux les plus solides de chaque camp, à peu près dans l’ordre où le débat s’est déroulé.', allH: 'Toute la bibliothèque',
@@ -385,7 +385,7 @@ export default {
     },
     about: {
       title: 'À propos de Si je ne vois : pourquoi ce site existe | Si je ne vois',
-      description: 'Si je ne vois est un site gratuit et non commercial sur le Saint-Suaire de Turin. Comment nous évaluons les éléments, d’où viennent nos images, et qui l’a conçu.',
+      description: 'Si je ne vois est un site gratuit et non commercial sur le Saint-Suaire de Turin. Comment nous évaluons les éléments, l’origine des images et qui l’a conçu.',
       h1: 'À propos de ce site',
       lede: 'Pourquoi il existe, comment nous travaillons, et d’où vient chaque chose.',
       body: `<h2>Pourquoi ce site existe</h2>

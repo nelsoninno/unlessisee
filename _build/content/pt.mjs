@@ -93,7 +93,7 @@ export default {
   pages: {
     index: {
       title: 'Santo Sudário de Turim: as evidências a favor e contra | Se em suas mãos não vir',
-      description: 'O Santo Sudário de Turim é verdadeiro? Explore o pano em alta resolução, veja o negativo e a imagem em 3D e pese as evidências dos dois lados, com todas as fontes.',
+      description: 'O Santo Sudário de Turim é verdadeiro? Explore o pano em alta resolução, veja o negativo e a imagem em 3D e pese as evidências dos dois lados, com as fontes.',
       h1: 'Examine o Santo Sudário de Turim por conta própria',
       lede: 'Um pano de linho de 4,4 metros traz a imagem tênue de um homem que foi flagelado e crucificado. Uns dizem que é uma falsificação medieval. Outros, que é a mortalha de Jesus. Aqui estão as evidências dos dois lados, com todas as fontes, para que você mesmo julgue.',
       cta1: 'Explorar o pano', cta2: 'Ler o dossiê',
@@ -195,7 +195,7 @@ export default {
 
     evidence: {
       title: 'Evidências sobre o Santo Sudário de Turim, a favor e contra | Se em suas mãos não vir',
-      description: 'Todos os principais argumentos sobre o Santo Sudário de Turim, a favor e contra a autenticidade, classificados pela força, com a melhor resposta cética e links para as fontes.',
+      description: 'Os principais argumentos sobre o Santo Sudário de Turim, a favor e contra a autenticidade, classificados pela força, com a melhor resposta cética e as fontes.',
       h1: 'O dossiê',
       lede: 'Todos os principais argumentos sobre o Sudário, a favor e contra. Cada um é classificado pela sua força, com a melhor objeção, a melhor réplica e as fontes. Incluímos os argumentos contra a autenticidade com toda a sua força, porque você deve ouvi-los primeiro de nós.',
       counts: '{n} itens: {f} apontam para a autenticidade, {a} apontam para uma origem medieval.',
@@ -217,7 +217,7 @@ export default {
 
     wounds: {
       title: 'As feridas do Santo Sudário de Turim e os Evangelhos | Se em suas mãos não vir',
-      description: 'Cada ferida do Santo Sudário de Turim, das marcas do flagelo ao cravo no pulso e à ferida no lado, mostrada no pano ao lado do texto do Evangelho que a descreve.',
+      description: 'Cada ferida do Santo Sudário de Turim, das marcas do flagelo ao cravo no pulso e à ferida no lado, mostrada no pano ao lado do texto do Evangelho.',
       h1: 'As feridas, e o que dizem os Evangelhos',
       lede: 'Clique num número no pano ou numa ferida da lista. Cada marca é explicada do jeito que os patologistas forenses a descrevem, ao lado do versículo do Evangelho a que corresponde, e com a observação cética quando há uma.',
       front: 'Frente', back: 'Costas', alt_front: 'Imagem frontal do homem do Sudário, vista em negativo', alt_back: 'Imagem dorsal do homem do Sudário, vista em negativo',
@@ -236,8 +236,8 @@ export default {
     },
 
     dating: {
-      title: 'Datação por carbono do Santo Sudário de Turim: os resultados de 1988 e o debate | Se em suas mãos não vir',
-      description: 'A datação por radiocarbono do Santo Sudário de Turim, em 1988, deu de 1260 a 1390 d.C. Veja as 12 medições dos laboratórios, de onde veio a amostra, as reanálises dos dados brutos e outros métodos de datação.',
+      title: 'Datação por carbono do Santo Sudário de Turim e o debate | Se em suas mãos não vir',
+      description: 'A datação por radiocarbono do Santo Sudário de Turim, em 1988, deu 1260 a 1390 d.C. Veja as 12 medições, a origem da amostra, as reanálises e outros métodos.',
       h1: 'A datação por carbono',
       lede: 'Este é o argumento isolado mais forte de que o Sudário é medieval, e ele merece um olhar cuidadoso. Aqui está o que foi feito, o que se encontrou, o que os críticos encontraram desde então e o que isso prova e não prova.',
       compareH: 'Todas as datas já propostas, numa só linha',
@@ -266,7 +266,7 @@ export default {
 
     image: {
       title: 'Como foi feita a imagem do Santo Sudário de Turim? | Se em suas mãos não vir',
-      description: 'Tinta, queimadura, fricção, fotografia primitiva, uma reação química ou uma explosão de luz? Todas as hipóteses para a imagem do Santo Sudário de Turim, com o que explicam e onde falham.',
+      description: 'Todas as hipóteses para a imagem do Santo Sudário de Turim, da tinta e queimadura a uma reação química ou explosão de luz, com o que explicam e onde falham.',
       h1: 'Como a imagem foi feita?',
       lede: 'Esta é a pergunta em aberto mais profunda sobre o Sudário. Qualquer explicação, natural ou não, tem de dar conta de uma lista de propriedades muito estranhas. Aqui estão elas, seguidas de todas as principais hipóteses e de seus problemas.',
       propsH: 'O que qualquer explicação precisa explicar',
@@ -323,7 +323,7 @@ export default {
 
     timeline: {
       title: 'Linha do tempo do Santo Sudário de Turim: de Lirey até hoje | Se em suas mãos não vir',
-      description: 'Uma linha do tempo interativa do Santo Sudário de Turim: a história antiga hipotética, o registro documentado desde cerca de 1354, os incêndios, as fotografias e os testes científicos.',
+      description: 'Linha do tempo interativa do Santo Sudário de Turim: a história antiga hipotética, o registro desde cerca de 1354, os incêndios, as fotografias e os testes.',
       h1: 'Linha do tempo',
       lede: 'A história documentada do Sudário começa na França por volta de 1354. Antes disso, sua história é uma hipótese, construída a partir de imagens e textos que podem ou não descrever este pano. A linha do tempo mantém as duas coisas separadas.',
       tracks: { cloth: 'O pano', science: 'Ciência', church: 'Igreja', world: 'Mundo' },
@@ -344,8 +344,8 @@ export default {
     },
 
     videos: {
-      title: 'Vídeos sobre o Santo Sudário de Turim, verificados afirmação por afirmação | Se em suas mãos não vir',
-      description: 'Três vídeos populares sobre o Santo Sudário de Turim, verificados afirmação por afirmação, com marcações de tempo: o que se sustenta, o que é contestado e o que está errado.',
+      title: 'Vídeos do Santo Sudário de Turim: afirmações verificadas | Se em suas mãos não vir',
+      description: 'Três vídeos populares sobre o Santo Sudário de Turim, verificados afirmação por afirmação: o que se sustenta, o que é contestado e o que está errado.',
       h1: 'Vídeos populares, verificados',
       lede: 'A maioria das pessoas conhece o Sudário por vídeos. Assistimos a três vídeos populares do começo ao fim, incluindo as transcrições, e verificamos suas principais afirmações. Vários são excelentes. Alguns estão errados. Clique num horário para ir àquele momento.',
       play: 'Reproduzir vídeo (carrega o YouTube)', watch: 'Assistir no YouTube',
@@ -354,8 +354,8 @@ export default {
       missingAfter: 'Uma análise justa também precisa lidar com isto. Você encontra cada ponto no <a href="evidence.html">dossiê</a>.'
     },
     library: {
-      title: 'Biblioteca de pesquisa sobre o Santo Sudário de Turim: artigos e estudos | Se em suas mãos não vir',
-      description: 'Uma biblioteca pesquisável de artigos científicos, estudos e textos sobre o Santo Sudário de Turim, a favor e contra, com links diretos para os originais no shroud.com e em revistas científicas.',
+      title: 'Biblioteca de pesquisa sobre o Santo Sudário de Turim | Se em suas mãos não vir',
+      description: 'Biblioteca pesquisável de artigos e estudos sobre o Santo Sudário de Turim, a favor e contra, com links diretos para os originais no shroud.com e em revistas.',
       h1: 'Biblioteca',
       lede: 'Mais de 2.400 artigos, estudos, textos e boletins, quase todos do arquivo do shroud.com, que Barrie Schwortz criou e manteve desde os anos 1990 até a sua morte, em 2024. Comece pelas 25 leituras essenciais, depois pesquise por palavra, filtre por tema e vá direto ao original.',
       keyH: 'Comece aqui: 25 leituras essenciais, dos dois lados', keyLede: 'Escolhidas para que um leitor cético encontre os trabalhos mais fortes de cada lado, mais ou menos na ordem em que o debate se desenrolou.', allH: 'A biblioteca completa',
@@ -385,7 +385,7 @@ export default {
     },
     about: {
       title: 'Sobre o “Se em suas mãos não vir”: por que este site existe | Se em suas mãos não vir',
-      description: '“Se em suas mãos não vir” é um site gratuito e sem fins comerciais sobre o Santo Sudário de Turim. Como classificamos as evidências, de onde vêm as nossas imagens e quem o fez.',
+      description: '“Se em suas mãos não vir” é um site gratuito e não comercial sobre o Santo Sudário de Turim. Como avaliamos a evidência, de onde vêm as imagens e quem o fez.',
       h1: 'Sobre este site',
       lede: 'Por que ele existe, como trabalhamos e de onde vem tudo.',
       body: `<h2>Por que este site existe</h2>

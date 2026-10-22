@@ -152,7 +152,7 @@ figure figcaption{margin-top:.7rem;font-family:var(--font-sans);font-size:.82rem
 .exhibit{display:grid;grid-template-columns:5.5rem minmax(0,1fr);gap:1.5rem;padding:2rem 0;border-top:1px solid var(--linen-edge)}
 .exhibit__no{font-family:var(--font-sans);font-size:.8rem;color:var(--ink-soft);line-height:1.4}
 .exhibit__no b{display:block;font-family:var(--font-serif);font-weight:300;font-size:2.4rem;color:var(--ink);line-height:1}
-.exhibit h3{margin-bottom:.4rem}
+.exhibit h3,.exhibit__title{font-size:clamp(1.35rem,2.2vw,1.75rem);font-weight:400;margin-bottom:.4rem}
 .exhibit__lean{display:inline-block;font-family:var(--font-sans);font-size:.75rem;padding:.12rem .5rem;border-radius:2px;margin-right:.6rem;color:var(--linen)}
 .exhibit__lean--for{background:var(--for)}
 .exhibit__lean--against{background:var(--against)}
@@ -269,7 +269,7 @@ input[type=range]{width:100%;accent-color:var(--sepia)}
 .bodymap__toggle{display:flex;gap:.5rem;margin-bottom:1rem}
 .wound-list{display:grid;gap:0}
 .wound{padding:1.2rem 0;border-top:1px solid var(--plate-edge);cursor:pointer}
-.wound h3{font-size:1.2rem;color:var(--ink)}
+.wound h3,.wound__title{font-size:1.2rem;font-weight:400;color:var(--ink)}
 .wound .gospel{margin-top:.6rem;padding-inline-start:.8rem;border-inline-start:2px solid var(--blood);font-style:italic;font-size:1rem}
 .wound.active{background:linear-gradient(90deg,rgba(155,58,46,.10),transparent)}
 .bodymap__stick{position:sticky;top:80px}
@@ -355,7 +355,7 @@ input[type=range]{width:100%;accent-color:var(--sepia)}
 .site-foot{background:var(--footer-bg);color:var(--footer-fg);padding:4rem 0 2.5rem;font-family:var(--font-sans);font-size:.9rem}
 .site-foot a{color:var(--footer-fg)}
 .foot-grid{display:grid;grid-template-columns:2fr 1fr 1fr;gap:2rem}
-.foot-grid h4{font-family:var(--font-sans);font-size:.85rem;font-weight:600;margin-bottom:.8rem;color:var(--white)}
+.foot-grid .foot-h{font-family:var(--font-sans);font-size:.85rem;font-weight:600;margin-bottom:.8rem;color:var(--white)}
 .foot-grid ul{list-style:none}
 .foot-grid li+li{margin-top:.4rem}
 .foot-grid a{text-decoration:none;color:var(--silver-soft)}

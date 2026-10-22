@@ -36,4 +36,6 @@ This session's GitHub proxy cannot push to the repo, so pushes go through Nelson
 - 3D relief viewers: rotation limited to about 24 degrees left/right and a little up/down so the cloth always faces the viewer.
 - Explore markers are callouts (dot on the detail, thin line, number off to the side; offsets dx/dy and highlight radius r in data/en/spots.json). Selecting one dims the rest and shows that area in negative inside a glowing ring.
 - The header nav collapses into the Menu button whenever a language's labels do not fit (main.js measures it).
-- Pending: custom domain unlessisee.org, permission replies for STURP and 2002/2008 photos, Nelson's story page.
+- Discoverability gate (22 Oct 2026): one H1 per page, no heading skips, titles over 65 chars drop the brand suffix automatically, descriptions sized per language, llms files in sitemap; tools/seoaudit.py re-runs it. _redirects keeps CLAUDE.md, README.md and _build/ off the website.
+- Domains: unlessisee.org (main) and seetheshroud.org (301 redirect to unlessisee.org for now; later Nelson's testimony site). Nelson is doing the Cloudflare side himself.
+- Pending: custom domain activation, permission replies for STURP and 2002/2008 photos, Nelson's story page.

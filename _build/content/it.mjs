@@ -196,7 +196,7 @@ export default {
 
     evidence: {
       title: "Le prove sulla Sindone di Torino, a favore e contro | Se io non vedo",
-      description: "Tutti i principali argomenti sulla Sindone di Torino, a favore e contro l'autenticità, valutati per forza, con la migliore risposta dello scettico e i link alle fonti.",
+      description: "I principali argomenti sulla Sindone di Torino, a favore e contro l'autenticità, valutati per forza, con la migliore risposta dello scettico e le fonti.",
       h1: "Il fascicolo",
       lede: "Tutti i principali argomenti sulla Sindone, a favore e contro. Ognuno è valutato in base alla sua forza, con l'obiezione migliore, la replica migliore e le fonti. Presentiamo gli argomenti contro l'autenticità con tutta la loro forza, perché è giusto che tu li senta prima da noi.",
       counts: "{n} reperti: {f} a favore dell'autenticità, {a} a favore di un'origine medievale.",
@@ -218,7 +218,7 @@ export default {
 
     wounds: {
       title: "Le ferite sulla Sindone di Torino e i Vangeli | Se io non vedo",
-      description: "Ogni ferita sulla Sindone di Torino, dai segni del flagello al chiodo nel polso e alla ferita al costato, mostrata sul telo accanto al testo del Vangelo che la descrive.",
+      description: "Ogni ferita sulla Sindone di Torino, dai segni del flagello al chiodo nel polso e alla ferita al costato, mostrata sul telo accanto al testo del Vangelo.",
       h1: "Le ferite, e che cosa dicono i Vangeli",
       lede: "Clicca su un numero sul telo o su una ferita nell'elenco. Ogni segno è spiegato come lo descrivono i medici legali, accanto al versetto del Vangelo a cui corrisponde, con la nota dello scettico dove c'è.",
       front: "Fronte", back: "Retro", alt_front: "Immagine frontale dell'uomo della Sindone, vista in negativo", alt_back: "Immagine dorsale dell'uomo della Sindone, vista in negativo",
@@ -237,8 +237,8 @@ export default {
     },
 
     dating: {
-      title: "Datazione al carbonio della Sindone di Torino: i risultati del 1988 e il dibattito | Se io non vedo",
-      description: "La datazione al radiocarbonio della Sindone di Torino del 1988 diede 1260-1390 d.C. Guarda tutte le 12 misure dei laboratori, da dove venne il campione, le rianalisi dei dati grezzi e gli altri metodi di datazione.",
+      title: "Datazione al carbonio della Sindone di Torino e il dibattito | Se io non vedo",
+      description: "La datazione al radiocarbonio della Sindone di Torino del 1988 diede 1260-1390 d.C. Le 12 misure, l'origine del campione, le rianalisi e gli altri metodi.",
       h1: "La datazione al carbonio",
       lede: "È il singolo argomento più forte a favore dell'origine medievale della Sindone, e merita un esame attento. Ecco che cosa fu fatto, che cosa si trovò, che cosa hanno trovato i critici in seguito, e che cosa dimostra e non dimostra.",
       compareH: "Tutte le date mai proposte, su una sola linea",
@@ -267,7 +267,7 @@ export default {
 
     image: {
       title: "Come si è formata l'immagine della Sindone di Torino? | Se io non vedo",
-      description: "Pittura, bruciatura, sfregamento, fotografia primitiva, una reazione chimica o un lampo di luce? Tutte le ipotesi sull'immagine della Sindone di Torino, con ciò che spiegano e dove falliscono.",
+      description: "Tutte le ipotesi sull'immagine della Sindone di Torino, dalla pittura alla bruciatura fino a un lampo di luce, con ciò che spiegano e dove falliscono.",
       h1: "Come si è formata l'immagine?",
       lede: "È la questione aperta più profonda sulla Sindone. Qualsiasi spiegazione, naturale o no, deve rendere conto di un elenco di proprietà molto strane. Eccole, seguite da tutte le principali ipotesi e dai loro problemi.",
       propsH: "Ciò di cui ogni spiegazione deve rendere conto",
@@ -323,8 +323,8 @@ export default {
     },
 
     timeline: {
-      title: "Cronologia della Sindone di Torino: la storia da Lirey a oggi | Se io non vedo",
-      description: "Una cronologia interattiva della Sindone di Torino: la storia antica ipotizzata, la documentazione dal 1354 circa, gli incendi, le fotografie e i test scientifici.",
+      title: "Cronologia della Sindone di Torino: da Lirey a oggi | Se io non vedo",
+      description: "Cronologia interattiva della Sindone di Torino: la storia antica ipotizzata, la documentazione dal 1354 circa, gli incendi, le foto e i test scientifici.",
       h1: "Cronologia",
       lede: "La storia documentata della Sindone comincia in Francia intorno al 1354. Prima di allora, la sua storia è un'ipotesi, costruita su immagini e testi che potrebbero descrivere o non descrivere questo telo. La cronologia tiene separate le due cose.",
       tracks: { cloth: "Il telo", science: "Scienza", church: "Chiesa", world: "Mondo" },
@@ -345,8 +345,8 @@ export default {
     },
 
     videos: {
-      title: "Video sulla Sindone di Torino, verificati affermazione per affermazione | Se io non vedo",
-      description: "Tre video popolari sulla Sindone di Torino, verificati affermazione per affermazione con i minutaggi: che cosa regge, che cosa è contestato e che cosa è sbagliato.",
+      title: "Video sulla Sindone di Torino: affermazioni verificate | Se io non vedo",
+      description: "Tre video popolari sulla Sindone di Torino, verificati affermazione per affermazione: che cosa regge, che cosa è contestato e che cosa è sbagliato.",
       h1: "Video popolari, verificati",
       lede: "La maggior parte delle persone conosce la Sindone attraverso i video. Ne abbiamo guardati tre molto popolari dall'inizio alla fine, comprese le trascrizioni, e ne abbiamo verificato le affermazioni principali. Diverse sono eccellenti. Alcune sono sbagliate. Clicca su un orario per saltare a quel momento.",
       play: "Riproduci il video (carica YouTube)", watch: "Guarda su YouTube",
@@ -355,8 +355,8 @@ export default {
       missingAfter: `Un'argomentazione onesta deve fare i conti anche con questi punti. Li trovi tutti nel <a href="evidence.html">fascicolo</a>.`
     },
     library: {
-      title: "Biblioteca di ricerca sulla Sindone di Torino: articoli e studi | Se io non vedo",
-      description: "Una biblioteca consultabile di articoli scientifici, studi e testi sulla Sindone di Torino, a favore e contro, con link diretti agli originali su shroud.com e sulle riviste.",
+      title: "Biblioteca di ricerca sulla Sindone di Torino | Se io non vedo",
+      description: "Biblioteca consultabile di articoli e studi sulla Sindone di Torino, a favore e contro, con link diretti agli originali su shroud.com e sulle riviste.",
       h1: "Biblioteca",
       lede: "Più di 2.400 articoli, studi, testi e notiziari, quasi tutti dall'archivio di shroud.com, che Barrie Schwortz creò e curò dagli anni Novanta fino alla sua morte nel 2024. Comincia dalle 25 letture chiave, poi cerca per parola, filtra per argomento e vai direttamente all'originale.",
       keyH: "Comincia da qui: 25 letture chiave, da entrambe le parti", keyLede: "Scelte perché un lettore scettico incontri il lavoro più solido di ciascuna parte, più o meno nell'ordine in cui si è svolto il dibattito.", allH: "La biblioteca completa",
@@ -372,7 +372,7 @@ export default {
 
     next: {
       title: "E adesso? Dopo la Sindone di Torino | Se io non vedo",
-      description: "Hai visto le prove sulla Sindone di Torino. Che tu dubiti, ti interroghi o creda, ecco i passi successivi onesti.",
+      description: "E adesso, dopo la Sindone di Torino? Hai visto le prove. Che tu dubiti, ti interroghi o creda, ecco alcuni passi successivi onesti per continuare.",
       h1: "E adesso?",
       lede: "Qualunque sia la tua conclusione dopo aver esaminato le prove, c'è un passo successivo sensato. Nessuno di questi passi ti chiede di fingere più certezza di quella che hai.",
       paths: [
@@ -386,7 +386,7 @@ export default {
     },
     about: {
       title: "Chi siamo: perché esiste «Se io non vedo» | Se io non vedo",
-      description: "«Se io non vedo» è un sito gratuito e senza scopo di lucro sulla Sindone di Torino. Come valutiamo le prove, da dove vengono le nostre immagini e chi lo ha realizzato.",
+      description: "«Se io non vedo» è un sito gratuito e senza scopo di lucro sulla Sindone di Torino. Come valutiamo le prove, da dove vengono le immagini e chi lo ha fatto.",
       h1: "Informazioni su questo sito",
       lede: "Perché esiste, come lavoriamo e da dove viene tutto ciò che contiene.",
       body: `<h2>Perché esiste questo sito</h2>
