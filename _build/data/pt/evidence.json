@@ -487,6 +487,11 @@
    "strength_reason": "Boa física de laboratório, mas sem evidência de que tal fonte existiu; o número de watts não deve ser usado como “prova”.",
    "sources": [
     {
+     "label": "Di Lazzaro et al. 2012, Applied Optics 51(36):8567-8578",
+     "url": "https://doi.org/10.1364/AO.51.008567",
+     "type": "peer-reviewed"
+    },
+    {
      "label": "Di Lazzaro et al. 2010, anais do encontro de trabalho da ENEA em Frascati",
      "url": "https://www.sindone.info/DILAZZA1.PDF",
      "type": "peer-reviewed"
@@ -656,7 +661,7 @@
    "title": "A bilirrubina alta mantém o sangue vermelho",
    "claim": "Adler argumentou que uma bilirrubina muito alta, causada por um trauma grave, explica por que o sangue antigo parece vermelho, e não preto.",
    "detail": "Heller e Adler (1981) relataram cor de azobilirrubina em algumas partículas de sangue e um pico espectral perto de 450 nm. Adler disse que a bilirrubina misturada com metemoglobina teria aparência vermelha.",
-   "skeptic": "A bilirrubina é laranja e instável diante da luz e do oxigênio. Nenhuma quantidade foi medida de forma adequada, e um teste de 2010, segundo relatos, não encontrou diferença de cor após quatro meses entre sangue normal e sangue com bilirrubina alta. O sangue “vermelho demais” é, em si, um argumento cético a favor da tinta.",
+   "skeptic": "A bilirrubina é laranja e instável diante da luz e do oxigênio. Nenhuma quantidade foi medida de forma adequada, e um teste de 2010, segundo relatos, não encontrou diferença de cor após quatro meses entre sangue normal e sangue com bilirrubina alta. O sangue “vermelho demais” é, em si, um argumento cético a favor da tinta. Um artigo de 2017 na PLOS ONE, de Carlino e colegas, que afirmava que nanopartículas numa única fibra do Sudário mostravam um trauma grave, foi retratado pela revista em julho de 2018, apesar das objeções dos autores, porque os dados e os controles não sustentavam as suas conclusões.",
    "reply": "Não há uma réplica forte; a cor vermelha é uma questão em aberto.",
    "strength": "weak",
    "strength_reason": "Nunca quantificado nem confirmado experimentalmente.",
@@ -670,6 +675,11 @@
      "label": "Discussão das evidências sobre a bilirrubina, 2015",
      "url": "https://shroudstory.com/2015/03/28/is-bilirubin-still-accepted-as-an-explanation-for-the-red-blood/",
      "type": "website"
+    },
+    {
+     "label": "Retraction Watch 2018, retratação de Carlino et al. 2017 pela PLOS ONE",
+     "url": "https://retractionwatch.com/2018/07/19/over-authors-objections-plos-one-retracts-paper-claiming-shroud-of-turin-showed-evidence-of-trauma",
+     "type": "news"
     }
    ],
    "lean": "for"
@@ -1338,6 +1348,206 @@
     }
    ],
    "lean": "neutral"
+  },
+  {
+   "id": "radiocarbon-protocol-1986",
+   "exhibit": 46,
+   "category": "dating",
+   "title": "O teste de 1988 foi mais restrito que o plano de 1986",
+   "claim": "O teste de radiocarbono se afastou do protocolo acordado em 1986: sete laboratórios de dois tipos foram reduzidos a três de um só tipo, e o teste cego foi abandonado, de modo que o teste realmente feito foi mais fraco que o planejado.",
+   "detail": "O próprio artigo da Nature registra a mudança. Numa reunião em Turim, em setembro e outubro de 1986, sete laboratórios de radiocarbono (cinco de AMS e dois pequenos laboratórios de contador a gás) recomendaram um protocolo para datar o pano. Em outubro de 1987, o arcebispo de Turim, seguindo instruções da Santa Sé, escolheu as propostas de apenas três laboratórios de AMS: Arizona, Oxford e Zurique. Como o pano tinha sido exposto a muitas possíveis fontes de contaminação, a Nature diz que “decidiu-se abandonar os procedimentos de teste cego em favor de um pré-tratamento eficaz das amostras”. Os laboratórios não foram informados de qual recipiente continha a amostra do Sudário, mas o artigo admite que a sua trama em espinha de peixe 3:1 não podia ser reproduzida nos controles, de modo que um laboratório podia reconhecê-la. Em Oxford e Zurique, as amostras foram recodificadas depois da combustão, para que a equipe que fazia as medições não soubesse qual era qual. Harry Gove, um pioneiro da datação por AMS, escreveu em 1990 que os procedimentos “diferiram substancialmente” dos que o encontro de trabalho tinha recomendado.",
+   "skeptic": "Nada disso torna o resultado errado. Três laboratórios trabalharam de forma independente, cada um com sua própria limpeza e medição, e os três controles deram certo. De qualquer forma, um teste realmente cego era impossível, porque nenhum tecido de controle tinha a mesma trama, e a recodificação em dois laboratórios manteve cega a etapa da medição. Gove, que apontou as mudanças, ainda considerou os resultados confiáveis. Ter menos laboratórios limita sobretudo quanta verificação cruzada era possível, e não se o carbono foi medido corretamente.",
+   "reply": "O ponto justo é restrito, e o site não deve afirmar mais do que isso. A mudança no plano não desloca a data. Ela importa porque o teste final dependeu de uma única tira de um canto, medida por laboratórios que podiam saber qual amostra era o Sudário. É por isso que a constatação posterior de que os 12 resultados não concordam bem entre si recebe atenção séria, e é por isso que continuam os pedidos de um novo teste com mais amostras.",
+   "strength": "moderate",
+   "strength_reason": "Documentado no próprio artigo da Nature, mas mostra um teste mais restrito que o planejado, não um resultado errado.",
+   "sources": [
+    {
+     "label": "Damon et al. 1989, Nature 337:611",
+     "url": "https://doi.org/10.1038/337611a0",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Damon et al. 1989, cópia do texto completo",
+     "url": "https://shroud.com/nature.htm",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Gove 1990, Radiocarbon 32(1):87-92",
+     "url": "https://doi.org/10.1017/S0033822200039990",
+     "type": "peer-reviewed"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "no-spices-or-decay-products",
+   "exhibit": 47,
+   "category": "other",
+   "title": "Não se encontraram especiarias funerárias nem substâncias do corpo",
+   "claim": "Os testes químicos do STURP não encontraram nenhum vestígio de especiarias, óleos ou substâncias que um corpo produz em vida ou depois da morte, embora o Evangelho de João diga que o corpo foi envolto com cerca de cem libras romanas de mirra e aloés.",
+   "detail": "O resumo de 1981 do STURP diz que a avaliação microquímica “não indicou nenhuma evidência de especiarias, óleos ou de quaisquer substâncias bioquímicas que se saiba que o corpo produz em vida ou na morte”. João 19:39-40 diz que Nicodemos trouxe uma mistura de mirra e aloés, de cerca de cem libras romanas, e que o corpo foi envolto em panos de linho com as especiarias. Os dois lados usam esse resultado negativo e o leem de maneiras opostas.",
+   "skeptic": "Um pano que envolveu um cadáver com tanta especiaria deveria ter vestígios dela, e um pano que conteve um corpo morto também deveria ter vestígios do corpo. Não encontrar nenhum dos dois é o que se esperaria de um pano que nunca tocou um corpo. O sangue é o único material do corpo relatado, e um falsificador poderia acrescentar sangue.",
+   "reply": "Os defensores da autenticidade respondem que as especiarias podem ter sido colocadas ao redor do corpo ou no túmulo, sem impregnar este pano, e que os testes de 1978 foram feitos em fibras de superfície retiradas com fita adesiva, o que pode deixar passar vestígios pequenos. Alguns deles também leem a ausência de produtos da decomposição como sinal de que o corpo deixou o pano cedo. Isso é uma inferência, não uma medição, e este site não a conta como evidência.",
+   "strength": "moderate",
+   "strength_reason": "Um resultado negativo documentado por testes diretos, mas de pequenas amostras de superfície, e cada lado o lê de forma diferente.",
+   "sources": [
+    {
+     "label": "Resumo das conclusões do STURP, 1981",
+     "url": "https://www.shroud.com/78conclu.htm",
+     "type": "official"
+    },
+    {
+     "label": "João 19:39-40, World English Bible",
+     "url": "https://ebible.org/eng-web/JHN19.htm",
+     "type": "website"
+    }
+   ],
+   "lean": "neutral"
+  },
+  {
+   "id": "crucifixion-archaeology",
+   "exhibit": 48,
+   "category": "anatomy",
+   "title": "O que a arqueologia mostra sobre a crucificação",
+   "claim": "Dois esqueletos escavados dão evidência física da crucificação na época romana. Nos dois, um cravo de ferro atravessou de lado o osso do calcanhar direito, e os dois homens receberam um sepultamento normal.",
+   "detail": "Em 1968, operários de uma obra em Giv'at ha-Mivtar, em Jerusalém, descobriram um túmulo familiar judaico. Um ossuário com a inscrição “Yehohanan, filho de Hagkol” guardava um osso do calcanhar direito ainda atravessado por um cravo de ferro, com uma plaquinha de madeira de oliveira sob a cabeça do cravo. O primeiro estudo (1970) descreveu os dois calcanhares cravados juntos, os antebraços cravados e as pernas quebradas. Zias e Sekeles (1985) corrigiram isso: o cravo tem cerca de 11,5 cm e atravessou só o calcanhar direito, de lado; a fratura da perna aconteceu depois da morte; e os braços provavelmente foram amarrados, e não cravados. Em 2017, uma escavação em Fenstanton, no condado de Cambridgeshire, encontrou um homem que morreu entre 130 e 360 d.C. com um cravo de ferro de 5 cm enfiado horizontalmente no osso do calcanhar direito. Ele foi sepultado no cemitério do povoado como os demais. A equipe de Cambridge diz que evidências de crucificação em esqueletos são extremamente raras.",
+   "skeptic": "As duas vítimas reais tinham um cravo na lateral do calcanhar, enquanto o Sudário mostra uma perfuração perto do meio da planta do pé direito. Com apenas dois esqueletos, fica claro que a crucificação variava, então as feridas do Sudário não podem ser comparadas em detalhe com a prática romana. Os sepultamentos só mostram que um crucificado podia ser sepultado de forma adequada, o que combina com os Evangelhos, e não com este pano em particular.",
+   "reply": "Isso é justo, e as descobertas pesam para os dois lados. Elas corrigem a ideia popular de que os crucificados eram sempre jogados em valas comuns, então um sepultamento adequado num lençol de linho é historicamente possível. E, se os métodos variavam, um cravo na planta do pé também não está descartado. Essas descobertas são contexto para o debate, não evidência a favor ou contra o pano.",
+   "strength": "strong",
+   "strength_reason": "Estudos de ossos revisados por pares e o relatório de uma escavação universitária. Descrevem a crucificação, não este pano.",
+   "sources": [
+    {
+     "label": "Biblical Archaeology Review sobre Zias e Sekeles 1985, Israel Exploration Journal 35(1):22-27",
+     "url": "https://library.biblicalarchaeology.org/department/scholars-corner-new-analysis-of-the-crucified-man",
+     "type": "website"
+    },
+    {
+     "label": "Biblical Archaeology Society, métodos romanos de crucificação",
+     "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/crucifixion/roman-crucifixion-methods-reveal-the-history-of-crucifixion/",
+     "type": "website"
+    },
+    {
+     "label": "Wikipédia: Jehohanan",
+     "url": "https://en.wikipedia.org/wiki/Jehohanan",
+     "type": "website"
+    },
+    {
+     "label": "Universidade de Cambridge 2021, Evidence of a Roman crucifixion found in Cambridgeshire",
+     "url": "https://www.cam.ac.uk/stories/romancrucifixion",
+     "type": "news"
+    }
+   ],
+   "lean": "neutral"
+  },
+  {
+   "id": "uv-fluorescence-1978",
+   "exhibit": 49,
+   "category": "image",
+   "title": "Sob luz ultravioleta a imagem não brilha, mas as queimaduras sim",
+   "claim": "Fotografias ultravioleta de 1978 mostram que a imagem do corpo não tem fluorescência, enquanto as queimaduras de 1532 têm, o que pesa contra uma queimadura, e que muitas marcas de sangue têm uma borda mais clara que os autores interpretam como soro sanguíneo.",
+   "detail": "Vernon Miller e Samuel Pellicori fotografaram o pano inteiro sob luz ultravioleta durante o exame de 1978 e publicaram os resultados no Journal of Biological Photography em 1981. Eles escrevem que “as queimaduras emitem uma fluorescência marrom-avermelhada, enquanto a imagem do corpo não é fluorescente”, e concluem que “hipóteses como a de uma queimadura ou a de tinta são contraditas pelos resultados da fotografia de fluorescência”. As áreas de sangue absorvem o ultravioleta, como o sangue total nos testes de laboratório deles. Também descrevem “a área de borda mais clara vista em muitas áreas com manchas de sangue”, inclusive bordas fluorescentes nas feridas das mãos e dos pés, e propõem a interpretação de que “há soro sanguíneo presente”. As bordas foram fotografadas, mas não testadas quimicamente.",
+   "skeptic": "Uma borda pálida em volta de uma mancha é o que aparece sempre que um líquido à base de água penetra num tecido: a água se espalha mais longe que a parte colorida e deixa uma marca de borda mais clara. Isso mostra que um líquido penetrou no pano, não que o soro se separou de um coágulo real. Quanto à imagem, não ter fluorescência descarta uma queimadura de alta temperatura como as de 1532, mas não diz nada sobre como ou quando a imagem foi feita. A coloração do linho com laser da ENEA, por exemplo, também não tem fluorescência.",
+   "reply": "O resultado sobre a queimadura é a parte mais forte e se mantém: a imagem não se comporta como as queimaduras do mesmo pano. A leitura do soro é uma interpretação, mas combina com o relatório do STURP de que as áreas de sangue dão positivo para albumina sérica. Os dois pontos ficariam mais fortes com imagens modernas e uma amostragem dirigida das bordas.",
+   "strength": "moderate",
+   "strength_reason": "Fotografias sólidas de um estudo direto. O ponto contra uma queimadura é claro; o “soro” é uma interpretação.",
+   "sources": [
+    {
+     "label": "Miller e Pellicori 1981, Journal of Biological Photography 49(3):71-85",
+     "url": "https://www.shroud.com/pdfs/UV%20Fluorescence%20Miller%20Pellicori%201981%20OCRsm.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Resumo das conclusões do STURP, 1981",
+     "url": "https://www.shroud.com/78conclu.htm",
+     "type": "official"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "xray-no-image",
+   "exhibit": 50,
+   "category": "image",
+   "title": "Os raios X mostram a trama, mas nenhuma imagem do corpo",
+   "claim": "Radiografias feitas em 1978 mostram a trama, os remendos e as bordas das manchas de água, mas nenhum vestígio da imagem do corpo, o que descarta uma camada densa de tinta ou pigmento.",
+   "detail": "Mottern, London e Morris radiografaram o pano em 1978 e relataram na Materials Evaluation que “os detalhes das duas imagens do corpo, das manchas de sangue e das marcas de queimadura não são discerníveis nas radiografias”, enquanto aparecem a trama em espinha de peixe, o forro, os remendos e áreas densas em forma de anel que correspondem às manchas de água. Schwalbe e Rogers (1982) resumem: “Não se pôde observar em nenhum lugar nenhuma descontinuidade de densidade correspondente à imagem visível do corpo”, embora a trama e as variações de densidade do pano “sejam facilmente visíveis em todas as radiografias”.",
+   "skeptic": "A radiografia é uma ferramenta grosseira para essa questão. Os próprios Schwalbe e Rogers dizem que a sua sensibilidade ao óxido de ferro e a pigmentos semelhantes é cerca de dez vezes menor que a da fluorescência de raios X. As radiografias também não mostram as marcas de sangue, que contêm ferro, então não mostrariam uma aguada fina de ocre do tipo que McCrone descreveu. Elas descartam uma camada espessa de tinta, não uma diluída.",
+   "reply": "Correto, e a afirmação deve ficar restrita a isso. Os testes mais sensíveis apontam na mesma direção: o resumo do STURP diz que a fluorescência de raios X e a microquímica nas fibrilas “excluem a possibilidade de tinta” como fonte da imagem. As radiografias acrescentam uma linha independente de evidência de que não há uma camada espessa de pigmento.",
+   "strength": "moderate",
+   "strength_reason": "Imagens diretas e documentadas, mas, sozinhas, não são sensíveis o bastante para descartar uma aguada fina de pigmento.",
+   "sources": [
+    {
+     "label": "Mottern, London e Morris, Materials Evaluation 38(12):39-44",
+     "url": "https://www.shroud.com/pdfs/Radiographic%20Examination%20Preliminary%20Report%20Mottern%20London%20Morris%201979%20OCRsm.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Schwalbe e Rogers 1982, Analytica Chimica Acta 135:3-49",
+     "url": "https://shroud.com/pdfs/Physics%20Chemistry%20of%20Shroud%20Schwalbe%20Rogers%201981%20OCRsm.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Resumo das conclusões do STURP, 1981",
+     "url": "https://www.shroud.com/78conclu.htm",
+     "type": "official"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "icon-face-comparison",
+   "exhibit": 51,
+   "category": "history",
+   "title": "Os primeiros ícones de Cristo têm detalhes em comum com o rosto do Sudário",
+   "claim": "Os defensores da autenticidade argumentam que o rosto padrão de Cristo na arte bizantina, desde mais ou menos o século VI, copia detalhes estranhos do rosto do Sudário, então o pano já devia existir e ter sido visto nessa época.",
+   "detail": "No fim da década de 1930, Paul Vignon listou traços incomuns que muitos ícones têm em comum com o rosto do Sudário, como uma marca de forma quadrada entre as sobrancelhas; eles ficaram conhecidos como as marcas de Vignon. Mais tarde, Alan e Mary Whanger desenvolveram uma forma de comparar dois rostos projetando-os através de filtros polarizadores, publicada na Applied Optics em 1985. Esse artigo descreve só o método; os resultados deles vêm de trabalhos posteriores apresentados em congressos. Neles, relatam cerca de 250 “pontos de congruência” entre o rosto do Sudário e o ícone do Cristo Pantocrator do século VI do mosteiro de Santa Catarina, no Sinai, e 145 com uma moeda de ouro de Justiniano II (692-695 d.C.), contra um limite de 45 a 60 que eles tiram da comparação forense de rostos.",
+   "skeptic": "A ligação pode ir no sentido contrário. Um artesão do século XIV naturalmente copiaria o rosto de Cristo que a arte bizantina usava havia uns 800 anos, então uma coincidência também é esperada numa falsificação. As marcas são apontadas a posteriori, em traços tênues e borrados. Hugh Farey, lendo o próprio texto de Vignon, mostra que a lista popular inclui marcas que Vignon nunca citou, e que Vignon tratava quase qualquer semelhança como prova de cópia enquanto minimizava as diferenças. Os pontos de congruência são contados pelos mesmos pesquisadores que propõem a ligação, e os limites forenses nunca foram pensados para pinturas.",
+   "reply": "O sentido da cópia é um problema real, e as sobreposições não conseguem resolvê-lo. O ponto mais restrito que os defensores da autenticidade podem levantar é que o ícone do Sinai e as moedas de Justiniano II são datados de séculos antes de 1350; então, se algum detalhe neles só pudesse vir do Sudário, o pano seria mais antigo que a sua data de radiocarbono. Até agora, esse argumento depende do julgamento de quem faz a comparação.",
+   "strength": "disputed",
+   "strength_reason": "As imagens antigas são reais, mas saber se elas copiam o Sudário depende de uma comparação subjetiva, e um falsificador que copiasse ícones produziria a mesma coincidência.",
+   "sources": [
+    {
+     "label": "Whanger e Whanger 1985, Applied Optics 24(6):766-772",
+     "url": "https://doi.org/10.1364/AO.24.000766",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "M. Whanger 2000, The Impact of the Shroud Face on Art Work, congresso Sindone 2000",
+     "url": "https://www.shroud.com/pdfs/orvWHANGER%20M.%20Paper%20English.PDF",
+     "type": "website"
+    },
+    {
+     "label": "Farey 2019, The Vignon Markings, according to Paul Vignon himself",
+     "url": "https://www.shroud.com/pdfs/anc-farey-pap2.pdf",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "against-mesarites-1201",
+   "exhibit": 52,
+   "category": "history",
+   "title": "Em 1201, os panos funerários do palácio foram descritos sem imagem",
+   "claim": "Os céticos argumentam: o guardião das relíquias imperiais em Constantinopla descreveu em 1201 os panos funerários de Jesus como linho simples e barato que cheirava a mirra, sem imagem, o que torna improvável que houvesse ali um pano com uma imagem de corpo inteiro.",
+   "detail": "Durante a revolta palaciana fracassada de João Comneno, em 1201 (alguns estudiosos a datam de 1200), Nicolau Mesarites, guardião dos objetos sagrados das igrejas do Grande Palácio, defendeu a igreja de relíquias da Virgem do Farol. O seu relato da revolta inclui uma lista das relíquias dessa igreja: “As mortalhas de Jesus; são de linho, um tecido barato, e ainda cheiram a mirra”. Ele não diz nada sobre uma imagem nelas. Na mesma lista, ele descreve, sim, uma imagem de Cristo “impressa numa toalha”, uma relíquia separada. O texto grego foi editado por August Heisenberg em 1907; um trecho em inglês saiu na Shroud Spectrum International em 1985.",
+   "skeptic": "Trata-se de uma testemunha ocular que cuidava dessas relíquias, escrevendo na mesma lista em que fez questão de registrar uma imagem numa toalha. Se os panos tivessem uma figura de corpo inteiro do Cristo crucificado, essa teria sido a coisa mais marcante neles. Os panos simples que ele descreve também enfraquecem o relato de Robert de Clari, dois ou três anos depois, sobre um sudário na cidade que mostrava a figura do Senhor.",
+   "reply": "Mesarites estava escrevendo um discurso retórico, uma lista que ele chama de decálogo de relíquias, com uma ou duas frases para cada uma, e não uma descrição de cada objeto; por isso, o seu silêncio sobre uma imagem é uma evidência fraca. Ele usa o plural, “mortalhas”, e pode estar falando de vários panos. A passagem mostra, sim, que panos venerados como os panos funerários de Jesus eram guardados no palácio em 1201, algo de que as hipóteses de Edessa e de Robert de Clari precisam. Ela não pode mostrar se um deles era este Sudário.",
+   "strength": "moderate",
+   "strength_reason": "Um texto de primeira mão do próprio guardião das relíquias, mas um argumento a partir do silêncio numa lista retórica curta.",
+   "sources": [
+    {
+     "label": "Mesarites, The Palace Revolution of John Comnenus (trechos), Shroud Spectrum International 17, 1985",
+     "url": "https://www.shroud.com/pdfs/ssi17part4.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Wikipédia: John Komnenos the Fat",
+     "url": "https://en.wikipedia.org/wiki/John_Komnenos_the_Fat",
+     "type": "website"
+    }
+   ],
+   "lean": "against"
   }
  ]
 }

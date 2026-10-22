@@ -2,7 +2,7 @@
 export default {
   brand: 'Unless I See',
   locale: 'en_US',
-  keywords: 'Shroud of Turin, Turin Shroud, Shroud of Turin evidence, Shroud of Turin carbon dating, Shroud of Turin negative image, Shroud of Turin 3D, is the Shroud of Turin real, Jesus burial cloth, sindonology, Sábana Santa de Turín, STURP, Secondo Pia',
+  keywords: 'Shroud of Turin explained, Shroud of Jesus, Holy Shroud, is the Shroud of Turin real, is the Shroud of Turin authentic, Shroud of Turin real or fake, evidence the Shroud of Turin is authentic, evidence against the Shroud of Turin, the evidence behind the Shroud, Shroud of Turin facts, Shroud of Turin FAQ, Shroud of Turin, Turin Shroud, Shroud of Turin evidence, Shroud of Turin carbon dating, Shroud of Turin negative image, Shroud of Turin 3D, Jesus burial cloth, sindonology, Sábana Santa de Turín, STURP, Secondo Pia',
   shareAlt: 'The face on the Shroud of Turin as a photographic negative',
   orgDescription: 'Unless I See is a free, non-commercial educational project that presents the evidence for and against the authenticity of the Shroud of Turin, with sources, in many languages.',
   ui: {

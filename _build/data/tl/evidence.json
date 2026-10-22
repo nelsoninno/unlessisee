@@ -487,6 +487,11 @@
    "strength_reason": "Mahusay na pisika sa laboratoryo pero walang ebidensiya na umiral ang ganoong pinagmulan; hindi dapat gamitin ang bilang ng watts bilang 'patunay'.",
    "sources": [
     {
+     "label": "Di Lazzaro et al. 2012, Applied Optics 51(36):8567-8578",
+     "url": "https://doi.org/10.1364/AO.51.008567",
+     "type": "peer-reviewed"
+    },
+    {
      "label": "Di Lazzaro et al. 2010, proceedings ng workshop ng ENEA Frascati",
      "url": "https://www.sindone.info/DILAZZA1.PDF",
      "type": "peer-reviewed"
@@ -656,7 +661,7 @@
    "title": "Pinananatiling pula ng mataas na bilirubin ang dugo",
    "claim": "Ikinatwiran ni Adler na ang napakataas na bilirubin, dahil sa matinding trauma, ang nagpapaliwanag kung bakit mukhang pula ang lumang dugo sa halip na itim.",
    "detail": "Iniulat nina Heller at Adler (1981) ang kulay ng azobilirubin sa ilang partikulo ng dugo at isang spectral peak malapit sa 450 nm. Sinabi ni Adler na magmumukhang pula ang bilirubin kapag nahalo sa methemoglobin.",
-   "skeptic": "Kulay-kahel ang bilirubin at hindi matatag sa liwanag at oxygen. Hindi kailanman nasukat nang maayos ang dami nito, at isang pagsusuri noong 2010 ang iniulat na walang nakitang pagkakaiba ng kulay pagkalipas ng apat na buwan sa pagitan ng normal na dugo at dugong mataas ang bilirubin. Ang dugong 'sobrang pula' ay argumento mismo ng mga skeptic na pintura ito.",
+   "skeptic": "Kulay-kahel ang bilirubin at hindi matatag sa liwanag at oxygen. Hindi kailanman nasukat nang maayos ang dami nito, at isang pagsusuri noong 2010 ang iniulat na walang nakitang pagkakaiba ng kulay pagkalipas ng apat na buwan sa pagitan ng normal na dugo at dugong mataas ang bilirubin. Ang dugong 'sobrang pula' ay argumento mismo ng mga skeptic na pintura ito. Isang papel noong 2017 sa PLOS ONE nina Carlino at mga kasama, na nagsabing ipinakikita ng mga nanoparticle sa iisang hibla ng Shroud ang matinding trauma, ang binawi ng journal noong Hulyo 2018 sa kabila ng pagtutol ng mga awtor, dahil hindi sinusuportahan ng data at ng mga control ang mga konklusyon nito.",
    "reply": "Walang matibay na sagot; bukas na tanong pa ang pulang kulay.",
    "strength": "weak",
    "strength_reason": "Hindi kailanman nasukat ang dami o nakumpirma sa eksperimento.",
@@ -670,6 +675,11 @@
      "label": "Talakayan tungkol sa ebidensiya ng bilirubin, 2015",
      "url": "https://shroudstory.com/2015/03/28/is-bilirubin-still-accepted-as-an-explanation-for-the-red-blood/",
      "type": "website"
+    },
+    {
+     "label": "Retraction Watch 2018, binawi ng PLOS ONE ang Carlino et al. 2017",
+     "url": "https://retractionwatch.com/2018/07/19/over-authors-objections-plos-one-retracts-paper-claiming-shroud-of-turin-showed-evidence-of-trauma",
+     "type": "news"
     }
    ],
    "lean": "for"
@@ -1338,6 +1348,206 @@
     }
    ],
    "lean": "neutral"
+  },
+  {
+   "id": "radiocarbon-protocol-1986",
+   "exhibit": 46,
+   "category": "dating",
+   "title": "Mas makitid ang pagsusuri noong 1988 kaysa sa plano noong 1986",
+   "claim": "Lumihis ang radiocarbon test sa protocol na pinagkasunduan noong 1986: ang pitong laboratoryo na may dalawang uri ay ginawang tatlong laboratoryo na iisa ang uri, at tinanggal ang blind testing, kaya mas mahina ang pagsusuring aktuwal na isinagawa kaysa sa pinlano.",
+   "detail": "Ang papel mismo sa Nature ang nagtala ng pagbabago. Sa isang pulong sa Turin noong Setyembre at Oktubre 1986, nagrekomenda ang pitong radiocarbon laboratory (limang AMS at dalawang maliit na laboratoryong gas-counter) ng isang protocol para sa pagpetsa ng tela. Noong Oktubre 1987, ang Arsobispo ng Turin, ayon sa tagubilin ng Holy See, ay pumili ng alok ng tatlong AMS laboratory lamang: Arizona, Oxford at Zurich. Dahil nalantad ang tela sa maraming posibleng pinagmulan ng kontaminasyon, sinasabi ng Nature na 'napagpasyahang iwanan ang mga blind-test procedure alang-alang sa mabisang pretreatment ng sample.' Hindi sinabi sa mga laboratoryo kung aling lalagyan ang may sample ng Shroud, pero inaamin ng papel na walang control na katugma ng 3:1 herringbone na habi nito, kaya makikilala ito ng isang laboratoryo. Sa Oxford at Zurich, binigyan muli ng code ang mga sample pagkatapos ng combustion, kaya hindi alam ng mga gumagawa ng pagsukat kung alin ang alin. Isinulat ni Harry Gove, isang pioneer ng AMS dating, noong 1990 na ang mga pamamaraan ay 'malaki ang pagkakaiba' sa mga inirekomenda ng workshop.",
+   "skeptic": "Wala sa mga ito ang nagpapamali sa resulta. Nagtrabaho nang magkakahiwalay ang tatlong laboratoryo, bawat isa may sariling paglilinis at pagsukat, at tama ang lumabas sa lahat ng tatlong control. Imposible rin naman ang tunay na blind test, dahil walang control na tela na may parehong habi, at ang muling pag-code sa dalawang laboratoryo ang nagpanatiling blind sa hakbang ng pagsukat. Si Gove mismo, na nagturo sa mga pagbabago, ay naniwala pa ring kapani-paniwala ang mga resulta. Ang mas kaunting laboratoryo ay pangunahing naglilimita kung gaano karaming cross-checking ang posible, hindi kung tama ang pagkakasukat sa carbon.",
+   "reply": "Makitid ang makatwirang punto, at hindi dapat mag-angkin ng higit pa ang site. Hindi inililipat ng pagbabago sa disenyo ang petsa. Mahalaga ito dahil ang huling pagsusuri ay nakasandal sa iisang piraso mula sa iisang sulok, na sinukat ng mga laboratoryong kayang makilala kung aling sample ang Shroud. Iyan ang dahilan kung bakit sineseryoso ang natuklasan kalaunan na hindi gaanong nagkakatugma ang 12 resulta, at kung bakit nagpapatuloy ang mga panawagan para sa bagong pagsusuri na may mas maraming sample.",
+   "strength": "moderate",
+   "strength_reason": "Nakatala sa papel mismo sa Nature, pero ipinakikita nito ang mas makitid na pagsusuri kaysa sa pinlano, hindi isang maling resulta.",
+   "sources": [
+    {
+     "label": "Damon et al. 1989, Nature 337:611",
+     "url": "https://doi.org/10.1038/337611a0",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Damon et al. 1989, kopya ng buong teksto",
+     "url": "https://shroud.com/nature.htm",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Gove 1990, Radiocarbon 32(1):87-92",
+     "url": "https://doi.org/10.1017/S0033822200039990",
+     "type": "peer-reviewed"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "no-spices-or-decay-products",
+   "exhibit": 47,
+   "category": "other",
+   "title": "Walang natagpuang pabango sa paglilibing o kemikal mula sa katawan",
+   "claim": "Walang nakitang bakas ang mga kemikal na pagsusuri ng STURP ng mga pabango, langis o sangkap na nililikha ng katawan habang buhay o pagkamatay, kahit sinasabi ng Ebanghelyo ni Juan na binalot ang katawan kasama ang mga isang daang librang Romano ng mira at aloe.",
+   "detail": "Sinasabi ng buod ng STURP noong 1981 na ang microchemical na pagsusuri ay 'walang ipinakitang ebidensiya ng anumang pabango, langis, o anumang biochemical na kilalang nililikha ng katawan habang buhay o sa kamatayan.' Ayon sa Juan 19:39-40, nagdala si Nicodemo ng pinaghalong mira at aloe na mga isang daang librang Romano, at binalot ang katawan sa mga telang lino kasama ang mga pabango. Ginagamit ng magkabilang panig ang negatibong resultang ito, at magkasalungat ang pagbasa nila rito.",
+   "skeptic": "Ang telang bumalot sa isang bangkay kasama ang ganoon karaming pabango ay dapat may bakas nito, at ang telang naglaman ng patay na katawan ay dapat may bakas din ng katawan. Kapag wala ang alinman, iyan mismo ang aasahan sa isang telang hindi kailanman dumikit sa katawan. Dugo lamang ang materyal mula sa katawan na naiulat, at kayang magdagdag ng dugo ang isang manloloko.",
+   "reply": "Sagot ng mga tagasuporta na maaaring inilagay ang mga pabango sa paligid ng katawan o sa libingan sa halip na ibinabad sa telang ito, at na ang mga pagsusuri noong 1978 ay ginawa sa mga hibla sa ibabaw na inangat gamit ang sticky tape, na maaaring hindi makahuli ng maliliit na bakas. May ilang tagasuporta rin na bumabasa sa kawalan ng mga produkto ng pagkabulok bilang tanda na maagang umalis ang katawan sa tela. Hinuha iyan, hindi sukat, at hindi ito itinuturing ng site na ito na ebidensiya.",
+   "strength": "moderate",
+   "strength_reason": "Dokumentadong negatibong resulta mula sa direktang pagsusuri, pero mula sa maliliit na sample sa ibabaw, at magkaiba ang pagbasa rito ng bawat panig.",
+   "sources": [
+    {
+     "label": "Buod ng mga konklusyon ng STURP noong 1981",
+     "url": "https://www.shroud.com/78conclu.htm",
+     "type": "official"
+    },
+    {
+     "label": "Juan 19:39-40, World English Bible",
+     "url": "https://ebible.org/eng-web/JHN19.htm",
+     "type": "website"
+    }
+   ],
+   "lean": "neutral"
+  },
+  {
+   "id": "crucifixion-archaeology",
+   "exhibit": 48,
+   "category": "anatomy",
+   "title": "Ang ipinakikita ng arkeolohiya tungkol sa pagpapako sa krus",
+   "claim": "Dalawang nahukay na kalansay ang nagbibigay ng pisikal na ebidensiya ng pagpapako sa krus noong panahon ng mga Romano. Sa dalawa, isang pakong bakal ang tumagos nang patagilid sa buto ng kanang sakong, at kapwa nailibing nang normal ang dalawang lalaki.",
+   "detail": "Noong 1968, nahukay ng mga manggagawa sa konstruksiyon sa Giv'at ha-Mivtar sa Jerusalem ang libingan ng isang pamilyang Judio. Isang ossuary (kahon ng mga buto) na may nakasulat na 'Yehohanan na anak ni Hagkol' ang naglalaman ng buto ng kanang sakong na tinutusok pa rin ng isang pakong bakal, na may maliit na tabla ng kahoy ng olibo sa ilalim ng ulo ng pako. Inilarawan ng unang pag-aaral (1970) na magkasamang ipinako ang dalawang sakong, ipinako ang mga bisig at binali ang mga binti. Itinama ito nina Zias at Sekeles (1985): mga 11.5 cm ang haba ng pako at ang kanang sakong lamang ang tinusok nito, mula sa gilid; nangyari ang pagkabali ng binti pagkatapos ng kamatayan; at malamang na itinali ang mga braso sa halip na ipinako. Noong 2017, sa isang paghuhukay sa Fenstanton sa Cambridgeshire, natagpuan ang isang lalaking namatay sa pagitan ng AD 130 at 360 na may 5 cm na pakong bakal na nakabaon nang pahalang sa buto ng kanang sakong. Inihimlay siya sa sementeryo ng pamayanan gaya ng iba. Ayon sa grupo mula sa Cambridge, napakabihira ng ebidensiya ng pagpapako sa krus sa mga kalansay.",
+   "skeptic": "Sa dalawang tunay na biktima, tumagos ang pako sa gilid ng sakong, samantalang ipinakikita ng Shroud ang isang tusok malapit sa gitna ng talampakan ng kanang paa. Dahil dalawang kalansay lamang, malinaw na iba-iba ang paraan ng pagpapako sa krus, kaya hindi maitutugma nang detalyado ang mga sugat sa Shroud sa kaugaliang Romano. Ipinakikita lamang ng mga libing na maaaring ilibing nang maayos ang isang ipinako sa krus, na tugma sa mga Ebanghelyo, hindi sa telang ito partikular.",
+   "reply": "Makatwiran iyan, at may epekto ang mga natuklasang ito sa magkabilang panig. Itinatama nila ang popular na claim na laging itinatapon sa mga pangmaramihang libingan ang mga ipinako sa krus, kaya posible sa kasaysayan ang maayos na libing sa isang kumot na lino. At kung iba-iba ang mga paraan, hindi rin naaalis ang posibilidad ng pakong tumagos sa talampakan. Konteksto ang mga natuklasang ito para sa debate, hindi ebidensiya para o laban sa tela.",
+   "strength": "strong",
+   "strength_reason": "Peer-reviewed na mga pag-aaral sa buto at ulat ng paghuhukay ng isang unibersidad. Pagpapako sa krus ang inilalarawan nila, hindi ang telang ito.",
+   "sources": [
+    {
+     "label": "Biblical Archaeology Review tungkol kina Zias at Sekeles 1985, Israel Exploration Journal 35(1):22-27",
+     "url": "https://library.biblicalarchaeology.org/department/scholars-corner-new-analysis-of-the-crucified-man",
+     "type": "website"
+    },
+    {
+     "label": "Biblical Archaeology Society, Roman crucifixion methods",
+     "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/crucifixion/roman-crucifixion-methods-reveal-the-history-of-crucifixion/",
+     "type": "website"
+    },
+    {
+     "label": "Wikipedia: Jehohanan",
+     "url": "https://en.wikipedia.org/wiki/Jehohanan",
+     "type": "website"
+    },
+    {
+     "label": "University of Cambridge 2021, Evidence of a Roman crucifixion found in Cambridgeshire",
+     "url": "https://www.cam.ac.uk/stories/romancrucifixion",
+     "type": "news"
+    }
+   ],
+   "lean": "neutral"
+  },
+  {
+   "id": "uv-fluorescence-1978",
+   "exhibit": 49,
+   "category": "image",
+   "title": "Sa ilalim ng ultraviolet light, hindi kumikinang ang imahe, pero kumikinang ang mga marka ng sunog",
+   "claim": "Ipinakikita ng mga ultraviolet na litrato noong 1978 na hindi nagfu-fluoresce ang imahe ng katawan samantalang nagfu-fluoresce ang mga marka ng sunog noong 1532, na sumasalungat sa ideyang paso ang imahe, at na maraming marka ng dugo ang may mas maputing gilid na binabasa ng mga awtor bilang serum ng dugo.",
+   "detail": "Kinunan ng litrato nina Vernon Miller at Samuel Pellicori ang buong tela sa ilalim ng ultraviolet light noong pagsusuri noong 1978, at inilathala nila ang mga resulta sa Journal of Biological Photography noong 1981. Isinulat nila na 'naglalabas ng mapula-pulang kayumangging fluorescence ang mga marka ng sunog habang hindi nagfu-fluoresce ang imahe ng katawan,' at nagtapos sila na 'ang mga hipotesis gaya ng pagkapaso o pintura ay sinasalungat ng mga resulta ng fluorescence photography.' Sumisipsip ng ultraviolet ang mga bahaging may dugo, gaya ng buong dugo sa kanilang mga pagsusuri sa laboratoryo. Inilalarawan din nila 'ang mas maputing bahagi sa gilid na makikita sa maraming bahaging may mantsa ng dugo,' kabilang ang mga gilid na nagfu-fluoresce sa mga sugat sa kamay at paa, at iminumungkahi nila ang interpretasyong 'may serum ng dugo.' Kinunan ng litrato ang mga gilid, pero hindi sinuri sa kemikal na paraan.",
+   "skeptic": "Lumilitaw ang maputlang gilid sa paligid ng mantsa tuwing may likidong batay sa tubig na sumisipsip sa tela: mas lumalayo ang tubig kaysa sa may kulay na bahagi at nag-iiwan ng mas maputing guhit. Ipinakikita niyon na may likidong sumipsip, hindi na humiwalay ang serum mula sa tunay na namuong dugo. Tungkol naman sa imahe, inaalis ng kawalan ng fluorescence ang paso na mataas ang init gaya ng mga sunog noong 1532, pero wala itong sinasabi kung paano o kailan ginawa ang imahe. Halimbawa, hindi rin nagfu-fluoresce ang pagkulay ng ENEA sa lino gamit ang laser.",
+   "reply": "Ang resulta tungkol sa paso ang pinakamatibay na bahagi at nananatili ito: hindi kumikilos ang imahe gaya ng mga marka ng sunog sa parehong tela. Interpretasyon ang pagbasang serum ito, pero tugma ito sa ulat ng STURP na positibo sa serum albumin ang mga bahaging may dugo. Lalakas ang dalawang punto kung may modernong imaging at target na pagkuha ng sample sa mga gilid.",
+   "strength": "moderate",
+   "strength_reason": "Matibay na mga litrato mula sa direktang pag-aaral. Malinaw ang punto laban sa paso; interpretasyon ang 'serum'.",
+   "sources": [
+    {
+     "label": "Miller at Pellicori 1981, Journal of Biological Photography 49(3):71-85",
+     "url": "https://www.shroud.com/pdfs/UV%20Fluorescence%20Miller%20Pellicori%201981%20OCRsm.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Buod ng mga konklusyon ng STURP noong 1981",
+     "url": "https://www.shroud.com/78conclu.htm",
+     "type": "official"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "xray-no-image",
+   "exhibit": 50,
+   "category": "image",
+   "title": "Ipinakikita ng X-ray ang habi pero hindi ang imahe ng katawan",
+   "claim": "Ipinakikita ng mga X-ray radiograph na kinunan noong 1978 ang habi, mga tagpi at gilid ng mga mantsa ng tubig, pero walang bakas ng imahe ng katawan, kaya naaalis ang posibilidad ng makapal na patong ng pintura o pigment.",
+   "detail": "Ini-X-ray nina Mottern, London at Morris ang tela noong 1978 at iniulat nila sa Materials Evaluation na 'hindi makikita sa mga radiograph ang mga detalye ng dalawang imahe ng katawan, ang mga mantsa ng dugo at ang mga marka ng sunog,' samantalang lumilitaw ang herringbone na habi, ang telang pansapin, ang mga tagpi at ang mga siksik na bahaging parang singsing na tumutugma sa mga mantsa ng tubig. Ganito ang buod nina Schwalbe at Rogers (1982): 'Walang nakitang pagbabago sa density na tumutugma sa nakikitang imahe ng katawan saanman,' kahit ang habi at ang pag-iiba-iba ng density ng tela ay 'madaling makita sa lahat ng radiograph.'",
+   "skeptic": "Mapurol na kasangkapan ang radiography para sa tanong na ito. Sinasabi mismo nina Schwalbe at Rogers na ang sensitibidad nito sa iron oxide at mga katulad na pigment ay humigit-kumulang sampung beses na mas mababa kaysa sa X-ray fluorescence. Hindi rin ipinakikita ng mga radiograph ang mga marka ng dugo, na may bakal, kaya hindi rin nila ipakikita ang isang manipis at matubig na pahid ng ochre na gaya ng inilarawan ni McCrone. Inaalis nila ang makapal na patong ng pintura, hindi ang isang malabnaw.",
+   "reply": "Tama, at dapat manatiling ganoon kakitid ang claim. Sa parehong direksiyon tumuturo ang mas sensitibong mga pagsusuri: sinasabi ng buod ng STURP na ang X-ray fluorescence at microchemistry sa mga fibril ay 'nag-aalis sa posibilidad ng pintura' bilang pinagmulan ng imahe. Nagdaragdag ang mga radiograph ng isang hiwalay na linya ng ebidensiya na walang makapal na patong ng pigment.",
+   "strength": "moderate",
+   "strength_reason": "Direkta at dokumentadong imaging, pero kung mag-isa ay hindi sapat ang sensitibidad nito para alisin ang isang manipis na pahid ng pigment.",
+   "sources": [
+    {
+     "label": "Mottern, London at Morris, Materials Evaluation 38(12):39-44",
+     "url": "https://www.shroud.com/pdfs/Radiographic%20Examination%20Preliminary%20Report%20Mottern%20London%20Morris%201979%20OCRsm.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Schwalbe at Rogers 1982, Analytica Chimica Acta 135:3-49",
+     "url": "https://shroud.com/pdfs/Physics%20Chemistry%20of%20Shroud%20Schwalbe%20Rogers%201981%20OCRsm.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Buod ng mga konklusyon ng STURP noong 1981",
+     "url": "https://www.shroud.com/78conclu.htm",
+     "type": "official"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "icon-face-comparison",
+   "exhibit": 51,
+   "category": "history",
+   "title": "May mga detalyeng kapareho ng mukha sa Shroud ang mga unang icon ni Kristo",
+   "claim": "Ikinakatwiran ng mga tagasuporta na ang karaniwang mukha ni Kristo sa sining na Byzantine, mula mga ika-6 na siglo, ay kumokopya sa mga kakaibang detalye ng mukha sa Shroud, kaya umiiral na at nakita na ang tela noon.",
+   "detail": "Noong huling bahagi ng dekada 1930, inilista ni Paul Vignon ang mga di-pangkaraniwang katangiang pareho sa maraming icon at sa mukha sa Shroud, gaya ng markang hugis parisukat sa pagitan ng mga kilay; nakilala ang mga ito bilang Vignon markings. Kalaunan, bumuo sina Alan at Mary Whanger ng paraan ng paghahambing sa dalawang mukha sa pamamagitan ng pagpo-project sa mga ito sa mga polarizing filter, na inilathala sa Applied Optics noong 1985. Pamamaraan lamang ang inilalarawan ng papel na iyon; galing ang kanilang mga resulta sa mga sumunod na papel sa mga kumperensiya. Doon, nag-ulat sila ng mga 250 'punto ng pagtutugma' sa pagitan ng mukha sa Shroud at ng icon na Christ Pantocrator mula sa ika-6 na siglo sa Monasteryo ni Santa Catalina sa Sinai, at 145 sa isang gintong barya ni Justiniano II (AD 692-695), laban sa threshold na 45 hanggang 60 na kinuha nila mula sa forensic na pagtutugma ng mukha.",
+   "skeptic": "Maaaring baligtad ang direksiyon ng ugnayan. Natural na kokopyahin ng isang gumawa noong ika-14 na siglo ang mukha ni Kristo na ginamit ng sining na Byzantine nang mga 800 taon, kaya aasahan din ang pagkakatugma mula sa isang pekeng tela. Pinipili ang mga marka pagkatapos na, mula sa malalabo at batik-batik na mga katangian. Ipinakikita ni Hugh Farey, na bumasa sa mismong teksto ni Vignon, na kasama sa popular na listahan ang mga markang hindi kailanman pinangalanan ni Vignon, at na itinuring ni Vignon na patunay ng pagkopya ang halos anumang pagkakahawig habang hinahanapan ng paliwanag ang mga pagkakaiba para hindi ito pansinin. Ang mga punto ng pagtutugma ay binibilang ng mismong mga mananaliksik na nagmumungkahi ng ugnayan, at hindi kailanman ginawa ang mga forensic na threshold para sa mga painting.",
+   "reply": "Tunay na problema ang direksiyon ng pagkopya, at hindi ito kayang lutasin ng mga overlay. Ang mas makitid na puntong kayang sabihin ng mga tagasuporta ay ang icon sa Sinai at ang mga barya ni Justiniano II ay napetsahan nang ilang siglo bago ang 1350, kaya kung may anumang detalye sa mga ito na sa Shroud lamang maaaring manggaling, mas matanda ang tela kaysa sa petsa nito sa carbon. Sa ngayon, nakasandal ang kasong iyan sa paghuhusga ng mismong mga gumagawa ng pagtutugma.",
+   "strength": "disputed",
+   "strength_reason": "Tunay ang mga unang imahe, pero kung kinopya nila ang Shroud ay nakasalalay sa subhetibong pagtutugma, at ganoon din ang lalabas kung mga icon ang kinopya ng isang manloloko.",
+   "sources": [
+    {
+     "label": "Whanger at Whanger 1985, Applied Optics 24(6):766-772",
+     "url": "https://doi.org/10.1364/AO.24.000766",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "M. Whanger 2000, The Impact of the Shroud Face on Art Work, kongreso ng Sindone 2000",
+     "url": "https://www.shroud.com/pdfs/orvWHANGER%20M.%20Paper%20English.PDF",
+     "type": "website"
+    },
+    {
+     "label": "Farey 2019, The Vignon Markings, according to Paul Vignon himself",
+     "url": "https://www.shroud.com/pdfs/anc-farey-pap2.pdf",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "against-mesarites-1201",
+   "exhibit": 52,
+   "category": "history",
+   "title": "Noong 1201, inilarawan ang mga telang panlibing sa palasyo nang walang imahe",
+   "claim": "Ayon sa mga skeptic: inilarawan noong 1201 ng tagapag-ingat ng mga relikya ng imperyo sa Constantinople ang mga telang panlibing ni Hesus bilang simple at murang lino na amoy mira, na walang imahe, kaya malabong naroon ang isang telang may imahe ng buong katawan.",
+   "detail": "Sa nabigong pag-aalsa sa palasyo ni Juan Comneno noong 1201 (may mga iskolar na nagpepetsa rito sa 1200), ipinagtanggol ni Nicholas Mesarites, tagapag-ingat ng mga banal na bagay sa mga simbahan ng Malaking Palasyo, ang simbahan ng mga relikya ng Birhen ng Pharos. Kasama sa kaniyang salaysay tungkol sa pag-aalsa ang isang listahan ng mga relikya nito: 'Ang mga telang panlibing ni Hesus; ang mga ito ay lino, isang murang tela, na amoy mira pa rin.' Wala siyang sinasabi tungkol sa isang imahe sa mga ito. Sa parehong listahan, inilalarawan niya ang isang imahe ni Kristo na 'nakalimbag sa isang tuwalya,' isang hiwalay na relikya. Inedit ni August Heisenberg ang tekstong Griyego noong 1907; lumabas ang isang sipi sa Ingles sa Shroud Spectrum International noong 1985.",
+   "skeptic": "Saksi ito na nag-alaga sa mga relikyang ito, at sumusulat siya sa parehong listahan kung saan maingat niyang binanggit ang isang imahe sa tuwalya. Kung may pigura ng buong katawan ng ipinakong Kristo ang mga telang lino, iyon sana ang pinakakapansin-pansing bagay tungkol sa mga ito. Pinahihina rin ng kaniyang mga simpleng telang lino ang ulat ni Robert de Clari, dalawa o tatlong taon pagkaraan, tungkol sa isang shroud sa lungsod na nagpapakita ng pigura ng Panginoon.",
+   "reply": "Isang retorikal na talumpati ang isinusulat ni Mesarites, isang listahang tinatawag niyang dekalogo ng mga relikya na may isa o dalawang pangungusap para sa bawat isa, hindi paglalarawan sa bawat bagay, kaya mahinang ebidensiya ang kaniyang pananahimik tungkol sa isang imahe. Pangmaramihan ang ginagamit niya, 'mga telang panlibing,' at maaaring ilang tela ang tinutukoy niya. Ipinakikita ng sipi na may mga telang lino na pinararangalan bilang mga telang panlibing ni Hesus at iniingatan sa palasyo noong 1201, na kailangan ng mga hipotesis tungkol sa Edessa at kay de Clari. Hindi nito maipakikita kung ang isa sa mga ito ay ang Shroud na ito.",
+   "strength": "moderate",
+   "strength_reason": "Tekstong mula mismo sa tagapag-ingat ng mga relikya, pero argumento mula sa pananahimik sa isang maikling retorikal na listahan.",
+   "sources": [
+    {
+     "label": "Mesarites, The Palace Revolution of John Comnenus (mga sipi), Shroud Spectrum International 17, 1985",
+     "url": "https://www.shroud.com/pdfs/ssi17part4.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Wikipedia: John Komnenos the Fat",
+     "url": "https://en.wikipedia.org/wiki/John_Komnenos_the_Fat",
+     "type": "website"
+    }
+   ],
+   "lean": "against"
   }
  ]
 }

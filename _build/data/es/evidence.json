@@ -487,6 +487,11 @@
    "strength_reason": "Buena física de laboratorio, pero sin evidencia de que existiera una fuente así; la cifra de vatios no debe usarse como \"prueba\".",
    "sources": [
     {
+     "label": "Di Lazzaro et al. 2012, Applied Optics 51(36):8567-8578",
+     "url": "https://doi.org/10.1364/AO.51.008567",
+     "type": "peer-reviewed"
+    },
+    {
      "label": "Di Lazzaro et al. 2010, actas del taller de ENEA Frascati",
      "url": "https://www.sindone.info/DILAZZA1.PDF",
      "type": "peer-reviewed"
@@ -656,7 +661,7 @@
    "title": "Una bilirrubina alta mantiene roja la sangre",
    "claim": "Adler sostuvo que una bilirrubina muy alta, por un trauma grave, explica por qué la sangre antigua se ve roja y no negra.",
    "detail": "Heller y Adler (1981) reportaron color de azobilirrubina en algunas partículas de sangre y un pico espectral cerca de 450 nm. Adler dijo que la bilirrubina mezclada con metahemoglobina se vería roja.",
-   "skeptic": "La bilirrubina es anaranjada e inestable ante la luz y el oxígeno. Nunca se midió bien su cantidad, y una prueba de 2010, según se informa, no encontró diferencia de color después de cuatro meses entre una sangre normal y una con bilirrubina alta. La sangre \"demasiado roja\" es en sí misma un argumento escéptico a favor de la pintura.",
+   "skeptic": "La bilirrubina es anaranjada e inestable ante la luz y el oxígeno. Nunca se midió bien su cantidad, y una prueba de 2010, según se informa, no encontró diferencia de color después de cuatro meses entre una sangre normal y una con bilirrubina alta. La sangre \"demasiado roja\" es en sí misma un argumento escéptico a favor de la pintura. Un artículo de 2017 en PLOS ONE de Carlino y sus colegas, que afirmaba que unas nanopartículas en una sola fibra de la Sábana Santa mostraban un trauma grave, fue retractado por la revista en julio de 2018, pese a las objeciones de los autores, porque los datos y los controles no respaldaban sus conclusiones.",
    "reply": "No hay una réplica sólida; el color rojo es una pregunta abierta.",
    "strength": "weak",
    "strength_reason": "Nunca se cuantificó ni se confirmó con experimentos.",
@@ -670,6 +675,11 @@
      "label": "Discusión sobre la evidencia de la bilirrubina, 2015",
      "url": "https://shroudstory.com/2015/03/28/is-bilirubin-still-accepted-as-an-explanation-for-the-red-blood/",
      "type": "website"
+    },
+    {
+     "label": "Retraction Watch 2018, PLOS ONE retracta el artículo de Carlino et al. 2017",
+     "url": "https://retractionwatch.com/2018/07/19/over-authors-objections-plos-one-retracts-paper-claiming-shroud-of-turin-showed-evidence-of-trauma",
+     "type": "news"
     }
    ],
    "lean": "for"
@@ -1338,6 +1348,206 @@
     }
    ],
    "lean": "neutral"
+  },
+  {
+   "id": "radiocarbon-protocol-1986",
+   "exhibit": 46,
+   "category": "dating",
+   "title": "La prueba de 1988 fue más limitada que el plan de 1986",
+   "claim": "La prueba de radiocarbono se apartó del protocolo acordado en 1986: los siete laboratorios de dos tipos se redujeron a tres de un solo tipo, y se abandonó la prueba a ciegas, así que la prueba que de verdad se hizo fue más débil que la planeada.",
+   "detail": "El propio artículo de Nature deja constancia del cambio. En una reunión en Turín, en septiembre y octubre de 1986, siete laboratorios de radiocarbono (cinco de AMS y dos pequeños laboratorios de contador de gas) recomendaron un protocolo para datar la tela. En octubre de 1987, el arzobispo de Turín, siguiendo instrucciones de la Santa Sede, eligió las ofertas de solo tres laboratorios de AMS: Arizona, Oxford y Zúrich. Como la tela había estado expuesta a muchas posibles fuentes de contaminación, Nature dice que \"se decidió abandonar los procedimientos de prueba a ciegas en interés de un pretratamiento eficaz de las muestras\". A los laboratorios no se les dijo qué recipiente contenía la muestra de la Sábana Santa, pero el artículo admite que su tejido de espiga de 3:1 no se podía igualar en los controles, así que un laboratorio podía reconocerla. En Oxford y Zúrich las muestras se recodificaron después de la combustión, de modo que el personal que hacía las mediciones no sabía cuál era cuál. Harry Gove, pionero de la datación por AMS, escribió en 1990 que los procedimientos \"diferían sustancialmente\" de los que había recomendado el taller.",
+   "skeptic": "Nada de esto hace que el resultado esté mal. Tres laboratorios trabajaron de forma independiente, cada uno con su propia limpieza y medición, y los tres controles salieron bien. De todos modos, una prueba realmente a ciegas era imposible, porque ninguna tela de control tenía el mismo tejido, y la recodificación en dos laboratorios mantuvo a ciegas el paso de la medición. Gove, que señaló los cambios, siguió considerando creíbles los resultados. Tener menos laboratorios limita sobre todo cuánto se podían comparar entre sí, no si el carbono se midió bien.",
+   "reply": "El punto justo es limitado, y el sitio no debe afirmar más. El cambio de diseño no mueve la fecha. Importa porque la prueba final dependió de una sola tira de una esquina, medida por laboratorios que podían saber qué muestra era la Sábana Santa. Por eso se toma en serio el hallazgo posterior de que los 12 resultados no concuerdan bien entre sí, y por eso se sigue pidiendo una prueba nueva con más muestras.",
+   "strength": "moderate",
+   "strength_reason": "Está documentado en el propio artículo de Nature, pero muestra una prueba más limitada que la planeada, no un resultado equivocado.",
+   "sources": [
+    {
+     "label": "Damon et al. 1989, Nature 337:611",
+     "url": "https://doi.org/10.1038/337611a0",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Damon et al. 1989, copia del texto completo",
+     "url": "https://shroud.com/nature.htm",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Gove 1990, Radiocarbon 32(1):87-92",
+     "url": "https://doi.org/10.1017/S0033822200039990",
+     "type": "peer-reviewed"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "no-spices-or-decay-products",
+   "exhibit": 47,
+   "category": "other",
+   "title": "No se encontraron especias funerarias ni sustancias del cuerpo",
+   "claim": "Las pruebas químicas de STURP no encontraron rastros de especias, aceites ni sustancias que un cuerpo produce en vida o después de la muerte, aunque el Evangelio de Juan dice que el cuerpo fue envuelto con unas cien libras romanas de mirra y áloe.",
+   "detail": "El resumen de STURP de 1981 dice que la evaluación microquímica \"no indicó evidencia de especias, aceites ni de ninguna sustancia bioquímica que se sepa que el cuerpo produce en vida o en la muerte\". Juan 19:39-40 dice que Nicodemo llevó una mezcla de mirra y áloe, de unas cien libras romanas, y que el cuerpo fue envuelto en lienzos de lino con las especias. Ambas partes usan este resultado negativo, y lo leen de maneras opuestas.",
+   "skeptic": "Una tela que envolvió un cadáver con tanta especia debería conservar rastros de ella, y una tela que contuvo un cuerpo muerto también debería conservar rastros del cuerpo. No encontrar ninguno de los dos es lo que se esperaría de una tela que nunca tocó un cuerpo. La sangre es el único material del cuerpo que se ha reportado, y un falsificador podría añadir sangre.",
+   "reply": "Quienes defienden la autenticidad responden que las especias pudieron colocarse alrededor del cuerpo o en la tumba, sin empapar esta tela, y que las pruebas de 1978 se hicieron sobre fibras superficiales levantadas con cinta adhesiva, que podrían pasar por alto rastros pequeños. Algunos de ellos también leen la falta de productos de descomposición como señal de que el cuerpo dejó la tela pronto. Eso es una inferencia, no una medición, y este sitio no la cuenta como evidencia.",
+   "strength": "moderate",
+   "strength_reason": "Un resultado negativo documentado por pruebas directas, pero con muestras superficiales pequeñas, y cada parte lo lee de forma distinta.",
+   "sources": [
+    {
+     "label": "Resumen de conclusiones de STURP de 1981",
+     "url": "https://www.shroud.com/78conclu.htm",
+     "type": "official"
+    },
+    {
+     "label": "Juan 19:39-40, World English Bible",
+     "url": "https://ebible.org/eng-web/JHN19.htm",
+     "type": "website"
+    }
+   ],
+   "lean": "neutral"
+  },
+  {
+   "id": "crucifixion-archaeology",
+   "exhibit": 48,
+   "category": "anatomy",
+   "title": "Lo que muestra la arqueología sobre la crucifixión",
+   "claim": "Dos esqueletos excavados dan evidencia física de la crucifixión en época romana. En ambos, un clavo de hierro atravesó de lado el hueso del talón derecho, y los dos hombres recibieron una sepultura normal.",
+   "detail": "En 1968, unos obreros de la construcción en Giv'at ha-Mivtar, en Jerusalén, descubrieron una tumba familiar judía. Un osario con la inscripción \"Yehohanan hijo de Hagkol\" contenía un hueso del talón derecho todavía atravesado por un clavo de hierro, con una placa de madera de olivo bajo la cabeza del clavo. El primer estudio (1970) describió los dos talones clavados juntos, los antebrazos clavados y las piernas quebradas. Zias y Sekeles (1985) lo corrigieron: el clavo mide unos 11,5 cm y atravesó solo el talón derecho, de lado; la fractura de la pierna ocurrió después de la muerte; y los brazos probablemente estaban atados, no clavados. En 2017, una excavación en Fenstanton, en Cambridgeshire, encontró a un hombre que murió entre el 130 y el 360 d. C. con un clavo de hierro de 5 cm clavado horizontalmente en el hueso del talón derecho. Fue sepultado en el cementerio del asentamiento como los demás. El equipo de Cambridge dice que la evidencia de crucifixión en esqueletos es extremadamente rara.",
+   "skeptic": "Las dos víctimas reales tenían un clavo en el costado del talón, mientras que la Sábana Santa muestra una perforación cerca del centro de la planta del pie derecho. Con solo dos esqueletos, está claro que la crucifixión variaba, así que las heridas de la Sábana Santa no se pueden comparar en detalle con la práctica romana. Las sepulturas solo muestran que un crucificado podía recibir una sepultura adecuada, lo que encaja con los Evangelios, no con esta tela en particular.",
+   "reply": "Es justo, y los hallazgos tienen dos caras. Corrigen la idea popular de que a los crucificados siempre se les arrojaba a fosas comunes, así que una sepultura adecuada en una sábana de lino es históricamente posible. Y si los métodos variaban, tampoco se descarta un clavo en la planta del pie. Estos hallazgos son contexto para el debate, no evidencia a favor ni en contra de la tela.",
+   "strength": "strong",
+   "strength_reason": "Estudios de huesos revisados por pares y el informe de una excavación universitaria. Describen la crucifixión, no esta tela.",
+   "sources": [
+    {
+     "label": "Biblical Archaeology Review sobre Zias y Sekeles 1985, Israel Exploration Journal 35(1):22-27",
+     "url": "https://library.biblicalarchaeology.org/department/scholars-corner-new-analysis-of-the-crucified-man",
+     "type": "website"
+    },
+    {
+     "label": "Biblical Archaeology Society, métodos romanos de crucifixión",
+     "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/crucifixion/roman-crucifixion-methods-reveal-the-history-of-crucifixion/",
+     "type": "website"
+    },
+    {
+     "label": "Wikipedia: Jehohanan",
+     "url": "https://en.wikipedia.org/wiki/Jehohanan",
+     "type": "website"
+    },
+    {
+     "label": "Universidad de Cambridge 2021, Evidence of a Roman crucifixion found in Cambridgeshire",
+     "url": "https://www.cam.ac.uk/stories/romancrucifixion",
+     "type": "news"
+    }
+   ],
+   "lean": "neutral"
+  },
+  {
+   "id": "uv-fluorescence-1978",
+   "exhibit": 49,
+   "category": "image",
+   "title": "Bajo luz ultravioleta la imagen no brilla, pero las quemaduras sí",
+   "claim": "Fotografías ultravioleta de 1978 muestran que la imagen del cuerpo no tiene fluorescencia y las quemaduras de 1532 sí, lo que va en contra de una quemadura, y que muchas marcas de sangre tienen un borde más claro que los autores interpretan como suero sanguíneo.",
+   "detail": "Vernon Miller y Samuel Pellicori fotografiaron toda la tela bajo luz ultravioleta durante el examen de 1978 y publicaron los resultados en el Journal of Biological Photography en 1981. Escriben que \"las quemaduras emiten una fluorescencia marrón rojiza, mientras que la imagen del cuerpo no es fluorescente\", y concluyen que \"hipótesis como una quemadura o la pintura quedan contradichas por los resultados de la fotografía de fluorescencia\". Las zonas de sangre absorben el ultravioleta, como lo hizo la sangre entera en sus pruebas de laboratorio. También describen \"la zona del borde más clara que se ve en muchas áreas manchadas de sangre\", incluidos bordes fluorescentes en las heridas de las manos y los pies, y proponen la interpretación de que \"hay suero sanguíneo presente\". Los bordes se fotografiaron, pero no se analizaron químicamente.",
+   "skeptic": "Un borde pálido alrededor de una mancha es lo que aparece siempre que un líquido a base de agua empapa una tela: el agua se extiende más que la parte coloreada y deja un cerco más claro. Eso muestra que un líquido empapó la tela, no que el suero se separó de un coágulo real. En cuanto a la imagen, no tener fluorescencia descarta una quemadura a alta temperatura como las de 1532, pero no dice nada sobre cómo o cuándo se hizo la imagen. La coloración del lino con láser de ENEA, por ejemplo, tampoco tiene fluorescencia.",
+   "reply": "El resultado sobre la quemadura es la parte más fuerte y se sostiene: la imagen no se comporta como las quemaduras de la misma tela. La lectura del suero es una interpretación, pero encaja con el informe de STURP de que las zonas de sangre dan positivo para albúmina sérica. Ambos puntos serían más fuertes con imágenes modernas y un muestreo dirigido de los bordes.",
+   "strength": "moderate",
+   "strength_reason": "Fotografías sólidas de un estudio directo. El punto contra una quemadura es claro; lo del \"suero\" es una interpretación.",
+   "sources": [
+    {
+     "label": "Miller y Pellicori 1981, Journal of Biological Photography 49(3):71-85",
+     "url": "https://www.shroud.com/pdfs/UV%20Fluorescence%20Miller%20Pellicori%201981%20OCRsm.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Resumen de conclusiones de STURP de 1981",
+     "url": "https://www.shroud.com/78conclu.htm",
+     "type": "official"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "xray-no-image",
+   "exhibit": 50,
+   "category": "image",
+   "title": "Los rayos X muestran el tejido, pero no la imagen del cuerpo",
+   "claim": "Las radiografías de 1978 muestran el tejido, los remiendos y los bordes de las manchas de agua, pero ningún rastro de la imagen del cuerpo, lo que descarta una capa densa de pintura o pigmento.",
+   "detail": "Mottern, London y Morris radiografiaron la tela en 1978 y reportaron en Materials Evaluation que \"los detalles de las dos imágenes del cuerpo, las manchas de sangre y las marcas de quemadura no se distinguen en las radiografías\", mientras que sí aparecen el tejido de espiga, el forro, los remiendos y unas zonas densas en forma de anillo que coinciden con las manchas de agua. Schwalbe y Rogers (1982) lo resumen así: \"En ninguna parte se pudieron observar discontinuidades de densidad que correspondan a la imagen visible del cuerpo\", aunque el tejido y las variaciones de densidad de la tela \"se ven fácilmente en todas las radiografías\".",
+   "skeptic": "La radiografía es una herramienta tosca para esta pregunta. Los propios Schwalbe y Rogers dicen que su sensibilidad al óxido de hierro y a pigmentos parecidos es unas diez veces menor que la de la fluorescencia de rayos X. Las radiografías tampoco muestran las marcas de sangre, que contienen hierro, así que no mostrarían una capa fina y aguada de ocre como la que describió McCrone. Descartan una capa gruesa de pintura, no una diluida.",
+   "reply": "Es correcto, y la afirmación debe quedarse así de limitada. Las pruebas más sensibles apuntan en la misma dirección: el resumen de STURP dice que la fluorescencia de rayos X y la microquímica en las fibrillas \"excluyen la posibilidad de pintura\" como origen de la imagen. Las radiografías añaden una línea de evidencia independiente de que no hay una capa gruesa de pigmento.",
+   "strength": "moderate",
+   "strength_reason": "Imágenes directas y documentadas, pero por sí solas son demasiado poco sensibles para descartar una capa fina y aguada de pigmento.",
+   "sources": [
+    {
+     "label": "Mottern, London y Morris, Materials Evaluation 38(12):39-44",
+     "url": "https://www.shroud.com/pdfs/Radiographic%20Examination%20Preliminary%20Report%20Mottern%20London%20Morris%201979%20OCRsm.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Schwalbe y Rogers 1982, Analytica Chimica Acta 135:3-49",
+     "url": "https://shroud.com/pdfs/Physics%20Chemistry%20of%20Shroud%20Schwalbe%20Rogers%201981%20OCRsm.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Resumen de conclusiones de STURP de 1981",
+     "url": "https://www.shroud.com/78conclu.htm",
+     "type": "official"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "icon-face-comparison",
+   "exhibit": 51,
+   "category": "history",
+   "title": "Los primeros íconos de Cristo comparten detalles con el rostro de la Sábana Santa",
+   "claim": "Quienes defienden la autenticidad sostienen que el rostro típico de Cristo en el arte bizantino, desde alrededor del siglo VI, copia detalles extraños del rostro de la Sábana Santa, así que para entonces la tela ya debía existir y haberse visto.",
+   "detail": "A finales de la década de 1930, Paul Vignon hizo una lista de rasgos inusuales que comparten muchos íconos y el rostro de la Sábana Santa, como una marca de forma cuadrada entre las cejas; se conocieron como las marcas de Vignon. Más tarde, Alan y Mary Whanger desarrollaron una forma de comparar dos rostros proyectándolos a través de filtros polarizadores, publicada en Applied Optics en 1985. Ese artículo solo describe el método; sus resultados vienen de ponencias posteriores en congresos. Allí reportan unos 250 \"puntos de congruencia\" entre el rostro de la Sábana Santa y el ícono del Cristo Pantocrátor del siglo VI del monasterio de Santa Catalina, en el Sinaí, y 145 con una moneda de oro de Justiniano II (692-695 d. C.), frente a un umbral de 45 a 60 que toman de la comparación forense de rostros.",
+   "skeptic": "El vínculo puede ir en la dirección contraria. Un artesano del siglo XIV copiaría con toda naturalidad el rostro de Cristo que el arte bizantino llevaba unos 800 años usando, así que también se esperaría una coincidencia en una falsificación. Las marcas se señalan a posteriori sobre rasgos tenues y manchados. Hugh Farey, al leer el propio texto de Vignon, muestra que la lista popular incluye marcas que Vignon nunca mencionó, y que Vignon trataba casi cualquier parecido como prueba de copia mientras le restaba importancia a las diferencias. Los puntos de congruencia los cuentan los mismos investigadores que proponen el vínculo, y los umbrales forenses nunca se diseñaron para pinturas.",
+   "reply": "La dirección de la copia es un problema real, y las superposiciones no pueden resolverlo. El punto más limitado que pueden plantear quienes defienden la autenticidad es que el ícono del Sinaí y las monedas de Justiniano II están fechados siglos antes de 1350, así que si algún detalle en ellos solo pudiera venir de la Sábana Santa, la tela sería más antigua que su fecha por radiocarbono. Hasta ahora, ese argumento depende del criterio de quienes hacen la comparación.",
+   "strength": "disputed",
+   "strength_reason": "Las imágenes antiguas son reales, pero que copien la Sábana Santa depende de una comparación subjetiva, y un falsificador que copiara íconos produciría la misma coincidencia.",
+   "sources": [
+    {
+     "label": "Whanger y Whanger 1985, Applied Optics 24(6):766-772",
+     "url": "https://doi.org/10.1364/AO.24.000766",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "M. Whanger 2000, The Impact of the Shroud Face on Art Work, congreso Sindone 2000",
+     "url": "https://www.shroud.com/pdfs/orvWHANGER%20M.%20Paper%20English.PDF",
+     "type": "website"
+    },
+    {
+     "label": "Farey 2019, The Vignon Markings, according to Paul Vignon himself",
+     "url": "https://www.shroud.com/pdfs/anc-farey-pap2.pdf",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "against-mesarites-1201",
+   "exhibit": 52,
+   "category": "history",
+   "title": "En 1201 se describieron los lienzos funerarios del palacio sin ninguna imagen",
+   "claim": "Los escépticos sostienen: el custodio de las reliquias imperiales de Constantinopla describió en 1201 los lienzos funerarios de Jesús como un lino sencillo y barato que olía a mirra, sin imagen, lo que hace poco probable que allí hubiera una tela con una imagen de cuerpo entero.",
+   "detail": "Durante la fallida revuelta palaciega de Juan Comneno en 1201 (algunos estudiosos la fechan en 1200), Nicolás Mesarites, custodio de los objetos sagrados de las iglesias del Gran Palacio, defendió la iglesia de reliquias de la Virgen del Faro. Su relato de la revuelta incluye una lista de sus reliquias: \"Las mortajas de Jesús; son de lino, un tejido barato, y todavía huelen a mirra\". No dice nada de una imagen en ellas. En la misma lista sí describe una imagen de Cristo \"impresa en una toalla\", una reliquia distinta. El texto griego lo editó August Heisenberg en 1907; un extracto en inglés apareció en Shroud Spectrum International en 1985.",
+   "skeptic": "Es un testigo ocular que cuidaba de estas reliquias, y escribe en la misma lista en la que se tomó la molestia de señalar una imagen en una toalla. Si los lienzos hubieran llevado una figura de cuerpo entero de Cristo crucificado, eso habría sido lo más llamativo de ellos. Sus lienzos sencillos también debilitan el relato de Robert de Clari, dos o tres años después, sobre una mortaja en la ciudad que mostraba la figura del Señor.",
+   "reply": "Mesarites escribía un discurso retórico, una lista que él llama un decálogo de reliquias, con una o dos frases para cada una, no una descripción de cada objeto, así que su silencio sobre una imagen es una evidencia débil. Usa el plural, \"mortajas\", y podría referirse a varias telas. El pasaje sí muestra que en 1201 se guardaban en el palacio unos lienzos venerados como las telas de la sepultura de Jesús, algo que necesitan las hipótesis de Edesa y de Robert de Clari. No puede mostrar si uno de ellos era esta Sábana Santa.",
+   "strength": "moderate",
+   "strength_reason": "Un texto de primera mano del propio custodio de las reliquias, pero es un argumento basado en el silencio dentro de una breve lista retórica.",
+   "sources": [
+    {
+     "label": "Mesarites, The Palace Revolution of John Comnenus (fragmentos), Shroud Spectrum International 17, 1985",
+     "url": "https://www.shroud.com/pdfs/ssi17part4.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Wikipedia: John Komnenos the Fat",
+     "url": "https://en.wikipedia.org/wiki/John_Komnenos_the_Fat",
+     "type": "website"
+    }
+   ],
+   "lean": "against"
   }
  ]
 }

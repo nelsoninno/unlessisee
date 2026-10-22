@@ -124,6 +124,21 @@
    ]
   },
   {
+   "id": "mesarites-1201",
+   "year": 1201,
+   "date_label": "1201",
+   "title": "Mesarite elenca semplici teli funerari",
+   "text": "Nicola Mesarite, custode delle reliquie del palazzo a Costantinopoli, elenca i teli funerari di Gesù come lino semplice e di poco prezzo che odora ancora di mirra. Non vi menziona alcuna immagine, anche se descrive un'immagine di Cristo su un asciugamano a parte.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Mesarites, estratto in Shroud Spectrum International 17",
+     "url": "https://www.shroud.com/pdfs/ssi17part4.pdf"
+    }
+   ]
+  },
+  {
    "id": "de-clari",
    "year": 1203,
    "date_label": "1203-1204",
@@ -459,6 +474,25 @@
    ]
   },
   {
+   "id": "yehohanan-1968",
+   "year": 1968,
+   "date_label": "1968",
+   "title": "Ritrovato il calcagno di un crocifisso",
+   "text": "Alcuni operai a Giv'at ha-Mivtar, a Gerusalemme, scoprono una tomba ebraica con l'ossario di Yehohanan, il cui osso del calcagno destro è ancora trafitto da un chiodo di ferro. Un nuovo studio del 1985 conclude che il chiodo attraversò un solo calcagno, di lato.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Wikipedia: Jehohanan",
+     "url": "https://en.wikipedia.org/wiki/Jehohanan"
+    },
+    {
+     "label": "Biblical Archaeology Review su Zias e Sekeles 1985",
+     "url": "https://library.biblicalarchaeology.org/department/scholars-corner-new-analysis-of-the-crucified-man"
+    }
+   ]
+  },
+  {
    "id": "commission-1969",
    "year": 1969,
    "date_label": "1969",
@@ -614,6 +648,40 @@
     {
      "label": "Jackson et al. 1984",
      "url": "https://shroud.com/pdfs/Correlation%20of%20Image%20Intensity%20Jackson%20Jumper%20Ercoline%201984%20OCRsm.pdf"
+    }
+   ]
+  },
+  {
+   "id": "protocol-1986",
+   "year": 1986,
+   "date_label": "settembre e ottobre 1986",
+   "title": "Sette laboratori propongono un piano di datazione",
+   "text": "In un incontro a Torino, sette laboratori di radiocarbonio (cinque AMS e due piccoli laboratori con contatori a gas) raccomandano un protocollo per datare il telo.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Damon et al. 1989",
+     "url": "https://shroud.com/nature.htm"
+    }
+   ]
+  },
+  {
+   "id": "three-labs-1987",
+   "year": 1987,
+   "date_label": "ottobre 1987",
+   "title": "Vengono scelti solo tre laboratori",
+   "text": "Su istruzioni della Santa Sede, l'arcivescovo di Torino sceglie tre laboratori AMS: Arizona, Oxford e Zurigo. L'articolo di Nature riferisce che si rinunciò anche al test in cieco.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Damon et al. 1989",
+     "url": "https://shroud.com/nature.htm"
+    },
+    {
+     "label": "Gove 1990, Radiocarbon",
+     "url": "https://doi.org/10.1017/S0033822200039990"
     }
    ]
   },
@@ -908,6 +976,21 @@
    ]
   },
   {
+   "id": "carlino-retraction-2018",
+   "year": 2018,
+   "date_label": "luglio 2018",
+   "title": "Ritirato l'articolo sul sangue e il trauma",
+   "text": "PLOS ONE ritira un articolo del 2017 secondo cui alcune nanoparticelle in una fibra della Sindone indicavano un trauma grave, citando dati e controlli insufficienti. Gli autori si oppongono.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Retraction Watch, 19 luglio 2018",
+     "url": "https://retractionwatch.com/2018/07/19/over-authors-objections-plos-one-retracts-paper-claiming-shroud-of-turin-showed-evidence-of-trauma"
+    }
+   ]
+  },
+  {
    "id": "casabianca-2019",
    "year": 2019,
    "date_label": "marzo 2019",
@@ -953,6 +1036,21 @@
     {
      "label": "Di Lazzaro et al. 2020, Entropy",
      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7597180"
+    }
+   ]
+  },
+  {
+   "id": "fenstanton-2021",
+   "year": 2021,
+   "date_label": "dicembre 2021",
+   "title": "Un crocifisso nella Britannia romana",
+   "text": "Gli archeologi presentano il caso di un uomo sepolto a Fenstanton, nel Cambridgeshire, morto tra il 130 e il 360 d.C. con un chiodo di ferro nell'osso del calcagno destro. Ebbe una sepoltura normale nel cimitero dell'insediamento.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Università di Cambridge, 8 dicembre 2021",
+     "url": "https://www.cam.ac.uk/stories/romancrucifixion"
     }
    ]
   },

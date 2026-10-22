@@ -487,6 +487,11 @@
    "strength_reason": "实验室物理做得很好，但没有证据表明存在这样的光源；这个功率数字不能被当作“证明”。",
    "sources": [
     {
+     "label": "Di Lazzaro et al. 2012, Applied Optics 51(36):8567-8578",
+     "url": "https://doi.org/10.1364/AO.51.008567",
+     "type": "peer-reviewed"
+    },
+    {
      "label": "Di Lazzaro et al. 2010，ENEA弗拉斯卡蒂研讨会论文集",
      "url": "https://www.sindone.info/DILAZZA1.PDF",
      "type": "peer-reviewed"
@@ -656,7 +661,7 @@
    "title": "高胆红素使血迹保持红色",
    "claim": "Adler认为，严重创伤导致胆红素非常高，这解释了为什么古老的血迹看起来是红色而不是黑色。",
    "detail": "Heller和Adler（1981年）报告，一些血迹颗粒呈现偶氮胆红素的颜色，并在450纳米附近有一个光谱峰。Adler说，胆红素与高铁血红蛋白混合会呈红色。",
-   "skeptic": "胆红素是橙色的，在光照和氧气中不稳定。从来没有人正确测量过它的含量，而且据报道，2010年的一项实验发现，四个月后，正常血液和高胆红素血液在颜色上没有差别。血迹“太红”这一点本身就是怀疑方主张颜料说的论据。",
+   "skeptic": "胆红素是橙色的，在光照和氧气中不稳定。从来没有人正确测量过它的含量，而且据报道，2010年的一项实验发现，四个月后，正常血液和高胆红素血液在颜色上没有差别。血迹“太红”这一点本身就是怀疑方主张颜料说的论据。Carlino及其同事在2017年发表于PLOS ONE的一篇论文，声称裹尸布一根纤维中的纳米颗粒显示出严重创伤；2018年7月，该期刊不顾作者的反对撤回了这篇论文，因为数据和对照不足以支持其结论。",
    "reply": "没有有力的回应；红色仍是一个悬而未决的问题。",
    "strength": "weak",
    "strength_reason": "从未定量，也从未经实验证实。",
@@ -670,6 +675,11 @@
      "label": "关于胆红素证据的讨论，2015",
      "url": "https://shroudstory.com/2015/03/28/is-bilirubin-still-accepted-as-an-explanation-for-the-red-blood/",
      "type": "website"
+    },
+    {
+     "label": "Retraction Watch 2018，PLOS ONE撤回Carlino et al. 2017",
+     "url": "https://retractionwatch.com/2018/07/19/over-authors-objections-plos-one-retracts-paper-claiming-shroud-of-turin-showed-evidence-of-trauma",
+     "type": "news"
     }
    ],
    "lean": "for"
@@ -1338,6 +1348,206 @@
     }
    ],
    "lean": "neutral"
+  },
+  {
+   "id": "radiocarbon-protocol-1986",
+   "exhibit": 46,
+   "category": "dating",
+   "title": "1988年的检测比1986年的方案范围更窄",
+   "claim": "放射性碳检测偏离了1986年商定的方案：原定两类共七个实验室，被缩减为同一类的三个，盲测也被放弃，因此实际进行的检测比原计划的要弱。",
+   "detail": "《自然》的论文本身就记录了这一变化。1986年9月至10月在都灵举行的一次会议上，七个放射性碳实验室（五个AMS实验室和两个使用小型气体计数器的实验室）建议了一套为这块布定年的方案。1987年10月，都灵总主教按照圣座的指示，只接受了其中三个AMS实验室的参与提议：亚利桑那、牛津和苏黎世。由于这块布可能接触过许多污染源，《自然》写道：“为了有效地进行样本预处理，决定放弃盲测程序。”各实验室没有被告知哪个容器装的是裹尸布样本，但论文承认，对照样本中没有与裹尸布3:1人字纹相同的布，所以实验室能认出它。在牛津和苏黎世，样本在燃烧之后重新编号，因此进行测量的人员不知道哪个是哪个。AMS定年的先驱Harry Gove在1990年写道，这些程序与研讨会建议的程序“有很大不同”。",
+   "skeptic": "这些都不能说明结果是错的。三个实验室各自独立工作，各有自己的清洗和测量程序，三份对照样本的结果也都正确。真正的盲测本来就做不到，因为没有任何一块对照布有同样的织法；而两个实验室重新编号，也让测量这一步保持了盲测。指出这些改动的Gove本人，仍然认为结果是可信的。实验室少了，主要限制的是能做多少交叉核对，而不是碳是否测得准确。",
+   "reply": "公允的论点范围很窄，本网站不应说得更多。设计上的改动并不会改变年代。它之所以重要，是因为最后的检测只依靠一个角上的一条布样，而测量它的实验室又能分辨出哪个样本是裹尸布。正因为如此，后来发现12个结果彼此不太一致时，才会受到认真对待；要求用更多样本重新检测的呼声，也一直没有停止。",
+   "strength": "moderate",
+   "strength_reason": "《自然》的论文本身就有记载，但它表明的是检测比计划的范围更窄，而不是结果错误。",
+   "sources": [
+    {
+     "label": "Damon et al. 1989, Nature 337:611",
+     "url": "https://doi.org/10.1038/337611a0",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Damon et al. 1989，全文镜像",
+     "url": "https://shroud.com/nature.htm",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Gove 1990, Radiocarbon 32(1):87-92",
+     "url": "https://doi.org/10.1017/S0033822200039990",
+     "type": "peer-reviewed"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "no-spices-or-decay-products",
+   "exhibit": 47,
+   "category": "other",
+   "title": "没有发现埋葬用的香料，也没有发现人体产生的化学物质",
+   "claim": "STURP的化学检测没有发现任何香料、油类，或人体在生前或死后产生的物质的痕迹，而约翰福音说，耶稣的身体是和大约一百罗马磅的没药和沉香一起裹起来的。",
+   "detail": "STURP在1981年的总结中说，微量化学评估“没有显示任何香料、油类，或任何已知由人体在生前或死后产生的生化物质的迹象”。约翰福音19:39-40说，尼哥底母带来了大约一百罗马磅的没药和沉香，人们用细麻布连同香料把耶稣的身体裹好。双方都引用这个否定性的结果，但解读的方向正好相反。",
+   "skeptic": "一块用了这么多香料来包裹尸体的布，应该留有香料的痕迹；一块包过尸体的布，也应该留有尸体的痕迹。两样都没有找到，正是一块从未接触过尸体的布应有的情形。唯一报告过的人体物质是血，而伪造者可以加上血。",
+   "reply": "支持方回应说，香料可能是放在身体周围或墓中，而没有浸入这块布；而且1978年的检测针对的是用胶带粘取的表面纤维，可能漏掉微量的痕迹。有些支持者还把没有腐败产物解读为身体很早就离开了这块布。这只是推论，不是测量结果，本网站不把它算作证据。",
+   "strength": "moderate",
+   "strength_reason": "来自直接检测、有文献记载的否定性结果，但样本是少量的表面样本，而且双方的解读各不相同。",
+   "sources": [
+    {
+     "label": "STURP 1981结论摘要",
+     "url": "https://www.shroud.com/78conclu.htm",
+     "type": "official"
+    },
+    {
+     "label": "约翰福音19:39-40，World English Bible（英文）",
+     "url": "https://ebible.org/eng-web/JHN19.htm",
+     "type": "website"
+    }
+   ],
+   "lean": "neutral"
+  },
+  {
+   "id": "crucifixion-archaeology",
+   "exhibit": 48,
+   "category": "anatomy",
+   "title": "考古发现所揭示的十字架刑",
+   "claim": "两具出土的骸骨为罗马时代的十字架刑提供了实物证据。两人的右脚跟骨都被一根铁钉从侧面穿透，而且两人都得到了正常的埋葬。",
+   "detail": "1968年，建筑工人在耶路撒冷的吉瓦特哈米夫塔尔（Giv'at ha-Mivtar）发现了一座犹太家族墓。其中一个骨罐上刻着“哈格科尔之子约哈南”，里面有一块右脚跟骨，仍被一根铁钉穿透，钉帽下面垫着一块橄榄木板。第一项研究（1970年）描述的是两只脚跟被钉在一起，前臂被钉，腿被打断。Zias和Sekeles（1985年）更正了这些说法：铁钉长约11.5厘米，只从侧面穿透了右脚跟；腿骨断裂发生在死后；双臂可能是被绑住，而不是被钉住。2017年，在剑桥郡芬斯坦顿的一次发掘中，发现了一名死于公元130年至360年之间的男子，一根5厘米长的铁钉横穿他的右脚跟骨。他和其他人一样，被安葬在定居点的墓地里。剑桥大学的团队说，十字架刑的骨骼证据极为罕见。",
+   "skeptic": "这两名真实的受刑者都是铁钉从侧面穿过脚跟，而裹尸布上显示的是右脚脚底中部附近的一个刺孔。仅凭这两具骸骨就能看出，十字架刑的做法明显不尽相同，所以无法把裹尸布上的伤口与罗马的做法逐一对照。这两次埋葬只说明受十字架刑的人可以得到妥善埋葬，这符合福音书的记载，而不是特别指向这块布。",
+   "reply": "这一点说得公允，而且这些发现对双方都有影响。它们纠正了一种流行的说法，即受十字架刑的人总是被扔进乱葬坑，所以用一块亚麻布妥善埋葬在历史上是可能的。而如果做法各不相同，钉子穿过脚底也不能被排除。这些发现是这场争论的背景，不是支持或反对这块布的证据。",
+   "strength": "strong",
+   "strength_reason": "经过同行评审的骨骼研究和一份大学发掘报告。它们描述的是十字架刑，而不是这块布。",
+   "sources": [
+    {
+     "label": "Biblical Archaeology Review关于Zias和Sekeles 1985的文章，Israel Exploration Journal 35(1):22-27",
+     "url": "https://library.biblicalarchaeology.org/department/scholars-corner-new-analysis-of-the-crucified-man",
+     "type": "website"
+    },
+    {
+     "label": "Biblical Archaeology Society，罗马十字架刑的方法",
+     "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/crucifixion/roman-crucifixion-methods-reveal-the-history-of-crucifixion/",
+     "type": "website"
+    },
+    {
+     "label": "维基百科：Jehohanan",
+     "url": "https://en.wikipedia.org/wiki/Jehohanan",
+     "type": "website"
+    },
+    {
+     "label": "剑桥大学 2021，Evidence of a Roman crucifixion found in Cambridgeshire",
+     "url": "https://www.cam.ac.uk/stories/romancrucifixion",
+     "type": "news"
+    }
+   ],
+   "lean": "neutral"
+  },
+  {
+   "id": "uv-fluorescence-1978",
+   "exhibit": 49,
+   "category": "image",
+   "title": "在紫外光下，图像不发荧光，烧痕却会",
+   "claim": "1978年的紫外线照片显示，身体图像不发荧光，而1532年的烧痕会发荧光，这不利于“烧焦形成”的说法；照片还显示，许多血迹带有颜色较浅的边缘，作者把它解读为血清。",
+   "detail": "在1978年的检查中，Vernon Miller和Samuel Pellicori在紫外光下拍摄了整块布，并于1981年在Journal of Biological Photography上发表了结果。他们写道：“烧痕发出红棕色荧光，而身体图像不发荧光”，并得出结论：“烧焦成因或颜料之类的假说，与荧光摄影的结果相矛盾。”血迹区域吸收紫外线，与全血在他们的实验室检测中的表现一样。他们还描述了“许多血迹区域周围可见的较浅边缘”，包括手和脚伤口处会发荧光的边缘，并提出了“存在血清”的解释。这些边缘只拍了照片，没有做化学检测。",
+   "skeptic": "只要是水性液体渗入布中，污渍周围就会出现浅色边缘：水比有颜色的部分扩散得更远，留下一圈较浅的水痕。这说明有液体渗了进去，而不是说明血清从真正的血块中分离了出来。至于图像，不发荧光排除了像1532年烧痕那样的高温烧焦，但并不能说明图像是如何、何时形成的。例如，ENEA用激光给亚麻布着色，产生的颜色同样不发荧光。",
+   "reply": "关于烧焦的结果是其中最有力的部分，而且站得住：图像的表现与同一块布上的烧痕不同。血清的说法是一种诠释，但它与STURP的报告相符，即血迹区域的血清白蛋白检测呈阳性。若能使用现代成像技术，并对这些边缘进行有针对性的取样，这两点都会更有说服力。",
+   "strength": "moderate",
+   "strength_reason": "来自直接研究的可靠照片。反对烧焦说的论点很清楚；“血清”则是一种诠释。",
+   "sources": [
+    {
+     "label": "Miller和Pellicori 1981, Journal of Biological Photography 49(3):71-85",
+     "url": "https://www.shroud.com/pdfs/UV%20Fluorescence%20Miller%20Pellicori%201981%20OCRsm.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "STURP 1981结论摘要",
+     "url": "https://www.shroud.com/78conclu.htm",
+     "type": "official"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "xray-no-image",
+   "exhibit": 50,
+   "category": "image",
+   "title": "X射线显示出织纹，却没有身体图像",
+   "claim": "1978年拍摄的X射线照片显示出织纹、补丁和水渍的边缘，却没有身体图像的任何痕迹，这排除了存在致密颜料层或色料层的可能。",
+   "detail": "1978年，Mottern、London和Morris对这块布进行了X射线拍摄，并在Materials Evaluation上报告说，“在射线照片中，无法分辨出两个身体图像、血迹和烧痕的细节”，而人字纹、衬布、补丁以及与水渍相对应的环状高密度区域都能显示出来。Schwalbe和Rogers（1982年）总结说：“在任何地方都观察不到与可见身体图像相对应的密度不连续”，尽管织纹和布的密度变化“在所有射线照片中都清晰可见”。",
+   "skeptic": "对这个问题来说，射线照相是一种很粗糙的工具。Schwalbe和Rogers自己也说，它对氧化铁和类似颜料的灵敏度，大约只有X射线荧光的十分之一。射线照片连含铁的血迹都显示不出来，所以也不会显示出McCrone所描述的那种稀薄如水的赭石涂层。它们排除的是厚重的颜料层，而不是稀释的颜料。",
+   "reply": "没错，这一主张应当只限于这么窄的范围。更灵敏的检测指向同一方向：STURP的总结说，对细纤维进行的X射线荧光和微量化学检测“排除了颜料的可能性”，即图像不是由颜料形成的。射线照片提供了另一条独立的证据，表明不存在厚的颜料层。",
+   "strength": "moderate",
+   "strength_reason": "直接的、有文献记载的成像，但单凭它本身，灵敏度不足以排除稀薄的颜料涂层。",
+   "sources": [
+    {
+     "label": "Mottern、London和Morris, Materials Evaluation 38(12):39-44",
+     "url": "https://www.shroud.com/pdfs/Radiographic%20Examination%20Preliminary%20Report%20Mottern%20London%20Morris%201979%20OCRsm.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Schwalbe和Rogers 1982, Analytica Chimica Acta 135:3-49",
+     "url": "https://shroud.com/pdfs/Physics%20Chemistry%20of%20Shroud%20Schwalbe%20Rogers%201981%20OCRsm.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "STURP 1981结论摘要",
+     "url": "https://www.shroud.com/78conclu.htm",
+     "type": "official"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "icon-face-comparison",
+   "exhibit": 51,
+   "category": "history",
+   "title": "早期基督圣像与裹尸布面容有共同的细节",
+   "claim": "支持方认为，大约从6世纪起，拜占庭艺术中基督面容的标准形象模仿了裹尸布面容上一些奇特的细节，因此这块布当时必定已经存在，并且有人见过它。",
+   "detail": "1930年代末，Paul Vignon列出了许多圣像与裹尸布面容共有的不寻常特征，例如两眉之间一个方形的印记；这些特征后来被称为“Vignon标记”。后来，Alan和Mary Whanger发展出一种方法，用偏振滤光片投射两张面孔进行比较，并于1985年发表在Applied Optics上。那篇论文只描述了方法；他们的结果来自后来的会议论文。他们在会议论文中报告说，裹尸布面容与西奈圣凯瑟琳修道院6世纪的全能者基督圣像之间有约250个“吻合点”，与查士丁尼二世（公元692年至695年）的一枚金币之间有145个，而他们从法医面部比对中借用的门槛是45至60个。",
+   "skeptic": "这种关联也可以反过来解释。14世纪的制作者自然会模仿拜占庭艺术已经沿用了大约800年的基督面容，所以伪造品同样会出现吻合。这些标记是在模糊、斑驳的特征上事后挑出来的。Hugh Farey阅读了Vignon本人的原文，指出流行的清单中包括一些Vignon从未提到过的标记，而且Vignon几乎把任何相似之处都当作模仿的证据，却把差异解释掉。吻合点是由提出这一关联的研究者自己计数的，而法医门槛本来就不是为绘画设计的。",
+   "reply": "谁模仿谁是一个真正的问题，叠图比对无法解决它。支持方能提出的较窄论点是：西奈圣像和查士丁尼二世的金币，年代都比1350年早好几个世纪，所以如果它们上面有任何细节只可能来自裹尸布，那么这块布就比它的碳年代更古老。到目前为止，这一论证依赖的是做比对的人自己的判断。",
+   "strength": "disputed",
+   "strength_reason": "早期图像是真实的，但它们是否模仿了裹尸布，取决于主观比对，而模仿圣像的伪造者也会产生同样的吻合。",
+   "sources": [
+    {
+     "label": "Whanger和Whanger 1985, Applied Optics 24(6):766-772",
+     "url": "https://doi.org/10.1364/AO.24.000766",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "M. Whanger 2000, The Impact of the Shroud Face on Art Work，Sindone 2000大会",
+     "url": "https://www.shroud.com/pdfs/orvWHANGER%20M.%20Paper%20English.PDF",
+     "type": "website"
+    },
+    {
+     "label": "Farey 2019, The Vignon Markings, according to Paul Vignon himself",
+     "url": "https://www.shroud.com/pdfs/anc-farey-pap2.pdf",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "against-mesarites-1201",
+   "exhibit": 52,
+   "category": "history",
+   "title": "1201年，宫中的耶稣殓布被描述为没有图像",
+   "claim": "怀疑方认为：1201年，君士坦丁堡帝国圣物的保管人把耶稣的殓布描述为普通、廉价、带有没药气味的亚麻布，没有图像，因此当时那里不太可能有一块带全身图像的布。",
+   "detail": "1201年（有些学者定为1200年），John Comnenus在宫中发动的叛乱失败，期间大皇宫各教堂圣物的保管人Nicholas Mesarites守卫了收藏圣物的法罗斯圣母教堂。他对这次叛乱的记述中，有一份该教堂的圣物清单：“耶稣的殓布；它们是亚麻布，一种廉价的布料，至今仍有没药的气味。”他没有提到上面有任何图像。在同一份清单中，他确实描述了一幅“印在一块手巾上”的基督图像，那是另一件圣物。希腊文原文由August Heisenberg于1907年编订；1985年，Shroud Spectrum International刊登了英文节选。",
+   "skeptic": "这是一位亲自看管这些圣物的目击者，而且就在同一份清单里，他还特意注明了一块手巾上的图像。如果这些殓布上有被钉十字架的基督的全身像，那会是它们最引人注目的地方。他所说的普通殓布，也削弱了Robert de Clari在两三年后的记述，即城中有一块显出主的形像的裹尸布。",
+   "reply": "Mesarites写的是一篇修辞性的演说词，这份清单被他称为圣物的“十诫”，每件只用一两句话，并不是对每件物品的描述，所以他没有提到图像，只是很弱的证据。他用的是复数（“殓布”在原文中是复数），可能指的是好几块布。这段文字确实表明，1201年宫中保存着被当作耶稣殓布来敬礼的亚麻布，而埃德萨假说和de Clari假说都需要这一点。它无法说明其中是否有一块就是这块裹尸布。",
+   "strength": "moderate",
+   "strength_reason": "出自圣物保管人本人的第一手文字，但这是在一份简短的修辞性清单中以沉默为据的论证。",
+   "sources": [
+    {
+     "label": "Mesarites, The Palace Revolution of John Comnenus（节选）, Shroud Spectrum International 17, 1985",
+     "url": "https://www.shroud.com/pdfs/ssi17part4.pdf",
+     "type": "website"
+    },
+    {
+     "label": "维基百科：John Komnenos the Fat",
+     "url": "https://en.wikipedia.org/wiki/John_Komnenos_the_Fat",
+     "type": "website"
+    }
+   ],
+   "lean": "against"
   }
  ]
 }

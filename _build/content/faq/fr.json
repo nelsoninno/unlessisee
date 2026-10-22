@@ -1,0 +1,127 @@
+{
+ "page": {
+  "title": "Le Saint-Suaire de Turin expliqué : vrai ou faux ? | Si je ne vois",
+  "description": "Le Saint-Suaire de Turin est-il authentique ? Des réponses claires et sourcées sur les arguments pour et contre, la datation, l’image, le sang et les plaies.",
+  "h1": "Le Saint-Suaire de Turin expliqué : vos questions, nos réponses",
+  "lede": "Des réponses courtes et sourcées aux questions les plus fréquentes sur le Saint-Suaire de Turin, avec des liens vers l’ensemble des éléments. Quand les experts ne sont pas d’accord, nous le disons.",
+  "more": "Lire la suite",
+  "label": "Questions",
+  "foot": "Questions et réponses"
+ },
+ "items": [
+  {
+   "id": "what",
+   "q": "Qu’est-ce que le Saint-Suaire de Turin ?",
+   "a": "Le Saint-Suaire de Turin est un linge de lin d’environ 4,4 mètres de long et 1,1 mètre de large qui porte l’image pâle, de face et de dos, d’un homme qui semble avoir été flagellé et crucifié. Il est conservé à Turin, en Italie, depuis 1578, et de nombreux chrétiens croient qu’il s’agit du linceul dans lequel Jésus a été enseveli. On l’appelle aussi le Suaire de Turin, le Linceul de Turin ou le Saint-Suaire de Jésus.",
+   "link": "explore"
+  },
+  {
+   "id": "real",
+   "q": "Le Saint-Suaire de Turin est-il vrai ou faux ?",
+   "a": "C’est un vrai linge de lin, très ancien, et non une supercherie moderne. La question ouverte est de savoir s’il est le linceul de Jésus ou une création médiévale. La datation au carbone 14 de 1988 l’a situé entre 1260 et 1390 apr. J.-C., alors que personne n’a encore reproduit toutes les propriétés de son image. Des chercheurs sérieux se trouvent des deux côtés, et ce site présente les arguments les plus solides de chacun, avec leurs sources.",
+   "link": "evidence"
+  },
+  {
+   "id": "jesus",
+   "q": "Le Saint-Suaire est-il authentique ? Est-ce le linceul de Jésus ?",
+   "a": "Aucune analyse ne peut prouver quel corps un linge a enveloppé. La science peut mesurer son âge, ses matériaux et la façon dont l’image s’est formée. Sur de nombreux détails, l’image correspond aux récits des Évangiles sur un homme flagellé, couronné d’épines et crucifié, mais la datation au carbone 14 de 1988 renvoie au Moyen Âge. Savoir s’il s’agit du linceul de Jésus est un jugement que chacun forme à partir des éléments et, pour beaucoup, au bout du compte, une question de foi.",
+   "link": "weigh"
+  },
+  {
+   "id": "for",
+   "q": "Quels éléments indiquent que le Saint-Suaire est authentique ?",
+   "a": "Voici les principaux arguments en faveur de l’authenticité. L’image se trouve seulement sur les fibres superficielles du lin, sur environ 0,2 micromètre d’épaisseur, et aucune peinture ni aucun liant ne la forme. Elle se comporte comme un négatif photographique, et ses nuances enregistrent la distance comme une carte en 3D. Les taches rouges contiennent du vrai sang, qui semble avoir été sur le linge avant l’image. Les plaies correspondent à une crucifixion romaine, avec des clous dans les poignets. Personne n’a reproduit tout cela à la fois.",
+   "link": "evidence"
+  },
+  {
+   "id": "against",
+   "q": "Quels éléments indiquent que le Saint-Suaire est une création médiévale ?",
+   "a": "Voici les principaux arguments en faveur d’une origine médiévale. La datation par radiocarbone de 1988, faite par trois laboratoires, a donné 1260 à 1390 apr. J.-C. Le linge n’a pas d’histoire sûre avant 1354 environ, quand il apparaît à Lirey, en France. En 1389, l’évêque du lieu a écrit qu’un artiste avait avoué l’avoir peint. Une étude de 2025 soutient que l’image correspond mieux à un bas-relief qu’à un vrai corps. La datation au carbone 14 est, à elle seule, l’argument le plus fort contre l’authenticité.",
+   "link": "evidence"
+  },
+  {
+   "id": "carbon",
+   "q": "Qu’a révélé la datation au carbone 14 du Saint-Suaire ?",
+   "a": "En 1988, des laboratoires en Arizona, à Oxford et à Zurich ont daté des échantillons prélevés dans un coin et ont annoncé 1260 à 1390 apr. J.-C., avec un niveau de confiance de 95 % (Damon et autres, Nature, 1989). De nouvelles analyses des données brutes, en 2013, 2019 et 2020, ont montré que les échantillons étaient moins cohérents qu’annoncé. Cela remet en cause la précision du résultat, mais n’indique pas le Ier siècle. Les critiques avancent aussi qu’un seul coin ne représente peut-être pas tout le linge.",
+   "link": "dating"
+  },
+  {
+   "id": "age",
+   "q": "Quel âge a le Saint-Suaire de Turin ?",
+   "a": "Son histoire documentée commence vers 1354 à Lirey, en France, donc le linge a au moins 670 ans environ. La datation au carbone 14 de 1988 situe le lin entre 1260 et 1390. Les partisans de l’authenticité défendent le Ier siècle en s’appuyant sur l’image, le sang et d’éventuelles traces plus anciennes, comme le dessin du Codex Pray, vers 1192, mais ces liens plus anciens sont contestés.",
+   "link": "timeline"
+  },
+  {
+   "id": "how",
+   "q": "Comment l’image du Saint-Suaire s’est-elle formée ?",
+   "a": "Personne ne le sait. L’image est d’une couleur jaune paille sur les fibres les plus externes, sans peinture, sans coups de pinceau et sans trace d’imprégnation des fils. Les chercheurs ont proposé une peinture, une statue chauffée, une poudre frottée sur un relief, une photographie primitive, une réaction chimique avec des gaz émis par un corps et un éclair de rayonnement. Chaque idée explique certaines caractéristiques et bute sur d’autres.",
+   "link": "image"
+  },
+  {
+   "id": "painted",
+   "q": "L’image du Saint-Suaire est-elle peinte ?",
+   "a": "L’équipe scientifique de 1978 (STURP) a conclu que ce n’est pas une peinture : elle n’a trouvé aucun pigment formant l’image, aucun coup de pinceau et aucun liant. Le microscopiste Walter McCrone n’était pas d’accord et a signalé de l’oxyde de fer et d’autres matières. La plupart des études ultérieures ont donné raison au STURP sur l’image, tout en reconnaissant que de minuscules particules de nombreuses matières se trouvent sur le linge.",
+   "link": "image"
+  },
+  {
+   "id": "negative",
+   "q": "Pourquoi le Saint-Suaire ressemble-t-il à un négatif photographique ?",
+   "a": "Sur le linge, le clair et le sombre sont inversés par rapport à une image normale, si bien qu’un négatif photographique de l’image ressemble à un portrait naturel. Secondo Pia l’a découvert en photographiant le Saint-Suaire pour la première fois, en 1898. Les sceptiques font remarquer que les images obtenues par contact avec une surface en relief sont elles aussi inversées.",
+   "link": "index"
+  },
+  {
+   "id": "3d",
+   "q": "Le Saint-Suaire contient-il des informations en 3D ?",
+   "a": "Oui. En 1976, les physiciens John Jackson et Eric Jumper ont placé une photographie du Saint-Suaire dans un VP-8 Image Analyzer, qui transforme la luminosité en hauteur, et ont obtenu un relief cohérent d’un corps. Les photographies et les peintures ordinaires ne donnent pas ce résultat. Les sceptiques notent qu’une image obtenue par contact avec un bas-relief peut aussi donner un résultat 3D plausible.",
+   "link": "explore"
+  },
+  {
+   "id": "blood",
+   "q": "Y a-t-il du vrai sang sur le Saint-Suaire ?",
+   "a": "Des analyses de la fin des années 1970 et du début des années 1980 ont trouvé de l’hème, de la bilirubine et d’autres composants du sang dans les taches rouges, et aucune image sous le sang. Il n’a pas été démontré avec des méthodes modernes que ce sang est humain, et les affirmations sur un groupe sanguin précis ne sont pas fiables, car le linge est très contaminé.",
+   "link": "evidence"
+  },
+  {
+   "id": "wounds",
+   "q": "Les plaies du Saint-Suaire correspondent-elles à la crucifixion de Jésus ?",
+   "a": "Elles correspondent de près aux récits des Évangiles : environ 100 à 120 marques de flagellation, des perforations autour de la tête comme un casque d’épines, une plaie de clou au poignet, une plaie au côté et des jambes qui n’ont pas été brisées. Certains détails, comme les clous dans les poignets plutôt que dans les paumes, diffèrent de l’art médiéval. Les sceptiques répondent qu’un artiste bien informé aurait pu connaître ces détails.",
+   "link": "wounds"
+  },
+  {
+   "id": "copy",
+   "q": "Quelqu’un a-t-il reproduit le Saint-Suaire de Turin ?",
+   "a": "Plusieurs chercheurs ont obtenu des images proches de celle du Saint-Suaire avec des méthodes disponibles au Moyen Âge, par exemple en frottant un pigment sur un relief. Ces copies reproduisent certaines caractéristiques, mais aucune ne reproduit toutes les propriétés à la fois : la coloration des seules fibres superficielles, l’information 3D, le négatif et le sang sous l’image. Les sceptiques soutiennent que six siècles de vieillissement expliquent les écarts restants.",
+   "link": "image"
+  },
+  {
+   "id": "church",
+   "q": "Que dit l’Église catholique sur le Saint-Suaire ?",
+   "a": "L’Église n’a jamais déclaré officiellement le Saint-Suaire authentique, et elle n’oblige personne à le croire. Les papes récents l’ont appelé une icône de la souffrance du Christ et ont prié devant lui. Le Saint-Siège en est propriétaire depuis 1983, et l’archevêque de Turin en est le gardien.",
+   "link": "about"
+  },
+  {
+   "id": "see",
+   "q": "Où est conservé le Saint-Suaire de Turin, et peut-on le voir ?",
+   "a": "Il est conservé dans la cathédrale Saint-Jean-Baptiste de Turin, dans une châsse à climat contrôlé, et il n’est généralement pas exposé au public. Il est montré lors de rares ostensions publiques, comme celles de 2010 et 2015, et lors d’une retransmission en direct en 2020.",
+   "link": "timeline"
+  },
+  {
+   "id": "visual",
+   "q": "Quelle est la façon la plus visuelle d’explorer le Saint-Suaire ?",
+   "a": "Ce site vous permet de zoomer sur tout le linge en haute résolution, de passer au négatif photographique, de voir le visage en relief 3D, de trouver chaque plaie sur une carte du corps à côté de son verset de l’Évangile, de comparer les douze mesures au radiocarbone et de peser vous-même les éléments. Il est gratuit, disponible en 12 langues, et chaque affirmation renvoie à sa source.",
+   "link": "explore"
+  },
+  {
+   "id": "proof",
+   "q": "Le Saint-Suaire prouve-t-il que Jésus est ressuscité ?",
+   "a": "Non. Même s’il était démontré que le linge date du Ier siècle, il ne pourrait pas prouver une résurrection ; tout au plus, il soulève des questions auxquelles la science n’a pas répondu. Notre avis est que le Saint-Suaire donne à un esprit sérieux assez de matière pour prendre la question au sérieux, et laisse le dernier pas à chacun.",
+   "link": "index"
+  },
+  {
+   "id": "who",
+   "q": "Qui a créé ce site, et est-il neutre ?",
+   "a": "« Si je ne vois » est un projet gratuit et non commercial créé par Nelson Inno et réalisé par everybodyknowsyou.com. Nelson croit que le Saint-Suaire est authentique et le dit ouvertement. Le site présente malgré tout les arguments les plus solides des deux camps avec toute leur force, évalue chacun d’eux et relie chaque affirmation à sa source, pour que vous puissiez juger par vous-même.",
+   "link": "about"
+  }
+ ]
+}

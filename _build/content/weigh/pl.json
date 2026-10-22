@@ -39,7 +39,7 @@
    "skeptic": "Sceptyk",
    "believer": "Wierzący",
    "neutral": "Neutralnie, według dowodów",
-   "note": "Każdy przycisk zaznacza odpowiedzi typowego sceptyka lub wierzącego, abyś mógł porównać. Opcja neutralna to nasza własna ocena dowodów. Każdą odpowiedź możesz zmienić."
+   "note": "Każdy przycisk zaznacza odpowiedzi typowego sceptyka lub wierzącego, abyś mógł porównać. Opcja neutralna to nasza własna ocena dowodów, przygotowana z pomocą Claude, sztucznej inteligencji firmy Anthropic (Opus 5.5, wysoki poziom rozumowania), która oceniła każde twierdzenie w świetle dowodów z akt sprawy. Każdą odpowiedź możesz zmienić."
   }
  }
 }

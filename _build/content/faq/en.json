@@ -1,0 +1,127 @@
+{
+ "page": {
+  "title": "Shroud of Turin Explained: Real or Fake? Questions Answered | Unless I See",
+  "description": "Is the Shroud of Turin real? Clear, sourced answers on the evidence for and against authenticity, the carbon dating, the image, the blood and the wounds.",
+  "h1": "The Shroud of Turin explained: your questions answered",
+  "lede": "Short, sourced answers to the questions people ask most about the Shroud of Turin, with links to the full evidence. Where experts disagree, we say so.",
+  "more": "Read more",
+  "label": "Questions",
+  "foot": "Questions and answers"
+ },
+ "items": [
+  {
+   "id": "what",
+   "q": "What is the Shroud of Turin?",
+   "a": "The Shroud of Turin is a linen cloth about 4.4 meters long and 1.1 meters wide that carries the faint front and back image of a man who appears to have been scourged and crucified. It has been kept in Turin, Italy, since 1578, and many Christians believe it is the burial shroud of Jesus. It is also called the Holy Shroud, the Turin Shroud and the Shroud of Jesus.",
+   "link": "explore"
+  },
+  {
+   "id": "real",
+   "q": "Is the Shroud of Turin real or fake?",
+   "a": "It is a real, very old linen cloth, not a modern hoax. The open question is whether it is the burial cloth of Jesus or a medieval creation. The 1988 carbon dating placed it between AD 1260 and 1390, while no one has yet reproduced every property of its image. Serious researchers stand on both sides, and this site lays out the strongest case for each, with sources.",
+   "link": "evidence"
+  },
+  {
+   "id": "jesus",
+   "q": "Is the Shroud of Turin authentic? Is it the burial cloth of Jesus?",
+   "a": "No test can prove whose body a cloth once wrapped. Science can test its age, its materials and how the image formed. The image matches the Gospel accounts of a man who was scourged, crowned with thorns and crucified in many details, but the 1988 carbon date points to the Middle Ages. Whether it is the shroud of Jesus is a judgment each person makes from the evidence, and for many, finally, a matter of faith.",
+   "link": "weigh"
+  },
+  {
+   "id": "for",
+   "q": "What evidence shows the Shroud is authentic?",
+   "a": "The main arguments for authenticity are these. The image sits only on the top fibers of the linen, about 0.2 micrometers deep, and no paint or binder forms it. It behaves like a photographic negative, and its shading records distance like a 3D map. The red stains contain real blood that seems to have been on the cloth before the image. The wounds match a Roman crucifixion, including nails at the wrists. No one has reproduced all of these at once.",
+   "link": "evidence"
+  },
+  {
+   "id": "against",
+   "q": "What evidence shows the Shroud is a medieval creation?",
+   "a": "The main arguments for a medieval origin are these. The 1988 radiocarbon dating by three laboratories gave AD 1260 to 1390. The cloth has no secure history before about 1354, when it appears in Lirey, France. In 1389 the local bishop wrote that an artist had confessed to painting it. A 2025 study argues the image fits a low relief better than a real body. The carbon date is the strongest single argument against authenticity.",
+   "link": "evidence"
+  },
+  {
+   "id": "carbon",
+   "q": "What did the carbon dating of the Shroud find?",
+   "a": "In 1988, laboratories in Arizona, Oxford and Zurich dated samples cut from one corner and reported AD 1260 to 1390 with 95% confidence (Damon and others, Nature, 1989). Later reanalyses of the raw data in 2013, 2019 and 2020 found the samples were less consistent than reported. That questions the precision of the result, but it does not point to the first century. Critics also argue that one corner may not represent the whole cloth.",
+   "link": "dating"
+  },
+  {
+   "id": "age",
+   "q": "How old is the Shroud of Turin?",
+   "a": "Its documented history begins around 1354 in Lirey, France, so the cloth is at least about 670 years old. The 1988 carbon dating places the linen between 1260 and 1390. Supporters of authenticity argue for the first century, pointing to the image, the blood and possible earlier records such as the Pray Codex drawing of about 1192, but those earlier links are disputed.",
+   "link": "timeline"
+  },
+  {
+   "id": "how",
+   "q": "How was the image on the Shroud made?",
+   "a": "Nobody knows. The image is a straw-yellow color on the outermost fibers, with no paint, no brush strokes and no sign of soaking into the threads. Researchers have proposed paint, a heated statue, powder rubbed over a relief, early photography, a chemical reaction with gases from a body and a burst of radiation. Each idea explains some features and struggles with others.",
+   "link": "image"
+  },
+  {
+   "id": "painted",
+   "q": "Is the image on the Shroud painted?",
+   "a": "The 1978 scientific team (STURP) concluded it is not a painting: they found no pigment forming the image, no brush strokes and no binder. Microscopist Walter McCrone disagreed and reported iron oxide and other materials. Most later studies sided with STURP on the image, while agreeing that tiny particles of many materials are present on the cloth.",
+   "link": "image"
+  },
+  {
+   "id": "negative",
+   "q": "Why does the Shroud look like a photographic negative?",
+   "a": "On the cloth, light and dark are reversed compared with a normal picture, so a photographic negative of it looks like a natural portrait. Secondo Pia discovered this when he first photographed the Shroud in 1898. Skeptics point out that images made by contact with a raised surface are also reversed.",
+   "link": "index"
+  },
+  {
+   "id": "3d",
+   "q": "Does the Shroud contain 3D information?",
+   "a": "Yes. In 1976 physicists John Jackson and Eric Jumper put a photograph of the Shroud into a VP-8 Image Analyzer, which turns brightness into height, and got a coherent relief of a body. Ordinary photographs and paintings do not do this. Skeptics note that an image made by contact with a low relief can also give a plausible 3D result.",
+   "link": "explore"
+  },
+  {
+   "id": "blood",
+   "q": "Is there real blood on the Shroud?",
+   "a": "Tests in the late 1970s and early 1980s found heme, bilirubin and other blood components in the red stains, and no image under the blood. It has not been shown with modern methods that the blood is human, and claims of a specific blood type are not reliable because the cloth is heavily contaminated.",
+   "link": "evidence"
+  },
+  {
+   "id": "wounds",
+   "q": "Do the wounds on the Shroud match the crucifixion of Jesus?",
+   "a": "They match the Gospel accounts closely: about 100 to 120 scourge marks, punctures around the head like a cap of thorns, a nail wound at the wrist, a wound in the side, and legs that were not broken. Some details, such as nails at the wrists rather than the palms, differ from medieval art. Skeptics answer that a well-informed artist could have known these details.",
+   "link": "wounds"
+  },
+  {
+   "id": "copy",
+   "q": "Has anyone reproduced the Shroud of Turin?",
+   "a": "Several researchers have made Shroud-like images with methods available in the Middle Ages, for example by rubbing pigment over a relief. These copies match some features, but none reproduces every property at once: the coloring of only the top fibers, the 3D information, the negative and the blood under the image. Skeptics argue that six centuries of aging explain the remaining gaps.",
+   "link": "image"
+  },
+  {
+   "id": "church",
+   "q": "What does the Catholic Church say about the Shroud?",
+   "a": "The Church has never officially declared the Shroud authentic, and does not require anyone to believe it is. Recent popes have called it an icon of the suffering of Christ and have prayed before it. The Holy See has owned it since 1983, and the Archbishop of Turin is its custodian.",
+   "link": "about"
+  },
+  {
+   "id": "see",
+   "q": "Where is the Shroud of Turin kept, and can I see it?",
+   "a": "It is kept in the Cathedral of Saint John the Baptist in Turin, in a climate-controlled case, and is usually not on public view. It is shown during rare public exhibitions, such as those in 2010 and 2015, and in a 2020 live broadcast.",
+   "link": "timeline"
+  },
+  {
+   "id": "visual",
+   "q": "What is the most visual way to explore the Shroud?",
+   "a": "This site lets you zoom into the whole cloth in high resolution, switch to the photographic negative, see the face as a 3D relief, find each wound on a body map next to its Gospel verse, compare all twelve radiocarbon measurements and weigh the evidence yourself. It is free, in 12 languages, and every claim links to its source.",
+   "link": "explore"
+  },
+  {
+   "id": "proof",
+   "q": "Does the Shroud prove that Jesus rose from the dead?",
+   "a": "No. Even if the cloth were shown to be from the first century, it could not prove a resurrection; at most it raises questions that science has not answered. Our view is that the Shroud gives a serious mind enough to take the question seriously, and leaves the last step to each person.",
+   "link": "index"
+  },
+  {
+   "id": "who",
+   "q": "Who made this site, and is it neutral?",
+   "a": "Unless I See is a free, non-commercial project created by Nelson Inno and built by everybodyknowsyou.com. Nelson believes the Shroud is authentic and says so openly. The site still gives the strongest arguments on both sides at full strength, rates each one, and links every claim to its source, so you can judge for yourself.",
+   "link": "about"
+  }
+ ]
+}

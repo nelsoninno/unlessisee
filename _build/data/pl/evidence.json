@@ -487,6 +487,11 @@
    "strength_reason": "Dobra fizyka laboratoryjna, ale brak dowodów, że takie źródło istniało. Liczby watów nie wolno używać jako „dowodu”.",
    "sources": [
     {
+     "label": "Di Lazzaro et al. 2012, Applied Optics 51(36):8567-8578",
+     "url": "https://doi.org/10.1364/AO.51.008567",
+     "type": "peer-reviewed"
+    },
+    {
      "label": "Di Lazzaro et al. 2010, materiały z warsztatów ENEA we Frascati",
      "url": "https://www.sindone.info/DILAZZA1.PDF",
      "type": "peer-reviewed"
@@ -656,7 +661,7 @@
    "title": "Wysoka bilirubina utrzymuje czerwony kolor krwi",
    "claim": "Adler przekonywał, że bardzo wysoki poziom bilirubiny, wywołany ciężkim urazem, wyjaśnia, dlaczego stara krew wygląda na czerwoną, a nie czarną.",
    "detail": "Heller i Adler (1981) opisali barwę azobilirubiny na niektórych cząstkach krwi i pik widmowy w okolicy 450 nm. Adler powiedział, że bilirubina zmieszana z methemoglobiną wyglądałaby na czerwoną.",
-   "skeptic": "Bilirubina jest pomarańczowa i nietrwała w świetle i w obecności tlenu. Jej ilości nigdy właściwie nie zmierzono, a w teście z 2010 roku podobno po czterech miesiącach nie było różnicy barwy między krwią zwykłą a krwią z wysoką bilirubiną. Sama „zbyt czerwona” krew jest argumentem sceptyków za farbą.",
+   "skeptic": "Bilirubina jest pomarańczowa i nietrwała w świetle i w obecności tlenu. Jej ilości nigdy właściwie nie zmierzono, a w teście z 2010 roku podobno po czterech miesiącach nie było różnicy barwy między krwią zwykłą a krwią z wysoką bilirubiną. Sama „zbyt czerwona” krew jest argumentem sceptyków za farbą. Artykuł Carlino i współpracowników z 2017 roku w PLOS ONE, według którego nanocząstki w pojedynczym włóknie Całunu wskazywały na ciężki uraz, został w lipcu 2018 roku wycofany przez czasopismo mimo sprzeciwu autorów, ponieważ dane i próby kontrolne nie potwierdzały jego wniosków.",
    "reply": "Nie ma mocnej repliki. Czerwony kolor to otwarte pytanie.",
    "strength": "weak",
    "strength_reason": "Nigdy nie zmierzono ilościowo ani nie potwierdzono eksperymentalnie.",
@@ -670,6 +675,11 @@
      "label": "Omówienie dowodów dotyczących bilirubiny, 2015",
      "url": "https://shroudstory.com/2015/03/28/is-bilirubin-still-accepted-as-an-explanation-for-the-red-blood/",
      "type": "website"
+    },
+    {
+     "label": "Retraction Watch 2018, PLOS ONE wycofuje Carlino et al. 2017",
+     "url": "https://retractionwatch.com/2018/07/19/over-authors-objections-plos-one-retracts-paper-claiming-shroud-of-turin-showed-evidence-of-trauma",
+     "type": "news"
     }
    ],
    "lean": "for"
@@ -1338,6 +1348,206 @@
     }
    ],
    "lean": "neutral"
+  },
+  {
+   "id": "radiocarbon-protocol-1986",
+   "exhibit": 46,
+   "category": "dating",
+   "title": "Badanie z 1988 roku było węższe niż plan z 1986 roku",
+   "claim": "Datowanie radiowęglowe odeszło od protokołu uzgodnionego w 1986 roku: siedem laboratoriów dwóch rodzajów zastąpiono trzema laboratoriami jednego rodzaju i zrezygnowano ze ślepej próby, więc faktycznie przeprowadzone badanie było słabsze od planowanego.",
+   "detail": "Odnotowuje to sam artykuł w Nature. Na spotkaniu w Turynie we wrześniu i październiku 1986 roku siedem laboratoriów radiowęglowych (pięć laboratoriów AMS i dwa małe laboratoria z licznikami gazowymi) zaleciło protokół datowania płótna. W październiku 1987 roku arcybiskup Turynu, działając na polecenie Stolicy Apostolskiej, wybrał oferty tylko trzech laboratoriów AMS: z Arizony, Oksfordu i Zurychu. Ponieważ płótno było narażone na wiele możliwych źródeł zanieczyszczenia, Nature podaje, że „postanowiono zrezygnować z procedur ślepej próby w interesie skutecznej wstępnej obróbki próbek”. Laboratoriom nie powiedziano, w którym pojemniku jest próbka Całunu, ale artykuł przyznaje, że jej splotu w jodełkę 3:1 nie dało się odtworzyć w próbkach kontrolnych, więc laboratorium mogło ją rozpoznać. W Oksfordzie i Zurychu próbki po spaleniu otrzymały nowe oznaczenia, więc osoby wykonujące pomiary nie wiedziały, która jest która. Harry Gove, pionier datowania metodą AMS, napisał w 1990 roku, że procedury „znacznie różniły się” od tych, które zalecono na warsztatach.",
+   "skeptic": "Nic z tego nie czyni wyniku błędnym. Trzy laboratoria pracowały niezależnie, każde z własnym czyszczeniem i pomiarem, a wszystkie trzy próbki kontrolne dały poprawne wyniki. Prawdziwa ślepa próba i tak była niemożliwa, bo żadna tkanina kontrolna nie miała takiego samego splotu, a nowe oznaczenia w dwóch laboratoriach sprawiły, że sam pomiar był wykonywany w ciemno. Gove, który zwrócił uwagę na te zmiany, nadal uznawał wyniki za wiarygodne. Mniejsza liczba laboratoriów ogranicza głównie możliwość wzajemnej kontroli, a nie to, czy węgiel zmierzono poprawnie.",
+   "reply": "Uczciwy argument jest wąski i strona nie powinna twierdzić więcej. Zmiana planu nie przesuwa daty. Ma znaczenie, bo ostateczne badanie opierało się na jednym pasku z jednego rogu, mierzonym przez laboratoria, które mogły rozpoznać, która próbka pochodzi z Całunu. Dlatego późniejsze ustalenie, że 12 wyników słabo się ze sobą zgadza, traktuje się poważnie, i dlatego wciąż pojawiają się wezwania do nowego badania z większą liczbą próbek.",
+   "strength": "moderate",
+   "strength_reason": "Udokumentowane w samym artykule w Nature, ale pokazuje węższe badanie niż planowano, a nie błędny wynik.",
+   "sources": [
+    {
+     "label": "Damon et al. 1989, Nature 337:611",
+     "url": "https://doi.org/10.1038/337611a0",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Damon et al. 1989, kopia pełnego tekstu",
+     "url": "https://shroud.com/nature.htm",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Gove 1990, Radiocarbon 32(1):87-92",
+     "url": "https://doi.org/10.1017/S0033822200039990",
+     "type": "peer-reviewed"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "no-spices-or-decay-products",
+   "exhibit": 47,
+   "category": "other",
+   "title": "Nie znaleziono wonności pogrzebowych ani substancji pochodzących z ciała",
+   "claim": "Testy chemiczne STURP nie wykazały śladów wonności, olejków ani substancji, które ciało wytwarza za życia lub po śmierci, choć Ewangelia według św. Jana mówi, że ciało owinięto wraz z mniej więcej stu funtami rzymskimi mirry i aloesu.",
+   "detail": "Podsumowanie STURP z 1981 roku stwierdza, że ocena mikrochemiczna „nie wykazała żadnych śladów wonności, olejków ani jakichkolwiek substancji biochemicznych, o których wiadomo, że ciało wytwarza je za życia lub po śmierci”. J 19,39-40 mówi, że Nikodem przyniósł mieszaninę mirry i aloesu, około stu funtów rzymskich, i że ciało owinięto w lniane płótna razem z wonnościami. Obie strony powołują się na ten negatywny wynik i odczytują go w przeciwny sposób.",
+   "skeptic": "Płótno, które owijało zwłoki z taką ilością wonności, powinno nosić ich ślady, a płótno, w którym leżało martwe ciało, powinno nosić też ślady ciała. Brak jednych i drugich to właśnie to, czego należy się spodziewać po płótnie, które nigdy nie dotykało ciała. Krew to jedyny zgłoszony materiał pochodzący z ciała, a krew mógł dodać fałszerz.",
+   "reply": "Zwolennicy odpowiadają, że wonności mogły zostać umieszczone wokół ciała lub w grobie, a nie wsiąknąć w to płótno, i że badania z 1978 roku dotyczyły włókien powierzchniowych zebranych taśmą samoprzylepną, przy których łatwo przeoczyć drobne ślady. Niektórzy zwolennicy odczytują też brak produktów rozkładu jako znak, że ciało wcześnie opuściło płótno. To wniosek, a nie pomiar, i ta strona nie uznaje go za dowód.",
+   "strength": "moderate",
+   "strength_reason": "Udokumentowany negatywny wynik bezpośrednich badań, ale z małych próbek powierzchniowych, a każda strona odczytuje go inaczej.",
+   "sources": [
+    {
+     "label": "Podsumowanie wniosków STURP z 1981 roku",
+     "url": "https://www.shroud.com/78conclu.htm",
+     "type": "official"
+    },
+    {
+     "label": "J 19,39-40, World English Bible",
+     "url": "https://ebible.org/eng-web/JHN19.htm",
+     "type": "website"
+    }
+   ],
+   "lean": "neutral"
+  },
+  {
+   "id": "crucifixion-archaeology",
+   "exhibit": 48,
+   "category": "anatomy",
+   "title": "Co archeologia mówi o ukrzyżowaniu",
+   "claim": "Dwa odkopane szkielety dostarczają materialnych dowodów ukrzyżowania w czasach rzymskich. W obu przypadkach żelazny gwóźdź przeszedł bokiem przez prawą kość piętową, a obaj mężczyźni zostali normalnie pochowani.",
+   "detail": "W 1968 roku robotnicy budowlani w Giv'at ha-Mivtar w Jerozolimie odkryli żydowski grób rodzinny. W jednym z ossuariów, z napisem „Jehochanan, syn Hagkola”, znajdowała się prawa kość piętowa wciąż przebita żelaznym gwoździem, z płytką z drewna oliwnego pod główką gwoździa. Pierwsze badanie (1970) opisywało obie pięty przybite razem, przybite przedramiona i połamane nogi. Zias i Sekeles (1985) poprawili ten opis: gwóźdź ma około 11,5 cm długości i przebił tylko prawą piętę, z boku, złamanie nogi nastąpiło po śmierci, a ręce były raczej przywiązane niż przybite. W 2017 roku podczas wykopalisk w Fenstanton w hrabstwie Cambridgeshire znaleziono mężczyznę zmarłego między 130 a 360 rokiem n.e., z 5-centymetrowym żelaznym gwoździem wbitym poziomo w prawą kość piętową. Pochowano go na cmentarzu osady tak samo jak innych. Zespół z Cambridge określa szkieletowe dowody ukrzyżowania jako niezwykle rzadkie.",
+   "skeptic": "U obu rzeczywistych ofiar gwóźdź przeszedł z boku przez piętę, a Całun pokazuje przebicie mniej więcej pośrodku podeszwy prawej stopy. Już przy dwóch szkieletach widać, że ukrzyżowanie wyglądało różnie, więc ran na Całunie nie da się szczegółowo dopasować do rzymskiej praktyki. Pochówki pokazują tylko, że ukrzyżowany mógł zostać należycie pochowany, co zgadza się z Ewangeliami, ale nie dotyczy tego płótna w szczególności.",
+   "reply": "To uczciwa uwaga, a znaleziska działają w obie strony. Korygują popularne twierdzenie, że ukrzyżowanych zawsze wrzucano do masowych grobów, więc należyty pochówek w lnianym prześcieradle jest historycznie możliwy. A jeśli metody były różne, to gwóźdź przez podeszwę też nie jest wykluczony. Te znaleziska są kontekstem dla sporu, a nie dowodem za płótnem ani przeciw niemu.",
+   "strength": "strong",
+   "strength_reason": "Recenzowane badania kości i raport z wykopalisk uniwersyteckich. Opisują ukrzyżowanie, a nie to płótno.",
+   "sources": [
+    {
+     "label": "Biblical Archaeology Review o pracy Ziasa i Sekelesa 1985, Israel Exploration Journal 35(1):22-27",
+     "url": "https://library.biblicalarchaeology.org/department/scholars-corner-new-analysis-of-the-crucified-man",
+     "type": "website"
+    },
+    {
+     "label": "Biblical Archaeology Society, rzymskie metody ukrzyżowania",
+     "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/crucifixion/roman-crucifixion-methods-reveal-the-history-of-crucifixion/",
+     "type": "website"
+    },
+    {
+     "label": "Wikipedia: Jehohanan",
+     "url": "https://en.wikipedia.org/wiki/Jehohanan",
+     "type": "website"
+    },
+    {
+     "label": "Uniwersytet w Cambridge 2021, Evidence of a Roman crucifixion found in Cambridgeshire",
+     "url": "https://www.cam.ac.uk/stories/romancrucifixion",
+     "type": "news"
+    }
+   ],
+   "lean": "neutral"
+  },
+  {
+   "id": "uv-fluorescence-1978",
+   "exhibit": 49,
+   "category": "image",
+   "title": "W ultrafiolecie obraz nie świeci, a przypalenia tak",
+   "claim": "Zdjęcia w ultrafiolecie z 1978 roku pokazują, że obraz ciała nie fluoryzuje, a przypalenia z 1532 roku fluoryzują, co przemawia przeciw przypaleniu, oraz że wiele śladów krwi ma jaśniejszą obwódkę, którą autorzy odczytują jako surowicę krwi.",
+   "detail": "Vernon Miller i Samuel Pellicori sfotografowali całe płótno w świetle ultrafioletowym podczas badania w 1978 roku i opublikowali wyniki w Journal of Biological Photography w 1981 roku. Piszą, że „przypalenia emitują czerwonobrązową fluorescencję, podczas gdy obraz ciała nie fluoryzuje”, i wnioskują, że „hipotezom takim jak przypalenie czy farba jako przyczyna przeczą wyniki fotografii fluorescencyjnej”. Obszary krwi pochłaniają ultrafiolet, tak jak pełna krew w ich testach laboratoryjnych. Opisują też „jaśniejszy obszar obrzeża widoczny przy wielu obszarach poplamionych krwią”, w tym fluoryzujące obwódki przy ranach dłoni i stóp, i proponują interpretację, że „obecna jest surowica krwi”. Obwódki sfotografowano, ale nie zbadano chemicznie.",
+   "skeptic": "Blada obwódka wokół plamy powstaje zawsze, gdy płyn na bazie wody wsiąka w tkaninę: woda rozchodzi się dalej niż zabarwiona część i zostawia jaśniejszy brzeg. To pokazuje, że płyn wsiąknął, a nie że surowica oddzieliła się od prawdziwego skrzepu. Co do obrazu, brak fluorescencji wyklucza przypalenie w wysokiej temperaturze, takie jak ślady z 1532 roku, ale nie mówi nic o tym, jak i kiedy obraz powstał. Na przykład barwienie lnu laserem w ENEA także nie daje fluorescencji.",
+   "reply": "Wynik dotyczący przypaleń jest najmocniejszą częścią i się utrzymuje: obraz nie zachowuje się jak przypalenia na tym samym płótnie. Odczytanie obwódek jako surowicy to interpretacja, ale zgadza się z raportem STURP, według którego obszary krwi dają wynik dodatni na albuminę surowicy. Oba wnioski byłyby mocniejsze przy nowoczesnym obrazowaniu i celowanym pobraniu próbek z obwódek.",
+   "strength": "moderate",
+   "strength_reason": "Solidne zdjęcia z bezpośrednich badań. Argument przeciw przypaleniu jest jasny, a „surowica” to interpretacja.",
+   "sources": [
+    {
+     "label": "Miller i Pellicori 1981, Journal of Biological Photography 49(3):71-85",
+     "url": "https://www.shroud.com/pdfs/UV%20Fluorescence%20Miller%20Pellicori%201981%20OCRsm.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Podsumowanie wniosków STURP z 1981 roku",
+     "url": "https://www.shroud.com/78conclu.htm",
+     "type": "official"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "xray-no-image",
+   "exhibit": 50,
+   "category": "image",
+   "title": "Promienie rentgenowskie pokazują splot, ale nie obraz ciała",
+   "claim": "Zdjęcia rentgenowskie wykonane w 1978 roku pokazują splot, łaty i brzegi zacieków wody, ale nie ma na nich śladu obrazu ciała, co wyklucza gęstą warstwę farby lub pigmentu.",
+   "detail": "Mottern, London i Morris prześwietlili płótno w 1978 roku i podali w Materials Evaluation, że „szczegóły obu obrazów ciała, plam krwi i śladów przypaleń nie są rozpoznawalne na radiogramach”, podczas gdy splot w jodełkę, podszewka, łaty i pierścieniowate gęste obszary odpowiadające zaciekom wody są widoczne. Schwalbe i Rogers (1982) podsumowują: „Nigdzie nie zaobserwowano nieciągłości gęstości odpowiadających widocznemu obrazowi ciała”, choć splot i różnice gęstości tkaniny „są łatwo widoczne na wszystkich radiogramach”.",
+   "skeptic": "Radiografia to toporne narzędzie do tego pytania. Sami Schwalbe i Rogers piszą, że jej czułość na tlenek żelaza i podobne pigmenty jest mniej więcej dziesięć razy niższa niż czułość fluorescencji rentgenowskiej. Radiogramy nie pokazują też śladów krwi, choć zawierają one żelazo, więc nie pokazałyby cienkiej, wodnistej warstwy ochry, takiej jak opisana przez McCrone'a. Wykluczają grubą warstwę farby, a nie rozcieńczoną.",
+   "reply": "Słusznie, i twierdzenie powinno pozostać tak wąskie. Czulsze badania wskazują w tę samą stronę: podsumowanie STURP stwierdza, że fluorescencja rentgenowska i mikrochemia włókienek „wykluczają możliwość farby” jako źródła obrazu. Radiogramy dodają jeden niezależny dowód, że nie ma tam grubej warstwy pigmentu.",
+   "strength": "moderate",
+   "strength_reason": "Bezpośrednie, udokumentowane obrazowanie, ale samo w sobie zbyt mało czułe, by wykluczyć cienką warstwę pigmentu.",
+   "sources": [
+    {
+     "label": "Mottern, London i Morris, Materials Evaluation 38(12):39-44",
+     "url": "https://www.shroud.com/pdfs/Radiographic%20Examination%20Preliminary%20Report%20Mottern%20London%20Morris%201979%20OCRsm.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Schwalbe i Rogers 1982, Analytica Chimica Acta 135:3-49",
+     "url": "https://shroud.com/pdfs/Physics%20Chemistry%20of%20Shroud%20Schwalbe%20Rogers%201981%20OCRsm.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Podsumowanie wniosków STURP z 1981 roku",
+     "url": "https://www.shroud.com/78conclu.htm",
+     "type": "official"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "icon-face-comparison",
+   "exhibit": 51,
+   "category": "history",
+   "title": "Wczesne ikony Chrystusa mają wspólne szczegóły z twarzą z Całunu",
+   "claim": "Zwolennicy twierdzą, że typowa twarz Chrystusa w sztuce bizantyjskiej, mniej więcej od VI wieku, powtarza dziwne szczegóły twarzy z Całunu, więc płótno musiało już wtedy istnieć i być oglądane.",
+   "detail": "Pod koniec lat 30. XX wieku Paul Vignon wymienił nietypowe cechy wspólne wielu ikonom i twarzy z Całunu, takie jak kwadratowy znak między brwiami. Nazwano je znakami Vignona. Alan i Mary Whangerowie opracowali później sposób porównywania dwóch twarzy przez rzutowanie ich przez filtry polaryzacyjne, opublikowany w Applied Optics w 1985 roku. Ten artykuł opisuje tylko metodę, a ich wyniki pochodzą z późniejszych referatów konferencyjnych. Podają w nich około 250 „punktów zgodności” między twarzą z Całunu a ikoną Chrystusa Pantokratora z VI wieku z klasztoru Świętej Katarzyny na Synaju oraz 145 ze złotą monetą Justyniana II (692-695 n.e.), wobec progu 45 do 60, który przejmują z sądowej identyfikacji twarzy.",
+   "skeptic": "Zależność może działać w drugą stronę. Twórca z XIV wieku w naturalny sposób skopiowałby twarz Chrystusa, której sztuka bizantyjska używała od około 800 lat, więc zgodności należy się spodziewać także w przypadku fałszerstwa. Znaki wyszukuje się po fakcie na słabych, nieostrych rysach. Hugh Farey, czytając tekst samego Vignona, pokazuje, że popularna lista zawiera znaki, których Vignon nigdy nie wymienił, i że Vignon uznawał niemal każde podobieństwo za dowód kopiowania, a różnice zbywał wyjaśnieniami. Punkty zgodności liczą ci sami badacze, którzy proponują ten związek, a progi sądowe nigdy nie były opracowane z myślą o malowidłach.",
+   "reply": "Kierunek kopiowania to prawdziwy problem i nakładanie obrazów go nie rozstrzygnie. Węższy argument, jaki mogą przedstawić zwolennicy, brzmi tak: ikona z Synaju i monety Justyniana II są datowane na stulecia przed 1350 rokiem, więc gdyby jakiś szczegół na nich mógł pochodzić tylko z Całunu, płótno byłoby starsze niż jego data radiowęglowa. Na razie opiera się to na ocenie osób, które przeprowadzają porównania.",
+   "strength": "disputed",
+   "strength_reason": "Wczesne obrazy są prawdziwe, ale to, czy kopiują Całun, zależy od subiektywnego dopasowania, a fałszerz kopiujący ikony uzyskałby tę samą zgodność.",
+   "sources": [
+    {
+     "label": "Whanger i Whanger 1985, Applied Optics 24(6):766-772",
+     "url": "https://doi.org/10.1364/AO.24.000766",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "M. Whanger 2000, The Impact of the Shroud Face on Art Work, kongres Sindone 2000",
+     "url": "https://www.shroud.com/pdfs/orvWHANGER%20M.%20Paper%20English.PDF",
+     "type": "website"
+    },
+    {
+     "label": "Farey 2019, The Vignon Markings, according to Paul Vignon himself",
+     "url": "https://www.shroud.com/pdfs/anc-farey-pap2.pdf",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "against-mesarites-1201",
+   "exhibit": 52,
+   "category": "history",
+   "title": "W 1201 roku płótna grobowe w pałacu opisano bez obrazu",
+   "claim": "Sceptycy twierdzą: strażnik cesarskich relikwii w Konstantynopolu opisał w 1201 roku płótna grobowe Jezusa jako zwykły, tani len pachnący mirrą, bez obrazu, co czyni mało prawdopodobnym, by znajdowało się tam płótno z obrazem całego ciała.",
+   "detail": "Podczas nieudanego buntu pałacowego Jana Komnena w 1201 roku (niektórzy badacze datują go na 1200 rok) Mikołaj Mesarites, opiekun świętych przedmiotów w kościołach Wielkiego Pałacu, bronił kościoła relikwii Matki Bożej z Faros. Jego relacja z buntu zawiera listę relikwii tego kościoła: „Grobowe płótna Jezusa: są lniane, z taniej tkaniny, i wciąż pachną mirrą”. Nie wspomina o żadnym obrazie na nich. W tej samej liście opisuje natomiast obraz Chrystusa „odciśnięty na ręczniku”, osobną relikwię. Grecki tekst wydał August Heisenberg w 1907 roku, a angielski wyciąg ukazał się w Shroud Spectrum International w 1985 roku.",
+   "skeptic": "To naoczny świadek, który opiekował się tymi relikwiami, i pisze w tej samej liście, w której starannie odnotował obraz na ręczniku. Gdyby płótna nosiły pełną postać ukrzyżowanego Chrystusa, byłoby to w nich najbardziej uderzające. Jego zwykłe płótna osłabiają też relację Roberta de Clari, spisaną dwa lub trzy lata później, o całunie w mieście, na którym widać było postać Pana.",
+   "reply": "Mesarites pisał retoryczną mowę, listę, którą nazywa dekalogiem relikwii, z jednym lub dwoma zdaniami o każdej, a nie opis poszczególnych przedmiotów, więc jego milczenie o obrazie jest słabym dowodem. Używa liczby mnogiej, „grobowe płótna”, i może mieć na myśli kilka tkanin. Fragment pokazuje jednak, że w 1201 roku w pałacu przechowywano lniane płótna czczone jako płótna grobowe Jezusa, czego potrzebują hipotezy dotyczące Edessy i relacji Roberta de Clari. Nie może pokazać, czy jedno z nich było tym Całunem.",
+   "strength": "moderate",
+   "strength_reason": "Tekst z pierwszej ręki, od samego strażnika relikwii, ale to argument z milczenia w krótkiej, retorycznej liście.",
+   "sources": [
+    {
+     "label": "Mesarites, The Palace Revolution of John Comnenus (fragmenty), Shroud Spectrum International 17, 1985",
+     "url": "https://www.shroud.com/pdfs/ssi17part4.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Wikipedia: John Komnenos the Fat",
+     "url": "https://en.wikipedia.org/wiki/John_Komnenos_the_Fat",
+     "type": "website"
+    }
+   ],
+   "lean": "against"
   }
  ]
 }

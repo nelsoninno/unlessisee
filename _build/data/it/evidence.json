@@ -487,6 +487,11 @@
    "strength_reason": "Buona fisica di laboratorio, ma nessuna prova che una tale sorgente sia esistita; il numero dei watt non va usato come «prova».",
    "sources": [
     {
+     "label": "Di Lazzaro et al. 2012, Applied Optics 51(36):8567-8578",
+     "url": "https://doi.org/10.1364/AO.51.008567",
+     "type": "peer-reviewed"
+    },
+    {
      "label": "Di Lazzaro et al. 2010, atti del workshop ENEA di Frascati",
      "url": "https://www.sindone.info/DILAZZA1.PDF",
      "type": "peer-reviewed"
@@ -656,7 +661,7 @@
    "title": "La bilirubina alta mantiene rosso il sangue",
    "claim": "Adler sostenne che una bilirubina molto alta, dovuta a un trauma grave, spiega perché il sangue antico appare rosso e non nero.",
    "detail": "Heller e Adler (1981) riferirono un colore da azobilirubina su alcune particelle di sangue e un picco spettrale vicino a 450 nm. Adler disse che la bilirubina mescolata alla metaemoglobina apparirebbe rossa.",
-   "skeptic": "La bilirubina è arancione e instabile alla luce e all'ossigeno. Nessuna quantità è mai stata misurata correttamente, e un test del 2010, secondo quanto riferito, non trovò alcuna differenza di colore dopo quattro mesi tra sangue normale e sangue con bilirubina alta. Il sangue «troppo rosso» è di per sé un argomento scettico a favore della pittura.",
+   "skeptic": "La bilirubina è arancione e instabile alla luce e all'ossigeno. Nessuna quantità è mai stata misurata correttamente, e un test del 2010, secondo quanto riferito, non trovò alcuna differenza di colore dopo quattro mesi tra sangue normale e sangue con bilirubina alta. Il sangue «troppo rosso» è di per sé un argomento scettico a favore della pittura. Un articolo del 2017 su PLOS ONE di Carlino e colleghi, secondo cui alcune nanoparticelle in una singola fibra della Sindone indicavano un trauma grave, è stato ritirato dalla rivista nel luglio 2018, nonostante l'opposizione degli autori, perché i dati e i controlli non sostenevano le sue conclusioni.",
    "reply": "Nessuna risposta forte; il colore rosso è una questione aperta.",
    "strength": "weak",
    "strength_reason": "Mai quantificata né confermata sperimentalmente.",
@@ -670,6 +675,11 @@
      "label": "Discussione sulle prove della bilirubina, 2015",
      "url": "https://shroudstory.com/2015/03/28/is-bilirubin-still-accepted-as-an-explanation-for-the-red-blood/",
      "type": "website"
+    },
+    {
+     "label": "Retraction Watch 2018, PLOS ONE ritira l'articolo di Carlino et al. 2017",
+     "url": "https://retractionwatch.com/2018/07/19/over-authors-objections-plos-one-retracts-paper-claiming-shroud-of-turin-showed-evidence-of-trauma",
+     "type": "news"
     }
    ],
    "lean": "for"
@@ -1338,6 +1348,206 @@
     }
    ],
    "lean": "neutral"
+  },
+  {
+   "id": "radiocarbon-protocol-1986",
+   "exhibit": 46,
+   "category": "dating",
+   "title": "Il test del 1988 fu più ristretto del piano del 1986",
+   "claim": "Il test al radiocarbonio si discostò dal protocollo concordato nel 1986: sette laboratori di due tipi furono ridotti a tre di un solo tipo, e si rinunciò al test in cieco, quindi il test effettivamente eseguito fu più debole di quello previsto.",
+   "detail": "Lo stesso articolo di Nature registra il cambiamento. In un incontro a Torino tra settembre e ottobre 1986, sette laboratori di radiocarbonio (cinque AMS e due piccoli laboratori con contatori a gas) raccomandarono un protocollo per datare il telo. Nell'ottobre 1987 l'arcivescovo di Torino, su istruzioni della Santa Sede, scelse le offerte di soli tre laboratori AMS: Arizona, Oxford e Zurigo. Poiché il telo era stato esposto a molte possibili fonti di contaminazione, Nature scrive che «si decise di abbandonare le procedure di test in cieco nell'interesse di un efficace pretrattamento dei campioni». Ai laboratori non fu detto quale contenitore contenesse il campione della Sindone, ma l'articolo ammette che la sua armatura a spina di pesce 3:1 non si poteva riprodurre nei controlli, quindi un laboratorio poteva riconoscerla. A Oxford e a Zurigo i campioni furono ricodificati dopo la combustione, così il personale che eseguiva le misure non sapeva quale fosse quale. Harry Gove, pioniere della datazione AMS, scrisse nel 1990 che le procedure «differivano sostanzialmente» da quelle raccomandate dal workshop.",
+   "skeptic": "Niente di tutto questo rende sbagliato il risultato. Tre laboratori lavorarono in modo indipendente, ciascuno con la propria pulizia e la propria misura, e tutti e tre i controlli diedero risultati corretti. Un test davvero in cieco era comunque impossibile, perché nessun tessuto di controllo aveva la stessa armatura, e la ricodifica in due laboratori mantenne in cieco la fase della misura. Gove, che segnalò i cambiamenti, giudicò comunque credibili i risultati. Avere meno laboratori limita soprattutto le possibilità di verifica incrociata, non la correttezza della misura del carbonio.",
+   "reply": "Il punto corretto è circoscritto, e il sito non deve affermare di più. La modifica del piano non sposta la data. Conta perché il test finale si basò su una sola striscia presa da un angolo, misurata da laboratori che potevano capire quale campione fosse la Sindone. Per questo la scoperta successiva che i 12 risultati non concordano bene tra loro riceve un'attenzione seria, e per questo continuano le richieste di un nuovo test con più campioni.",
+   "strength": "moderate",
+   "strength_reason": "Documentato nello stesso articolo di Nature, ma mostra un test più ristretto del previsto, non un risultato sbagliato.",
+   "sources": [
+    {
+     "label": "Damon et al. 1989, Nature 337:611",
+     "url": "https://doi.org/10.1038/337611a0",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Damon et al. 1989, copia del testo completo",
+     "url": "https://shroud.com/nature.htm",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Gove 1990, Radiocarbon 32(1):87-92",
+     "url": "https://doi.org/10.1017/S0033822200039990",
+     "type": "peer-reviewed"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "no-spices-or-decay-products",
+   "exhibit": 47,
+   "category": "other",
+   "title": "Nessuna traccia di aromi funerari né di sostanze del corpo",
+   "claim": "Le analisi chimiche dello STURP non trovarono tracce di aromi, oli o sostanze che un corpo produce in vita o dopo la morte, anche se il Vangelo di Giovanni dice che il corpo fu avvolto con circa cento libbre romane di mirra e aloe.",
+   "detail": "La sintesi dello STURP del 1981 dice che la valutazione microchimica «non ha indicato alcuna prova di aromi, oli o di sostanze biochimiche che il corpo produce, per quanto si sa, in vita o in morte». Giovanni 19,39-40 dice che Nicodemo portò una miscela di mirra e aloe di circa cento libbre romane, e che il corpo fu avvolto in teli di lino insieme agli aromi. Entrambe le parti usano questo risultato negativo, e lo leggono in modi opposti.",
+   "skeptic": "Un telo che ha avvolto un cadavere con tanti aromi dovrebbe conservarne tracce, e un telo che ha contenuto un corpo morto dovrebbe conservare anche tracce del corpo. Non trovare né le une né le altre è ciò che ci si aspetterebbe da un telo che non ha mai toccato un corpo. Il sangue è l'unico materiale del corpo segnalato, e un falsario potrebbe aggiungere del sangue.",
+   "reply": "I sostenitori dell'autenticità rispondono che gli aromi potrebbero essere stati posti intorno al corpo o nel sepolcro, senza impregnare questo telo, e che i test del 1978 riguardarono fibre superficiali prelevate con nastro adesivo, che potrebbero non rilevare tracce minime. Alcuni di loro leggono anche l'assenza di prodotti della decomposizione come segno che il corpo lasciò presto il telo. È un'inferenza, non una misura, e questo sito non la conta come prova.",
+   "strength": "moderate",
+   "strength_reason": "Un risultato negativo documentato da analisi dirette, ma su piccoli campioni superficiali, e ciascuna parte lo legge in modo diverso.",
+   "sources": [
+    {
+     "label": "Sintesi delle conclusioni dello STURP del 1981",
+     "url": "https://www.shroud.com/78conclu.htm",
+     "type": "official"
+    },
+    {
+     "label": "Giovanni 19,39-40, World English Bible",
+     "url": "https://ebible.org/eng-web/JHN19.htm",
+     "type": "website"
+    }
+   ],
+   "lean": "neutral"
+  },
+  {
+   "id": "crucifixion-archaeology",
+   "exhibit": 48,
+   "category": "anatomy",
+   "title": "Che cosa mostra l'archeologia sulla crocifissione",
+   "claim": "Due scheletri riportati alla luce forniscono prove materiali della crocifissione in epoca romana. In entrambi un chiodo di ferro attraversò di lato l'osso del calcagno destro, ed entrambi gli uomini ebbero una sepoltura normale.",
+   "detail": "Nel 1968 alcuni operai edili a Giv'at ha-Mivtar, a Gerusalemme, scoprirono una tomba di famiglia ebraica. Un ossario con l'iscrizione «Yehohanan figlio di Hagkol» conteneva un osso del calcagno destro ancora trafitto da un chiodo di ferro, con una placchetta di legno d'ulivo sotto la testa del chiodo. Il primo studio (1970) descrisse i due calcagni inchiodati insieme, gli avambracci inchiodati e le gambe spezzate. Zias e Sekeles (1985) lo corressero: il chiodo è lungo circa 11,5 cm e trafisse solo il calcagno destro, di lato; la frattura della gamba avvenne dopo la morte; e le braccia furono probabilmente legate, non inchiodate. Nel 2017 uno scavo a Fenstanton, nel Cambridgeshire, trovò un uomo morto tra il 130 e il 360 d.C. con un chiodo di ferro di 5 cm conficcato orizzontalmente nell'osso del calcagno destro. Fu deposto nel cimitero dell'insediamento come gli altri. Il gruppo di Cambridge definisce estremamente rare le prove scheletriche di crocifissione.",
+   "skeptic": "Entrambe le vittime reali avevano un chiodo nel lato del calcagno, mentre la Sindone mostra una perforazione vicino al centro della pianta del piede destro. Con soli due scheletri è chiaro che la crocifissione variava, quindi le ferite della Sindone non si possono confrontare nei dettagli con la prassi romana. Le sepolture mostrano solo che un crocifisso poteva ricevere una sepoltura regolare, il che concorda con i Vangeli, non con questo telo in particolare.",
+   "reply": "È giusto, e i ritrovamenti valgono in entrambe le direzioni. Correggono l'idea diffusa che i crocifissi venissero sempre gettati in fosse comuni, quindi una sepoltura regolare in un lenzuolo di lino è storicamente possibile. E se i metodi variavano, nemmeno un chiodo attraverso la pianta del piede è escluso. Questi ritrovamenti sono un contesto per il dibattito, non prove a favore o contro il telo.",
+   "strength": "strong",
+   "strength_reason": "Studi sulle ossa sottoposti a revisione paritaria e la relazione di uno scavo universitario. Descrivono la crocifissione, non questo telo.",
+   "sources": [
+    {
+     "label": "Biblical Archaeology Review su Zias e Sekeles 1985, Israel Exploration Journal 35(1):22-27",
+     "url": "https://library.biblicalarchaeology.org/department/scholars-corner-new-analysis-of-the-crucified-man",
+     "type": "website"
+    },
+    {
+     "label": "Biblical Archaeology Society, i metodi romani di crocifissione",
+     "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/crucifixion/roman-crucifixion-methods-reveal-the-history-of-crucifixion/",
+     "type": "website"
+    },
+    {
+     "label": "Wikipedia: Jehohanan",
+     "url": "https://en.wikipedia.org/wiki/Jehohanan",
+     "type": "website"
+    },
+    {
+     "label": "Università di Cambridge 2021, Evidence of a Roman crucifixion found in Cambridgeshire",
+     "url": "https://www.cam.ac.uk/stories/romancrucifixion",
+     "type": "news"
+    }
+   ],
+   "lean": "neutral"
+  },
+  {
+   "id": "uv-fluorescence-1978",
+   "exhibit": 49,
+   "category": "image",
+   "title": "Alla luce ultravioletta l'immagine non brilla, le bruciature sì",
+   "claim": "Fotografie all'ultravioletto del 1978 mostrano che l'immagine del corpo non è fluorescente mentre le bruciature del 1532 lo sono, il che va contro l'ipotesi di una bruciatura, e che molte macchie di sangue hanno un bordo più chiaro che gli autori interpretano come siero del sangue.",
+   "detail": "Vernon Miller e Samuel Pellicori fotografarono l'intero telo alla luce ultravioletta durante l'esame del 1978 e pubblicarono i risultati sul Journal of Biological Photography nel 1981. Scrivono che «le bruciature emettono una fluorescenza bruno-rossastra, mentre l'immagine del corpo non è fluorescente», e concludono che «ipotesi come una bruciatura o la pittura sono contraddette dai risultati della fotografia in fluorescenza». Le zone di sangue assorbono l'ultravioletto, come il sangue intero nelle loro prove di laboratorio. Descrivono anche «la zona di bordo più chiara visibile in molte aree macchiate di sangue», compresi bordi fluorescenti alle ferite delle mani e dei piedi, e propongono l'interpretazione che «sia presente siero del sangue». I bordi furono fotografati, non analizzati chimicamente.",
+   "skeptic": "Un bordo pallido intorno a una macchia è ciò che si ottiene ogni volta che un liquido a base d'acqua impregna un tessuto: l'acqua si spande più della parte colorata e lascia un alone più chiaro. Questo mostra che un liquido è penetrato nel tessuto, non che il siero si è separato da un vero coagulo. Quanto all'immagine, l'assenza di fluorescenza esclude una bruciatura ad alta temperatura come quelle del 1532, ma non dice nulla su come o quando l'immagine sia stata prodotta. Anche la colorazione del lino con il laser dell'ENEA, per esempio, non è fluorescente.",
+   "reply": "Il risultato sulla bruciatura è la parte più forte e regge: l'immagine non si comporta come le bruciature sullo stesso telo. La lettura del siero è un'interpretazione, ma concorda con quanto riferito dallo STURP, cioè che le zone di sangue risultano positive all'albumina sierica. Entrambi i punti sarebbero più solidi con immagini moderne e un campionamento mirato dei bordi.",
+   "strength": "moderate",
+   "strength_reason": "Fotografie solide da uno studio diretto. Il punto contro una bruciatura è chiaro; il «siero» è un'interpretazione.",
+   "sources": [
+    {
+     "label": "Miller e Pellicori 1981, Journal of Biological Photography 49(3):71-85",
+     "url": "https://www.shroud.com/pdfs/UV%20Fluorescence%20Miller%20Pellicori%201981%20OCRsm.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Sintesi delle conclusioni dello STURP del 1981",
+     "url": "https://www.shroud.com/78conclu.htm",
+     "type": "official"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "xray-no-image",
+   "exhibit": 50,
+   "category": "image",
+   "title": "I raggi X mostrano la trama ma nessuna immagine del corpo",
+   "claim": "Le radiografie eseguite nel 1978 mostrano la trama, le toppe e i bordi delle macchie d'acqua, ma nessuna traccia dell'immagine del corpo, il che esclude uno strato denso di pittura o pigmento.",
+   "detail": "Mottern, London e Morris radiografarono il telo nel 1978 e riferirono su Materials Evaluation che «i dettagli delle due immagini del corpo, delle macchie di sangue e delle bruciature non sono distinguibili nelle radiografie», mentre si vedono l'armatura a spina di pesce, il telo di supporto, le toppe e zone dense ad anello che corrispondono alle macchie d'acqua. Schwalbe e Rogers (1982) riassumono: «In nessun punto si sono potute osservare discontinuità di densità corrispondenti all'immagine visibile del corpo», anche se la trama e le variazioni di densità del telo «sono facilmente visibili in tutte le radiografie».",
+   "skeptic": "La radiografia è uno strumento grossolano per questa domanda. Gli stessi Schwalbe e Rogers dicono che la sua sensibilità all'ossido di ferro e a pigmenti simili è circa dieci volte inferiore a quella della fluorescenza a raggi X. Le radiografie non mostrano nemmeno le macchie di sangue, che contengono ferro, quindi non mostrerebbero una velatura sottile e acquosa di ocra come quella descritta da McCrone. Escludono uno strato pesante di pittura, non uno diluito.",
+   "reply": "Corretto, e l'affermazione deve restare così circoscritta. Le analisi più sensibili vanno nella stessa direzione: la sintesi dello STURP dice che la fluorescenza a raggi X e la microchimica sulle fibrille «escludono la possibilità della pittura» come origine dell'immagine. Le radiografie aggiungono una linea di prova indipendente che non è presente uno strato spesso di pigmento.",
+   "strength": "moderate",
+   "strength_reason": "Immagini dirette e documentate, ma da sole troppo poco sensibili per escludere una velatura sottile di pigmento.",
+   "sources": [
+    {
+     "label": "Mottern, London e Morris, Materials Evaluation 38(12):39-44",
+     "url": "https://www.shroud.com/pdfs/Radiographic%20Examination%20Preliminary%20Report%20Mottern%20London%20Morris%201979%20OCRsm.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Schwalbe e Rogers 1982, Analytica Chimica Acta 135:3-49",
+     "url": "https://shroud.com/pdfs/Physics%20Chemistry%20of%20Shroud%20Schwalbe%20Rogers%201981%20OCRsm.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Sintesi delle conclusioni dello STURP del 1981",
+     "url": "https://www.shroud.com/78conclu.htm",
+     "type": "official"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "icon-face-comparison",
+   "exhibit": 51,
+   "category": "history",
+   "title": "Le prime icone di Cristo condividono dettagli con il volto della Sindone",
+   "claim": "I sostenitori dell'autenticità affermano che il volto tipico di Cristo nell'arte bizantina, a partire dal VI secolo circa, copia dettagli strani del volto della Sindone, quindi a quell'epoca il telo doveva già esistere ed essere stato visto.",
+   "detail": "Alla fine degli anni Trenta del Novecento Paul Vignon elencò alcuni tratti insoliti che molte icone hanno in comune con il volto della Sindone, come un segno di forma quadrata tra le sopracciglia; divennero noti come segni di Vignon. In seguito Alan e Mary Whanger svilupparono un modo per confrontare due volti proiettandoli attraverso filtri polarizzatori, pubblicato su Applied Optics nel 1985. Quell'articolo descrive solo il metodo; i loro risultati vengono da successive relazioni a congressi. Lì riportano circa 250 «punti di congruenza» tra il volto della Sindone e l'icona del Cristo Pantocratore del VI secolo del monastero di Santa Caterina, nel Sinai, e 145 con una moneta d'oro di Giustiniano II (692-695 d.C.), contro una soglia da 45 a 60 che ricavano dal confronto forense dei volti.",
+   "skeptic": "Il legame può andare nella direzione opposta. Un artigiano del XIV secolo copierebbe naturalmente il volto di Cristo che l'arte bizantina usava da circa 800 anni, quindi una corrispondenza ci si aspetta anche da un falso. I segni vengono individuati a posteriori su tratti deboli e chiazzati. Hugh Farey, leggendo il testo dello stesso Vignon, mostra che l'elenco divulgato include segni che Vignon non ha mai nominato, e che Vignon trattava quasi ogni somiglianza come prova di una copia, mentre minimizzava le differenze. I punti di congruenza sono contati dagli stessi ricercatori che propongono il legame, e le soglie forensi non sono mai state pensate per i dipinti.",
+   "reply": "La direzione della copia è un problema reale, e le sovrapposizioni non possono risolverlo. Il punto più limitato che i sostenitori dell'autenticità possono far valere è che l'icona del Sinai e le monete di Giustiniano II sono datate secoli prima del 1350, quindi se un loro dettaglio potesse venire solo dalla Sindone, il telo sarebbe più antico della sua datazione al radiocarbonio. Finora questa tesi si basa sul giudizio di chi fa il confronto.",
+   "strength": "disputed",
+   "strength_reason": "Le immagini antiche sono reali, ma che copino la Sindone dipende da un confronto soggettivo, e un falsario che copiasse le icone otterrebbe la stessa corrispondenza.",
+   "sources": [
+    {
+     "label": "Whanger e Whanger 1985, Applied Optics 24(6):766-772",
+     "url": "https://doi.org/10.1364/AO.24.000766",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "M. Whanger 2000, The Impact of the Shroud Face on Art Work, congresso Sindone 2000",
+     "url": "https://www.shroud.com/pdfs/orvWHANGER%20M.%20Paper%20English.PDF",
+     "type": "website"
+    },
+    {
+     "label": "Farey 2019, The Vignon Markings, according to Paul Vignon himself",
+     "url": "https://www.shroud.com/pdfs/anc-farey-pap2.pdf",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "against-mesarites-1201",
+   "exhibit": 52,
+   "category": "history",
+   "title": "Nel 1201 i teli funerari del palazzo furono descritti senza immagine",
+   "claim": "Gli scettici sostengono: il custode delle reliquie imperiali di Costantinopoli descrisse nel 1201 i teli funerari di Gesù come lino semplice e di poco prezzo che odorava di mirra, senza immagine, il che rende improbabile che lì si trovasse un telo con un'immagine a figura intera.",
+   "detail": "Durante la fallita rivolta di palazzo di Giovanni Comneno nel 1201 (alcuni studiosi la datano al 1200), Nicola Mesarite, custode degli oggetti sacri delle chiese del Gran Palazzo, difese la chiesa-reliquiario della Vergine del Faro. Il suo racconto della rivolta include un elenco delle reliquie della chiesa: «Le sindoni funebri di Gesù; sono di lino, un tessuto di poco prezzo, e odorano ancora di mirra». Non dice nulla di un'immagine su di esse. Nello stesso elenco descrive invece un'immagine di Cristo «impressa su un asciugamano», una reliquia distinta. Il testo greco fu pubblicato da August Heisenberg nel 1907; un estratto in inglese uscì su Shroud Spectrum International nel 1985.",
+   "skeptic": "È un testimone oculare che custodiva queste reliquie, e scrive nello stesso elenco in cui ebbe cura di annotare un'immagine su un asciugamano. Se i teli avessero portato una figura intera del Cristo crocifisso, sarebbe stata la cosa più vistosa di tutte. I teli semplici che descrive indeboliscono anche il resoconto di Robert de Clari, due o tre anni dopo, su una sindone in città che mostrava la figura del Signore.",
+   "reply": "Mesarite scriveva un discorso retorico, un elenco che lui chiama decalogo di reliquie, con una o due frasi per ciascuna, non una descrizione di ogni oggetto, quindi il suo silenzio su un'immagine è una prova debole. Usa il plurale, «sindoni», e può riferirsi a più teli. Il passo mostra però che nel 1201 nel palazzo si custodivano teli venerati come i teli funerari di Gesù, cosa di cui hanno bisogno le ipotesi di Edessa e di Robert de Clari. Non può mostrare se uno di essi fosse questa Sindone.",
+   "strength": "moderate",
+   "strength_reason": "Un testo di prima mano dello stesso custode delle reliquie, ma un argomento basato sul silenzio in un breve elenco retorico.",
+   "sources": [
+    {
+     "label": "Mesarites, The Palace Revolution of John Comnenus (estratti), Shroud Spectrum International 17, 1985",
+     "url": "https://www.shroud.com/pdfs/ssi17part4.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Wikipedia: John Komnenos the Fat",
+     "url": "https://en.wikipedia.org/wiki/John_Komnenos_the_Fat",
+     "type": "website"
+    }
+   ],
+   "lean": "against"
   }
  ]
 }

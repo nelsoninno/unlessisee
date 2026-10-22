@@ -39,7 +39,7 @@
    "skeptic": "Mapag-alinlangan",
    "believer": "Mananampalataya",
    "neutral": "Neutral, batay sa ebidensiya",
-   "note": "Pinipili ng bawat button ang mga sagot ng karaniwang mapag-alinlangan o mananampalataya, para maihambing mo. Ang neutral ay ang sarili naming pagbasa sa ebidensiya. Mababago mo ang anumang sagot."
+   "note": "Pinipili ng bawat button ang mga sagot ng karaniwang mapag-alinlangan o mananampalataya, para maihambing mo. Ang neutral ay ang sarili naming pagbasa sa ebidensiya, ginawa sa tulong ng Claude, ang AI ng Anthropic (Opus 5.5, sa mataas na antas ng pangangatwiran), na sinuri ang bawat pahayag batay sa ebidensiya sa case file. Mababago mo ang anumang sagot."
   }
  }
 }

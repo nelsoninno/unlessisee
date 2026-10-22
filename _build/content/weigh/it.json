@@ -39,7 +39,7 @@
    "skeptic": "Scettico",
    "believer": "Credente",
    "neutral": "Neutrale, secondo le prove",
-   "note": "Ogni pulsante segna le risposte di uno scettico o di un credente tipico, per confrontarle. L'opzione neutrale è la nostra lettura delle prove. Puoi cambiare qualsiasi risposta."
+   "note": "Ogni pulsante segna le risposte di uno scettico o di un credente tipico, per confrontarle. L'opzione neutrale è la nostra lettura delle prove, fatta con Claude, l'IA di Anthropic (Opus 5.5, con il livello di ragionamento alto), che ha valutato ogni affermazione alla luce delle prove del fascicolo. Puoi cambiare qualsiasi risposta."
   }
  }
 }

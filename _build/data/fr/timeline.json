@@ -124,6 +124,21 @@
    ]
   },
   {
+   "id": "mesarites-1201",
+   "year": 1201,
+   "date_label": "1201",
+   "title": "Mésaritès décrit de simples linges funéraires",
+   "text": "Nicolas Mésaritès, gardien des reliques du palais à Constantinople, décrit les linges funéraires de Jésus comme du lin simple et bon marché qui sent encore la myrrhe. Il ne mentionne aucune image sur eux, alors qu’il décrit une image du Christ sur une serviette distincte.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Mesarites, extrait dans Shroud Spectrum International 17",
+     "url": "https://www.shroud.com/pdfs/ssi17part4.pdf"
+    }
+   ]
+  },
+  {
    "id": "de-clari",
    "year": 1203,
    "date_label": "1203-1204",
@@ -459,6 +474,25 @@
    ]
   },
   {
+   "id": "yehohanan-1968",
+   "year": 1968,
+   "date_label": "1968",
+   "title": "Découverte de l’os du talon d’un crucifié",
+   "text": "À Giv’at ha-Mivtar, à Jérusalem, des ouvriers du bâtiment découvrent un tombeau juif contenant l’ossuaire de Yehohanan, dont l’os du talon droit est encore transpercé par un clou de fer. Une nouvelle étude, en 1985, montre que le clou n’a traversé qu’un seul talon, par le côté.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Wikipédia : Jehohanan",
+     "url": "https://en.wikipedia.org/wiki/Jehohanan"
+    },
+    {
+     "label": "Biblical Archaeology Review sur Zias et Sekeles 1985",
+     "url": "https://library.biblicalarchaeology.org/department/scholars-corner-new-analysis-of-the-crucified-man"
+    }
+   ]
+  },
+  {
    "id": "commission-1969",
    "year": 1969,
    "date_label": "1969",
@@ -614,6 +648,40 @@
     {
      "label": "Jackson et al. 1984",
      "url": "https://shroud.com/pdfs/Correlation%20of%20Image%20Intensity%20Jackson%20Jumper%20Ercoline%201984%20OCRsm.pdf"
+    }
+   ]
+  },
+  {
+   "id": "protocol-1986",
+   "year": 1986,
+   "date_label": "septembre-octobre 1986",
+   "title": "Sept laboratoires proposent un plan de datation",
+   "text": "Lors d’une réunion à Turin, sept laboratoires de radiocarbone (cinq laboratoires SMA et deux petits laboratoires à compteurs à gaz) recommandent un protocole pour dater le linge.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Damon et al. 1989",
+     "url": "https://shroud.com/nature.htm"
+    }
+   ]
+  },
+  {
+   "id": "three-labs-1987",
+   "year": 1987,
+   "date_label": "octobre 1987",
+   "title": "Seuls trois laboratoires sont retenus",
+   "text": "Sur instruction du Saint-Siège, l’archevêque de Turin retient trois laboratoires SMA : l’Arizona, Oxford et Zurich. L’article de Nature indique que l’analyse à l’aveugle a aussi été abandonnée.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Damon et al. 1989",
+     "url": "https://shroud.com/nature.htm"
+    },
+    {
+     "label": "Gove 1990, Radiocarbon",
+     "url": "https://doi.org/10.1017/S0033822200039990"
     }
    ]
   },
@@ -908,6 +976,21 @@
    ]
   },
   {
+   "id": "carlino-retraction-2018",
+   "year": 2018,
+   "date_label": "juillet 2018",
+   "title": "Retrait d’un article sur le sang et le traumatisme",
+   "text": "PLOS ONE retire un article de 2017 qui affirmait que des nanoparticules présentes dans une fibre du Saint-Suaire révélaient un traumatisme grave, en invoquant l’insuffisance des données et des contrôles. Les auteurs s’y sont opposés.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Retraction Watch, 19 juillet 2018",
+     "url": "https://retractionwatch.com/2018/07/19/over-authors-objections-plos-one-retracts-paper-claiming-shroud-of-turin-showed-evidence-of-trauma"
+    }
+   ]
+  },
+  {
    "id": "casabianca-2019",
    "year": 2019,
    "date_label": "mars 2019",
@@ -953,6 +1036,21 @@
     {
      "label": "Di Lazzaro et al. 2020, Entropy",
      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7597180"
+    }
+   ]
+  },
+  {
+   "id": "fenstanton-2021",
+   "year": 2021,
+   "date_label": "décembre 2021",
+   "title": "Un crucifié de l’époque romaine découvert en Angleterre",
+   "text": "Des archéologues signalent un homme enterré à Fenstanton, dans le Cambridgeshire, mort entre 130 et 360 apr. J.-C. avec un clou de fer à travers l’os du talon droit. Il a reçu une sépulture normale dans le cimetière de l’agglomération.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Université de Cambridge, 8 décembre 2021",
+     "url": "https://www.cam.ac.uk/stories/romancrucifixion"
     }
    ]
   },

@@ -39,7 +39,7 @@
    "skeptic": "Skeptic",
    "believer": "Believer",
    "neutral": "Neutral, evidence-based",
-   "note": "Each button fills in the answers a typical skeptic or believer would give, so you can compare. The neutral set is our own reading of the evidence. You can change any answer."
+   "note": "Each button fills in the answers a typical skeptic or believer would give, so you can compare. The neutral set is our own reading of the evidence, made with Anthropic's Claude AI (Opus 5.5, on its high reasoning setting), which judged each statement against the evidence in the case file. You can change any answer."
   }
  }
 }

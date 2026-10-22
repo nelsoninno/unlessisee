@@ -1,7 +1,41 @@
 # robots.txt for seetheshroud.org
-# Every page is open and indexable, including AI search and user-fetch agents.
+# Every page is open and indexable: search engines, AI search, AI answer agents and AI training crawlers.
 User-agent: *
 Allow: /
 
-# AI guide: https://seetheshroud.org/llms.txt
+# Appear in AI answers: search and user-fetch agents (kept open on purpose)
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: Claude-User
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Perplexity-User
+Allow: /
+User-agent: DuckAssistBot
+Allow: /
+User-agent: MistralAI-User
+Allow: /
+
+# Training crawlers: allowed
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+User-agent: CCBot
+Allow: /
+User-agent: Amazonbot
+Allow: /
+User-agent: meta-externalagent
+Allow: /
+
+# AI guide: https://seetheshroud.org/llms.txt (full version: /llms-full.txt)
 Sitemap: https://seetheshroud.org/sitemap.xml

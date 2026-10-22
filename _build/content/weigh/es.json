@@ -39,7 +39,7 @@
    "skeptic": "Escéptico",
    "believer": "Creyente",
    "neutral": "Neutral, según la evidencia",
-   "note": "Cada botón marca las respuestas que daría un escéptico o un creyente típico, para comparar. La opción neutral es nuestra propia lectura de la evidencia. Puedes cambiar cualquier respuesta."
+   "note": "Cada botón marca las respuestas que daría un escéptico o un creyente típico, para comparar. La opción neutral es nuestra propia lectura de la evidencia, hecha con Claude, la IA de Anthropic (Opus 5.5, en su ajuste de razonamiento alto), que evaluó cada afirmación frente a la evidencia del expediente. Puedes cambiar cualquier respuesta."
   }
  }
 }

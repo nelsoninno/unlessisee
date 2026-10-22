@@ -39,7 +39,7 @@
    "skeptic": "Sceptique",
    "believer": "Croyant",
    "neutral": "Neutre, selon les faits",
-   "note": "Chaque bouton coche les réponses d’un sceptique ou d’un croyant typique, pour comparer. L’option neutre est notre propre lecture des faits. Vous pouvez modifier chaque réponse."
+   "note": "Chaque bouton coche les réponses d’un sceptique ou d’un croyant typique, pour comparer. L’option neutre est notre propre lecture des faits, réalisée avec Claude, l’IA d’Anthropic (Opus 5.5, réglage de raisonnement élevé), qui a évalué chaque affirmation au regard des pièces du dossier. Vous pouvez modifier chaque réponse."
   }
  }
 }

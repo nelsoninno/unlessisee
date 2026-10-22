@@ -487,6 +487,11 @@
    "strength_reason": "Gute Laborphysik, aber kein Beleg, dass es eine solche Quelle gab; die Wattzahl darf nicht als „Beweis“ verwendet werden.",
    "sources": [
     {
+     "label": "Di Lazzaro et al. 2012, Applied Optics 51(36):8567-8578",
+     "url": "https://doi.org/10.1364/AO.51.008567",
+     "type": "peer-reviewed"
+    },
+    {
      "label": "Di Lazzaro et al. 2010, Tagungsband des ENEA-Workshops in Frascati",
      "url": "https://www.sindone.info/DILAZZA1.PDF",
      "type": "peer-reviewed"
@@ -656,7 +661,7 @@
    "title": "Hohes Bilirubin hält das Blut rot",
    "claim": "Adler argumentierte, dass sehr hohes Bilirubin infolge schwerer Verletzungen erklärt, warum das alte Blut rot und nicht schwarz aussieht.",
    "detail": "Heller und Adler (1981) berichteten von einer Azobilirubin-Färbung an einigen Blutteilchen und einem Spektralmaximum bei etwa 450 nm. Adler sagte, mit Methämoglobin vermischtes Bilirubin würde rot aussehen.",
-   "skeptic": "Bilirubin ist orange und unter Licht und Sauerstoff instabil. Eine Menge wurde nie richtig gemessen, und ein Test von 2010 fand Berichten zufolge nach vier Monaten keinen Farbunterschied zwischen normalem Blut und Blut mit hohem Bilirubin. Das „zu rote“ Blut ist selbst ein skeptisches Argument für Farbe.",
+   "skeptic": "Bilirubin ist orange und unter Licht und Sauerstoff instabil. Eine Menge wurde nie richtig gemessen, und ein Test von 2010 fand Berichten zufolge nach vier Monaten keinen Farbunterschied zwischen normalem Blut und Blut mit hohem Bilirubin. Das „zu rote“ Blut ist selbst ein skeptisches Argument für Farbe. Ein Artikel von Carlino und Kollegen aus dem Jahr 2017 in PLOS ONE, der behauptete, Nanopartikel in einer einzigen Faser des Grabtuchs zeigten schwere Verletzungen, wurde im Juli 2018 gegen den Widerspruch der Autoren von der Zeitschrift zurückgezogen, weil Daten und Kontrollen seine Schlussfolgerungen nicht stützten.",
    "reply": "Keine starke Antwort; die rote Farbe ist eine offene Frage.",
    "strength": "weak",
    "strength_reason": "Nie quantifiziert oder experimentell bestätigt.",
@@ -670,6 +675,11 @@
      "label": "Diskussion der Belege zum Bilirubin, 2015",
      "url": "https://shroudstory.com/2015/03/28/is-bilirubin-still-accepted-as-an-explanation-for-the-red-blood/",
      "type": "website"
+    },
+    {
+     "label": "Retraction Watch 2018, PLOS ONE zieht Carlino et al. 2017 zurück",
+     "url": "https://retractionwatch.com/2018/07/19/over-authors-objections-plos-one-retracts-paper-claiming-shroud-of-turin-showed-evidence-of-trauma",
+     "type": "news"
     }
    ],
    "lean": "for"
@@ -1338,6 +1348,206 @@
     }
    ],
    "lean": "neutral"
+  },
+  {
+   "id": "radiocarbon-protocol-1986",
+   "exhibit": 46,
+   "category": "dating",
+   "title": "Der Test von 1988 war enger gefasst als der Plan von 1986",
+   "claim": "Die Radiokarbondatierung wich von dem 1986 vereinbarten Protokoll ab: Statt sieben Laboren zweier Arten wurden nur drei Labore einer Art beteiligt, und auf Blindtests wurde verzichtet. Der tatsächlich durchgeführte Test war damit schwächer als der geplante.",
+   "detail": "Der Nature-Artikel selbst hält die Änderung fest. Bei einem Treffen in Turin im September und Oktober 1986 empfahlen sieben Radiokarbonlabore (fünf AMS-Labore und zwei kleine Labore mit Gaszählrohren) ein Protokoll zur Datierung des Tuchs. Im Oktober 1987 wählte der Erzbischof von Turin auf Anweisung des Heiligen Stuhls nur die Angebote von drei AMS-Laboren aus: Arizona, Oxford und Zürich. Weil das Tuch vielen möglichen Verunreinigungsquellen ausgesetzt gewesen war, schreibt Nature, man habe beschlossen, „im Interesse einer wirksamen Vorbehandlung der Proben auf Blindtestverfahren zu verzichten“. Den Laboren wurde nicht gesagt, welcher Behälter die Probe des Grabtuchs enthielt, doch der Artikel räumt ein, dass sich sein Fischgratköper 3:1 in den Kontrollproben nicht nachbilden ließ, sodass ein Labor die Probe erkennen konnte. In Oxford und Zürich wurden die Proben nach der Verbrennung neu codiert, sodass die Mitarbeiter, die die Messungen durchführten, nicht wussten, welche Probe welche war. Harry Gove, ein Pionier der AMS-Datierung, schrieb 1990, die Verfahren hätten sich „erheblich unterschieden“ von denen, die der Workshop empfohlen hatte.",
+   "skeptic": "Nichts davon macht das Ergebnis falsch. Drei Labore arbeiteten unabhängig, jedes mit eigener Reinigung und Messung, und alle drei Kontrollen fielen richtig aus. Ein echter Blindtest war ohnehin unmöglich, weil kein Kontrollstoff dieselbe Webart hatte, und die neue Codierung in zwei Laboren hielt den Messschritt blind. Gove, der auf die Änderungen hinwies, hielt die Ergebnisse dennoch für glaubwürdig. Weniger Labore begrenzen vor allem, wie viel gegenseitige Prüfung möglich war, nicht, ob der Kohlenstoff richtig gemessen wurde.",
+   "reply": "Der berechtigte Punkt ist eng, und die Website sollte nicht mehr daraus machen. Die Änderung des Versuchsplans verschiebt das Datum nicht. Sie ist wichtig, weil der endgültige Test auf einem einzigen Streifen aus einer Ecke beruhte, gemessen von Laboren, die erkennen konnten, welche Probe vom Grabtuch stammte. Deshalb wird der spätere Befund, dass die 12 Ergebnisse schlecht miteinander übereinstimmen, ernst genommen, und deshalb gibt es weiterhin Forderungen nach einem neuen Test mit mehr Proben.",
+   "strength": "moderate",
+   "strength_reason": "Im Nature-Artikel selbst dokumentiert, zeigt aber einen enger gefassten Test als geplant, kein falsches Ergebnis.",
+   "sources": [
+    {
+     "label": "Damon et al. 1989, Nature 337:611",
+     "url": "https://doi.org/10.1038/337611a0",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Damon et al. 1989, Spiegel des Volltexts",
+     "url": "https://shroud.com/nature.htm",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "Gove 1990, Radiocarbon 32(1):87-92",
+     "url": "https://doi.org/10.1017/S0033822200039990",
+     "type": "peer-reviewed"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "no-spices-or-decay-products",
+   "exhibit": 47,
+   "category": "other",
+   "title": "Keine Grabgewürze und keine Stoffe aus dem Körper gefunden",
+   "claim": "Die chemischen Tests von STURP fanden keine Spur von Gewürzen, Ölen oder Stoffen, die ein Körper im Leben oder nach dem Tod bildet, obwohl das Johannesevangelium berichtet, der Leichnam sei mit etwa hundert römischen Pfund Myrrhe und Aloe eingebunden worden.",
+   "detail": "Die Zusammenfassung von STURP aus dem Jahr 1981 sagt, die mikrochemische Auswertung habe „keinen Hinweis auf Gewürze, Öle oder irgendwelche biochemischen Stoffe ergeben, von denen bekannt ist, dass der Körper sie im Leben oder im Tod bildet“. Nach Johannes 19,39-40 brachte Nikodemus eine Mischung aus Myrrhe und Aloe von etwa hundert römischen Pfund, und der Leichnam wurde zusammen mit den Gewürzen in Leinen gebunden. Beide Seiten berufen sich auf dieses negative Ergebnis und lesen es genau entgegengesetzt.",
+   "skeptic": "Ein Tuch, das einen Leichnam mit so viel Gewürz umhüllte, müsste Spuren davon tragen, und ein Tuch, in dem ein Toter lag, müsste auch Spuren des Körpers tragen. Dass sich keines von beidem findet, ist genau das, was man bei einem Tuch erwartet, das nie einen Körper berührt hat. Blut ist das einzige gemeldete Körpermaterial, und Blut konnte ein Fälscher hinzufügen.",
+   "reply": "Befürworter antworten, die Gewürze könnten um den Körper herum oder im Grab gelegen haben, statt dieses Tuch zu durchtränken, und die Tests von 1978 hätten Oberflächenfasern untersucht, die mit Klebeband abgenommen wurden, wobei kleine Spuren leicht übersehen werden. Manche Befürworter deuten das Fehlen von Zersetzungsprodukten auch als Zeichen, dass der Körper das Tuch früh verlassen hat. Das ist eine Schlussfolgerung, keine Messung, und diese Website zählt sie nicht als Beleg.",
+   "strength": "moderate",
+   "strength_reason": "Ein dokumentiertes negatives Ergebnis aus direkten Tests, aber an kleinen Oberflächenproben, und jede Seite liest es anders.",
+   "sources": [
+    {
+     "label": "STURP 1981, Zusammenfassung der Schlussfolgerungen",
+     "url": "https://www.shroud.com/78conclu.htm",
+     "type": "official"
+    },
+    {
+     "label": "Johannes 19,39-40, World English Bible",
+     "url": "https://ebible.org/eng-web/JHN19.htm",
+     "type": "website"
+    }
+   ],
+   "lean": "neutral"
+  },
+  {
+   "id": "crucifixion-archaeology",
+   "exhibit": 48,
+   "category": "anatomy",
+   "title": "Was die Archäologie über die Kreuzigung zeigt",
+   "claim": "Zwei ausgegrabene Skelette liefern materielle Belege für die Kreuzigung in römischer Zeit. Bei beiden ging ein Eisennagel seitlich durch das rechte Fersenbein, und beide Männer erhielten ein normales Begräbnis.",
+   "detail": "1968 stießen Bauarbeiter in Giv'at ha-Mivtar in Jerusalem auf ein jüdisches Familiengrab. Ein Ossuar mit der Inschrift „Jehochanan, Sohn des Hagkol“ enthielt ein rechtes Fersenbein, das noch von einem Eisennagel durchbohrt war, mit einem Plättchen aus Olivenholz unter dem Nagelkopf. Die erste Studie (1970) beschrieb beide Fersen als zusammen angenagelt, die Unterarme als genagelt und die Beine als gebrochen. Zias und Sekeles (1985) korrigierten das: Der Nagel ist etwa 11,5 cm lang und durchbohrte nur die rechte Ferse, von der Seite; der Beinbruch entstand nach dem Tod; und die Arme waren wahrscheinlich festgebunden statt genagelt. 2017 fand eine Ausgrabung in Fenstanton in Cambridgeshire einen Mann, der zwischen 130 und 360 n. Chr. starb und dem ein 5 cm langer Eisennagel waagerecht durch das rechte Fersenbein getrieben worden war. Er wurde wie die anderen auf dem Friedhof der Siedlung bestattet. Das Team aus Cambridge bezeichnet Skelettbelege für Kreuzigungen als äußerst selten.",
+   "skeptic": "Bei beiden realen Opfern ging ein Nagel seitlich durch die Ferse, während das Grabtuch eine Durchbohrung etwa in der Mitte der rechten Fußsohle zeigt. Schon bei nur zwei Skeletten zeigt sich, dass Kreuzigungen unterschiedlich ausgeführt wurden, sodass sich die Wunden des Grabtuchs nicht im Einzelnen mit der römischen Praxis abgleichen lassen. Die Begräbnisse zeigen nur, dass ein Gekreuzigter ordentlich bestattet werden konnte. Das passt zu den Evangelien, aber nicht speziell zu diesem Tuch.",
+   "reply": "Das ist berechtigt, und die Funde wirken in beide Richtungen. Sie korrigieren die verbreitete Behauptung, Gekreuzigte seien immer in Massengräber geworfen worden; ein ordentliches Begräbnis in einem Leinentuch ist also historisch möglich. Und wenn die Methoden verschieden waren, ist auch ein Nagel durch die Fußsohle nicht ausgeschlossen. Diese Funde sind Kontext für die Debatte, kein Beleg für oder gegen das Tuch.",
+   "strength": "strong",
+   "strength_reason": "Begutachtete Knochenstudien und ein universitärer Grabungsbericht. Sie beschreiben die Kreuzigung, nicht dieses Tuch.",
+   "sources": [
+    {
+     "label": "Biblical Archaeology Review zu Zias und Sekeles 1985, Israel Exploration Journal 35(1):22-27",
+     "url": "https://library.biblicalarchaeology.org/department/scholars-corner-new-analysis-of-the-crucified-man",
+     "type": "website"
+    },
+    {
+     "label": "Biblical Archaeology Society, römische Kreuzigungsmethoden",
+     "url": "https://www.biblicalarchaeology.org/daily/biblical-topics/crucifixion/roman-crucifixion-methods-reveal-the-history-of-crucifixion/",
+     "type": "website"
+    },
+    {
+     "label": "Wikipedia: Jehohanan",
+     "url": "https://en.wikipedia.org/wiki/Jehohanan",
+     "type": "website"
+    },
+    {
+     "label": "Universität Cambridge 2021, Evidence of a Roman crucifixion found in Cambridgeshire",
+     "url": "https://www.cam.ac.uk/stories/romancrucifixion",
+     "type": "news"
+    }
+   ],
+   "lean": "neutral"
+  },
+  {
+   "id": "uv-fluorescence-1978",
+   "exhibit": 49,
+   "category": "image",
+   "title": "Unter UV-Licht leuchtet das Bild nicht, die Brandspuren dagegen schon",
+   "claim": "Ultraviolettaufnahmen von 1978 zeigen, dass das Körperbild nicht fluoresziert, die Brandspuren von 1532 dagegen schon, was gegen eine Versengung spricht. Sie zeigen auch, dass viele Blutspuren einen helleren Rand haben, den die Autoren als Blutserum deuten.",
+   "detail": "Vernon Miller und Samuel Pellicori fotografierten bei der Untersuchung von 1978 das ganze Tuch unter ultraviolettem Licht und veröffentlichten die Ergebnisse 1981 im Journal of Biological Photography. Sie schreiben, dass „Brandspuren eine rötlich-braune Fluoreszenz aussenden, während das Körperbild nicht fluoresziert“, und folgern, dass „Hypothesen wie eine Versengung oder Farbe als Ursache durch die Ergebnisse der Fluoreszenzfotografie widerlegt werden“. Die Blutbereiche absorbieren Ultraviolett, wie Vollblut in ihren Labortests. Sie beschreiben auch „den helleren Randbereich, der bei vielen Blutflecken zu sehen ist“, darunter fluoreszierende Ränder an den Hand- und Fußwunden, und bieten die Deutung an, dass „Blutserum vorhanden ist“. Die Ränder wurden fotografiert, nicht chemisch getestet.",
+   "skeptic": "Ein heller Rand um einen Fleck entsteht immer, wenn eine wässrige Flüssigkeit in Stoff einzieht: Das Wasser breitet sich weiter aus als der farbige Anteil und hinterlässt einen helleren Wasserrand. Das zeigt, dass eine Flüssigkeit eingezogen ist, nicht dass sich Serum von einem echten Gerinnsel getrennt hat. Was das Bild betrifft, schließt fehlende Fluoreszenz eine Versengung bei hoher Hitze wie die Brandspuren von 1532 aus, sagt aber nichts darüber, wie oder wann das Bild entstand. Auch die Laserfärbung von Leinen durch die ENEA zum Beispiel fluoresziert nicht.",
+   "reply": "Das Ergebnis zu den Brandspuren ist der stärkste Teil, und es hält: Das Bild verhält sich nicht wie die Brandspuren auf demselben Tuch. Die Deutung als Serum ist eine Interpretation, passt aber zum Bericht von STURP, dass die Blutbereiche positiv auf Serumalbumin testen. Beide Punkte wären mit moderner Bildgebung und gezielten Proben von den Rändern stärker.",
+   "strength": "moderate",
+   "strength_reason": "Solide Fotografien aus direkter Untersuchung. Das Argument gegen eine Versengung ist klar; „Serum“ ist eine Deutung.",
+   "sources": [
+    {
+     "label": "Miller und Pellicori 1981, Journal of Biological Photography 49(3):71-85",
+     "url": "https://www.shroud.com/pdfs/UV%20Fluorescence%20Miller%20Pellicori%201981%20OCRsm.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "STURP 1981, Zusammenfassung der Schlussfolgerungen",
+     "url": "https://www.shroud.com/78conclu.htm",
+     "type": "official"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "xray-no-image",
+   "exhibit": 50,
+   "category": "image",
+   "title": "Röntgenbilder zeigen die Webart, aber kein Körperbild",
+   "claim": "Röntgenaufnahmen von 1978 zeigen die Webart, die Flicken und die Ränder der Wasserflecken, aber keine Spur des Körperbildes. Das schließt eine dichte Schicht aus Farbe oder Pigment aus.",
+   "detail": "Mottern, London und Morris röntgten das Tuch 1978 und berichteten in Materials Evaluation, dass „Einzelheiten der beiden Körperbilder, der Blutflecken und der Brandspuren auf den Röntgenaufnahmen nicht erkennbar sind“, während der Fischgratköper, das Stütztuch, die Flicken und ringförmige dichte Bereiche, die den Wasserflecken entsprechen, sichtbar sind. Schwalbe und Rogers (1982) fassen zusammen: „Nirgends konnten Dichteunterschiede beobachtet werden, die dem sichtbaren Körperbild entsprechen“, während die Webart und Dichteschwankungen des Tuchs „auf allen Röntgenaufnahmen leicht zu erkennen sind“.",
+   "skeptic": "Die Radiografie ist für diese Frage ein grobes Werkzeug. Schwalbe und Rogers sagen selbst, dass ihre Empfindlichkeit für Eisenoxid und ähnliche Pigmente etwa zehnmal geringer ist als die der Röntgenfluoreszenz. Die Röntgenaufnahmen zeigen auch die Blutspuren nicht, obwohl diese Eisen enthalten; eine dünne, wässrige Ockerlasur, wie McCrone sie beschrieb, würden sie also ebenfalls nicht zeigen. Sie schließen eine dicke Farbschicht aus, keine verdünnte.",
+   "reply": "Richtig, und die Aussage sollte so eng bleiben. Die empfindlicheren Tests weisen in dieselbe Richtung: Laut der Zusammenfassung von STURP „schließen“ Röntgenfluoreszenz und Mikrochemie an den Fibrillen „die Möglichkeit von Farbe aus“, was die Ursache des Bildes betrifft. Die Röntgenaufnahmen fügen einen unabhängigen Beleg hinzu, dass keine dicke Pigmentschicht vorhanden ist.",
+   "strength": "moderate",
+   "strength_reason": "Direkte, dokumentierte Bildgebung, aber für sich allein zu unempfindlich, um eine dünne Pigmentlasur auszuschließen.",
+   "sources": [
+    {
+     "label": "Mottern, London und Morris, Materials Evaluation 38(12):39-44",
+     "url": "https://www.shroud.com/pdfs/Radiographic%20Examination%20Preliminary%20Report%20Mottern%20London%20Morris%201979%20OCRsm.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Schwalbe und Rogers 1982, Analytica Chimica Acta 135:3-49",
+     "url": "https://shroud.com/pdfs/Physics%20Chemistry%20of%20Shroud%20Schwalbe%20Rogers%201981%20OCRsm.pdf",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "STURP 1981, Zusammenfassung der Schlussfolgerungen",
+     "url": "https://www.shroud.com/78conclu.htm",
+     "type": "official"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "icon-face-comparison",
+   "exhibit": 51,
+   "category": "history",
+   "title": "Frühe Christusikonen teilen Details mit dem Gesicht auf dem Grabtuch",
+   "claim": "Befürworter argumentieren, dass das übliche Christusgesicht der byzantinischen Kunst etwa ab dem 6. Jahrhundert seltsame Details des Gesichts auf dem Grabtuch übernimmt. Das Tuch müsse also damals schon existiert haben und gesehen worden sein.",
+   "detail": "Ende der 1930er-Jahre listete Paul Vignon ungewöhnliche Merkmale auf, die viele Ikonen mit dem Gesicht auf dem Grabtuch teilen, etwa ein quadratisches Zeichen zwischen den Brauen; sie wurden als Vignon-Merkmale bekannt. Alan und Mary Whanger entwickelten später ein Verfahren, um zwei Gesichter zu vergleichen, indem man sie durch Polarisationsfilter projiziert, veröffentlicht 1985 in Applied Optics. Dieser Artikel beschreibt nur die Methode; ihre Ergebnisse stammen aus späteren Tagungsbeiträgen. Dort berichten sie von etwa 250 „Übereinstimmungspunkten“ zwischen dem Gesicht auf dem Grabtuch und der Christus-Pantokrator-Ikone aus dem 6. Jahrhundert im Katharinenkloster auf dem Sinai sowie von 145 mit einer Goldmünze Justinians II. (692 bis 695 n. Chr.), gemessen an einer Schwelle von 45 bis 60, die sie aus dem forensischen Gesichtsvergleich übernehmen.",
+   "skeptic": "Der Zusammenhang kann auch umgekehrt verlaufen. Ein Hersteller im 14. Jahrhundert würde ganz selbstverständlich das Christusgesicht kopieren, das die byzantinische Kunst seit rund 800 Jahren verwendete; eine Übereinstimmung ist also auch bei einer Fälschung zu erwarten. Die Merkmale werden nachträglich auf blassen, fleckigen Zügen herausgesucht. Hugh Farey zeigt anhand von Vignons eigenem Text, dass die verbreitete Liste Merkmale enthält, die Vignon nie genannt hat, und dass Vignon fast jede Ähnlichkeit als Beweis für ein Kopieren wertete, während er die Unterschiede wegerklärte. Die Übereinstimmungspunkte werden von denselben Forschern gezählt, die den Zusammenhang vertreten, und forensische Schwellenwerte wurden nie für Gemälde entwickelt.",
+   "reply": "Die Richtung des Kopierens ist ein echtes Problem, und Überlagerungen können es nicht lösen. Der engere Punkt, den Befürworter machen können, lautet: Die Sinai-Ikone und die Münzen Justinians II. sind Jahrhunderte vor 1350 datiert. Könnte also irgendein Detail auf ihnen nur vom Grabtuch stammen, wäre das Tuch älter als seine Radiokarbondatierung. Bisher beruht dieses Argument auf dem Urteil derer, die den Vergleich durchführen.",
+   "strength": "disputed",
+   "strength_reason": "Die frühen Bilder sind echt, aber ob sie das Grabtuch kopieren, hängt von einem subjektiven Abgleich ab, und ein Fälscher, der Ikonen kopiert, würde dieselbe Übereinstimmung erzeugen.",
+   "sources": [
+    {
+     "label": "Whanger und Whanger 1985, Applied Optics 24(6):766-772",
+     "url": "https://doi.org/10.1364/AO.24.000766",
+     "type": "peer-reviewed"
+    },
+    {
+     "label": "M. Whanger 2000, The Impact of the Shroud Face on Art Work, Kongress Sindone 2000",
+     "url": "https://www.shroud.com/pdfs/orvWHANGER%20M.%20Paper%20English.PDF",
+     "type": "website"
+    },
+    {
+     "label": "Farey 2019, The Vignon Markings, according to Paul Vignon himself",
+     "url": "https://www.shroud.com/pdfs/anc-farey-pap2.pdf",
+     "type": "website"
+    }
+   ],
+   "lean": "for"
+  },
+  {
+   "id": "against-mesarites-1201",
+   "exhibit": 52,
+   "category": "history",
+   "title": "1201 wurden die Grabtücher im Palast ohne Bild beschrieben",
+   "claim": "Skeptiker argumentieren: Der Hüter der kaiserlichen Reliquien in Konstantinopel beschrieb 1201 die Grabtücher Jesu als schlichtes, preiswertes Leinen, das nach Myrrhe roch, ohne Bild. Das macht es unwahrscheinlich, dass sich dort ein Tuch mit einem Ganzkörperbild befand.",
+   "detail": "Während des gescheiterten Palastaufstands des Johannes Komnenos im Jahr 1201 (manche Forscher datieren ihn auf 1200) verteidigte Nikolaos Mesarites, Verwalter der heiligen Gegenstände in den Kirchen des Großen Palastes, die Reliquienkirche der Gottesmutter vom Pharos. Sein Bericht über den Aufstand enthält eine Liste ihrer Reliquien: „Die Grabtücher Jesu; sie sind aus Leinen, einem preiswerten Stoff, und riechen noch nach Myrrhe.“ Ein Bild auf ihnen erwähnt er nicht. In derselben Liste beschreibt er durchaus ein Bild Christi, „auf ein Handtuch geprägt“, eine eigene Reliquie. Der griechische Text wurde 1907 von August Heisenberg herausgegeben; ein englischer Auszug erschien 1985 in Shroud Spectrum International.",
+   "skeptic": "Hier schreibt ein Augenzeuge, der diese Reliquien betreute, und zwar in derselben Liste, in der er sorgfältig ein Bild auf einem Handtuch vermerkte. Hätten die Tücher die ganze Gestalt des gekreuzigten Christus getragen, wäre das das Auffälligste an ihnen gewesen. Seine schlichten Tücher schwächen auch den Bericht Robert de Claris, zwei oder drei Jahre später, über ein Grabtuch in der Stadt, das die Gestalt des Herrn zeigte.",
+   "reply": "Mesarites schrieb eine rhetorische Rede, eine Liste, die er einen Dekalog der Reliquien nennt, mit einem oder zwei Sätzen zu jeder, keine Beschreibung jedes einzelnen Gegenstands. Sein Schweigen über ein Bild ist daher ein schwacher Beleg. Er verwendet den Plural, „Grabtücher“, und meint vielleicht mehrere Tücher. Die Stelle zeigt immerhin, dass 1201 im Palast Leinentücher aufbewahrt wurden, die als Grabtücher Jesu verehrt wurden, was die Hypothesen zu Edessa und zu de Clari voraussetzen. Ob eines davon dieses Grabtuch war, kann sie nicht zeigen.",
+   "strength": "moderate",
+   "strength_reason": "Ein Text aus erster Hand vom Hüter der Reliquien selbst, aber ein Argument aus dem Schweigen in einer kurzen rhetorischen Liste.",
+   "sources": [
+    {
+     "label": "Mesarites, The Palace Revolution of John Comnenus (Auszüge), Shroud Spectrum International 17, 1985",
+     "url": "https://www.shroud.com/pdfs/ssi17part4.pdf",
+     "type": "website"
+    },
+    {
+     "label": "Wikipedia: John Komnenos the Fat",
+     "url": "https://en.wikipedia.org/wiki/John_Komnenos_the_Fat",
+     "type": "website"
+    }
+   ],
+   "lean": "against"
   }
  ]
 }

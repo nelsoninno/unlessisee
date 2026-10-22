@@ -547,3 +547,12 @@ h1{font-size:clamp(2.5rem,5.6vw,4.6rem)}
 .presets__row{display:flex;flex-wrap:wrap;gap:.5rem}
 .presets__btn[aria-pressed="true"]{background:var(--ink);color:var(--white);border-color:var(--ink)}
 @media (max-width:600px){.brand svg{width:32px;height:32px}}
+
+/* FAQ page */
+.faq-toc{margin-bottom:3rem;padding:1.4rem 1.6rem;background:var(--white);border:1px solid var(--linen-edge);border-radius:16px}
+.faq-toc ol{margin:0;padding-inline-start:1.3rem;display:grid;gap:.45rem;font-family:var(--font-sans);font-size:.95rem}
+.faq-toc a{color:var(--ink)}
+.faq-item{padding:1.8rem 0;border-top:1px solid var(--linen-edge);scroll-margin-top:90px}
+.faq-item h2{font-size:clamp(1.35rem,2.2vw,1.75rem);font-weight:400;margin-bottom:.7rem}
+.faq-more{margin-top:.6rem;font-family:var(--font-sans);font-size:.9rem}
+.faq-more a{color:var(--sepia)}

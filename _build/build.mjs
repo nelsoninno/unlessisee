@@ -38,6 +38,10 @@ async function loadLang(lang) {
     copy.pages = { ...copy.pages, weigh: deepMerge(wEn.page, wLoc.page) };
     if (!copy.nav.some(n => n.slug === 'weigh')) { const i = copy.nav.findIndex(n => n.slug === 'evidence'); copy.nav = [...copy.nav]; copy.nav.splice(i + 1, 0, { slug: 'weigh', label: wLoc.nav || wEn.nav }); }
   }
+  // FAQ page copy lives in content/faq/<lang>.json, English as fallback
+  const fEn = readJSON(path.join(__dirname, 'content', 'faq', CONFIG.defaultLang + '.json'), null);
+  const fLoc = readJSON(path.join(__dirname, 'content', 'faq', lang + '.json'), null) || fEn;
+  if (fEn) copy.pages = { ...copy.pages, faq: { ...deepMerge(fEn.page, fLoc.page), items: (fLoc.items && fLoc.items.length === fEn.items.length) ? fLoc.items : fEn.items } };
   const d = n => readJSON(path.join(__dirname, 'data', lang, n + '.json'), readJSON(path.join(__dirname, 'data', 'en', n + '.json'), null));
   // Positions, zoom levels and layers always come from the English data, so translations never drift.
   const enD = n => readJSON(path.join(__dirname, 'data', 'en', n + '.json'), null);
@@ -152,7 +156,7 @@ function footer(ctx, page) {
 <div class="foot-grid">
 <div><p style="font-family:var(--font-serif);font-size:1.4rem;color:#fff">${esc(c.brand)}</p><p style="margin-top:.6rem;max-width:42ch;color:var(--silver-soft)">${c.footer.about}</p></div>
 ${col(c.footer.explore, c.nav.slice(0, 5))}
-${col(c.footer.more, c.nav.slice(5).concat(c.footer.extra || []))}
+${col(c.footer.more, c.nav.slice(5).concat(c.footer.extra || [], c.pages.faq ? [{ slug: 'faq', label: c.pages.faq.foot }] : []))}
 </div>
 <div class="foot-base">
 <div>${c.footer.rights.replace('{year}', '<span data-year>2026</span>')}</div>

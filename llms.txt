@@ -1,6 +1,29 @@
 # Unless I See (seetheshroud.org)
 
-> A free, non-commercial, bilingual (English and Spanish) educational website about the Shroud of Turin. It presents the evidence for and against the authenticity of the Shroud, rates each argument by strength, gives the strongest skeptical arguments at full strength, and links every claim to its source. Created by Nelson Inno as a pro bono project.
+> The Shroud of Turin explained, with the evidence for and against its authenticity. A free, non-commercial educational website in 12 languages. It rates every argument by strength, gives the strongest skeptical arguments at full strength, links every claim to its source, and offers the most visual way to explore the cloth: high-resolution zoom, the photographic negative, a 3D relief, a wound map and an interactive verdict tool. Created by Nelson Inno as a pro bono project.
+
+Also known as: See the Shroud; Hasta que no vea (Spanish). The subject is also called the Turin Shroud, the Holy Shroud and the Shroud of Jesus.
+
+## Questions this site answers
+- [What is the Shroud of Turin?](https://seetheshroud.org/faq.html#what)
+- [Is the Shroud of Turin real or fake?](https://seetheshroud.org/faq.html#real)
+- [Is the Shroud of Turin authentic? Is it the burial cloth of Jesus?](https://seetheshroud.org/faq.html#jesus)
+- [What evidence shows the Shroud is authentic?](https://seetheshroud.org/faq.html#for)
+- [What evidence shows the Shroud is a medieval creation?](https://seetheshroud.org/faq.html#against)
+- [What did the carbon dating of the Shroud find?](https://seetheshroud.org/faq.html#carbon)
+- [How old is the Shroud of Turin?](https://seetheshroud.org/faq.html#age)
+- [How was the image on the Shroud made?](https://seetheshroud.org/faq.html#how)
+- [Is the image on the Shroud painted?](https://seetheshroud.org/faq.html#painted)
+- [Why does the Shroud look like a photographic negative?](https://seetheshroud.org/faq.html#negative)
+- [Does the Shroud contain 3D information?](https://seetheshroud.org/faq.html#3d)
+- [Is there real blood on the Shroud?](https://seetheshroud.org/faq.html#blood)
+- [Do the wounds on the Shroud match the crucifixion of Jesus?](https://seetheshroud.org/faq.html#wounds)
+- [Has anyone reproduced the Shroud of Turin?](https://seetheshroud.org/faq.html#copy)
+- [What does the Catholic Church say about the Shroud?](https://seetheshroud.org/faq.html#church)
+- [Where is the Shroud of Turin kept, and can I see it?](https://seetheshroud.org/faq.html#see)
+- [What is the most visual way to explore the Shroud?](https://seetheshroud.org/faq.html#visual)
+- [Does the Shroud prove that Jesus rose from the dead?](https://seetheshroud.org/faq.html#proof)
+- [Who made this site, and is it neutral?](https://seetheshroud.org/faq.html#who)
 
 ## What the site says, in brief
 - The Shroud of Turin is a linen cloth about 4.4 by 1.1 meters with the faint front and back image of a man who appears to have been scourged and crucified. It has been kept in Turin, Italy, since 1578.
@@ -8,20 +31,27 @@
 - The 1988 radiocarbon dating by Arizona, Oxford and Zurich gave AD 1260 to 1390 at 95% confidence (Damon and others, Nature, 1989). The site treats this as the strongest single argument that the cloth is medieval.
 - Later statistical reanalyses of the raw data (Riani 2013, Casabianca 2019, Walsh and Schwalbe 2020) found the samples were not homogeneous, but none points to the first century; the largest proposed correction is 88 radiocarbon years.
 - How the image formed is unexplained. The 1978 STURP team found no pigment or binder forming the image; the color is confined to the outermost layer of the top fibers (about 0.2 micrometers). No method has reproduced every property of the image at once.
-- The site does not claim that science proves the Shroud is authentic, and it labels weak claims (coins over the eyes, flower images, inscriptions, some pollen claims) as weak.
+- The strongest argument for authenticity is that no one has reproduced the image with all of its features, and no other burial cloth carries one like it. The strongest argument against is the 1988 carbon date.
+- The site does not claim that science proves the Shroud is authentic, and it labels weak claims (coins over the eyes, flower images, inscriptions, some pollen claims, blood type AB) as weak.
 - The Catholic Church has never officially declared the Shroud authentic.
 
 ## Pages
 - [Home](https://seetheshroud.org/): overview, the negative image, 3D information, the wounds, the dating and the image-formation question
+- [Questions and answers](https://seetheshroud.org/faq.html): the Shroud of Turin explained in 19 short, sourced answers
 - [Explore the cloth](https://seetheshroud.org/explore.html): zoomable full-cloth image with negative filter and annotated marks
-- [The case file](https://seetheshroud.org/evidence.html): 52 arguments for and against, rated by strength, plus a Bayesian "weigh it yourself" calculator
+- [The case file](https://seetheshroud.org/evidence.html): 52 arguments for and against, rated by strength, with the skeptic's best answer
+- [Your verdict](https://seetheshroud.org/weigh.html): weigh 14 key points yourself; skeptic, neutral and believer presets
 - [The wounds](https://seetheshroud.org/wounds.html): each wound described by forensic pathologists, next to the Gospel text
 - [Carbon dating](https://seetheshroud.org/dating.html): the 1988 test, all twelve measurements, the sample, the reanalyses
 - [How was it made?](https://seetheshroud.org/image.html): image properties and every hypothesis, including painting, scorch, rubbing, proto-photography, Maillard reaction and radiation
 - [Timeline](https://seetheshroud.org/timeline.html): documented and hypothesized history
+- [Videos checked](https://seetheshroud.org/videos.html): three popular videos fact-checked claim by claim
 - [Library](https://seetheshroud.org/library.html): searchable index of research papers, mostly from shroud.com
+- [What now?](https://seetheshroud.org/next.html): next steps for skeptics, seekers and believers
 - [About](https://seetheshroud.org/about.html): method, credits, contact
-- Spanish version: https://seetheshroud.org/es/
+
+## Languages
+English (https://seetheshroud.org/), Español (https://seetheshroud.org/es/), Português (https://seetheshroud.org/pt/), Français (https://seetheshroud.org/fr/), Italiano (https://seetheshroud.org/it/), Deutsch (https://seetheshroud.org/de/), Polski (https://seetheshroud.org/pl/), Filipino (https://seetheshroud.org/tl/), 中文 (https://seetheshroud.org/zh/), 한국어 (https://seetheshroud.org/ko/), العربية (https://seetheshroud.org/ar/), हिन्दी (https://seetheshroud.org/hi/)
 
 ## Contact
 hey@everybodyknowsyou.com

@@ -1,0 +1,127 @@
+{
+ "page": {
+  "title": "La Sindone di Torino spiegata: vera o falsa? | Se io non vedo",
+  "description": "La Sindone di Torino è vera? Risposte chiare e con le fonti sulle prove a favore e contro l'autenticità, sulla datazione, l'immagine, il sangue e le ferite.",
+  "h1": "La Sindone di Torino spiegata: le risposte alle tue domande",
+  "lede": "Risposte brevi e con le fonti alle domande più frequenti sulla Sindone di Torino, con i link alle prove complete. Dove gli esperti non sono d'accordo, lo diciamo.",
+  "more": "Leggi di più",
+  "label": "Domande",
+  "foot": "Domande e risposte"
+ },
+ "items": [
+  {
+   "id": "what",
+   "q": "Che cos'è la Sindone di Torino?",
+   "a": "La Sindone di Torino è un telo di lino lungo circa 4,4 metri e largo 1,1 metri che porta l'immagine tenue, frontale e dorsale, di un uomo che sembra essere stato flagellato e crocifisso. È conservata a Torino, in Italia, dal 1578, e molti cristiani credono che sia il lenzuolo funebre in cui fu sepolto Gesù. È chiamata anche Sacra Sindone, Santa Sindone o Sindone di Gesù.",
+   "link": "explore"
+  },
+  {
+   "id": "real",
+   "q": "La Sindone di Torino è vera o falsa?",
+   "a": "È un vero telo di lino, molto antico, non un falso moderno. La domanda aperta è se sia il telo funerario di Gesù o una creazione medievale. La datazione al carbonio del 1988 l'ha collocata tra il 1260 e il 1390 d.C., mentre nessuno ha ancora riprodotto tutte le proprietà della sua immagine. Ci sono ricercatori seri da entrambe le parti, e questo sito presenta gli argomenti più forti di ciascuna, con le fonti.",
+   "link": "evidence"
+  },
+  {
+   "id": "jesus",
+   "q": "La Sindone è autentica? È il lenzuolo funebre di Gesù?",
+   "a": "Nessun test può dimostrare di chi fosse il corpo avvolto da un telo. La scienza può verificarne l'età, i materiali e il modo in cui si è formata l'immagine. In molti dettagli l'immagine corrisponde ai racconti dei Vangeli su un uomo flagellato, coronato di spine e crocifisso, ma la datazione al carbonio del 1988 indica il Medioevo. Se sia la sindone di Gesù è un giudizio che ciascuno dà a partire dalle prove e, per molti, alla fine, una questione di fede.",
+   "link": "weigh"
+  },
+  {
+   "id": "for",
+   "q": "Quali prove indicano che la Sindone è autentica?",
+   "a": "Questi sono i principali argomenti a favore dell'autenticità. L'immagine si trova solo sulle fibre più superficiali del lino, per circa 0,2 micrometri di profondità, e non è formata da pittura né da leganti. Si comporta come un negativo fotografico, e le sue sfumature registrano la distanza come una mappa 3D. Le macchie rosse contengono sangue vero, che sembra essere stato sul telo prima dell'immagine. Le ferite corrispondono a una crocifissione romana, compresi i chiodi nei polsi. Nessuno ha riprodotto tutto questo insieme.",
+   "link": "evidence"
+  },
+  {
+   "id": "against",
+   "q": "Quali prove indicano che la Sindone è medievale?",
+   "a": "Questi sono i principali argomenti a favore di un'origine medievale. La datazione al radiocarbonio del 1988, eseguita da tre laboratori, ha dato un intervallo dal 1260 al 1390 d.C. Il telo non ha una storia sicura prima del 1354 circa, quando compare a Lirey, in Francia. Nel 1389 il vescovo del luogo scrisse che un artista aveva confessato di averlo dipinto. Uno studio del 2025 sostiene che l'immagine si adatta meglio a un bassorilievo che a un corpo reale. La datazione al carbonio è, da sola, l'argomento più forte contro l'autenticità.",
+   "link": "evidence"
+  },
+  {
+   "id": "carbon",
+   "q": "Che cosa ha rivelato la datazione al carbonio della Sindone?",
+   "a": "Nel 1988 i laboratori di Arizona, Oxford e Zurigo datarono campioni tagliati da un angolo e riportarono un intervallo dal 1260 al 1390 d.C. con una confidenza del 95% (Damon e altri, Nature, 1989). Rianalisi successive dei dati grezzi, nel 2013, nel 2019 e nel 2020, hanno trovato che i campioni erano meno coerenti di quanto riferito. Questo mette in dubbio la precisione del risultato, ma non indica il I secolo. I critici sostengono anche che un solo angolo potrebbe non rappresentare l'intero telo.",
+   "link": "dating"
+  },
+  {
+   "id": "age",
+   "q": "Quanti anni ha la Sindone di Torino?",
+   "a": "La sua storia documentata comincia intorno al 1354 a Lirey, in Francia, quindi il telo ha almeno circa 670 anni. La datazione al carbonio del 1988 colloca il lino tra il 1260 e il 1390. Chi sostiene l'autenticità indica il I secolo, basandosi sull'immagine, sul sangue e su possibili testimonianze più antiche, come il disegno del Codice Pray del 1192 circa, ma questi collegamenti più antichi sono contestati.",
+   "link": "timeline"
+  },
+  {
+   "id": "how",
+   "q": "Come si è formata l'immagine della Sindone?",
+   "a": "Nessuno lo sa. L'immagine è di color giallo paglia sulle fibre più esterne, senza pittura, senza pennellate e senza segni di assorbimento nei fili. I ricercatori hanno proposto la pittura, una statua riscaldata, polvere strofinata su un rilievo, una fotografia primitiva, una reazione chimica con i gas di un corpo e un lampo di radiazione. Ogni ipotesi spiega alcune caratteristiche e si scontra con altre.",
+   "link": "image"
+  },
+  {
+   "id": "painted",
+   "q": "L'immagine della Sindone è dipinta?",
+   "a": "La squadra scientifica del 1978 (STURP) concluse che non è un dipinto: non trovò pigmenti che formassero l'immagine, né pennellate, né leganti. Il microscopista Walter McCrone non era d'accordo e riferì ossido di ferro e altri materiali. La maggior parte degli studi successivi ha dato ragione allo STURP sull'immagine, pur riconoscendo che sul telo sono presenti minuscole particelle di molti materiali.",
+   "link": "image"
+  },
+  {
+   "id": "negative",
+   "q": "Perché la Sindone sembra un negativo fotografico?",
+   "a": "Sul telo chiari e scuri sono invertiti rispetto a una normale immagine, quindi un suo negativo fotografico sembra un ritratto naturale. Lo scoprì Secondo Pia quando fotografò la Sindone per la prima volta, nel 1898. Gli scettici fanno notare che anche le immagini ottenute per contatto con una superficie in rilievo sono invertite.",
+   "link": "index"
+  },
+  {
+   "id": "3d",
+   "q": "La Sindone contiene informazioni 3D?",
+   "a": "Sì. Nel 1976 i fisici John Jackson ed Eric Jumper inserirono una fotografia della Sindone in un VP-8 Image Analyzer, che trasforma la luminosità in altezza, e ottennero un rilievo coerente di un corpo. Le fotografie e i dipinti comuni non danno questo risultato. Gli scettici notano che anche un'immagine ottenuta per contatto con un bassorilievo può dare un risultato 3D plausibile.",
+   "link": "explore"
+  },
+  {
+   "id": "blood",
+   "q": "Sulla Sindone c'è sangue vero?",
+   "a": "Analisi della fine degli anni Settanta e dell'inizio degli anni Ottanta trovarono eme, bilirubina e altri componenti del sangue nelle macchie rosse, e nessuna immagine sotto il sangue. Non è stato dimostrato con metodi moderni che il sangue sia umano, e le affermazioni su un gruppo sanguigno specifico non sono affidabili, perché il telo è molto contaminato.",
+   "link": "evidence"
+  },
+  {
+   "id": "wounds",
+   "q": "Le ferite della Sindone corrispondono alla crocifissione di Gesù?",
+   "a": "Corrispondono da vicino ai racconti dei Vangeli: circa da 100 a 120 segni di flagello, ferite da punta intorno alla testa come un casco di spine, una ferita da chiodo al polso, una ferita al costato e gambe che non furono spezzate. Alcuni dettagli, come i chiodi nei polsi e non nei palmi, sono diversi dall'arte medievale. Gli scettici rispondono che un artista ben informato avrebbe potuto conoscerli.",
+   "link": "wounds"
+  },
+  {
+   "id": "copy",
+   "q": "Qualcuno ha mai riprodotto la Sindone di Torino?",
+   "a": "Diversi ricercatori hanno ottenuto immagini simili a quella della Sindone con metodi disponibili nel Medioevo, per esempio strofinando pigmento su un rilievo. Queste copie riproducono alcune caratteristiche, ma nessuna riproduce tutte le proprietà insieme: la colorazione delle sole fibre superficiali, l'informazione 3D, il negativo e il sangue sotto l'immagine. Gli scettici sostengono che sei secoli di invecchiamento spiegano le differenze che restano.",
+   "link": "image"
+  },
+  {
+   "id": "church",
+   "q": "Che cosa dice la Chiesa cattolica sulla Sindone?",
+   "a": "La Chiesa non ha mai dichiarato ufficialmente autentica la Sindone e non chiede a nessuno di crederlo. I papi recenti l'hanno definita un'icona della sofferenza di Cristo e hanno pregato davanti a essa. La Santa Sede ne è proprietaria dal 1983, e l'arcivescovo di Torino ne è il custode.",
+   "link": "about"
+  },
+  {
+   "id": "see",
+   "q": "Dove si trova la Sindone di Torino, e si può vedere?",
+   "a": "È conservata nel Duomo di San Giovanni Battista a Torino, in una teca a clima controllato, e di solito non è esposta al pubblico. Viene mostrata durante rare ostensioni pubbliche, come quelle del 2010 e del 2015, e in una diretta televisiva del 2020.",
+   "link": "timeline"
+  },
+  {
+   "id": "visual",
+   "q": "Qual è il modo più visivo per esplorare la Sindone?",
+   "a": "Questo sito ti permette di ingrandire l'intero telo in alta risoluzione, passare al negativo fotografico, vedere il volto come un rilievo 3D, trovare ogni ferita su una mappa del corpo accanto al suo versetto del Vangelo, confrontare tutte e dodici le misure al radiocarbonio e valutare le prove da solo. È gratuito, in 12 lingue, e ogni affermazione rimanda alla sua fonte.",
+   "link": "explore"
+  },
+  {
+   "id": "proof",
+   "q": "La Sindone dimostra che Gesù è risorto?",
+   "a": "No. Anche se si dimostrasse che il telo è del I secolo, non potrebbe provare una risurrezione; al massimo solleva domande a cui la scienza non ha risposto. Secondo noi la Sindone dà a una mente seria abbastanza elementi per prendere sul serio la domanda, e lascia a ciascuno l'ultimo passo.",
+   "link": "index"
+  },
+  {
+   "id": "who",
+   "q": "Chi ha creato questo sito, ed è neutrale?",
+   "a": "«Se io non vedo» è un progetto gratuito e senza scopo di lucro creato da Nelson Inno e realizzato da everybodyknowsyou.com. Nelson crede che la Sindone sia autentica e lo dice apertamente. Il sito presenta comunque gli argomenti più forti di entrambe le parti in tutta la loro forza, valuta ciascuno di essi e collega ogni affermazione alla sua fonte, così puoi giudicare da solo.",
+   "link": "about"
+  }
+ ]
+}

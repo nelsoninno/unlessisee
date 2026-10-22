@@ -124,6 +124,21 @@
    ]
   },
   {
+   "id": "mesarites-1201",
+   "year": 1201,
+   "date_label": "1201",
+   "title": "메사리테스가 평범한 장례용 천을 기록하다",
+   "text": "콘스탄티노폴리스 궁정 유물의 관리자 니콜라오스 메사리테스는 예수의 장례용 천을 아직도 몰약 냄새가 나는 평범하고 값싼 아마포로 기록합니다. 그는 거기에 형상이 있다는 말을 하지 않지만, 별개의 수건에 있는 그리스도의 형상은 묘사합니다.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Mesarites, Shroud Spectrum International 17의 발췌",
+     "url": "https://www.shroud.com/pdfs/ssi17part4.pdf"
+    }
+   ]
+  },
+  {
    "id": "de-clari",
    "year": 1203,
    "date_label": "1203~1204",
@@ -459,6 +474,25 @@
    ]
   },
   {
+   "id": "yehohanan-1968",
+   "year": 1968,
+   "date_label": "1968",
+   "title": "십자가형을 받은 사람의 발꿈치뼈가 발견되다",
+   "text": "예루살렘 기브앗 하미브타르에서 건설 노동자들이 유대인 무덤을 발견하는데, 그 안에는 오른쪽 발꿈치뼈에 아직 쇠못이 박혀 있는 여호하난의 유골함이 있습니다. 1985년의 재연구는 못이 한쪽 발꿈치만 옆에서 관통했다는 것을 밝힙니다.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "위키백과(영어): Jehohanan",
+     "url": "https://en.wikipedia.org/wiki/Jehohanan"
+    },
+    {
+     "label": "Zias·Sekeles 1985에 관한 Biblical Archaeology Review 기사",
+     "url": "https://library.biblicalarchaeology.org/department/scholars-corner-new-analysis-of-the-crucified-man"
+    }
+   ]
+  },
+  {
    "id": "commission-1969",
    "year": 1969,
    "date_label": "1969",
@@ -614,6 +648,40 @@
     {
      "label": "Jackson et al. 1984",
      "url": "https://shroud.com/pdfs/Correlation%20of%20Image%20Intensity%20Jackson%20Jumper%20Ercoline%201984%20OCRsm.pdf"
+    }
+   ]
+  },
+  {
+   "id": "protocol-1986",
+   "year": 1986,
+   "date_label": "1986년 9~10월",
+   "title": "일곱 연구소가 연대 측정 계획을 제안하다",
+   "text": "토리노에서 열린 회의에서 방사성 탄소 연구소 일곱 곳(AMS 연구소 다섯 곳과 소형 기체 계수기 연구소 두 곳)이 천의 연대 측정 프로토콜을 권고합니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Damon et al. 1989",
+     "url": "https://shroud.com/nature.htm"
+    }
+   ]
+  },
+  {
+   "id": "three-labs-1987",
+   "year": 1987,
+   "date_label": "1987년 10월",
+   "title": "세 연구소만 선정되다",
+   "text": "토리노 대주교가 교황청의 지시에 따라 애리조나, 옥스퍼드, 취리히의 AMS 연구소 세 곳을 선정합니다. 네이처 논문은 맹검도 빠졌다고 보고합니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Damon et al. 1989",
+     "url": "https://shroud.com/nature.htm"
+    },
+    {
+     "label": "Gove 1990, Radiocarbon",
+     "url": "https://doi.org/10.1017/S0033822200039990"
     }
    ]
   },
@@ -908,6 +976,21 @@
    ]
   },
   {
+   "id": "carlino-retraction-2018",
+   "year": 2018,
+   "date_label": "2018년 7월",
+   "title": "외상 혈액 논문이 철회되다",
+   "text": "PLOS ONE이 수의 섬유 한 가닥의 나노 입자가 심한 외상을 보여 준다고 주장한 2017년 논문을, 데이터와 대조 실험이 불충분하다는 이유로 철회합니다. 저자들은 이에 반대했습니다.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Retraction Watch, 2018년 7월 19일",
+     "url": "https://retractionwatch.com/2018/07/19/over-authors-objections-plos-one-retracts-paper-claiming-shroud-of-turin-showed-evidence-of-trauma"
+    }
+   ]
+  },
+  {
    "id": "casabianca-2019",
    "year": 2019,
    "date_label": "2019년 3월",
@@ -953,6 +1036,21 @@
     {
      "label": "Di Lazzaro et al. 2020, Entropy",
      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7597180"
+    }
+   ]
+  },
+  {
+   "id": "fenstanton-2021",
+   "year": 2021,
+   "date_label": "2021년 12월",
+   "title": "로마 시대 브리타니아에서 십자가형을 받은 남자가 발견되다",
+   "text": "고고학자들이 케임브리지셔 펜스탠턴에 묻힌 한 남자를 보고합니다. 그는 서기 130~360년 사이에 죽었으며, 오른쪽 발꿈치뼈에 쇠못이 박혀 있었습니다. 그는 정착지 묘지에 정상적으로 매장되었습니다.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "케임브리지 대학교, 2021년 12월 8일",
+     "url": "https://www.cam.ac.uk/stories/romancrucifixion"
     }
    ]
   },

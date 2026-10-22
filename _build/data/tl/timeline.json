@@ -124,6 +124,21 @@
    ]
   },
   {
+   "id": "mesarites-1201",
+   "year": 1201,
+   "date_label": "1201",
+   "title": "Inilista ni Mesarites ang mga simpleng telang panlibing",
+   "text": "Inilista ni Nicholas Mesarites, tagapag-ingat ng mga relikya ng palasyo sa Constantinople, ang mga telang panlibing ni Hesus bilang simple at murang lino na amoy mira pa rin. Wala siyang binanggit na imahe sa mga ito, kahit inilarawan niya ang isang imahe ni Kristo sa isang hiwalay na tuwalya.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Mesarites, sipi sa Shroud Spectrum International 17",
+     "url": "https://www.shroud.com/pdfs/ssi17part4.pdf"
+    }
+   ]
+  },
+  {
    "id": "de-clari",
    "year": 1203,
    "date_label": "1203-1204",
@@ -459,6 +474,25 @@
    ]
   },
   {
+   "id": "yehohanan-1968",
+   "year": 1968,
+   "date_label": "1968",
+   "title": "Natagpuan ang buto ng sakong ng isang ipinako sa krus",
+   "text": "Nahukay ng mga manggagawa sa konstruksiyon sa Giv'at ha-Mivtar sa Jerusalem ang isang libingang Judio na may ossuary ni Yehohanan, na ang buto ng kanang sakong ay tinutusok pa rin ng isang pakong bakal. Natuklasan ng muling pag-aaral noong 1985 na tumagos ang pako sa iisang sakong, mula sa gilid.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Wikipedia: Jehohanan",
+     "url": "https://en.wikipedia.org/wiki/Jehohanan"
+    },
+    {
+     "label": "Biblical Archaeology Review tungkol kina Zias at Sekeles 1985",
+     "url": "https://library.biblicalarchaeology.org/department/scholars-corner-new-analysis-of-the-crucified-man"
+    }
+   ]
+  },
+  {
    "id": "commission-1969",
    "year": 1969,
    "date_label": "1969",
@@ -614,6 +648,40 @@
     {
      "label": "Jackson et al. 1984",
      "url": "https://shroud.com/pdfs/Correlation%20of%20Image%20Intensity%20Jackson%20Jumper%20Ercoline%201984%20OCRsm.pdf"
+    }
+   ]
+  },
+  {
+   "id": "protocol-1986",
+   "year": 1986,
+   "date_label": "Setyembre hanggang Oktubre 1986",
+   "title": "Nagmungkahi ang pitong laboratoryo ng plano sa pagpetsa",
+   "text": "Sa isang pulong sa Turin, nagrekomenda ang pitong radiocarbon laboratory (limang AMS at dalawang maliit na laboratoryong gas-counter) ng isang protocol para sa pagpetsa ng tela.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Damon et al. 1989",
+     "url": "https://shroud.com/nature.htm"
+    }
+   ]
+  },
+  {
+   "id": "three-labs-1987",
+   "year": 1987,
+   "date_label": "Oktubre 1987",
+   "title": "Tatlong laboratoryo lamang ang pinili",
+   "text": "Ayon sa tagubilin ng Holy See, pumili ang Arsobispo ng Turin ng tatlong AMS laboratory: Arizona, Oxford at Zurich. Iniulat ng papel sa Nature na tinanggal din ang blind testing.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Damon et al. 1989",
+     "url": "https://shroud.com/nature.htm"
+    },
+    {
+     "label": "Gove 1990, Radiocarbon",
+     "url": "https://doi.org/10.1017/S0033822200039990"
     }
    ]
   },
@@ -908,6 +976,21 @@
    ]
   },
   {
+   "id": "carlino-retraction-2018",
+   "year": 2018,
+   "date_label": "Hulyo 2018",
+   "title": "Binawi ang papel tungkol sa dugo at trauma",
+   "text": "Binawi ng PLOS ONE ang isang papel noong 2017 na nagsabing ipinakikita ng mga nanoparticle sa isang hibla ng Shroud ang matinding trauma, dahil kulang ang data at ang mga control. Tumutol ang mga awtor.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Retraction Watch, 19 Hulyo 2018",
+     "url": "https://retractionwatch.com/2018/07/19/over-authors-objections-plos-one-retracts-paper-claiming-shroud-of-turin-showed-evidence-of-trauma"
+    }
+   ]
+  },
+  {
    "id": "casabianca-2019",
    "year": 2019,
    "date_label": "Marso 2019",
@@ -953,6 +1036,21 @@
     {
      "label": "Di Lazzaro et al. 2020, Entropy",
      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7597180"
+    }
+   ]
+  },
+  {
+   "id": "fenstanton-2021",
+   "year": 2021,
+   "date_label": "Disyembre 2021",
+   "title": "Isang ipinako sa krus na natagpuan sa Britanya noong panahon ng mga Romano",
+   "text": "Iniulat ng mga arkeologo ang isang lalaking inilibing sa Fenstanton, Cambridgeshire, na namatay sa pagitan ng AD 130 at 360 na may pakong bakal sa buto ng kanang sakong. Binigyan siya ng normal na libing sa sementeryo ng pamayanan.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "University of Cambridge, 8 Disyembre 2021",
+     "url": "https://www.cam.ac.uk/stories/romancrucifixion"
     }
    ]
   },

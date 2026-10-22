@@ -39,7 +39,7 @@
    "skeptic": "Skeptiker",
    "believer": "Gläubige",
    "neutral": "Neutral, nach den Belegen",
-   "note": "Jeder Knopf setzt die Antworten, die ein typischer Skeptiker oder Gläubiger geben würde, zum Vergleich. Die neutrale Auswahl ist unsere eigene Lesart der Belege. Sie können jede Antwort ändern."
+   "note": "Jeder Knopf setzt die Antworten, die ein typischer Skeptiker oder Gläubiger geben würde, zum Vergleich. Die neutrale Auswahl ist unsere eigene Lesart der Belege, erstellt mit Claude, der KI von Anthropic (Opus 5.5, hohe Denkstufe), die jede Aussage anhand der Belege in der Fallakte bewertet hat. Sie können jede Antwort ändern."
   }
  }
 }

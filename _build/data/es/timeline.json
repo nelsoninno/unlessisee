@@ -124,6 +124,21 @@
    ]
   },
   {
+   "id": "mesarites-1201",
+   "year": 1201,
+   "date_label": "1201",
+   "title": "Mesarites registra unos lienzos funerarios sencillos",
+   "text": "Nicolás Mesarites, custodio de las reliquias del palacio en Constantinopla, registra los lienzos funerarios de Jesús como un lino sencillo y barato que todavía huele a mirra. No menciona ninguna imagen en ellos, aunque describe una imagen de Cristo en una toalla aparte.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Mesarites, fragmento en Shroud Spectrum International 17",
+     "url": "https://www.shroud.com/pdfs/ssi17part4.pdf"
+    }
+   ]
+  },
+  {
    "id": "de-clari",
    "year": 1203,
    "date_label": "1203-1204",
@@ -459,6 +474,25 @@
    ]
   },
   {
+   "id": "yehohanan-1968",
+   "year": 1968,
+   "date_label": "1968",
+   "title": "Aparece el talón de un crucificado",
+   "text": "Unos obreros en Giv'at ha-Mivtar, en Jerusalén, descubren una tumba judía con el osario de Yehohanan, cuyo hueso del talón derecho sigue atravesado por un clavo de hierro. Un nuevo estudio de 1985 concluye que el clavo atravesó un solo talón, de lado.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Wikipedia: Jehohanan",
+     "url": "https://en.wikipedia.org/wiki/Jehohanan"
+    },
+    {
+     "label": "Biblical Archaeology Review sobre Zias y Sekeles 1985",
+     "url": "https://library.biblicalarchaeology.org/department/scholars-corner-new-analysis-of-the-crucified-man"
+    }
+   ]
+  },
+  {
    "id": "commission-1969",
    "year": 1969,
    "date_label": "1969",
@@ -614,6 +648,40 @@
     {
      "label": "Jackson et al. 1984",
      "url": "https://shroud.com/pdfs/Correlation%20of%20Image%20Intensity%20Jackson%20Jumper%20Ercoline%201984%20OCRsm.pdf"
+    }
+   ]
+  },
+  {
+   "id": "protocol-1986",
+   "year": 1986,
+   "date_label": "septiembre y octubre de 1986",
+   "title": "Siete laboratorios proponen un plan de datación",
+   "text": "En una reunión en Turín, siete laboratorios de radiocarbono (cinco de AMS y dos pequeños laboratorios de contador de gas) recomiendan un protocolo para datar la tela.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Damon et al. 1989",
+     "url": "https://shroud.com/nature.htm"
+    }
+   ]
+  },
+  {
+   "id": "three-labs-1987",
+   "year": 1987,
+   "date_label": "octubre de 1987",
+   "title": "Solo se eligen tres laboratorios",
+   "text": "Siguiendo instrucciones de la Santa Sede, el arzobispo de Turín elige tres laboratorios de AMS: Arizona, Oxford y Zúrich. El artículo de Nature informa que también se abandonó la prueba a ciegas.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Damon et al. 1989",
+     "url": "https://shroud.com/nature.htm"
+    },
+    {
+     "label": "Gove 1990, Radiocarbon",
+     "url": "https://doi.org/10.1017/S0033822200039990"
     }
    ]
   },
@@ -908,6 +976,21 @@
    ]
   },
   {
+   "id": "carlino-retraction-2018",
+   "year": 2018,
+   "date_label": "julio de 2018",
+   "title": "Retractado el artículo sobre sangre y trauma",
+   "text": "PLOS ONE retracta un artículo de 2017 que afirmaba que unas nanopartículas en una fibra de la Sábana Santa mostraban un trauma grave, por falta de datos y controles suficientes. Los autores se oponen.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Retraction Watch, 19 de julio de 2018",
+     "url": "https://retractionwatch.com/2018/07/19/over-authors-objections-plos-one-retracts-paper-claiming-shroud-of-turin-showed-evidence-of-trauma"
+    }
+   ]
+  },
+  {
    "id": "casabianca-2019",
    "year": 2019,
    "date_label": "marzo de 2019",
@@ -953,6 +1036,21 @@
     {
      "label": "Di Lazzaro et al. 2020, Entropy",
      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7597180"
+    }
+   ]
+  },
+  {
+   "id": "fenstanton-2021",
+   "year": 2021,
+   "date_label": "diciembre de 2021",
+   "title": "Un crucificado en la Britania romana",
+   "text": "Unos arqueólogos dan a conocer el caso de un hombre sepultado en Fenstanton, Cambridgeshire, que murió entre el 130 y el 360 d. C. con un clavo de hierro en el hueso del talón derecho. Recibió una sepultura normal en el cementerio del asentamiento.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Universidad de Cambridge, 8 de diciembre de 2021",
+     "url": "https://www.cam.ac.uk/stories/romancrucifixion"
     }
    ]
   },

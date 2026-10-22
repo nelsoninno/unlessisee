@@ -1,0 +1,127 @@
+{
+ "page": {
+  "title": "La Sábana Santa de Turín explicada: ¿real o falsa? | Hasta que no vea",
+  "description": "¿Es real la Sábana Santa de Turín? Respuestas claras y con fuentes sobre la evidencia a favor y en contra, la datación, la imagen, la sangre y las heridas.",
+  "h1": "La Sábana Santa de Turín explicada: respuestas a tus preguntas",
+  "lede": "Respuestas breves y con fuentes a las preguntas más comunes sobre la Sábana Santa de Turín, con enlaces a la evidencia completa. Donde los expertos no están de acuerdo, lo decimos.",
+  "more": "Leer más",
+  "label": "Preguntas",
+  "foot": "Preguntas y respuestas"
+ },
+ "items": [
+  {
+   "id": "what",
+   "q": "¿Qué es la Sábana Santa de Turín?",
+   "a": "La Sábana Santa de Turín es una tela de lino de unos 4,4 metros de largo y 1,1 metros de ancho con la imagen tenue, de frente y de espaldas, de un hombre que parece haber sido azotado y crucificado. Se guarda en Turín, Italia, desde 1578, y muchos cristianos creen que es el sudario con que fue sepultado Jesús. También se la llama Santo Sudario, Síndone o Sábana Santa de Jesús.",
+   "link": "explore"
+  },
+  {
+   "id": "real",
+   "q": "¿La Sábana Santa de Turín es real o falsa?",
+   "a": "Es una tela de lino real y muy antigua, no un engaño moderno. La pregunta abierta es si es la tela con que fue sepultado Jesús o una creación medieval. La datación por carbono de 1988 la situó entre 1260 y 1390 d. C., y al mismo tiempo nadie ha reproducido todavía todas las propiedades de su imagen. Hay investigadores serios en ambos lados, y este sitio presenta el caso más fuerte de cada uno, con sus fuentes.",
+   "link": "evidence"
+  },
+  {
+   "id": "jesus",
+   "q": "¿Es auténtica la Sábana Santa? ¿Es la mortaja de Jesús?",
+   "a": "Ninguna prueba puede demostrar qué cuerpo envolvió una tela. La ciencia puede medir su edad, sus materiales y cómo se formó la imagen. La imagen coincide en muchos detalles con los relatos de los Evangelios sobre un hombre azotado, coronado de espinas y crucificado, pero la datación por carbono de 1988 apunta a la Edad Media. Si es la Sábana Santa de Jesús es un juicio que cada persona hace a partir de la evidencia y, para muchos, al final, una cuestión de fe.",
+   "link": "weigh"
+  },
+  {
+   "id": "for",
+   "q": "¿Qué evidencia indica que la Sábana Santa es auténtica?",
+   "a": "Los principales argumentos a favor son estos. La imagen está solo en las fibras más superficiales del lino, a unos 0,2 micrómetros, y no la forma ninguna pintura ni aglutinante. Se comporta como un negativo fotográfico y su sombreado registra la distancia como un mapa en 3D. Las manchas rojas contienen sangre real que parece haber estado en la tela antes que la imagen. Las heridas coinciden con una crucifixión romana, con clavos en las muñecas. Nadie ha reproducido todo esto a la vez.",
+   "link": "evidence"
+  },
+  {
+   "id": "against",
+   "q": "¿Qué evidencia indica que la Sábana Santa es medieval?",
+   "a": "Los principales argumentos a favor de un origen medieval son estos. La datación por radiocarbono de 1988, hecha por tres laboratorios, dio de 1260 a 1390 d. C. La tela no tiene una historia segura antes de hacia 1354, cuando aparece en Lirey, Francia. En 1389 el obispo del lugar escribió que un artista había confesado haberla pintado. Un estudio de 2025 sostiene que la imagen encaja mejor con un bajorrelieve que con un cuerpo real. La datación es el argumento más fuerte en contra.",
+   "link": "evidence"
+  },
+  {
+   "id": "carbon",
+   "q": "¿Qué encontró la datación por carbono de la Sábana Santa?",
+   "a": "En 1988, laboratorios de Arizona, Oxford y Zúrich fecharon muestras cortadas de una esquina y obtuvieron de 1260 a 1390 d. C. con un 95% de confianza (Damon y otros, Nature, 1989). Nuevos análisis de los datos originales en 2013, 2019 y 2020 encontraron que las muestras eran menos coherentes de lo publicado. Eso cuestiona la precisión del resultado, pero no apunta al siglo I. Los críticos también sostienen que una esquina puede no representar toda la tela.",
+   "link": "dating"
+  },
+  {
+   "id": "age",
+   "q": "¿Qué edad tiene la Sábana Santa de Turín?",
+   "a": "Su historia documentada empieza hacia 1354 en Lirey, Francia, así que la tela tiene al menos unos 670 años. La datación por carbono de 1988 sitúa el lino entre 1260 y 1390. Quienes defienden su autenticidad apuntan al siglo I por la imagen, la sangre y posibles registros anteriores como el dibujo del Códice Pray de hacia 1192, pero esos vínculos anteriores están en disputa.",
+   "link": "timeline"
+  },
+  {
+   "id": "how",
+   "q": "¿Cómo se formó la imagen de la Sábana Santa?",
+   "a": "Nadie lo sabe. La imagen es un color pajizo en las fibras más superficiales, sin pintura, sin pinceladas y sin señales de haber empapado los hilos. Se han propuesto pintura, una estatua calentada, polvo frotado sobre un relieve, una fotografía primitiva, una reacción química con gases de un cuerpo y un estallido de radiación. Cada idea explica algunos rasgos y tropieza con otros.",
+   "link": "image"
+  },
+  {
+   "id": "painted",
+   "q": "¿La imagen de la Sábana Santa está pintada?",
+   "a": "El equipo científico de 1978 (STURP) concluyó que no es una pintura: no encontró pigmento que forme la imagen, ni pinceladas, ni aglutinante. El microscopista Walter McCrone no estuvo de acuerdo y reportó óxido de hierro y otros materiales. La mayoría de los estudios posteriores dieron la razón a STURP sobre la imagen, aunque coinciden en que en la tela hay partículas diminutas de muchos materiales.",
+   "link": "image"
+  },
+  {
+   "id": "negative",
+   "q": "¿Por qué la Sábana Santa parece un negativo fotográfico?",
+   "a": "En la tela, la luz y la sombra están invertidas respecto a una imagen normal, así que un negativo fotográfico de ella parece un retrato natural. Secondo Pia lo descubrió al fotografiarla por primera vez en 1898. Los escépticos señalan que las imágenes hechas por contacto con una superficie en relieve también salen invertidas.",
+   "link": "index"
+  },
+  {
+   "id": "3d",
+   "q": "¿La Sábana Santa contiene información en 3D?",
+   "a": "Sí. En 1976 los físicos John Jackson y Eric Jumper pusieron una fotografía de la Sábana Santa en un analizador de imágenes VP-8, que convierte el brillo en altura, y obtuvieron un relieve coherente de un cuerpo. Las fotografías y las pinturas comunes no hacen esto. Los escépticos señalan que una imagen hecha por contacto con un bajorrelieve también puede dar un resultado 3D creíble.",
+   "link": "explore"
+  },
+  {
+   "id": "blood",
+   "q": "¿Hay sangre real en la Sábana Santa?",
+   "a": "Pruebas de finales de los años 70 y principios de los 80 encontraron hemo, bilirrubina y otros componentes de la sangre en las manchas rojas, y ninguna imagen debajo de la sangre. No se ha demostrado con métodos modernos que la sangre sea humana, y las afirmaciones sobre un tipo de sangre concreto no son fiables porque la tela está muy contaminada.",
+   "link": "evidence"
+  },
+  {
+   "id": "wounds",
+   "q": "¿Las heridas de la Sábana Santa coinciden con la crucifixión de Jesús?",
+   "a": "Coinciden de cerca con los relatos de los Evangelios: unas 100 a 120 marcas de flagelo, punciones alrededor de la cabeza como un casco de espinas, una herida de clavo en la muñeca, una herida en el costado y piernas que no fueron quebradas. Algunos detalles, como los clavos en las muñecas y no en las palmas, difieren del arte medieval. Los escépticos responden que un artista bien informado pudo conocerlos.",
+   "link": "wounds"
+  },
+  {
+   "id": "copy",
+   "q": "¿Alguien ha reproducido la Sábana Santa de Turín?",
+   "a": "Varios investigadores han hecho imágenes parecidas con métodos disponibles en la Edad Media, por ejemplo frotando pigmento sobre un relieve. Esas copias logran algunos rasgos, pero ninguna reproduce todas las propiedades a la vez: el color solo en las fibras superficiales, la información en 3D, el negativo y la sangre debajo de la imagen. Los escépticos sostienen que seis siglos de envejecimiento explican lo que falta.",
+   "link": "image"
+  },
+  {
+   "id": "church",
+   "q": "¿Qué dice la Iglesia católica sobre la Sábana Santa?",
+   "a": "La Iglesia nunca ha declarado oficialmente que la Sábana Santa sea auténtica, y no obliga a nadie a creerlo. Los papas recientes la han llamado un icono del sufrimiento de Cristo y han orado ante ella. La Santa Sede es su dueña desde 1983, y el arzobispo de Turín es su custodio.",
+   "link": "about"
+  },
+  {
+   "id": "see",
+   "q": "¿Dónde se guarda la Sábana Santa y se puede ver?",
+   "a": "Se guarda en la catedral de San Juan Bautista de Turín, en una urna con clima controlado, y normalmente no está a la vista del público. Se muestra en exposiciones públicas poco frecuentes, como las de 2010 y 2015, y en una transmisión en vivo en 2020.",
+   "link": "timeline"
+  },
+  {
+   "id": "visual",
+   "q": "¿Cuál es la forma más visual de explorar la Sábana Santa?",
+   "a": "En este sitio puedes acercarte a toda la tela en alta resolución, cambiar al negativo fotográfico, ver el rostro como un relieve en 3D, encontrar cada herida en un mapa del cuerpo junto a su versículo del Evangelio, comparar las doce mediciones de radiocarbono y pesar la evidencia tú mismo. Es gratis, está en 12 idiomas y cada afirmación enlaza a su fuente.",
+   "link": "explore"
+  },
+  {
+   "id": "proof",
+   "q": "¿La Sábana Santa prueba que Jesús resucitó?",
+   "a": "No. Aunque se demostrara que la tela es del siglo I, no podría probar una resurrección; como mucho plantea preguntas que la ciencia no ha respondido. Nuestra opinión es que la Sábana Santa le da a una mente seria razones suficientes para tomarse la pregunta en serio, y deja el último paso a cada persona.",
+   "link": "index"
+  },
+  {
+   "id": "who",
+   "q": "¿Quién hizo este sitio y es neutral?",
+   "a": "«Hasta que no vea» es un proyecto gratuito y sin fines de lucro creado por Nelson Inno y construido por everybodyknowsyou.com. Nelson cree que la Sábana Santa es auténtica y lo dice abiertamente. Aun así, el sitio presenta con toda su fuerza los mejores argumentos de ambos lados, califica cada uno y enlaza cada afirmación a su fuente, para que juzgues por ti mismo.",
+   "link": "about"
+  }
+ ]
+}

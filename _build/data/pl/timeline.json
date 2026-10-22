@@ -124,6 +124,21 @@
    ]
   },
   {
+   "id": "mesarites-1201",
+   "year": 1201,
+   "date_label": "1201",
+   "title": "Mesarites wymienia zwykłe płótna grobowe",
+   "text": "Mikołaj Mesarites, strażnik relikwii pałacowych w Konstantynopolu, opisuje płótna grobowe Jezusa jako zwykły, tani len, który wciąż pachnie mirrą. Nie wspomina o żadnym obrazie na nich, choć opisuje obraz Chrystusa na osobnym ręczniku.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Mesarites, fragment w Shroud Spectrum International 17",
+     "url": "https://www.shroud.com/pdfs/ssi17part4.pdf"
+    }
+   ]
+  },
+  {
    "id": "de-clari",
    "year": 1203,
    "date_label": "1203-1204",
@@ -459,6 +474,25 @@
    ]
   },
   {
+   "id": "yehohanan-1968",
+   "year": 1968,
+   "date_label": "1968",
+   "title": "Odnaleziono kość piętową ukrzyżowanego",
+   "text": "Robotnicy budowlani w Giv'at ha-Mivtar w Jerozolimie odkrywają żydowski grób z ossuarium Jehochanana, którego prawa kość piętowa jest wciąż przebita żelaznym gwoździem. Ponowne badanie z 1985 roku wykazuje, że gwóźdź przeszedł z boku przez jedną piętę.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Wikipedia: Jehohanan",
+     "url": "https://en.wikipedia.org/wiki/Jehohanan"
+    },
+    {
+     "label": "Biblical Archaeology Review o pracy Ziasa i Sekelesa 1985",
+     "url": "https://library.biblicalarchaeology.org/department/scholars-corner-new-analysis-of-the-crucified-man"
+    }
+   ]
+  },
+  {
    "id": "commission-1969",
    "year": 1969,
    "date_label": "1969",
@@ -614,6 +648,40 @@
     {
      "label": "Jackson et al. 1984",
      "url": "https://shroud.com/pdfs/Correlation%20of%20Image%20Intensity%20Jackson%20Jumper%20Ercoline%201984%20OCRsm.pdf"
+    }
+   ]
+  },
+  {
+   "id": "protocol-1986",
+   "year": 1986,
+   "date_label": "wrzesień i październik 1986",
+   "title": "Siedem laboratoriów proponuje plan datowania",
+   "text": "Na spotkaniu w Turynie siedem laboratoriów radiowęglowych (pięć laboratoriów AMS i dwa małe laboratoria z licznikami gazowymi) zaleca protokół datowania płótna.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Damon et al. 1989",
+     "url": "https://shroud.com/nature.htm"
+    }
+   ]
+  },
+  {
+   "id": "three-labs-1987",
+   "year": 1987,
+   "date_label": "październik 1987",
+   "title": "Wybrano tylko trzy laboratoria",
+   "text": "Na polecenie Stolicy Apostolskiej arcybiskup Turynu wybiera trzy laboratoria AMS: z Arizony, Oksfordu i Zurychu. Według artykułu w Nature zrezygnowano też ze ślepej próby.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Damon et al. 1989",
+     "url": "https://shroud.com/nature.htm"
+    },
+    {
+     "label": "Gove 1990, Radiocarbon",
+     "url": "https://doi.org/10.1017/S0033822200039990"
     }
    ]
   },
@@ -908,6 +976,21 @@
    ]
   },
   {
+   "id": "carlino-retraction-2018",
+   "year": 2018,
+   "date_label": "lipiec 2018",
+   "title": "Wycofano artykuł o krwi i ciężkim urazie",
+   "text": "PLOS ONE wycofuje artykuł z 2017 roku, według którego nanocząstki w jednym włóknie Całunu wskazywały na ciężki uraz, powołując się na niewystarczające dane i próby kontrolne. Autorzy się sprzeciwili.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Retraction Watch, 19 lipca 2018",
+     "url": "https://retractionwatch.com/2018/07/19/over-authors-objections-plos-one-retracts-paper-claiming-shroud-of-turin-showed-evidence-of-trauma"
+    }
+   ]
+  },
+  {
    "id": "casabianca-2019",
    "year": 2019,
    "date_label": "marzec 2019",
@@ -953,6 +1036,21 @@
     {
      "label": "Di Lazzaro et al. 2020, Entropy",
      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7597180"
+    }
+   ]
+  },
+  {
+   "id": "fenstanton-2021",
+   "year": 2021,
+   "date_label": "grudzień 2021",
+   "title": "Ukrzyżowany mężczyzna z rzymskiej Brytanii",
+   "text": "Archeolodzy opisują mężczyznę pochowanego w Fenstanton w hrabstwie Cambridgeshire, który zmarł między 130 a 360 rokiem n.e. i miał żelazny gwóźdź wbity w prawą kość piętową. Pochowano go normalnie na cmentarzu osady.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Uniwersytet w Cambridge, 8 grudnia 2021",
+     "url": "https://www.cam.ac.uk/stories/romancrucifixion"
     }
    ]
   },

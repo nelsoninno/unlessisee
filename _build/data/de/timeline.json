@@ -124,6 +124,21 @@
    ]
   },
   {
+   "id": "mesarites-1201",
+   "year": 1201,
+   "date_label": "1201",
+   "title": "Mesarites verzeichnet schlichte Grabtücher",
+   "text": "Nikolaos Mesarites, Hüter der Palastreliquien in Konstantinopel, führt die Grabtücher Jesu als schlichtes, preiswertes Leinen auf, das noch nach Myrrhe riecht. Ein Bild darauf erwähnt er nicht, obwohl er ein Bild Christi auf einem eigenen Handtuch beschreibt.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Mesarites, Auszug in Shroud Spectrum International 17",
+     "url": "https://www.shroud.com/pdfs/ssi17part4.pdf"
+    }
+   ]
+  },
+  {
    "id": "de-clari",
    "year": 1203,
    "date_label": "1203-1204",
@@ -459,6 +474,25 @@
    ]
   },
   {
+   "id": "yehohanan-1968",
+   "year": 1968,
+   "date_label": "1968",
+   "title": "Das Fersenbein eines Gekreuzigten wird gefunden",
+   "text": "Bauarbeiter in Giv'at ha-Mivtar in Jerusalem stoßen auf ein jüdisches Grab mit dem Ossuar des Jehochanan, dessen rechtes Fersenbein noch von einem Eisennagel durchbohrt ist. Eine Neuuntersuchung von 1985 ergibt, dass der Nagel nur eine Ferse durchbohrte, und zwar von der Seite.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Wikipedia: Jehohanan",
+     "url": "https://en.wikipedia.org/wiki/Jehohanan"
+    },
+    {
+     "label": "Biblical Archaeology Review zu Zias und Sekeles 1985",
+     "url": "https://library.biblicalarchaeology.org/department/scholars-corner-new-analysis-of-the-crucified-man"
+    }
+   ]
+  },
+  {
    "id": "commission-1969",
    "year": 1969,
    "date_label": "1969",
@@ -614,6 +648,40 @@
     {
      "label": "Jackson et al. 1984",
      "url": "https://shroud.com/pdfs/Correlation%20of%20Image%20Intensity%20Jackson%20Jumper%20Ercoline%201984%20OCRsm.pdf"
+    }
+   ]
+  },
+  {
+   "id": "protocol-1986",
+   "year": 1986,
+   "date_label": "September bis Oktober 1986",
+   "title": "Sieben Labore schlagen einen Datierungsplan vor",
+   "text": "Bei einem Treffen in Turin empfehlen sieben Radiokarbonlabore (fünf AMS-Labore und zwei kleine Labore mit Gaszählrohren) ein Protokoll zur Datierung des Tuchs.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Damon et al. 1989",
+     "url": "https://shroud.com/nature.htm"
+    }
+   ]
+  },
+  {
+   "id": "three-labs-1987",
+   "year": 1987,
+   "date_label": "Oktober 1987",
+   "title": "Nur drei Labore werden ausgewählt",
+   "text": "Auf Anweisung des Heiligen Stuhls wählt der Erzbischof von Turin drei AMS-Labore aus: Arizona, Oxford und Zürich. Laut dem Nature-Artikel wurde außerdem auf Blindtests verzichtet.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Damon et al. 1989",
+     "url": "https://shroud.com/nature.htm"
+    },
+    {
+     "label": "Gove 1990, Radiocarbon",
+     "url": "https://doi.org/10.1017/S0033822200039990"
     }
    ]
   },
@@ -908,6 +976,21 @@
    ]
   },
   {
+   "id": "carlino-retraction-2018",
+   "year": 2018,
+   "date_label": "Juli 2018",
+   "title": "Artikel über Blut und schwere Verletzungen zurückgezogen",
+   "text": "PLOS ONE zieht einen Artikel von 2017 zurück, der behauptete, Nanopartikel in einer Faser des Grabtuchs zeigten schwere Verletzungen, und verweist auf unzureichende Daten und Kontrollen. Die Autoren widersprachen.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Retraction Watch, 19. Juli 2018",
+     "url": "https://retractionwatch.com/2018/07/19/over-authors-objections-plos-one-retracts-paper-claiming-shroud-of-turin-showed-evidence-of-trauma"
+    }
+   ]
+  },
+  {
    "id": "casabianca-2019",
    "year": 2019,
    "date_label": "März 2019",
@@ -953,6 +1036,21 @@
     {
      "label": "Di Lazzaro et al. 2020, Entropy",
      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7597180"
+    }
+   ]
+  },
+  {
+   "id": "fenstanton-2021",
+   "year": 2021,
+   "date_label": "Dezember 2021",
+   "title": "Ein Gekreuzigter aus dem römischen Britannien",
+   "text": "Archäologen berichten von einem in Fenstanton, Cambridgeshire, bestatteten Mann, der zwischen 130 und 360 n. Chr. starb und einen Eisennagel durch das rechte Fersenbein hatte. Er erhielt ein normales Begräbnis auf dem Friedhof der Siedlung.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Universität Cambridge, 8. Dezember 2021",
+     "url": "https://www.cam.ac.uk/stories/romancrucifixion"
     }
    ]
   },

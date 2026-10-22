@@ -124,6 +124,21 @@
    ]
   },
   {
+   "id": "mesarites-1201",
+   "year": 1201,
+   "date_label": "1201年",
+   "title": "Mesarites列出的普通殓布",
+   "text": "君士坦丁堡宫中圣物的保管人Nicholas Mesarites，把耶稣的殓布列为普通、廉价、至今仍有没药气味的亚麻布。他没有提到上面有图像，尽管他描述了另一块手巾上的基督图像。",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Mesarites，Shroud Spectrum International 17中的节选",
+     "url": "https://www.shroud.com/pdfs/ssi17part4.pdf"
+    }
+   ]
+  },
+  {
    "id": "de-clari",
    "year": 1203,
    "date_label": "1203年至1204年",
@@ -459,6 +474,25 @@
    ]
   },
   {
+   "id": "yehohanan-1968",
+   "year": 1968,
+   "date_label": "1968年",
+   "title": "发现一名受十字架刑者的脚跟骨",
+   "text": "建筑工人在耶路撒冷的吉瓦特哈米夫塔尔发现一座犹太墓，里面有约哈南的骨罐，他的右脚跟骨仍被一根铁钉穿透。1985年的重新研究发现，铁钉是从侧面穿过一只脚跟的。",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "维基百科：Jehohanan",
+     "url": "https://en.wikipedia.org/wiki/Jehohanan"
+    },
+    {
+     "label": "Biblical Archaeology Review关于Zias和Sekeles 1985的文章",
+     "url": "https://library.biblicalarchaeology.org/department/scholars-corner-new-analysis-of-the-crucified-man"
+    }
+   ]
+  },
+  {
    "id": "commission-1969",
    "year": 1969,
    "date_label": "1969年",
@@ -614,6 +648,40 @@
     {
      "label": "Jackson et al. 1984",
      "url": "https://shroud.com/pdfs/Correlation%20of%20Image%20Intensity%20Jackson%20Jumper%20Ercoline%201984%20OCRsm.pdf"
+    }
+   ]
+  },
+  {
+   "id": "protocol-1986",
+   "year": 1986,
+   "date_label": "1986年9月至10月",
+   "title": "七个实验室提出定年方案",
+   "text": "在都灵的一次会议上，七个放射性碳实验室（五个AMS实验室和两个使用小型气体计数器的实验室）建议了一套为这块布定年的方案。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Damon et al. 1989",
+     "url": "https://shroud.com/nature.htm"
+    }
+   ]
+  },
+  {
+   "id": "three-labs-1987",
+   "year": 1987,
+   "date_label": "1987年10月",
+   "title": "只选定了三个实验室",
+   "text": "都灵总主教按照圣座的指示，选定了三个AMS实验室：亚利桑那、牛津和苏黎世。《自然》的论文报告说，盲测也被放弃了。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Damon et al. 1989",
+     "url": "https://shroud.com/nature.htm"
+    },
+    {
+     "label": "Gove 1990, Radiocarbon",
+     "url": "https://doi.org/10.1017/S0033822200039990"
     }
    ]
   },
@@ -908,6 +976,21 @@
    ]
   },
   {
+   "id": "carlino-retraction-2018",
+   "year": 2018,
+   "date_label": "2018年7月",
+   "title": "创伤血迹论文被撤回",
+   "text": "PLOS ONE撤回了一篇2017年的论文，该论文声称裹尸布一根纤维中的纳米颗粒显示出严重创伤。撤回的理由是数据和对照不足。作者表示反对。",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Retraction Watch，2018年7月19日",
+     "url": "https://retractionwatch.com/2018/07/19/over-authors-objections-plos-one-retracts-paper-claiming-shroud-of-turin-showed-evidence-of-trauma"
+    }
+   ]
+  },
+  {
    "id": "casabianca-2019",
    "year": 2019,
    "date_label": "2019年3月",
@@ -953,6 +1036,21 @@
     {
      "label": "Di Lazzaro et al. 2020, Entropy",
      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7597180"
+    }
+   ]
+  },
+  {
+   "id": "fenstanton-2021",
+   "year": 2021,
+   "date_label": "2021年12月",
+   "title": "在罗马时代的不列颠发现一名受十字架刑的男子",
+   "text": "考古学家报告，在剑桥郡芬斯坦顿埋葬的一名男子死于公元130年至360年之间，一根铁钉穿过他的右脚跟骨。他被正常地安葬在定居点的墓地里。",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "剑桥大学，2021年12月8日",
+     "url": "https://www.cam.ac.uk/stories/romancrucifixion"
     }
    ]
   },

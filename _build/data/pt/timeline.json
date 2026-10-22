@@ -124,6 +124,21 @@
    ]
   },
   {
+   "id": "mesarites-1201",
+   "year": 1201,
+   "date_label": "1201",
+   "title": "Mesarites registra panos funerários simples",
+   "text": "Nicolau Mesarites, guardião das relíquias do palácio em Constantinopla, registra os panos funerários de Jesus como linho simples e barato que ainda cheira a mirra. Ele não menciona nenhuma imagem neles, embora descreva uma imagem de Cristo numa toalha à parte.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Mesarites, trecho na Shroud Spectrum International 17",
+     "url": "https://www.shroud.com/pdfs/ssi17part4.pdf"
+    }
+   ]
+  },
+  {
    "id": "de-clari",
    "year": 1203,
    "date_label": "1203-1204",
@@ -459,6 +474,25 @@
    ]
   },
   {
+   "id": "yehohanan-1968",
+   "year": 1968,
+   "date_label": "1968",
+   "title": "Encontrado o calcanhar de um crucificado",
+   "text": "Operários em Giv'at ha-Mivtar, em Jerusalém, descobrem um túmulo judaico com o ossuário de Yehohanan, cujo osso do calcanhar direito ainda está atravessado por um cravo de ferro. Um novo estudo de 1985 conclui que o cravo atravessou um só calcanhar, de lado.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Wikipédia: Jehohanan",
+     "url": "https://en.wikipedia.org/wiki/Jehohanan"
+    },
+    {
+     "label": "Biblical Archaeology Review sobre Zias e Sekeles 1985",
+     "url": "https://library.biblicalarchaeology.org/department/scholars-corner-new-analysis-of-the-crucified-man"
+    }
+   ]
+  },
+  {
    "id": "commission-1969",
    "year": 1969,
    "date_label": "1969",
@@ -614,6 +648,40 @@
     {
      "label": "Jackson et al. 1984",
      "url": "https://shroud.com/pdfs/Correlation%20of%20Image%20Intensity%20Jackson%20Jumper%20Ercoline%201984%20OCRsm.pdf"
+    }
+   ]
+  },
+  {
+   "id": "protocol-1986",
+   "year": 1986,
+   "date_label": "setembro e outubro de 1986",
+   "title": "Sete laboratórios propõem um plano de datação",
+   "text": "Numa reunião em Turim, sete laboratórios de radiocarbono (cinco de AMS e dois pequenos laboratórios de contador a gás) recomendam um protocolo para datar o pano.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Damon et al. 1989",
+     "url": "https://shroud.com/nature.htm"
+    }
+   ]
+  },
+  {
+   "id": "three-labs-1987",
+   "year": 1987,
+   "date_label": "outubro de 1987",
+   "title": "Só três laboratórios são escolhidos",
+   "text": "Seguindo instruções da Santa Sé, o arcebispo de Turim escolhe três laboratórios de AMS: Arizona, Oxford e Zurique. O artigo da Nature informa que o teste cego também foi abandonado.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Damon et al. 1989",
+     "url": "https://shroud.com/nature.htm"
+    },
+    {
+     "label": "Gove 1990, Radiocarbon",
+     "url": "https://doi.org/10.1017/S0033822200039990"
     }
    ]
   },
@@ -908,6 +976,21 @@
    ]
   },
   {
+   "id": "carlino-retraction-2018",
+   "year": 2018,
+   "date_label": "julho de 2018",
+   "title": "Artigo sobre sangue e trauma é retratado",
+   "text": "A PLOS ONE retrata um artigo de 2017 que afirmava que nanopartículas numa fibra do Sudário mostravam um trauma grave, alegando dados e controles insuficientes. Os autores discordam.",
+   "certainty": "documented",
+   "track": "science",
+   "sources": [
+    {
+     "label": "Retraction Watch, 19 de julho de 2018",
+     "url": "https://retractionwatch.com/2018/07/19/over-authors-objections-plos-one-retracts-paper-claiming-shroud-of-turin-showed-evidence-of-trauma"
+    }
+   ]
+  },
+  {
    "id": "casabianca-2019",
    "year": 2019,
    "date_label": "março de 2019",
@@ -953,6 +1036,21 @@
     {
      "label": "Di Lazzaro et al. 2020, Entropy",
      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7597180"
+    }
+   ]
+  },
+  {
+   "id": "fenstanton-2021",
+   "year": 2021,
+   "date_label": "dezembro de 2021",
+   "title": "Um crucificado na Britânia romana",
+   "text": "Arqueólogos divulgam o caso de um homem sepultado em Fenstanton, no condado de Cambridgeshire, que morreu entre 130 e 360 d.C. com um cravo de ferro no osso do calcanhar direito. Ele recebeu um sepultamento normal no cemitério do povoado.",
+   "certainty": "documented",
+   "track": "world",
+   "sources": [
+    {
+     "label": "Universidade de Cambridge, 8 de dezembro de 2021",
+     "url": "https://www.cam.ac.uk/stories/romancrucifixion"
     }
    ]
   },

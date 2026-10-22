@@ -39,7 +39,7 @@
    "skeptic": "Cético",
    "believer": "Crente",
    "neutral": "Neutro, pela evidência",
-   "note": "Cada botão marca as respostas que um cético ou um crente típico daria, para você comparar. A opção neutra é a nossa leitura da evidência. Você pode mudar qualquer resposta."
+   "note": "Cada botão marca as respostas que um cético ou um crente típico daria, para você comparar. A opção neutra é a nossa leitura da evidência, feita com o Claude, a IA da Anthropic (Opus 5.5, no ajuste de raciocínio alto), que avaliou cada afirmação diante da evidência do dossiê. Você pode mudar qualquer resposta."
   }
  }
 }

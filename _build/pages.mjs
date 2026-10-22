@@ -29,14 +29,15 @@ function siteGraph(ctx, page, p, extraNodes = []) {
   return {
     '@context': 'https://schema.org',
     '@graph': [
-      { '@type': 'Organization', '@id': base + '#org', name: 'Unless I See', alternateName: ['Hasta que no vea', 'UnlessISee'], url: base,
+      { '@type': 'Organization', '@id': base + '#org', name: 'Unless I See', alternateName: ['Hasta que no vea', 'UnlessISee', 'See the Shroud'], url: base,
         logo: base + 'android-chrome-512x512.png', description: ctx.L.copy.orgDescription,
         founder: { '@type': 'Person', name: 'Nelson Inno', url: 'https://nelsoninno.com' }, knowsLanguage: CONFIG.langs.map(l => l.code),
-        knowsAbout: ['Shroud of Turin', 'Sindonology', 'Radiocarbon dating of the Shroud of Turin', 'Christian apologetics'] },
-      { '@type': 'WebSite', '@id': base + '#website', url: base, name: ctx.L.copy.brand, alternateName: ['Unless I See', 'Hasta que no vea'], inLanguage: CONFIG.langs.map(l => l.code), publisher: { '@id': base + '#org' } },
+        knowsAbout: ['Shroud of Turin', 'Shroud of Jesus', 'Holy Shroud', 'Sindonology', 'Radiocarbon dating of the Shroud of Turin', 'Image formation on the Shroud of Turin', 'Evidence for and against the authenticity of the Shroud of Turin', 'Christian apologetics'] },
+      { '@type': 'WebSite', '@id': base + '#website', url: base, name: ctx.L.copy.brand, alternateName: ['Unless I See', 'Hasta que no vea', 'See the Shroud', 'Shroud of Turin: the evidence for and against'], description: ctx.L.copy.orgDescription, keywords: ctx.L.copy.keywords, isAccessibleForFree: true, inLanguage: CONFIG.langs.map(l => l.code), publisher: { '@id': base + '#org' }, about: { '@id': base + '#shroud' } },
+      { '@type': 'Thing', '@id': base + '#shroud', name: 'Shroud of Turin', alternateName: ['Turin Shroud', 'Holy Shroud', 'Shroud of Jesus', 'Sábana Santa de Turín', 'Sindone di Torino'], sameAs: ['https://en.wikipedia.org/wiki/Shroud_of_Turin', 'https://www.wikidata.org/wiki/Q150401'] },
       { '@type': page.slug === 'index' ? 'WebPage' : (page.schemaType || 'WebPage'), '@id': ctx.abs(page.slug) + '#page', url: ctx.abs(page.slug), name: p.title, description: p.description,
-        inLanguage: ctx.lang, isPartOf: { '@id': base + '#website' },
-        about: { '@type': 'Thing', name: 'Shroud of Turin', sameAs: ['https://en.wikipedia.org/wiki/Shroud_of_Turin', 'https://www.wikidata.org/wiki/Q150401'] } },
+        inLanguage: ctx.lang, isPartOf: { '@id': base + '#website' }, keywords: ctx.L.copy.keywords, isAccessibleForFree: true,
+        about: [{ '@id': base + '#shroud' }, { '@type': 'Person', name: 'Jesus', sameAs: 'https://www.wikidata.org/wiki/Q302' }] },
       ...extraNodes
     ]
   };
@@ -239,7 +240,7 @@ function home(ctx, page) {
   <div><blockquote class="pull">${p.freeQuote}</blockquote><span class="cite">${p.freeCite}</span></div>
 </div></section>
 
-<section class="linen band faq" id="faq"><div class="wrap"><div class="measure"><h2>${p.faqH}</h2>${faq}</div></div></section>
+<section class="linen band faq" id="faq"><div class="wrap"><div class="measure"><h2>${p.faqH}</h2>${faq}${c.pages.faq ? `<div class="btn-row"><a class="btn" href="${ctx.href('faq')}">${esc(c.pages.faq.h1)}</a></div>` : ''}</div></div></section>
 
 <section class="linen band band--tight"><div class="wrap"><h2 style="margin-bottom:1.5rem">${p.pathsH}</h2><div class="paths">
 ${p.paths.map(x => `<a class="path" href="${ctx.href(x.slug)}"><h3>${x.h}</h3><p>${x.t}</p></a>`).join('')}
@@ -372,6 +373,22 @@ ${obj ? `<details class="claim__obj"><summary>${esc(p.obj)}</summary><p>${esc(ob
   <div><blockquote class="pull">${hp.freeQuote}</blockquote><span class="cite">${hp.freeCite}</span></div>
 </div></section>`;
   return layout(ctx, page, { title: p.title, description: p.description, jsonld: siteGraph(ctx, page, p) }, body, ['assets/js/weigh.js']);
+}
+
+// ===================================================================== FAQ (questions people search for, answered directly)
+function faqPage(ctx, page) {
+  const c = ctx.L.copy, p = c.pages.faq, hp = c.pages.index;
+  const items = p.items || [];
+  const toc = `<nav class="faq-toc" aria-label="${attr(p.label)}"><ol>${items.map(f => `<li><a href="#${attr(f.id)}">${esc(f.q)}</a></li>`).join('')}</ol></nav>`;
+  const list = items.map(f => `<section class="faq-item" id="${attr(f.id)}"><h2>${esc(f.q)}</h2><p>${esc(f.a)}</p><p class="faq-more"><a href="${ctx.href(f.link)}">${esc(p.more)}</a></p></section>`).join('\n');
+  const ld = { '@type': 'FAQPage', '@id': ctx.abs(page.slug) + '#faq', inLanguage: ctx.lang, mainEntity: items.map(f => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a, url: ctx.abs(f.link) } })) };
+  const body = `${pageHead(ctx, p)}
+<section class="linen band band--tight" style="padding-top:0"><div class="wrap"><div class="measure">${toc}${list}</div></div></section>
+<section class="plate band" id="freedom"><div class="wrap split" style="align-items:center">
+  <div><h2>${hp.freeH}</h2>${hp.freeText}</div>
+  <div><blockquote class="pull">${hp.freeQuote}</blockquote><span class="cite">${hp.freeCite}</span></div>
+</div></section>`;
+  return layout(ctx, page, { title: p.title, description: p.description, jsonld: siteGraph(ctx, page, p, [ld]) }, body, []);
 }
 
 // ===================================================================== WOUNDS
@@ -589,4 +606,5 @@ export const pages = [
   { slug: 'library', render: library, schemaType: 'CollectionPage' },
   { slug: 'next', render: next },
   { slug: 'about', render: about, schemaType: 'AboutPage' },
+  { slug: 'faq', render: faqPage },
 ];
