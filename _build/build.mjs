@@ -72,7 +72,7 @@ function head(ctx, page, meta) {
   const { L, lang } = ctx, c = L.copy;
   const alts = CONFIG.langs.map(l => `<link rel="alternate" hreflang="${l.tag || l.code}" href="${ctx.abs(page.slug, l.code)}">`).join('\n');
   const fontUrl = 'https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;600&family=Spectral:ital,wght@0,300;0,400;0,600;1,300;1,400&display=swap';
-  const share = ctx.absAsset('assets/images/social-share/' + (c.shareImage || 'social-share-unless-i-see-unlessisee.org.jpg'));
+  const share = ctx.absAsset('assets/images/social-share/' + (c.shareImage || 'social-share-unless-i-see-seetheshroud.org.jpg'));
   const ld = meta.jsonld ? `<script type="application/ld+json">${json(meta.jsonld)}</script>` : '';
   return `<!DOCTYPE html>
 <html lang="${(CONFIG.langs.find(x => x.code === lang) || {}).tag || lang}"${c.dir ? ` dir="${c.dir}"` : ''}>

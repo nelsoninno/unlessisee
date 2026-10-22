@@ -2,7 +2,7 @@
 export default {
   brand: 'Si je ne vois',
   locale: 'fr_FR',
-  shareImage: 'social-share-unless-i-see-unlessisee.org.jpg',
+  shareImage: 'social-share-unless-i-see-seetheshroud.org.jpg',
   keywords: 'Saint-Suaire de Turin, Suaire de Turin, Linceul de Turin, Saint-Suaire de Turin preuves, datation au carbone 14 du Saint-Suaire, Saint-Suaire négatif photographique, Saint-Suaire 3D, le Saint-Suaire est-il authentique, linceul de Jésus, sindonologie, Shroud of Turin, STURP, Secondo Pia',
   shareAlt: 'Le visage du Saint-Suaire de Turin en négatif photographique',
   orgDescription: 'Si je ne vois est un projet éducatif gratuit et non commercial qui présente les arguments pour et contre l’authenticité du Saint-Suaire de Turin, avec leurs sources, en plusieurs langues.',

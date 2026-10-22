@@ -2,7 +2,7 @@
 export default {
   brand: 'Jeśli nie zobaczę',
   locale: 'pl_PL',
-  shareImage: 'social-share-unless-i-see-unlessisee.org.jpg',
+  shareImage: 'social-share-unless-i-see-seetheshroud.org.jpg',
   keywords: 'Całun Turyński, Całun z Turynu, dowody autentyczności Całunu Turyńskiego, datowanie radiowęglowe Całunu Turyńskiego, negatyw Całunu Turyńskiego, Całun Turyński w 3D, czy Całun Turyński jest prawdziwy, płótno grobowe Jezusa, syndonologia, Shroud of Turin, STURP, Secondo Pia',
   shareAlt: 'Twarz z Całunu Turyńskiego jako negatyw fotograficzny',
   orgDescription: 'Jeśli nie zobaczę to bezpłatny, niekomercyjny projekt edukacyjny, który przedstawia dowody za autentycznością Całunu Turyńskiego i przeciw niej, ze źródłami, w wielu językach.',

@@ -2,7 +2,7 @@
 export default {
   brand: '我非看见',
   locale: 'zh_CN',
-  shareImage: 'social-share-unless-i-see-unlessisee.org.jpg',
+  shareImage: 'social-share-unless-i-see-seetheshroud.org.jpg',
   fontUrl: 'https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@300;400;600&family=Noto+Sans+SC:wght@400;500;600&display=swap',
   fontVars: "--font-serif:'Noto Serif SC',serif;--font-sans:'Noto Sans SC',sans-serif",
   keywords: '都灵裹尸布, 都灵殓布, 圣殓布, 耶稣裹尸布, 都灵裹尸布证据, 都灵裹尸布真伪, 都灵裹尸布碳十四测年, 都灵裹尸布负片, 都灵裹尸布3D, 裹尸布研究, Shroud of Turin, STURP, Secondo Pia',

@@ -3,7 +3,7 @@
 export default {
   brand: "Se io non vedo",
   locale: "it_IT",
-  shareImage: "social-share-unless-i-see-unlessisee.org.jpg",
+  shareImage: "social-share-unless-i-see-seetheshroud.org.jpg",
   keywords: "Sindone di Torino, Sacra Sindone, prove sulla Sindone di Torino, datazione al carbonio della Sindone, negativo fotografico della Sindone, Sindone 3D, la Sindone di Torino è vera, telo funerario di Gesù, sindonologia, Shroud of Turin, STURP, Secondo Pia",
   shareAlt: "Il volto della Sindone di Torino come negativo fotografico",
   orgDescription: "«Se io non vedo» è un progetto educativo gratuito e senza scopo di lucro che presenta le prove a favore e contro l'autenticità della Sindone di Torino, con le fonti, in molte lingue.",

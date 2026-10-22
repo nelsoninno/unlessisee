@@ -6,7 +6,7 @@ export default {
   dir: 'rtl',
   fontUrl: 'https://fonts.googleapis.com/css2?family=Noto+Naskh+Arabic:wght@400;600&family=Noto+Sans+Arabic:wght@400;500;600&display=swap',
   fontVars: "--font-serif:'Noto Naskh Arabic',serif;--font-sans:'Noto Sans Arabic',sans-serif",
-  shareImage: 'social-share-unless-i-see-unlessisee.org.jpg',
+  shareImage: 'social-share-unless-i-see-seetheshroud.org.jpg',
   keywords: 'كفن تورينو، كفن المسيح، أدلة كفن تورينو، تأريخ كفن تورينو بالكربون المشع، الصورة السلبية لكفن تورينو، كفن تورينو ثلاثي الأبعاد، هل كفن تورينو حقيقي، كفن دفن يسوع، علم دراسة الكفن، Shroud of Turin، STURP، سيكوندو بيا',
   shareAlt: 'وجه كفن تورينو كما يبدو في الصورة السلبية الفوتوغرافية',
   orgDescription: '«إن لم أبصر» مشروع تعليمي مجاني وغير تجاري يعرض الأدلة المؤيدة لأصالة كفن تورينو والمعارضة لها، مع مصادرها، وبلغات عديدة.',

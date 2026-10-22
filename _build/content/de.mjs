@@ -3,7 +3,7 @@
 export default {
   brand: 'Es sei denn, daß ich … sehe',
   locale: 'de_DE',
-  shareImage: 'social-share-unless-i-see-unlessisee.org.jpg',
+  shareImage: 'social-share-unless-i-see-seetheshroud.org.jpg',
   keywords: 'Grabtuch von Turin, Turiner Grabtuch, Grabtuch Jesu, Grabtuch von Turin Belege, Grabtuch von Turin Radiokarbondatierung, Grabtuch von Turin Negativ, Grabtuch von Turin 3D, ist das Grabtuch von Turin echt, Leichentuch Jesu, Sindonologie, Shroud of Turin, STURP, Secondo Pia',
   shareAlt: 'Das Gesicht auf dem Grabtuch von Turin als fotografisches Negativ',
   orgDescription: '„Es sei denn, daß ich … sehe“ ist ein kostenloses, nicht kommerzielles Bildungsprojekt, das die Belege für und gegen die Echtheit des Grabtuchs von Turin vorstellt, mit Quellen und in vielen Sprachen.',

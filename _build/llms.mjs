@@ -3,7 +3,7 @@ const strip = h => String(h || '').replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').
 export function llms(L, C) {
   const d = `https://${C.domain}/`;
   const c = L.copy;
-  return `# Unless I See (unlessisee.org)
+  return `# Unless I See (seetheshroud.org)
 
 > A free, non-commercial, bilingual (English and Spanish) educational website about the Shroud of Turin. It presents the evidence for and against the authenticity of the Shroud, rates each argument by strength, gives the strongest skeptical arguments at full strength, and links every claim to its source. Created by Nelson Inno as a pro bono project.
 

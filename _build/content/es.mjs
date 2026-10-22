@@ -2,7 +2,7 @@
 export default {
   brand: 'Hasta que no vea',
   locale: 'es_SV',
-  shareImage: 'social-share-hasta-que-no-vea-unlessisee.org.jpg',
+  shareImage: 'social-share-hasta-que-no-vea-seetheshroud.org.jpg',
   keywords: 'Sábana Santa de Turín, Síndone de Turín, evidencia de la Sábana Santa, datación de la Sábana Santa, carbono 14 Sábana Santa, negativo de la Sábana Santa, Sábana Santa en 3D, es real la Sábana Santa, sudario de Jesús, sindonología, Shroud of Turin, STURP, Secondo Pia',
   shareAlt: 'El rostro de la Sábana Santa de Turín como negativo fotográfico',
   orgDescription: '«Hasta que no vea» es un proyecto educativo gratuito y sin fines de lucro que presenta la evidencia a favor y en contra de la autenticidad de la Sábana Santa de Turín, con sus fuentes, en varios idiomas.',

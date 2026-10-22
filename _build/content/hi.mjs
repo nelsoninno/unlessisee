@@ -2,7 +2,7 @@
 export default {
   "brand": "जब तक मैं … न देख लूँ",
   "locale": "hi_IN",
-  "shareImage": "social-share-unless-i-see-unlessisee.org.jpg",
+  "shareImage": "social-share-unless-i-see-seetheshroud.org.jpg",
   "fontUrl": "https://fonts.googleapis.com/css2?family=Noto+Serif+Devanagari:wght@300;400;600&family=Noto+Sans+Devanagari:wght@400;500;600&display=swap",
   "fontVars": "--font-serif:'Noto Serif Devanagari',serif;--font-sans:'Noto Sans Devanagari',sans-serif",
   "keywords": "ट्यूरिन का कफ़न, ट्यूरिन कफ़न, ट्यूरिन के कफ़न के सबूत, ट्यूरिन के कफ़न की कार्बन डेटिंग, ट्यूरिन के कफ़न की नेगेटिव छवि, ट्यूरिन का कफ़न 3D, क्या ट्यूरिन का कफ़न असली है, यीशु का दफ़न कपड़ा, Shroud of Turin, Turin Shroud, STURP, Secondo Pia",

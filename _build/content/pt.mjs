@@ -2,7 +2,7 @@
 export default {
   brand: 'Se em suas mãos não vir',
   locale: 'pt_BR',
-  shareImage: 'social-share-unless-i-see-unlessisee.org.jpg',
+  shareImage: 'social-share-unless-i-see-seetheshroud.org.jpg',
   keywords: 'Santo Sudário de Turim, Sudário de Turim, Santo Sudário, Santo Sudário evidências, Santo Sudário datação por carbono, Santo Sudário imagem negativa, Santo Sudário 3D, o Santo Sudário é verdadeiro, mortalha de Jesus, sindonologia, Shroud of Turin, STURP, Secondo Pia',
   shareAlt: 'O rosto do Santo Sudário de Turim como negativo fotográfico',
   orgDescription: '“Se em suas mãos não vir” é um projeto educativo gratuito e sem fins comerciais que apresenta as evidências a favor e contra a autenticidade do Santo Sudário de Turim, com fontes, em vários idiomas.',

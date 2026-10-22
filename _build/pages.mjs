@@ -46,8 +46,8 @@ function siteGraph(ctx, page, p, extraNodes = []) {
 function scaleFigure(c, ctx) {
   const f = IMG + 'shroud/cloth-';
   return `<figure class="fold-fig"><div class="fold" data-folded="false">
-  <div class="fold__half fold__front"><img src="${ctx.asset(f + 'front-half-shroud-of-turin-unlessisee.org.webp')}" alt="${attr(c.foldFrontAlt)}" loading="lazy" width="1400" height="710"><span class="fold__tag">${esc(c.scaleFront)}</span><span class="fold__backside" aria-hidden="true"></span></div>
-  <div class="fold__half fold__back"><img src="${ctx.asset(f + 'back-half-shroud-of-turin-unlessisee.org.webp')}" alt="${attr(c.foldBackAlt)}" loading="lazy" width="1400" height="710"><span class="fold__tag">${esc(c.scaleBack)}</span></div>
+  <div class="fold__half fold__front"><img src="${ctx.asset(f + 'front-half-shroud-of-turin-seetheshroud.org.webp')}" alt="${attr(c.foldFrontAlt)}" loading="lazy" width="1400" height="710"><span class="fold__tag">${esc(c.scaleFront)}</span><span class="fold__backside" aria-hidden="true"></span></div>
+  <div class="fold__half fold__back"><img src="${ctx.asset(f + 'back-half-shroud-of-turin-seetheshroud.org.webp')}" alt="${attr(c.foldBackAlt)}" loading="lazy" width="1400" height="710"><span class="fold__tag">${esc(c.scaleBack)}</span></div>
   <span class="fold__axis" aria-hidden="true"></span>
 </div>
 <div class="fold__dims meta"><span>${esc(c.scaleLen)}</span><span>${esc(c.scaleWid)}</span></div>
@@ -59,8 +59,8 @@ function scaleFigure(c, ctx) {
 function powers(ctx, c) {
   const P = c.powers;
   const svgs = [
-    `<img src="${ctx.asset(IMG + 'shroud/full-cloth-shroud-of-turin-unlessisee.org.webp')}" alt="" style="width:100%;height:auto;border-radius:8px">`,
-    `<img src="${ctx.asset(IMG + 'hero/face-positive-shroud-of-turin-unlessisee.org.webp')}" alt="" style="max-height:100%;width:auto;margin:0 auto;border-radius:8px">`,
+    `<img src="${ctx.asset(IMG + 'shroud/full-cloth-shroud-of-turin-seetheshroud.org.webp')}" alt="" style="width:100%;height:auto;border-radius:8px">`,
+    `<img src="${ctx.asset(IMG + 'hero/face-positive-shroud-of-turin-seetheshroud.org.webp')}" alt="" style="max-height:100%;width:auto;margin:0 auto;border-radius:8px">`,
     `<svg viewBox="0 0 400 260" aria-hidden="true"><defs><linearGradient id="th" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="var(--linen-deep)"/><stop offset=".5" stop-color="var(--white)"/><stop offset="1" stop-color="var(--linen-edge)"/></linearGradient></defs>${Array.from({length: 7}, (_, i) => `<path d="M0 ${70 + i * 18} C 100 ${55 + i * 18}, 300 ${85 + i * 18}, 400 ${70 + i * 18}" stroke="url(#th)" stroke-width="16" fill="none"/><path d="M0 ${70 + i * 18} C 100 ${55 + i * 18}, 300 ${85 + i * 18}, 400 ${70 + i * 18}" stroke="var(--linen-edge)" stroke-width="1" fill="none"/>`).join('')}<path d="M0 124 C 100 109, 300 139, 400 124" stroke="var(--sepia)" stroke-width="16" fill="none" opacity=".35"/></svg>`,
     `<svg viewBox="0 0 400 260" aria-hidden="true">${Array.from({length: 26}, (_, i) => { const y = 40 + (i % 13) * 14 + (i > 12 ? 7 : 0); const top = i % 13 < 3; return `<rect x="${i > 12 ? 30 : 10}" y="${y}" width="${i > 12 ? 360 : 380}" height="10" rx="5" fill="${top ? 'var(--light)' : 'var(--linen-deep)'}" stroke="var(--linen-edge)"/>`; }).join('')}<text x="200" y="250" text-anchor="middle" font-size="12" fill="var(--ink-soft)">${esc(P.fiberNote)}</text></svg>`,
     `<svg viewBox="0 0 400 260" aria-hidden="true"><circle cx="200" cy="130" r="105" fill="var(--linen-deep)" stroke="var(--linen-edge)" stroke-width="2"/><circle cx="200" cy="130" r="105" fill="none" stroke="var(--sepia)" stroke-width="4"/><circle cx="200" cy="130" r="22" fill="var(--white)" stroke="var(--linen-edge)"/><line x1="290" y1="70" x2="350" y2="35" stroke="var(--ink-soft)"/><text x="352" y="32" font-size="12" fill="var(--ink)">${esc(P.layerLabel)}</text><text x="200" y="134" text-anchor="middle" font-size="11" fill="var(--ink-soft)">${esc(P.lumen)}</text></svg>`
@@ -178,8 +178,8 @@ function home(ctx, page) {
   </div>
   <figure>
     <div class="hero__face" tabindex="0" role="img" aria-label="${attr(p.faceAlt)}" data-hint2="${attr(p.hint2)}">
-      <img class="pos" src="${ctx.asset(IMG + 'hero/face-positive-shroud-of-turin-unlessisee.org.webp')}" alt="" width="900" height="1200" fetchpriority="high">
-      <img class="neg" src="${ctx.asset(IMG + 'hero/face-negative-shroud-of-turin-unlessisee.org.webp')}" alt="" width="900" height="1200">
+      <img class="pos" src="${ctx.asset(IMG + 'hero/face-positive-shroud-of-turin-seetheshroud.org.webp')}" alt="" width="900" height="1200" fetchpriority="high">
+      <img class="neg" src="${ctx.asset(IMG + 'hero/face-negative-shroud-of-turin-seetheshroud.org.webp')}" alt="" width="900" height="1200">
       <span class="ring"></span>
       <span class="hero__hint">${esc(p.hint)}</span>
     </div>
@@ -202,7 +202,7 @@ function home(ctx, page) {
 </div></section>
 
 <section class="plate band" id="negative"><div class="wrap split">
-  ${compare(ctx, c, { src: IMG + 'hero/face-positive-shroud-of-turin-unlessisee.org.webp', alt: p.cmpPosAlt, label: p.cmpPos, w: 900, h: 1200, caption: p.cmpCaption }, { src: IMG + 'hero/face-negative-shroud-of-turin-unlessisee.org.webp', alt: p.cmpNegAlt, label: p.cmpNeg }, p.cmpLabel)}
+  ${compare(ctx, c, { src: IMG + 'hero/face-positive-shroud-of-turin-seetheshroud.org.webp', alt: p.cmpPosAlt, label: p.cmpPos, w: 900, h: 1200, caption: p.cmpCaption }, { src: IMG + 'hero/face-negative-shroud-of-turin-seetheshroud.org.webp', alt: p.cmpNegAlt, label: p.cmpNeg }, p.cmpLabel)}
   <div><p class="chapter__year">${p.negYear}</p><h2>${p.negH}</h2>${p.negText}<p class="note" style="margin-top:1.5rem">${p.negSkeptic}</p><div class="btn-row"><button class="btn" type="button" data-invert-page data-labels='${attr(JSON.stringify([p.invertBtn, p.invertBack]))}'>${esc(p.invertBtn)}</button></div></div>
 </div></section>
 
@@ -213,7 +213,7 @@ function home(ctx, page) {
 
 <section class="linen band" id="marks"><div class="wrap split">
   <div><h2>${p.marksH}</h2>${p.marksText}<div class="btn-row"><a class="btn btn--solid" href="${ctx.href('wounds')}">${esc(p.marksCta)}</a></div></div>
-  <figure><img src="${ctx.asset(IMG + 'shroud/hands-negative-shroud-of-turin-unlessisee.org.webp')}" alt="${attr(p.marksAlt)}" loading="lazy" width="900" height="900"><figcaption>${p.marksCaption}</figcaption></figure>
+  <figure><img src="${ctx.asset(IMG + 'shroud/hands-negative-shroud-of-turin-seetheshroud.org.webp')}" alt="${attr(p.marksAlt)}" loading="lazy" width="900" height="900"><figcaption>${p.marksCaption}</figcaption></figure>
 </div></section>
 
 <section class="linen band" id="dating" style="border-top:1px solid var(--linen-edge)"><div class="wrap">
@@ -244,16 +244,16 @@ function home(ctx, page) {
 <section class="linen band band--tight"><div class="wrap"><h2 style="margin-bottom:1.5rem">${p.pathsH}</h2><div class="paths">
 ${p.paths.map(x => `<a class="path" href="${ctx.href(x.slug)}"><h3>${x.h}</h3><p>${x.t}</p></a>`).join('')}
 </div></div></section>`;
-  return layout(ctx, page, { title: p.title, description: p.description, preload: IMG + 'hero/face-positive-shroud-of-turin-unlessisee.org.webp', jsonld: siteGraph(ctx, page, p, [faqLd]) }, body,
+  return layout(ctx, page, { title: p.title, description: p.description, preload: IMG + 'hero/face-positive-shroud-of-turin-seetheshroud.org.webp', jsonld: siteGraph(ctx, page, p, [faqLd]) }, body,
     ['assets/js/hero.js', 'assets/js/lists.js', ...v3d, 'assets/js/data/relief-face.js', 'assets/js/data/relief-body.js', 'assets/js/emanation.js']);
 }
 
 // ===================================================================== EXPLORE
 function explore(ctx, page) {
   const c = ctx.L.copy, p = c.pages.explore, S = ctx.L.data.spots || { spots: [] };
-  const data = { image: { w: 3000, h: 769, src: ctx.asset(IMG + 'shroud/full-cloth-shroud-of-turin-unlessisee.org.webp'), srcHi: ctx.asset(IMG + 'shroud/full-cloth-hi-shroud-of-turin-unlessisee.org.webp'), hiAt: 0.9, ...(S.image || {}) },
+  const data = { image: { w: 3000, h: 769, src: ctx.asset(IMG + 'shroud/full-cloth-shroud-of-turin-seetheshroud.org.webp'), srcHi: ctx.asset(IMG + 'shroud/full-cloth-hi-shroud-of-turin-seetheshroud.org.webp'), hiAt: 0.9, ...(S.image || {}) },
     spots: S.spots.map(s => ({ ...s, link: s.link ? ctx.href(s.link.split('#')[0]) + (s.link.includes('#') ? '#' + s.link.split('#')[1] : '') : null })), ui: p.ui };
-  data.image.src = ctx.asset(S.image ? S.image.src : IMG + 'shroud/full-cloth-shroud-of-turin-unlessisee.org.webp');
+  data.image.src = ctx.asset(S.image ? S.image.src : IMG + 'shroud/full-cloth-shroud-of-turin-seetheshroud.org.webp');
   if (S.image && S.image.srcHi) data.image.srcHi = ctx.asset(S.image.srcHi);
   const body = `
 <section class="linen"><div class="wrap page-head" style="padding-bottom:1.5rem"><h1>${p.h1}</h1><p class="lede">${p.lede}</p></div></section>
@@ -375,7 +375,7 @@ ${obj ? `<details class="claim__obj"><summary>${esc(p.obj)}</summary><p>${esc(ob
 function wounds(ctx, page) {
   const c = ctx.L.copy, p = c.pages.wounds, Wn = ctx.L.data.wounds || { items: [] };
   const spot = (w, i) => w.x != null ? `<button class="hotspot" type="button" data-id="${attr(w.id)}" style="left:${w.x * 100}%;top:${w.y * 100}%" aria-label="${attr(w.name)}">${i + 1}</button>` : '';
-  const fig = side => `<div class="bodymap__fig" data-side="${side}"><img src="${ctx.asset(IMG + 'shroud/body-' + side + '-shroud-of-turin-unlessisee.org.webp')}" alt="${attr(p['alt_' + side])}" loading="lazy">${Wn.items.map((w, i) => w.side === side ? spot(w, i) : '').join('')}</div>`;
+  const fig = side => `<div class="bodymap__fig" data-side="${side}"><img src="${ctx.asset(IMG + 'shroud/body-' + side + '-shroud-of-turin-seetheshroud.org.webp')}" alt="${attr(p['alt_' + side])}" loading="lazy">${Wn.items.map((w, i) => w.side === side ? spot(w, i) : '').join('')}</div>`;
   const list = Wn.items.map((w, i) => `<div class="wound" tabindex="0" data-id="${attr(w.id)}" data-side="${w.side}"><p class="meta">${i + 1} &middot; ${esc(w.side === 'front' ? p.front : p.back)}${w.body_region ? ' &middot; ' + esc(w.body_region) : ''}</p><h2 class="wound__title">${esc(w.name)}</h2><p>${esc(w.description)}</p>${w.verse ? `<p class="gospel">${esc(w.verse)} <span class="meta">(${esc(w.gospel)})</span></p>` : (w.gospel ? `<p class="meta" style="margin-top:.5rem">${esc(w.gospel)}</p>` : '')}${w.skeptic ? `<p class="meta" style="margin-top:.6rem">${esc(c.ui.skeptic)}: ${esc(w.skeptic)}</p>` : ''}${srcList(w.sources)}</div>`).join('');
   const body = `${pageHead(ctx, p)}
 <section class="plate band"><div class="wrap bodymap">
@@ -420,7 +420,7 @@ function dating(ctx, page) {
 <section class="linen band band--tight"><div class="wrap prose">${p.body}</div></section>
 <section class="plate band"><div class="wrap split" style="align-items:start">
   <div><h2>${p.sampleH}</h2>${p.sampleText}</div>
-  <figure><img src="${ctx.asset(IMG + 'shroud/sample-corner-shroud-of-turin-unlessisee.org.webp')}" alt="${attr(p.sampleAlt)}" loading="lazy"><figcaption>${p.sampleCap}</figcaption></figure>
+  <figure><img src="${ctx.asset(IMG + 'shroud/sample-corner-shroud-of-turin-seetheshroud.org.webp')}" alt="${attr(p.sampleAlt)}" loading="lazy"><figcaption>${p.sampleCap}</figcaption></figure>
 </div></section>
 <section class="linen band"><div class="wrap split" style="align-items:start">
   <div><h2>${p.debateH}</h2>${p.debateFor}</div>
@@ -481,7 +481,7 @@ function timeline(ctx, page) {
   ${provenanceMap(ctx, c)}
   <h2 style="margin-top:3rem;font-size:1.8rem">${p.icon.h}</h2>
   <div class="split" style="align-items:center;margin-top:1.5rem">
-    <figure><div class="overlay" style="--o:.5"><img src="${ctx.asset(IMG + 'hero/face-negative-shroud-of-turin-unlessisee.org.webp')}" alt="${attr(p.icon.altShroud)}" loading="lazy" width="900" height="1200"><img class="overlay__top" src="${ctx.asset(IMG + 'history/icon-sinai-pantocrator-face-unlessisee.org.webp')}" alt="${attr(p.icon.altIcon)}" loading="lazy" width="900" height="1200"></div>
+    <figure><div class="overlay" style="--o:.5"><img src="${ctx.asset(IMG + 'hero/face-negative-shroud-of-turin-seetheshroud.org.webp')}" alt="${attr(p.icon.altShroud)}" loading="lazy" width="900" height="1200"><img class="overlay__top" src="${ctx.asset(IMG + 'history/icon-sinai-pantocrator-face-seetheshroud.org.webp')}" alt="${attr(p.icon.altIcon)}" loading="lazy" width="900" height="1200"></div>
     <label class="overlay__ctl ui" for="ov-range"><span>${esc(p.icon.shroud)}</span><input id="ov-range" type="range" min="0" max="1" step="0.01" value="0.5" data-overlay><span>${esc(p.icon.iconLabel)}</span></label></figure>
     <div>${p.icon.text}<p class="note" style="margin-top:1.5rem">${p.icon.skeptic}</p></div>
   </div>

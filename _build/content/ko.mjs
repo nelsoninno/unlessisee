@@ -2,7 +2,7 @@
 export default {
   brand: '보지 않고는',
   locale: 'ko_KR',
-  shareImage: 'social-share-unless-i-see-unlessisee.org.jpg',
+  shareImage: 'social-share-unless-i-see-seetheshroud.org.jpg',
   fontUrl: 'https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@300;400;600&family=Noto+Sans+KR:wght@400;500;600&display=swap',
   fontVars: "--font-serif:'Noto Serif KR',serif;--font-sans:'Noto Sans KR',sans-serif",
   keywords: '토리노의 수의, 토리노 수의, 토리노의 수의 증거, 토리노의 수의 탄소 연대 측정, 토리노의 수의 음화, 토리노의 수의 3D, 토리노의 수의는 진짜인가, 예수의 수의, 예수의 세마포, 신도놀로지, Shroud of Turin, STURP, 세콘도 피아',

@@ -1,11 +1,11 @@
-# CLAUDE.md: unlessisee.org
+# CLAUDE.md: seetheshroud.org (Unless I See)
 
 ## What this is
 Pro bono EKY project for Nelson Inno. A bilingual (EN at /, ES at /es/) educational site about the Shroud of Turin aimed at skeptics: fair "case file" framing, the strongest skeptic arguments at full strength, every claim sourced. Brand: Unless I See / Hasta que no vea (John 20:25). Every language's name is the exact wording of John 20:25 in the Bible quoted on that language's site (Spanish: La Biblia Latinoamericana). Main site is the Shroud; Nelson's testimony and "the pattern to God" will go on a separate subpage later.
 
 ## Repo and deploy
 - Repo: github.com/nelsoninno/unlessisee (branch main). Commits authored as "Nelson Inno" with a non-personal email.
-- Hosting: Cloudflare Pages, live at unlessisee.pages.dev (deploys on push to main). Domain unlessisee.org at Namecheap (Nelson buying; suggested extras sinoveo.org, unlessisee.net).
+- Hosting: Cloudflare Pages, project unlessisee (unlessisee.pages.dev; deploys on push to main). Main domain seetheshroud.org; unlessisee.org also owned (Namecheap, DNS on Cloudflare).
 - Tokens are supplied at runtime and never written to any file.
 
 ## Build
@@ -37,5 +37,5 @@ This session's GitHub proxy cannot push to the repo, so pushes go through Nelson
 - Explore markers are callouts (dot on the detail, thin line, number off to the side; offsets dx/dy and highlight radius r in data/en/spots.json). Selecting one dims the rest and shows that area in negative inside a glowing ring.
 - The header nav collapses into the Menu button whenever a language's labels do not fit (main.js measures it).
 - Discoverability gate (22 Oct 2026): one H1 per page, no heading skips, titles over 65 chars drop the brand suffix automatically, descriptions sized per language, llms files in sitemap; tools/seoaudit.py re-runs it. _redirects keeps CLAUDE.md, README.md and _build/ off the website.
-- Domains: unlessisee.org (main) and seetheshroud.org (301 redirect to unlessisee.org for now; later Nelson's testimony site). Nelson is doing the Cloudflare side himself.
-- Pending: custom domain activation, permission replies for STURP and 2002/2008 photos, Nelson's story page.
+- Domains: seetheshroud.org is the main domain (canonical, sitemap, image names end in seetheshroud.org). unlessisee.org is reserved for later (Nelson's testimony); Nelson handles it and the Cloudflare side himself.
+- Pending: seetheshroud.org activation on Cloudflare Pages, permission replies for STURP and 2002/2008 photos, Nelson's story page.

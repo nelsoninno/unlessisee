@@ -2,7 +2,7 @@
 export default {
   brand: "Malibang aking makita",
   locale: "fil_PH",
-  shareImage: "social-share-unless-i-see-unlessisee.org.jpg",
+  shareImage: "social-share-unless-i-see-seetheshroud.org.jpg",
   keywords: "Shroud of Turin, Banal na Sindone ng Turin, ebidensiya tungkol sa Shroud of Turin, carbon dating ng Shroud of Turin, negative ng Shroud of Turin, Shroud of Turin 3D, totoo ba ang Shroud of Turin, telang panlibing ni Hesus, sindonology, Turin Shroud, STURP, Secondo Pia",
   shareAlt: "Ang mukha sa Shroud of Turin bilang negative ng litrato",
   orgDescription: "Ang “Malibang aking makita” ay isang libre at hindi pangkomersiyong proyektong pang-edukasyon na naglalahad ng ebidensiya para at laban sa pagiging tunay ng Shroud of Turin, kasama ang mga source, sa maraming wika.",
