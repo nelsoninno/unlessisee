@@ -43,14 +43,15 @@
     var lightA=parseFloat(el.getAttribute('data-light')||'0.25');
     function placeLight(){key.position.set(Math.cos(lightA)*2.5,1.6,Math.sin(lightA)*2.5+1.2);}
     placeLight();
-    var yaw=parseFloat(el.getAttribute('data-yaw')||'0.55'),pitch=-0.18,dist=aspect>1.2?3.9:4.1,auto=true;
-    function placeCam(){group.rotation.set(pitch,yaw,0);group.position.y=0.12;cam.position.set(0,0,dist);cam.lookAt(0,0,0);}
+    var YAW=0.42,PMIN=-0.4,PMAX=0.12; // limits: the relief always faces the viewer
+    var yaw=Math.max(-YAW,Math.min(YAW,parseFloat(el.getAttribute('data-yaw')||'0.3'))),pitch=-0.12,dist=aspect>1.2?4.4:5.0,auto=true;
+    function placeCam(){group.rotation.set(pitch,yaw,0);group.position.y=-0.12;cam.position.set(0,0,dist);cam.lookAt(0,0,0);}
     placeCam();
     var needs=true; function render(){needs=true;}
     var t0=performance.now();
     function loop(t){
       if(!document.body.contains(el))return;
-      if(auto){yaw=0.6*Math.sin((t-t0)/2600);placeCam();needs=true;}
+      if(auto){yaw=0.32*Math.sin((t-t0)/2600);placeCam();needs=true;}
       if(needs&&inView){renderer.render(scene,cam);needs=false;}
       requestAnimationFrame(loop);
     }
@@ -60,9 +61,9 @@
     // Drag to rotate, wheel / pinch to zoom
     var drag=null;
     el.addEventListener('pointerdown',function(e){if(e.target.closest('.viewer__ui'))return;auto=false;drag={x:e.clientX,y:e.clientY};el.setPointerCapture(e.pointerId);});
-    el.addEventListener('pointermove',function(e){if(!drag)return;yaw+=(e.clientX-drag.x)*0.008;pitch+=(e.clientY-drag.y)*0.006;pitch=Math.max(-1.3,Math.min(1.3,pitch));drag={x:e.clientX,y:e.clientY};placeCam();render();});
+    el.addEventListener('pointermove',function(e){if(!drag)return;yaw=Math.max(-YAW,Math.min(YAW,yaw+(e.clientX-drag.x)*0.006));pitch=Math.max(PMIN,Math.min(PMAX,pitch+(e.clientY-drag.y)*0.004));drag={x:e.clientX,y:e.clientY};placeCam();render();});
     el.addEventListener('pointerup',function(){drag=null;}); el.addEventListener('pointercancel',function(){drag=null;});
-    el.addEventListener('wheel',function(e){e.preventDefault();auto=false;dist=Math.max(1.6,Math.min(9,dist*Math.exp(e.deltaY*0.001)));placeCam();render();},{passive:false});
+    el.addEventListener('wheel',function(e){e.preventDefault();auto=false;dist=Math.max(2.4,Math.min(6,dist*Math.exp(e.deltaY*0.001)));placeCam();render();},{passive:false});
     // UI controls
     var bar=document.createElement('div'); bar.className='viewer__ui';
     function addRange(label,min,max,val,step,fn){var l=document.createElement('label');l.innerHTML='<span>'+label+'</span>';var r=document.createElement('input');r.type='range';r.min=min;r.max=max;r.step=step;r.value=val;r.addEventListener('input',function(){auto=false;fn(parseFloat(r.value));render();});l.appendChild(r);bar.appendChild(l);}

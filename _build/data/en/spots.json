@@ -19,7 +19,10 @@
    "link": "wounds#face-injuries",
    "verseRef": "Matthew 27:30",
    "n": 1,
-   "layer": "wounds"
+   "layer": "wounds",
+   "dx": -34,
+   "dy": 84,
+   "r": 150
   },
   {
    "id": "crown",
@@ -34,7 +37,10 @@
    "skeptic": "A crown of thorns is a Gospel detail any artist would include.",
    "verseRef": "John 19:2",
    "n": 2,
-   "layer": "wounds"
+   "layer": "wounds",
+   "dx": 40,
+   "dy": -84,
+   "r": 95
   },
   {
    "id": "wrist",
@@ -49,7 +55,10 @@
    "skeptic": "Pathologists disagree on the exact path of the nail. Later pathologists, such as Frederick Zugibe, disputed Barbet's claim that palm nails cannot hold a body.",
    "verseRef": "John 20:25",
    "n": 3,
-   "layer": "wounds"
+   "layer": "wounds",
+   "dx": 0,
+   "dy": -74,
+   "r": 120
   },
   {
    "id": "thumbs",
@@ -62,7 +71,10 @@
    "link": "wounds#missing-thumbs",
    "skeptic": "Two incompatible medical explanations exist, and an artist could simply have hidden the thumbs.",
    "n": 4,
-   "layer": "wounds"
+   "layer": "wounds",
+   "dx": -14,
+   "dy": 72,
+   "r": 110
   },
   {
    "id": "arms",
@@ -77,7 +89,10 @@
    "skeptic": "A 2018 bloodstain study by Borrini and Garlaschelli argued these flows need different arm positions.",
    "verseRef": "John 19:18",
    "n": 5,
-   "layer": "wounds"
+   "layer": "wounds",
+   "dx": 0,
+   "dy": 66,
+   "r": 170
   },
   {
    "id": "side",
@@ -92,7 +107,10 @@
    "skeptic": "The \"water\" is an interpretation of lighter areas in the stain.",
    "verseRef": "John 19:34",
    "n": 6,
-   "layer": "wounds"
+   "layer": "wounds",
+   "dx": 10,
+   "dy": 72,
+   "r": 120
   },
   {
    "id": "front-legs",
@@ -106,7 +124,10 @@
    "link": "wounds#scourge-marks-front",
    "verseRef": "John 19:1",
    "n": 7,
-   "layer": "wounds"
+   "layer": "wounds",
+   "dx": 0,
+   "dy": -72,
+   "r": 190
   },
   {
    "id": "back-head",
@@ -120,7 +141,10 @@
    "link": "wounds#crown-of-thorns-back-of-head",
    "verseRef": "John 19:2",
    "n": 8,
-   "layer": "wounds"
+   "layer": "wounds",
+   "dx": 40,
+   "dy": 74,
+   "r": 130
   },
   {
    "id": "shoulders",
@@ -135,7 +159,10 @@
    "skeptic": "These areas are faint and their reading depends on what you expect to see.",
    "verseRef": "John 19:17",
    "n": 9,
-   "layer": "wounds"
+   "layer": "wounds",
+   "dx": 0,
+   "dy": -66,
+   "r": 190
   },
   {
    "id": "scourge",
@@ -150,7 +177,10 @@
    "skeptic": "Counts come from enhanced photographs and vary from one author to another.",
    "verseRef": "John 19:1",
    "n": 10,
-   "layer": "wounds"
+   "layer": "wounds",
+   "dx": 0,
+   "dy": 72,
+   "r": 220
   },
   {
    "id": "belt",
@@ -165,7 +195,10 @@
    "skeptic": "Borrini and Garlaschelli judged this band unrealistic.",
    "verseRef": "John 19:34",
    "n": 11,
-   "layer": "wounds"
+   "layer": "wounds",
+   "dx": 0,
+   "dy": -72,
+   "r": 150
   },
   {
    "id": "foot",
@@ -179,7 +212,10 @@
    "link": "wounds#feet-wound",
    "verseRef": "Luke 24:39",
    "n": 12,
-   "layer": "wounds"
+   "layer": "wounds",
+   "dx": -10,
+   "dy": 72,
+   "r": 140
   },
   {
    "id": "burns",
@@ -190,7 +226,10 @@
    "title": "The 1532 fire",
    "text": "On 4 December 1532 the cloth, folded in a silver case in the chapel of the castle at Chambéry, then capital of the Duchy of Savoy, was nearly destroyed by fire. Molten silver burned through the folds, leaving these symmetric lines of scorches and holes along both sides.",
    "n": 13,
-   "layer": "damage"
+   "layer": "damage",
+   "dx": 0,
+   "dy": -56,
+   "r": 160
   },
   {
    "id": "patches",
@@ -201,7 +240,10 @@
    "title": "The patches of the Poor Clares",
    "text": "In 1534 Poor Clare nuns in Chambéry sewed triangular patches over the burn holes and backed the cloth with a support cloth. The patches were removed in a 2002 restoration. This 1931 photograph shows them.",
    "n": 14,
-   "layer": "damage"
+   "layer": "damage",
+   "dx": -10,
+   "dy": -62,
+   "r": 170
   },
   {
    "id": "water",
@@ -212,7 +254,10 @@
    "title": "Water stains",
    "text": "Large diamond-shaped stains repeat along the cloth. Long thought to come from water thrown on the 1532 fire, a 2002 study proposed, as a hypothesis, that some are older, from the cloth being folded and stored in a jar.",
    "n": 15,
-   "layer": "damage"
+   "layer": "damage",
+   "dx": 64,
+   "dy": -70,
+   "r": 150
   },
   {
    "id": "poker",
@@ -225,7 +270,10 @@
    "link": "timeline",
    "skeptic": "Whether the Pray Codex drawing shows these holes is disputed.",
    "n": 16,
-   "layer": "damage"
+   "layer": "damage",
+   "dx": 0,
+   "dy": -56,
+   "r": 90
   },
   {
    "id": "strip",
@@ -237,7 +285,10 @@
    "text": "A strip about 8 cm wide runs along one whole edge, joined by a seam. Swiss textile expert Mechthild Flury-Lemberg compared the seam to one on first-century fabric from Masada.",
    "skeptic": "Seams like this are not unique to the first century, and the comparison remains disputed.",
    "n": 17,
-   "layer": "linen"
+   "layer": "linen",
+   "dx": 0,
+   "dy": 56,
+   "r": 170
   },
   {
    "id": "sample",
@@ -249,7 +300,10 @@
    "text": "In 1988 a single strip was cut near this corner, at the feet end of the front image, and divided among three laboratories. Approximate location; the 1931 photograph predates the sampling.",
    "link": "dating",
    "n": 18,
-   "layer": "linen"
+   "layer": "linen",
+   "dx": 34,
+   "dy": 54,
+   "r": 110
   }
  ]
 }

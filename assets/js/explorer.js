@@ -17,22 +17,35 @@
   var hiLoaded=false;
 
   // Hotspots
+  // Each marker is a callout: a small dot on the detail, a thin line, and the number placed off to the side,
+  // so the number never covers what it points at.
   D.spots.forEach(function(sp,i){
     var b=document.createElement('button');
-    b.className='hotspot'; b.type='button'; b.textContent=sp.n||(i+1);
+    b.className='hotspot hotspot--callout'; b.type='button';
+    b.innerHTML='<span class="hotspot__line"></span><span class="hotspot__dot"></span><span class="hotspot__num">'+(sp.n||(i+1))+'</span>';
     b.style.left=(sp.x*W)+'px'; b.style.top=(sp.y*H)+'px';
     b.setAttribute('aria-label',sp.title); b.setAttribute('aria-expanded','false'); b.dataset.id=sp.id; b.dataset.layer=sp.layer||'wounds'; b.classList.add('layer-'+(sp.layer||'wounds'));
     b.addEventListener('pointerdown',function(e){e.stopPropagation();});
     b.addEventListener('click',function(e){e.stopPropagation();open(i,false);});
-    canvas.appendChild(b); sp.el=b;
+    canvas.appendChild(b); sp.el=b; callout(sp,0);
   });
+  // Place a marker's number at its offset; when selected, push it just outside the highlighted circle
+  function callout(sp,minLen){
+    var dx=sp.dx||0, dy=(sp.dy==null?-64:sp.dy), len=Math.hypot(dx,dy)||1, k=Math.max(len,minLen)/len;
+    dx*=k; dy*=k; len*=k;
+    var line=sp.el.querySelector('.hotspot__line'), num=sp.el.querySelector('.hotspot__num');
+    line.style.width=Math.max(0,len-15)+'px'; line.style.transform='rotate('+(Math.atan2(dy,dx)*180/Math.PI)+'deg)';
+    num.style.left=dx+'px'; num.style.top=dy+'px';
+  }
 
   function apply(){
     canvas.style.transform='translate('+tx+'px,'+ty+'px) scale('+s+')';
     // keep hotspot size constant on screen
     var inv=1/s;
-    D.spots.forEach(function(sp){sp.el.style.transform='translate(-50%,-50%) scale('+inv+')';});
-    if(!hiLoaded&&D.image.srcHi&&s>D.image.hiAt){hiLoaded=true;var hi=new Image();hi.onload=function(){img.src=D.image.srcHi;};hi.src=D.image.srcHi;}
+    D.spots.forEach(function(sp){sp.el.style.transform='scale('+inv+')';});
+    canvas.style.setProperty('--inv',inv);
+    if(cur>=0){var c=D.spots[cur];callout(c,(c.r||150)*s+26);}
+    if(!hiLoaded&&D.image.srcHi&&s>D.image.hiAt){hiLoaded=true;var hi=new Image();hi.onload=function(){img.src=D.image.srcHi;lensImg.src=D.image.srcHi;};hi.src=D.image.srcHi;}
     if(vp){var mw=mini.clientWidth/W;var r=stage.getBoundingClientRect();
       vp.style.left=Math.max(0,(-tx/s)*mw)+'px'; vp.style.top=Math.max(0,(-ty/s)*mw)+'px';
       vp.style.width=Math.min(mini.clientWidth,(r.width/s)*mw)+'px'; vp.style.height=Math.min(mini.clientHeight,(r.height/s)*mw)+'px';}
@@ -54,17 +67,41 @@
   function flyTo(x,y,ns){
     var r=stage.getBoundingClientRect();
     s=Math.max(minS,Math.min(maxS,ns));
-    var panelW=(panel&&!panel.hidden&&r.width>720)?Math.min(380,r.width*0.4):0;
-    tx=(r.width-panelW)/2-x*W*s; ty=r.height/2-y*H*s;
+    var open_=panel&&!panel.hidden, panelW=(open_&&r.width>720)?Math.min(380,r.width*0.4):0;
+    var cy=r.height/2;
+    if(open_&&r.width<=720){ // phone: the card sits at the bottom, so frame the area in the space above it
+      var room=r.height-panel.offsetHeight-16; cy=Math.max(80,room/2);
+      if(cur>=0){var rr=D.spots[cur].r||150; s=Math.max(minS,Math.min(s,(room/2-34)/rr));}
+    }
+    tx=(r.width-panelW)/2-x*W*s; ty=cy-y*H*s;
     canvas.style.transition='transform .9s cubic-bezier(.3,0,.2,1)'; apply();
+  }
+
+  // Spotlight for the selected marker: the rest of the cloth dims, the area itself shows as a negative
+  var dim=document.createElement('div'); dim.className='explorer__dim';
+  var lens=document.createElement('div'); lens.className='explorer__lens';
+  var lensImg=document.createElement('img'); lensImg.alt=''; lensImg.src=img.getAttribute('src'); lensImg.draggable=false;
+  lensImg.style.width=W+'px'; lensImg.style.height=H+'px'; lens.appendChild(lensImg);
+  var ring=document.createElement('div'); ring.className='explorer__ring';
+  var after=img;[dim,lens,ring].forEach(function(e){e.setAttribute('aria-hidden','true');e.style.width=W+'px';e.style.height=H+'px';canvas.insertBefore(e,after.nextSibling);after=e;});
+  ring.style.width=ring.style.height='0px';
+  function spotlight(sp){
+    if(!sp){canvas.classList.remove('spot-on');return;}
+    var x=sp.x*W, y=sp.y*H, r=sp.r||150;
+    var g='radial-gradient(circle at '+x+'px '+y+'px, transparent '+r+'px, #000 '+(r+60)+'px)';
+    dim.style.webkitMaskImage=dim.style.maskImage=g;
+    lens.style.clipPath='circle('+r+'px at '+x+'px '+y+'px)';
+    ring.style.left=(x-r)+'px'; ring.style.top=(y-r)+'px'; ring.style.width=ring.style.height=(2*r)+'px';
+    canvas.classList.add('spot-on');
   }
 
   // Panel
   var cur=-1;
   function open(i,fly){
+    if(cur>=0&&cur!==i)callout(D.spots[cur],0);
     cur=i; var sp=D.spots[i];
     D.spots.forEach(function(o){o.el.setAttribute('aria-expanded','false');});
-    sp.el.setAttribute('aria-expanded','true');
+    sp.el.setAttribute('aria-expanded','true'); spotlight(sp); if(help)help.style.opacity=0;
     var h='<button class="close" type="button" aria-label="'+D.ui.close+'">&times;</button>';
     h+='<p class="meta">'+(sp.n||i+1)+' / '+D.spots.length+(sp.region?' &middot; '+sp.region:'')+'</p>';
     h+='<h3>'+sp.title+'</h3><p>'+sp.text+'</p>';
@@ -79,7 +116,7 @@
     if(fly!==false||true)flyTo(sp.x,sp.y,Math.max(s,sp.zoom||0.9));
     if(history.replaceState)history.replaceState(null,'','#'+sp.id);
   }
-  function close(){panel.hidden=true;D.spots.forEach(function(o){o.el.setAttribute('aria-expanded','false');});cur=-1;}
+  function close(){spotlight(null);if(cur>=0)callout(D.spots[cur],0);panel.hidden=true;D.spots.forEach(function(o){o.el.setAttribute('aria-expanded','false');});cur=-1;}
 
   // Pointer pan and pinch
   var pts=new Map(), last=null, pinch=null, moved=false;
@@ -105,6 +142,7 @@
   // Touch: cooperative gestures, so the page can always be scrolled past the viewer
   var HINTS={en:'Use two fingers to move or zoom the cloth',es:'Usa dos dedos para mover o ampliar la tela',pt:'Use dois dedos para mover ou ampliar o pano',fr:'Utilisez deux doigts pour déplacer ou agrandir le linge',it:'Usa due dita per spostare o ingrandire il telo',de:'Mit zwei Fingern verschieben oder vergrößern',pl:'Użyj dwóch palców, aby przesunąć lub powiększyć płótno',fil:'Gumamit ng dalawang daliri para igalaw o i-zoom ang tela',zh:'用两根手指移动或缩放这块布',ko:'두 손가락으로 천을 움직이거나 확대하십시오',ar:'استخدم إصبعين لتحريك القماش أو تكبيره',hi:'कपड़े को खिसकाने या बड़ा करने के लिए दो उंगलियों का इस्तेमाल करें'};
   var hl=(document.documentElement.lang||'en').split('-')[0], hint=document.createElement('div'), hintT=0, tp=null;
+  if(help&&window.matchMedia&&matchMedia('(pointer:coarse)').matches)help.textContent=HINTS[hl]||HINTS.en;
   hint.className='explorer__twofinger'; hint.textContent=HINTS[hl]||HINTS.en; hint.setAttribute('aria-hidden','true'); stage.appendChild(hint);
   function mid(t){return {x:(t[0].clientX+t[1].clientX)/2,y:(t[0].clientY+t[1].clientY)/2,d:Math.hypot(t[0].clientX-t[1].clientX,t[0].clientY-t[1].clientY)};}
   stage.addEventListener('touchstart',function(e){

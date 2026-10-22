@@ -29,11 +29,11 @@ function siteGraph(ctx, page, p, extraNodes = []) {
   return {
     '@context': 'https://schema.org',
     '@graph': [
-      { '@type': 'Organization', '@id': base + '#org', name: 'Unless I See', alternateName: ['Si no veo', 'UnlessISee'], url: base,
+      { '@type': 'Organization', '@id': base + '#org', name: 'Unless I See', alternateName: ['Hasta que no vea', 'UnlessISee'], url: base,
         logo: base + 'android-chrome-512x512.png', description: ctx.L.copy.orgDescription,
         founder: { '@type': 'Person', name: 'Nelson Inno', url: 'https://nelsoninno.com' }, knowsLanguage: CONFIG.langs.map(l => l.code),
         knowsAbout: ['Shroud of Turin', 'Sindonology', 'Radiocarbon dating of the Shroud of Turin', 'Christian apologetics'] },
-      { '@type': 'WebSite', '@id': base + '#website', url: base, name: ctx.L.copy.brand, alternateName: ['Unless I See', 'Si no veo'], inLanguage: CONFIG.langs.map(l => l.code), publisher: { '@id': base + '#org' } },
+      { '@type': 'WebSite', '@id': base + '#website', url: base, name: ctx.L.copy.brand, alternateName: ['Unless I See', 'Hasta que no vea'], inLanguage: CONFIG.langs.map(l => l.code), publisher: { '@id': base + '#org' } },
       { '@type': page.slug === 'index' ? 'WebPage' : (page.schemaType || 'WebPage'), '@id': ctx.abs(page.slug) + '#page', url: ctx.abs(page.slug), name: p.title, description: p.description,
         inLanguage: ctx.lang, isPartOf: { '@id': base + '#website' },
         about: { '@type': 'Thing', name: 'Shroud of Turin', sameAs: ['https://en.wikipedia.org/wiki/Shroud_of_Turin', 'https://www.wikidata.org/wiki/Q150401'] } },

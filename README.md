@@ -1,6 +1,6 @@
 # unlessisee.org
 
-Unless I See (in Spanish, Si no veo) is a free, pro bono educational website about the Shroud of Turin: the evidence for and against, with sources, in English and Spanish (more languages coming).
+Unless I See (in Spanish, Hasta que no vea) is a free, pro bono educational website about the Shroud of Turin: the evidence for and against, with sources, in English and Spanish (more languages coming).
 
 Built by everybodyknowsyou.com for Nelson Inno.
 

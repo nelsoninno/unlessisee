@@ -42,7 +42,7 @@ async function loadLang(lang) {
   // Positions, zoom levels and layers always come from the English data, so translations never drift.
   const enD = n => readJSON(path.join(__dirname, 'data', 'en', n + '.json'), null);
   const syncPos = (loc, en, listKey, fields) => { if (!loc || !en || loc === en) return loc; const by = {}; (en[listKey] || []).forEach(i => by[i.id] = i); (loc[listKey] || []).forEach(i => { const e = by[i.id]; if (e) fields.forEach(f => { if (e[f] !== undefined) i[f] = e[f]; }); }); if (en.image) loc.image = en.image; return loc; };
-  const _spots = syncPos(d('spots'), enD('spots'), 'spots', ['x', 'y', 'zoom', 'layer', 'n']);
+  const _spots = syncPos(d('spots'), enD('spots'), 'spots', ['x', 'y', 'zoom', 'layer', 'n', 'dx', 'dy', 'r']);
   const _wounds = syncPos(d('wounds'), enD('wounds'), 'items', ['x', 'y', 'side']);
   return { copy, data: { evidence: d('evidence'), timeline: d('timeline'), wounds: _wounds, radiocarbon: d('radiocarbon'), spots: _spots, weigh: d('weigh'), videos: d('videos'), keyreads: d('keyreads') }, map: readJSON(path.join(__dirname, 'data', 'map.json'), null), library: readJSON(path.join(__dirname, 'data', 'library.json'), { items: [] }), images: readJSON(path.join(__dirname, 'data', lang, 'images.json'), readJSON(path.join(__dirname, 'data', 'images.json'), {})), thomas: readJSON(path.join(__dirname, 'data', lang, 'thomas.json'), null) || readJSON(path.join(__dirname, 'data', 'thomas.json'), {})[lang] || readJSON(path.join(__dirname, 'data', 'thomas.json'), {}).en };
 }
@@ -121,7 +121,7 @@ ${ld}
 </head>`;
 }
 
-const mark = `<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="7" y="1.5" width="10" height="21" rx="1" fill="none" stroke="currentColor" stroke-width="1.3"/><ellipse cx="12" cy="7" rx="2" ry="2.6" fill="currentColor" opacity=".55"/><path d="M9.6 10.5h4.8l-.6 9h-3.6z" fill="currentColor" opacity=".35"/></svg>`;
+const mark = `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M1.6 12C5.4 5.2 18.6 5.2 22.4 12C18.6 18.8 5.4 18.8 1.6 12Z" fill="none" stroke="currentColor" stroke-width="1.35" stroke-linejoin="round"/><circle cx="12" cy="12" r="5.1" fill="var(--sepia)"/><path d="M12 8.1V15.9M9.5 10.4H14.5" stroke="var(--linen)" stroke-width="1.55" stroke-linecap="round"/></svg>`;
 
 function langSwitch(ctx, page, inFooter = false) {
   const cur = CONFIG.langs.find(l => l.code === ctx.lang);
