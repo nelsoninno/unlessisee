@@ -242,5 +242,52 @@
   "L’étude de 2018 sur la morphologie des traces de sang (Borrini et Garlaschelli)",
   "La vérification de l’échantillon de la datation au carbone 14 par l’université de l’Arizona en 2010",
   "Le texte de Nicole Oresme, découvert en 2025, qui qualifie de faux un linceul en Champagne"
- ]
+ ],
+ "recommended": {
+  "id": "nrwNSSyKuD4",
+  "label": "À voir aussi",
+  "kicker": "Au-delà du Saint-Suaire",
+  "title": "The Truth About Christianity! The Case For Jesus",
+  "channel": "The Diary Of A CEO",
+  "year": 2026,
+  "length": "2:26:53",
+  "guest": "avec Wesley Huff",
+  "summary": "Cette vidéo ne parle pas du Saint-Suaire. Steven Bartlett s’entretient pendant deux heures et demie avec Wesley Huff, un apologète chrétien canadien et doctorant qui étudie les manuscrits bibliques anciens. Ils se demandent si la Bible est fiable sur le plan historique, qui a vu Jésus ressuscité, si les récits ont été inventés, et parlent de la souffrance, de la prière et de la foi à l’ère de l’intelligence artificielle.",
+  "why": "Pourquoi nous la recommandons : le Saint-Suaire vous laisse avec une question sur un homme. Cette conversation porte sur cet homme. Elle défend un camp, comme le ferait un chercheur chrétien, et nous le disons ouvertement. Regardez-la à côté des sceptiques les plus solides que vous pourrez trouver.",
+  "chaptersH": "Aller à un thème",
+  "chapters": [
+   {
+    "t": "15:09",
+    "c": "La Bible est-elle fiable sur le plan historique ?"
+   },
+   {
+    "t": "20:02",
+    "c": "Les plus grands malentendus sur la Bible"
+   },
+   {
+    "t": "31:16",
+    "c": "Qui a vraiment été témoin de la résurrection ?"
+   },
+   {
+    "t": "35:58",
+    "c": "Les récits sur Jésus ont-ils été inventés ?"
+   },
+   {
+    "t": "41:37",
+    "c": "Si Dieu existe, pourquoi la souffrance ?"
+   },
+   {
+    "t": "1:41:12",
+    "c": "La prière fonctionne-t-elle ?"
+   },
+   {
+    "t": "1:52:31",
+    "c": "La crise de sens chez les jeunes"
+   },
+   {
+    "t": "2:12:18",
+    "c": "Son histoire, de la paralysie à l’apologétique"
+   }
+  ]
+ }
 }

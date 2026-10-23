@@ -1,0 +1,297 @@
+{
+ "copy": {
+  "jumpLabel": "En esta página",
+  "jumpEvidence": "La evidencia",
+  "jumpClaims": "Afirmaciones que vas a escuchar, verificadas",
+  "jumpWeigh": "Pésalo tú mismo",
+  "h2": "Afirmaciones que vas a escuchar, verificadas",
+  "intro": "Vas a encontrar estas afirmaciones en videos, comentarios y libros. Algunas vienen de personas que creen que la Sábana Santa es auténtica y otras de personas que están seguras de que es una falsificación. Verificamos cada una. Cuando el expediente ya la trata, enlazamos a la prueba completa. Cuando no, las fuentes están aquí mismo.",
+  "filterLabel": "Filtrar según quién suele decirlo",
+  "all": "Todas",
+  "sideFor": "Lo dicen los creyentes",
+  "sideAgainst": "Lo dicen los escépticos",
+  "tagFor": "Se dice a menudo a favor de la autenticidad",
+  "tagAgainst": "Se dice a menudo en contra de la autenticidad",
+  "verdicts": {
+   "false": "Falso",
+   "noevidence": "Sin evidencia",
+   "unproven": "No demostrado",
+   "overstated": "Exagerado",
+   "partly": "En parte cierto"
+  },
+  "verdictKey": "Qué significan las etiquetas: Falso significa que los registros muestran lo contrario. Sin evidencia significa que nada lo respalda. No demostrado significa que es posible, pero no se ha mostrado. Exagerado significa que algo real se ha estirado demasiado. En parte cierto significa que el dato es correcto, pero la conclusión que se saca de él no lo es.",
+  "seeExhibit": "Prueba completa en el expediente:",
+  "shown": "mostradas",
+  "toTop": "Volver arriba",
+  "next": "Siguiente:"
+ },
+ "items": [
+  {
+   "id": "claim-debunked",
+   "side": "for",
+   "verdict": "overstated",
+   "claim": "La datación por carbono 14 ya fue desmentida.",
+   "check": "La prueba de 1988 tiene puntos débiles reales. Todas las muestras salieron de una sola esquina y, cuando se dieron a conocer los datos originales, nuevos análisis encontraron que las mediciones no coinciden entre sí tan bien como daba a entender el resultado publicado. Pero ningún laboratorio ha obtenido una fecha nueva, y ningún nuevo análisis ha llevado el resultado al siglo I. Criticar una prueba no es lo mismo que anularla. La fecha de 1988 sigue siendo la evidencia más fuerte contra la autenticidad.",
+   "exhibits": [
+    "against-radiocarbon-1988",
+    "radiocarbon-heterogeneity"
+   ]
+  },
+  {
+   "id": "claim-swap",
+   "side": "for",
+   "verdict": "noevidence",
+   "claim": "Las muestras fueron cambiadas, o el resultado fue amañado.",
+   "check": "Algunos autores acusaron a los laboratorios o a los organizadores de cambiar las muestras de la Sábana Santa por tela medieval. Nunca se ha presentado ninguna evidencia de ese cambio. El corte se filmó y tuvo testigos, y cada laboratorio también fechó telas de control de edad conocida y acertó esas fechas.",
+   "sources": [
+    {
+     "label": "Damon et al. 1989, Nature 337:611",
+     "url": "https://doi.org/10.1038/337611a0"
+    },
+    {
+     "label": "Wikipedia: Radiocarbon dating of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "claim-repair",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "Los laboratorios fecharon un remiendo medieval invisible.",
+   "check": "El químico Raymond Rogers informó que los hilos de la esquina datada son distintos de los del resto de la tela. Otros examinaron un trozo sobrante de la muestra de 1988 y no encontraron señales de un remiendo. Es posible, pero no se ha demostrado.",
+   "exhibits": [
+    "radiocarbon-sample-repair"
+   ]
+  },
+  {
+   "id": "claim-fire",
+   "side": "for",
+   "verdict": "noevidence",
+   "claim": "El incendio de 1532, las bacterias o una ráfaga de neutrones cambiaron la fecha.",
+   "check": "Se ha propuesto cada una de estas ideas y ninguna se ha demostrado. Para que una tela del siglo I diera una fecha medieval, una gran parte del carbono de la muestra, más o menos un tercio o más, tendría que ser contaminación posterior que resistió la limpieza del laboratorio. Nadie la ha encontrado.",
+   "exhibits": [
+    "radiocarbon-contamination"
+   ]
+  },
+  {
+   "id": "claim-newdate",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "Nuevos métodos científicos la fecharon en la época de Cristo.",
+   "check": "Dos métodos más nuevos, la dispersión de rayos X en un solo hilo y las pruebas de fibras de Fanti, dieron resultados compatibles con el siglo I. Ninguno de los dos se ha probado en muchas telas de edad conocida, y ambos dependen de supuestos. Es prometedor, pero no es una fecha.",
+   "exhibits": [
+    "waxs-dating-2022",
+    "fanti-spectroscopic-mechanical-dating"
+   ]
+  },
+  {
+   "id": "claim-coins",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "En la imagen se ven monedas sobre los ojos, escritura y flores.",
+   "check": "Estas formas solo aparecen en fotografías muy procesadas, y otros investigadores que miran las mismas imágenes no las ven. El ojo humano encuentra patrones en el ruido con facilidad. No las contamos como evidencia.",
+   "exhibits": [
+    "coins-and-inscriptions",
+    "flower-images"
+   ]
+  },
+  {
+   "id": "claim-pollen",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "El polen demuestra que la tela estuvo en Jerusalén.",
+   "check": "El polen vino de muestras tomadas con cinta adhesiva en la década de 1970. Más tarde, un experto en polen concluyó que los granos no se pueden identificar hasta la especie de planta, así que la conclusión sobre Jerusalén debe dejarse de lado hasta que se estudien muestras nuevas. Eso todavía no ha ocurrido.",
+   "exhibits": [
+    "pollen-frei"
+   ]
+  },
+  {
+   "id": "claim-ab",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "La sangre es de tipo AB, igual que en otras reliquias famosas.",
+   "check": "Determinar el tipo de una sangre muy antigua y degradada no es confiable, y AB es un resultado falso conocido en muestras envejecidas. La evidencia de que las manchas son sangre es buena. El tipo de sangre no está resuelto.",
+   "exhibits": [
+    "blood-type-ab",
+    "blood-is-real-blood"
+   ]
+  },
+  {
+   "id": "claim-sudarium",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "El Sudario de Oviedo la confirma.",
+   "check": "El Sudario es una tela para el rostro que se guarda en Oviedo, España. Hacer coincidir sus manchas con las de la Sábana Santa es cuestión de interpretación, y las pruebas de radiocarbono del propio Sudario dieron fechas de alrededor del siglo VII. No puede darle más peso a la Sábana Santa.",
+   "exhibits": [
+    "sudarium-oviedo"
+   ]
+  },
+  {
+   "id": "claim-church-yes",
+   "side": "for",
+   "verdict": "false",
+   "claim": "La Iglesia la ha declarado auténtica.",
+   "check": "La Iglesia católica nunca ha dictaminado que sea auténtica. En 1998 el papa Juan Pablo II dijo que la Iglesia no tiene una competencia específica para decidir la cuestión y que la deja a la ciencia. Los papas la llaman un ícono. Permitir su veneración no es un veredicto.",
+   "exhibits": [
+    "church-position"
+   ]
+  },
+  {
+   "id": "claim-nasa",
+   "side": "for",
+   "verdict": "overstated",
+   "claim": "La NASA demostró que la imagen es tridimensional.",
+   "check": "El efecto 3D es real y está en el expediente. Pero lo descubrieron en 1976 dos científicos de la Fuerza Aérea de Estados Unidos, John Jackson y Eric Jumper, con un analizador de imágenes VP-8. No fue un estudio de la NASA, aunque algunos miembros del equipo posterior de 1978 trabajaban en el Jet Propulsion Laboratory de la NASA. El efecto 3D muestra que la imagen se relaciona con la distancia a un cuerpo. No muestra cómo se formó la imagen.",
+   "exhibits": [
+    "three-d-information"
+   ],
+   "sources": [
+    {
+     "label": "STERA: el descubrimiento del VP-8",
+     "url": "https://shroud.com/78strp10.htm"
+    }
+   ]
+  },
+  {
+   "id": "claim-watts",
+   "side": "for",
+   "verdict": "overstated",
+   "claim": "Los científicos dicen que hicieron falta 34 billones de vatios de luz para formar la imagen.",
+   "check": "La cifra viene de experimentos italianos con láser (ENEA, 2011) que colorearon pequeños trozos de lino con pulsos de luz ultravioleta. Los investigadores calcularon la potencia que su método necesitaría para la imagen de un cuerpo entero y señalaron que hoy ninguna fuente de luz puede producirla. Es una estimación sobre su propio método. No es una medición tomada de la Sábana Santa, y no es evidencia de una resurrección.",
+   "exhibits": [
+    "uv-laser-coloration"
+   ],
+   "sources": [
+    {
+     "label": "Di Lazzaro et al. 2011, informe de ENEA RT/2011/14 (en italiano)",
+     "url": "http://opac.bologna.enea.it:8991/RT/2011/2011_14_ENEA.pdf"
+    }
+   ]
+  },
+  {
+   "id": "claim-leonardo",
+   "side": "against",
+   "verdict": "false",
+   "claim": "Leonardo da Vinci la hizo.",
+   "check": "La tela ya se exhibía en Lirey, Francia, en la década de 1350, y todavía se conserva una insignia de peregrino de esa época. Leonardo nació en 1452, más o menos un siglo después.",
+   "exhibits": [
+    "against-no-record-before-1350s"
+   ],
+   "sources": [
+    {
+     "label": "Insignia de peregrino de Lirey, Musée de Cluny",
+     "url": "https://sindonology.org/papers/clunySouvenir.shtml"
+    },
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "claim-confessed",
+   "side": "against",
+   "verdict": "partly",
+   "claim": "El falsificador confesó en la Edad Media.",
+   "check": "Una carta real del obispo Pierre d'Arcis, de 1389, dice que un obispo anterior encontró al artista que la pintó. Es una evidencia seria y está en el expediente. Pero el artista nunca se nombra y no se ha encontrado ningún registro de esa investigación anterior. Es el informe de una confesión, no una confesión que podamos leer.",
+   "exhibits": [
+    "against-darcis-memorandum"
+   ]
+  },
+  {
+   "id": "claim-painting",
+   "side": "against",
+   "verdict": "partly",
+   "claim": "Es solo una pintura. Le encontraron pintura.",
+   "check": "Walter McCrone encontró partículas diminutas de pintura y concluyó que estaba pintada. El equipo de 1978 encontró que la imagen en sí no tiene pigmento, aglutinante ni marcas de pincel, y que las partículas sueltas probablemente vinieron de copias pintadas que se presionaron contra ella a lo largo de los siglos. Hay partículas de pintura en la tela. La imagen no está hecha de ellas.",
+   "exhibits": [
+    "against-mccrone-paint"
+   ]
+  },
+  {
+   "id": "claim-copied",
+   "side": "against",
+   "verdict": "overstated",
+   "claim": "Los científicos ya hicieron una copia perfecta.",
+   "check": "Varias copias se parecen mucho en una fotografía. La más conocida es la de Luigi Garlaschelli, de 2009. De cerca, cada una es distinta. En su copia el color está en el pigmento, no solo en la delgada capa superior de las fibras. Hasta ahora cada copia coincide en algunos rasgos, y ninguna coincide en todos.",
+   "exhibits": [
+    "against-artistic-reproductions"
+   ]
+  },
+  {
+   "id": "claim-photo",
+   "side": "against",
+   "verdict": "noevidence",
+   "claim": "Es una fotografía medieval.",
+   "check": "Algunos autores propusieron que alguien en la Edad Media usó una cámara oscura y sustancias químicas sensibles a la luz, y un investigador moderno hizo una imagen parecida con una lente de cuarzo y sales de plata. Pero las pruebas de fluorescencia de rayos X de 1978 no encontraron plata ni otras sustancias químicas fotográficas en la zona de la imagen, y no hay registro de una tecnología así en esa época.",
+   "sources": [
+    {
+     "label": "Morris, Schwalbe, London 1980, X-Ray Spectrometry 9(2):40-47",
+     "url": "https://www.shroud.com/pdfs/XRay%20Fluorescence%20Morris%20Schwalbe%20London%201980%20OCRsm.pdf"
+    }
+   ]
+  },
+  {
+   "id": "claim-scorch",
+   "side": "against",
+   "verdict": "noevidence",
+   "claim": "Es una quemadura hecha con una estatua caliente.",
+   "check": "Las quemaduras en el lino brillan bajo la luz ultravioleta. Las quemaduras del incendio de 1532 en la Sábana Santa sí brillan. La imagen del cuerpo no. Eso hace poco probable que sea una simple quemadura.",
+   "exhibits": [
+    "uv-fluorescence-1978"
+   ]
+  },
+  {
+   "id": "claim-strips",
+   "side": "against",
+   "verdict": "partly",
+   "claim": "Los Evangelios dicen que envolvieron a Jesús en vendas, no en una sola sábana.",
+   "check": "Marcos, Mateo y Lucas usan sindon, una sábana de lino. Juan usa othonia, una palabra en plural para telas de lino, y menciona una tela aparte para el rostro. Las palabras pueden corresponder a una sábana grande más otras telas más pequeñas. Los Evangelios no prueban ni descartan la Sábana Santa.",
+   "exhibits": [
+    "against-gospel-linen-strips"
+   ]
+  },
+  {
+   "id": "claim-many",
+   "side": "against",
+   "verdict": "partly",
+   "claim": "Hubo muchas «sábanas de Jesús», así que esta es solo una más.",
+   "check": "Es cierto: en la Europa medieval había varias telas que se presentaban como la mortaja de Jesús. La de Cadouin, en Francia, resultó ser un tejido egipcio de alrededor del año 1100, con una inscripción en árabe que nombra a un califa. Pero ninguna de ellas tiene una imagen como esta. Que haya muchas falsificaciones nos dice que hay que tener cuidado. No nos dice que esta sea falsa.",
+   "sources": [
+    {
+     "label": "The Cloth of Cadouin, Shroud Spectrum International 18",
+     "url": "https://www.shroud.com/pdfs/ssi18part5.pdf"
+    }
+   ]
+  },
+  {
+   "id": "claim-church-no",
+   "side": "against",
+   "verdict": "false",
+   "claim": "La Iglesia admitió que es falsa.",
+   "check": "Ningún papa ni organismo de la Iglesia la ha declarado falsa, así como ninguno la ha declarado auténtica. En 1390 un papa en Aviñón permitió que se mostrara solo como una representación, y hoy los papas la llaman un ícono. Ninguna de las dos posturas cierra la pregunta sobre su origen.",
+   "exhibits": [
+    "church-position",
+    "against-darcis-memorandum"
+   ]
+  },
+  {
+   "id": "claim-nojesus",
+   "side": "against",
+   "verdict": "false",
+   "claim": "Jesús nunca existió, así que no puede ser suya.",
+   "check": "Casi todos los historiadores de la época, incluidos los escépticos, coinciden en que Jesús de Nazaret vivió y fue crucificado bajo Poncio Pilato. El historiador romano Tácito menciona su ejecución alrededor del año 116. Si esta tela es suya es otra pregunta, y esa pregunta es el tema de este sitio.",
+   "sources": [
+    {
+     "label": "Wikipedia: Historicity of Jesus",
+     "url": "https://en.wikipedia.org/wiki/Historicity_of_Jesus"
+    },
+    {
+     "label": "Wikipedia: Tacitus on Jesus",
+     "url": "https://en.wikipedia.org/wiki/Tacitus_on_Jesus"
+    }
+   ]
+  }
+ ]
+}

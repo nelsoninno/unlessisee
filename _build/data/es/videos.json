@@ -242,5 +242,52 @@
   "El estudio de 2018 sobre el patrón de las manchas de sangre (Borrini y Garlaschelli)",
   "La revisión de 2010 de la Universidad de Arizona sobre la muestra del carbono 14",
   "El texto de Nicole Oresme, hallado en 2025, que llama falsa a una sábana de Champaña"
- ]
+ ],
+ "recommended": {
+  "id": "nrwNSSyKuD4",
+  "label": "También vale la pena",
+  "kicker": "Más allá de la Sábana Santa",
+  "title": "The Truth About Christianity! The Case For Jesus",
+  "channel": "The Diary Of A CEO",
+  "year": 2026,
+  "length": "2:26:53",
+  "guest": "con Wesley Huff",
+  "summary": "Este video no trata de la Sábana Santa. Steven Bartlett conversa durante dos horas y media con Wesley Huff, un apologista cristiano canadiense y candidato a doctorado que estudia manuscritos bíblicos antiguos. Hablan de si la Biblia es confiable como historia, de quiénes vieron a Jesús resucitado, de si las historias fueron inventadas, del sufrimiento, de la oración y de la fe en la era de la inteligencia artificial.",
+  "why": "Por qué lo recomendamos: la Sábana Santa te deja con una pregunta sobre un hombre. Esta conversación trata de ese hombre. Defiende un solo lado, como lo haría un académico cristiano, y lo decimos abiertamente. Míralo junto a los escépticos más sólidos que encuentres.",
+  "chaptersH": "Ir a un tema",
+  "chapters": [
+   {
+    "t": "15:09",
+    "c": "¿Es la Biblia confiable como historia?"
+   },
+   {
+    "t": "20:02",
+    "c": "Los mayores malentendidos sobre la Biblia"
+   },
+   {
+    "t": "31:16",
+    "c": "¿Quién fue realmente testigo de la resurrección?"
+   },
+   {
+    "t": "35:58",
+    "c": "¿Se inventaron las historias sobre Jesús?"
+   },
+   {
+    "t": "41:37",
+    "c": "Si Dios existe, ¿por qué hay sufrimiento?"
+   },
+   {
+    "t": "1:41:12",
+    "c": "¿Funciona la oración?"
+   },
+   {
+    "t": "1:52:31",
+    "c": "La crisis de sentido entre los jóvenes"
+   },
+   {
+    "t": "2:12:18",
+    "c": "Su propia historia, de la parálisis a la apologética"
+   }
+  ]
+ }
 }

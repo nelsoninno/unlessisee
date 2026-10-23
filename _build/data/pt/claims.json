@@ -1,0 +1,297 @@
+{
+ "copy": {
+  "jumpLabel": "Nesta página",
+  "jumpEvidence": "As evidências",
+  "jumpClaims": "Afirmações que você vai ouvir, verificadas",
+  "jumpWeigh": "Pese você mesmo",
+  "h2": "Afirmações que você vai ouvir, verificadas",
+  "intro": "Você vai encontrar estas afirmações em vídeos, comentários e livros. Algumas vêm de pessoas que acreditam que o Sudário é autêntico, outras de pessoas que têm certeza de que ele é falso. Verificamos cada uma. Quando o dossiê já trata do assunto, colocamos o link para o item completo. Quando não trata, as fontes estão aqui mesmo.",
+  "filterLabel": "Filtrar por quem costuma dizer",
+  "all": "Todas",
+  "sideFor": "Dito por crentes",
+  "sideAgainst": "Dito por céticos",
+  "tagFor": "Muito dito a favor da autenticidade",
+  "tagAgainst": "Muito dito contra a autenticidade",
+  "verdicts": {
+   "false": "Falso",
+   "noevidence": "Sem evidência",
+   "unproven": "Não comprovado",
+   "overstated": "Exagerado",
+   "partly": "Parcialmente verdadeiro"
+  },
+  "verdictKey": "O que as classificações significam: Falso quer dizer que os registros mostram o contrário. Sem evidência quer dizer que nada sustenta a afirmação. Não comprovado quer dizer que é possível, mas não foi demonstrado. Exagerado quer dizer que algo real foi esticado além da conta. Parcialmente verdadeiro quer dizer que o fato está certo, mas a conclusão tirada dele não está.",
+  "seeExhibit": "Item completo no dossiê:",
+  "shown": "exibidas",
+  "toTop": "Voltar ao topo",
+  "next": "Próximo:"
+ },
+ "items": [
+  {
+   "id": "claim-debunked",
+   "side": "for",
+   "verdict": "overstated",
+   "claim": "A datação por carbono 14 já foi desmentida.",
+   "check": "O teste de 1988 tem pontos fracos reais. Todas as amostras vieram de um único canto e, quando os dados brutos foram divulgados, novas análises concluíram que as medições não concordam entre si tão bem quanto o resultado publicado dava a entender. Mas nenhum laboratório chegou a uma data nova, e nenhuma nova análise levou o resultado para o século I. Criticar um teste não é o mesmo que derrubá-lo. A data de 1988 continua sendo a evidência mais forte contra a autenticidade.",
+   "exhibits": [
+    "against-radiocarbon-1988",
+    "radiocarbon-heterogeneity"
+   ]
+  },
+  {
+   "id": "claim-swap",
+   "side": "for",
+   "verdict": "noevidence",
+   "claim": "As amostras foram trocadas, ou o resultado foi manipulado.",
+   "check": "Alguns autores acusaram os laboratórios ou os organizadores de trocar as amostras do Sudário por pano medieval. Nunca foi apresentada nenhuma evidência de troca. O corte foi filmado e teve testemunhas, e cada laboratório também datou panos de controle de idade conhecida e acertou essas datas.",
+   "sources": [
+    {
+     "label": "Damon et al. 1989, Nature 337:611",
+     "url": "https://doi.org/10.1038/337611a0"
+    },
+    {
+     "label": "Wikipedia: Radiocarbon dating of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "claim-repair",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "Os laboratórios dataram um remendo medieval invisível.",
+   "check": "O químico Raymond Rogers relatou que os fios do canto datado são diferentes dos do resto do pano. Outros examinaram um pedaço que sobrou da amostra de 1988 e não encontraram sinal de remendo. É possível, mas não foi demonstrado.",
+   "exhibits": [
+    "radiocarbon-sample-repair"
+   ]
+  },
+  {
+   "id": "claim-fire",
+   "side": "for",
+   "verdict": "noevidence",
+   "claim": "O incêndio de 1532, bactérias ou uma rajada de nêutrons mudaram a data.",
+   "check": "Cada uma dessas ideias já foi proposta e nenhuma foi demonstrada. Para que um pano do século I desse uma data medieval, uma grande parte do carbono da amostra, mais ou menos um terço ou mais, teria de ser contaminação posterior que resistiu à limpeza do laboratório. Ninguém a encontrou.",
+   "exhibits": [
+    "radiocarbon-contamination"
+   ]
+  },
+  {
+   "id": "claim-newdate",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "Novos métodos científicos dataram o Sudário da época de Cristo.",
+   "check": "Dois métodos mais novos, o espalhamento de raios X em um único fio e os testes de fibras de Fanti, deram resultados compatíveis com o século I. Nenhum dos dois foi testado em muitos panos de idade conhecida, e ambos dependem de suposições. É promissor, mas não é uma data.",
+   "exhibits": [
+    "waxs-dating-2022",
+    "fanti-spectroscopic-mechanical-dating"
+   ]
+  },
+  {
+   "id": "claim-coins",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "Dá para ver moedas sobre os olhos, escritas e flores na imagem.",
+   "check": "Essas formas só aparecem em fotografias muito processadas, e outros pesquisadores que olham as mesmas imagens não as veem. O olho humano encontra padrões no ruído com facilidade. Não as contamos como evidência.",
+   "exhibits": [
+    "coins-and-inscriptions",
+    "flower-images"
+   ]
+  },
+  {
+   "id": "claim-pollen",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "O pólen prova que o pano esteve em Jerusalém.",
+   "check": "O pólen veio de amostras colhidas com fita adesiva nos anos 1970. Depois, um especialista em pólen concluiu que os grãos não podem ser identificados até a espécie da planta, por isso a conclusão sobre Jerusalém deve ser deixada de lado até que novas amostras sejam estudadas. Isso ainda não aconteceu.",
+   "exhibits": [
+    "pollen-frei"
+   ]
+  },
+  {
+   "id": "claim-ab",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "O sangue é do tipo AB, o mesmo de outras relíquias famosas.",
+   "check": "Determinar o tipo de um sangue muito antigo e degradado não é confiável, e AB é um resultado falso conhecido em amostras envelhecidas. A evidência de que as manchas são de sangue é boa. O tipo sanguíneo não está definido.",
+   "exhibits": [
+    "blood-type-ab",
+    "blood-is-real-blood"
+   ]
+  },
+  {
+   "id": "claim-sudarium",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "O Sudário de Oviedo confirma o Sudário de Turim.",
+   "check": "O Sudário de Oviedo é um pano para o rosto guardado em Oviedo, na Espanha. Fazer suas manchas coincidirem com as do Sudário de Turim é uma questão de interpretação, e os testes de radiocarbono no próprio pano de Oviedo deram datas por volta do século VII. Ele não pode dar mais peso ao Sudário de Turim.",
+   "exhibits": [
+    "sudarium-oviedo"
+   ]
+  },
+  {
+   "id": "claim-church-yes",
+   "side": "for",
+   "verdict": "false",
+   "claim": "A Igreja declarou que ele é autêntico.",
+   "check": "A Igreja Católica nunca decidiu que ele é autêntico. Em 1998 o papa João Paulo II disse que a Igreja não tem competência específica para decidir a questão e que a deixa para a ciência. Os papas o chamam de ícone. Permitir a veneração não é um veredito.",
+   "exhibits": [
+    "church-position"
+   ]
+  },
+  {
+   "id": "claim-nasa",
+   "side": "for",
+   "verdict": "overstated",
+   "claim": "A NASA provou que a imagem é tridimensional.",
+   "check": "O efeito 3D é real e está no dossiê. Mas ele foi descoberto em 1976 por dois cientistas da Força Aérea dos Estados Unidos, John Jackson e Eric Jumper, com um analisador de imagens VP-8. Não foi um estudo da NASA, embora alguns membros da equipe posterior, de 1978, trabalhassem no Jet Propulsion Laboratory da NASA. O efeito 3D mostra que a imagem tem relação com a distância até um corpo. Ele não mostra como a imagem foi feita.",
+   "exhibits": [
+    "three-d-information"
+   ],
+   "sources": [
+    {
+     "label": "STERA: a descoberta do VP-8",
+     "url": "https://shroud.com/78strp10.htm"
+    }
+   ]
+  },
+  {
+   "id": "claim-watts",
+   "side": "for",
+   "verdict": "overstated",
+   "claim": "Cientistas dizem que foram necessários 34 trilhões de watts de luz para formar a imagem.",
+   "check": "O número vem de experimentos italianos com laser (ENEA, 2011) que coloriram pequenos pedaços de linho com pulsos de luz ultravioleta. Os pesquisadores estimaram a potência de que o método deles precisaria para a imagem de um corpo inteiro e observaram que nenhuma fonte de luz atual consegue fornecê-la. É uma estimativa sobre o próprio método deles. Não é uma medição feita no Sudário, e não é evidência de uma ressurreição.",
+   "exhibits": [
+    "uv-laser-coloration"
+   ],
+   "sources": [
+    {
+     "label": "Di Lazzaro et al. 2011, relatório da ENEA RT/2011/14 (em italiano)",
+     "url": "http://opac.bologna.enea.it:8991/RT/2011/2011_14_ENEA.pdf"
+    }
+   ]
+  },
+  {
+   "id": "claim-leonardo",
+   "side": "against",
+   "verdict": "false",
+   "claim": "Leonardo da Vinci o fez.",
+   "check": "O pano já estava em exposição em Lirey, na França, nos anos 1350, e uma insígnia de peregrino daquela época ainda existe. Leonardo nasceu em 1452, cerca de um século depois.",
+   "exhibits": [
+    "against-no-record-before-1350s"
+   ],
+   "sources": [
+    {
+     "label": "Insígnia de peregrino de Lirey, Musée de Cluny",
+     "url": "https://sindonology.org/papers/clunySouvenir.shtml"
+    },
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "claim-confessed",
+   "side": "against",
+   "verdict": "partly",
+   "claim": "O falsificador confessou na Idade Média.",
+   "check": "Uma carta real do bispo Pierre d'Arcis, de 1389, diz que um bispo anterior encontrou o artista que o pintou. É uma evidência séria e está no dossiê. Mas o artista nunca é nomeado e nenhum registro dessa investigação anterior foi encontrado. É o relato de uma confissão, não uma confissão que possamos ler.",
+   "exhibits": [
+    "against-darcis-memorandum"
+   ]
+  },
+  {
+   "id": "claim-painting",
+   "side": "against",
+   "verdict": "partly",
+   "claim": "É só uma pintura. Encontraram tinta nele.",
+   "check": "Walter McCrone encontrou partículas minúsculas de tinta e concluiu que ele foi pintado. A equipe de 1978 concluiu que a imagem em si não tem pigmento, aglutinante nem marcas de pincel, e que as partículas espalhadas provavelmente vieram de cópias pintadas encostadas nele ao longo dos séculos. Há partículas de tinta no pano. A imagem não é feita delas.",
+   "exhibits": [
+    "against-mccrone-paint"
+   ]
+  },
+  {
+   "id": "claim-copied",
+   "side": "against",
+   "verdict": "overstated",
+   "claim": "Cientistas já fizeram uma cópia perfeita.",
+   "check": "Várias cópias ficam parecidas numa fotografia. A mais conhecida é a de Luigi Garlaschelli, de 2009. De perto, cada uma é diferente. Na cópia dele a cor está no pigmento, e não só na fina camada superficial das fibras. Até agora, cada cópia reproduz algumas características, e nenhuma reproduz todas.",
+   "exhibits": [
+    "against-artistic-reproductions"
+   ]
+  },
+  {
+   "id": "claim-photo",
+   "side": "against",
+   "verdict": "noevidence",
+   "claim": "É uma fotografia medieval.",
+   "check": "Alguns autores propuseram que alguém na Idade Média usou uma câmara escura e produtos químicos sensíveis à luz, e um pesquisador moderno fez uma imagem parecida com uma lente de quartzo e sais de prata. Mas os testes de fluorescência de raios X de 1978 não encontraram prata nem outros produtos químicos fotográficos na área da imagem, e não há registro dessa tecnologia naquela época.",
+   "sources": [
+    {
+     "label": "Morris, Schwalbe, London 1980, X-Ray Spectrometry 9(2):40-47",
+     "url": "https://www.shroud.com/pdfs/XRay%20Fluorescence%20Morris%20Schwalbe%20London%201980%20OCRsm.pdf"
+    }
+   ]
+  },
+  {
+   "id": "claim-scorch",
+   "side": "against",
+   "verdict": "noevidence",
+   "claim": "É uma queimadura feita com uma estátua aquecida.",
+   "check": "Queimaduras no linho brilham sob luz ultravioleta. As queimaduras do incêndio de 1532 no Sudário brilham. A imagem do corpo não. Isso torna improvável que seja uma simples queimadura.",
+   "exhibits": [
+    "uv-fluorescence-1978"
+   ]
+  },
+  {
+   "id": "claim-strips",
+   "side": "against",
+   "verdict": "partly",
+   "claim": "Os Evangelhos dizem que Jesus foi envolvido em faixas, não em um único lençol.",
+   "check": "Marcos, Mateus e Lucas usam sindon, um lençol de linho. João usa othonia, uma palavra no plural para panos de linho, e menciona um pano separado para o rosto. As palavras podem descrever um lençol grande mais panos menores. Os Evangelhos não provam nem descartam o Sudário.",
+   "exhibits": [
+    "against-gospel-linen-strips"
+   ]
+  },
+  {
+   "id": "claim-many",
+   "side": "against",
+   "verdict": "partly",
+   "claim": "Existiram muitos “sudários de Jesus”, então este é só mais um.",
+   "check": "É verdade: a Europa medieval tinha vários panos apresentados como a mortalha de Jesus. O de Cadouin, na França, acabou se revelando um tecido egípcio de cerca do ano 1100, com uma inscrição em árabe que cita um califa. Mas nenhum deles traz uma imagem como esta. Muitas falsificações nos dizem para ter cuidado. Elas não nos dizem que este é falso.",
+   "sources": [
+    {
+     "label": "The Cloth of Cadouin, Shroud Spectrum International 18",
+     "url": "https://www.shroud.com/pdfs/ssi18part5.pdf"
+    }
+   ]
+  },
+  {
+   "id": "claim-church-no",
+   "side": "against",
+   "verdict": "false",
+   "claim": "A Igreja admitiu que ele é falso.",
+   "check": "Nenhum papa ou órgão da Igreja o declarou falso, assim como nenhum o declarou autêntico. Em 1390 um papa em Avignon permitiu que ele fosse exibido apenas como uma representação, e hoje os papas o chamam de ícone. As duas posições deixam aberta a questão da sua origem.",
+   "exhibits": [
+    "church-position",
+    "against-darcis-memorandum"
+   ]
+  },
+  {
+   "id": "claim-nojesus",
+   "side": "against",
+   "verdict": "false",
+   "claim": "Jesus nunca existiu, então o pano não pode ser dele.",
+   "check": "Quase todos os historiadores do período, inclusive os céticos, concordam que Jesus de Nazaré viveu e foi crucificado sob Pôncio Pilatos. O historiador romano Tácito menciona sua execução por volta do ano 116. Se este pano é dele é outra questão, e é dessa questão que este site trata.",
+   "sources": [
+    {
+     "label": "Wikipedia: Historicity of Jesus",
+     "url": "https://en.wikipedia.org/wiki/Historicity_of_Jesus"
+    },
+    {
+     "label": "Wikipedia: Tacitus on Jesus",
+     "url": "https://en.wikipedia.org/wiki/Tacitus_on_Jesus"
+    }
+   ]
+  }
+ ]
+}
