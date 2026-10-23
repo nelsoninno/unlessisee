@@ -516,9 +516,14 @@ function videos(ctx, page) {
   const c = ctx.L.copy, p = c.pages.videos, V = ctx.L.data.videos || { videos: [] };
   const secs = t => t.split(':').reduce((a, b) => a * 60 + parseInt(b, 10), 0);
   const rate = { strong: p.rate.strong, disputed: p.rate.disputed, weak: p.rate.weak };
+  // Order chosen by Nelson: Barrie Schwortz (TEDx), then Truthly, then Jeremiah Johnston
+  const ORDER = ['4G4sj8hUVaY', 'DA9unW5A0pk', 'rKMQY49py4w'];
+  const vids = V.videos.slice().sort((a, b) => (ORDER.indexOf(a.id) + 1 || 99) - (ORDER.indexOf(b.id) + 1 || 99));
+  const pick = `<nav class="vid-pick" aria-label="${attr(p.h1)}">${vids.map((v, i) => `<a class="vid-pick__item" href="#v-${attr(v.id)}" data-vid="${attr(v.id)}"><span class="vid-pick__thumb" style="background-image:url(https://i.ytimg.com/vi/${attr(v.id)}/mqdefault.jpg)"><b>${i + 1}</b></span><span class="vid-pick__text"><span class="meta">${esc(v.channel)}</span><span class="vid-pick__title">${esc(v.title)}</span></span></a>`).join('')}</nav>`;
   const body = `${pageHead(ctx, p)}
 <section class="linen band band--tight" style="padding-top:0"><div class="wrap">
-${V.videos.map(v => `<article class="vid" id="v-${attr(v.id)}">
+${pick}
+${vids.map(v => `<article class="vid" id="v-${attr(v.id)}">
   <div class="vid__head">
     <button class="vid__facade" type="button" data-yt="${attr(v.id)}" aria-label="${attr(p.play + ': ' + v.title)}" style="background-image:url(https://i.ytimg.com/vi/${attr(v.id)}/hqdefault.jpg)"><span>${esc(p.play)}</span></button>
     <div><p class="meta">${esc(v.channel)} &middot; ${v.year} &middot; ${esc(v.length)}</p><h2 class="vid__title">${esc(v.title)}</h2><p>${esc(v.summary)}</p>

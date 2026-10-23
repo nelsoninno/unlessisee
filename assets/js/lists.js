@@ -141,3 +141,13 @@
   draw(0);
 })();
 document.querySelectorAll('[data-overlay]').forEach(function(r){var o=r.closest('figure').querySelector('.overlay');r.addEventListener('input',function(){o.style.setProperty('--o',r.value);});});
+
+/* Videos page: highlight the video being read in the preview strip */
+(function(){
+  var pick=document.querySelector('.vid-pick'); if(!pick||!('IntersectionObserver' in window))return;
+  var items=[].slice.call(pick.querySelectorAll('[data-vid]'));
+  function on(id){items.forEach(function(a){a.classList.toggle('is-on',a.dataset.vid===id);});}
+  var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting)on(e.target.id.slice(2));});},{rootMargin:'-45% 0px -50% 0px'});
+  document.querySelectorAll('.vid[id^="v-"]').forEach(function(v){io.observe(v);});
+  items.forEach(function(a){a.addEventListener('click',function(){on(a.dataset.vid);});});
+})();
