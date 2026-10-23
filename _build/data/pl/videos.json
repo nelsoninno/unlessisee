@@ -242,5 +242,52 @@
   "Badanie śladów krwi z 2018 roku (Borrini i Garlaschelli)",
   "Sprawdzenie próbki do datowania radiowęglowego przez Uniwersytet Arizony w 2010 roku",
   "Tekst Mikołaja z Oresme, odnaleziony w 2025 roku, nazywający całun z Szampanii fałszerstwem"
- ]
+ ],
+ "recommended": {
+  "id": "nrwNSSyKuD4",
+  "label": "Warto obejrzeć także to",
+  "kicker": "Poza Całunem",
+  "title": "The Truth About Christianity! The Case For Jesus",
+  "channel": "The Diary Of A CEO",
+  "year": 2026,
+  "length": "2:26:53",
+  "guest": "z Wesleyem Huffem",
+  "summary": "Ten film nie dotyczy Całunu. Steven Bartlett przez dwie i pół godziny rozmawia z Wesleyem Huffem, kanadyjskim apologetą chrześcijańskim i doktorantem, który bada starożytne rękopisy biblijne. Rozmawiają o tym, czy Biblia jest wiarygodna historycznie, kto widział zmartwychwstałego Jezusa i czy opowieści zostały wymyślone, a także o cierpieniu, modlitwie i wierze w epoce sztucznej inteligencji.",
+  "why": "Dlaczego go polecamy: Całun zostawia Cię z pytaniem o pewnego człowieka. Ta rozmowa dotyczy właśnie tego człowieka. Przedstawia jedną stronę, tak jak zrobiłby to chrześcijański uczony, i mówimy o tym otwarcie. Obejrzyj ją obok najmocniejszych sceptyków, jakich zdołasz znaleźć.",
+  "chaptersH": "Przejdź do tematu",
+  "chapters": [
+   {
+    "t": "15:09",
+    "c": "Czy Biblia jest wiarygodna historycznie?"
+   },
+   {
+    "t": "20:02",
+    "c": "Największe nieporozumienia wokół Biblii"
+   },
+   {
+    "t": "31:16",
+    "c": "Kto naprawdę był świadkiem zmartwychwstania?"
+   },
+   {
+    "t": "35:58",
+    "c": "Czy opowieści o Jezusie wymyślono?"
+   },
+   {
+    "t": "41:37",
+    "c": "Jeśli Bóg istnieje, skąd cierpienie?"
+   },
+   {
+    "t": "1:41:12",
+    "c": "Czy modlitwa działa?"
+   },
+   {
+    "t": "1:52:31",
+    "c": "Kryzys sensu wśród młodych ludzi"
+   },
+   {
+    "t": "2:12:18",
+    "c": "Jego własna historia, od paraliżu do apologetyki"
+   }
+  ]
+ }
 }

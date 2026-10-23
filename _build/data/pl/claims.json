@@ -1,0 +1,297 @@
+{
+ "copy": {
+  "jumpLabel": "Na tej stronie",
+  "jumpEvidence": "Dowody",
+  "jumpClaims": "Twierdzenia, które usłyszysz, sprawdzone",
+  "jumpWeigh": "Oceń samodzielnie",
+  "h2": "Twierdzenia, które usłyszysz, sprawdzone",
+  "intro": "Te twierdzenia spotkasz w filmach, komentarzach i książkach. Część pochodzi od osób, które wierzą, że Całun jest prawdziwy, część od osób pewnych, że to fałszerstwo. Sprawdziliśmy każde z nich. Jeśli akta sprawy już je omawiają, podajemy link do pełnego dowodu. Jeśli nie, źródła są tutaj.",
+  "filterLabel": "Filtruj według tego, kto zwykle to mówi",
+  "all": "Wszystkie",
+  "sideFor": "Słychać od wierzących",
+  "sideAgainst": "Słychać od sceptyków",
+  "tagFor": "Często przytaczane za autentycznością",
+  "tagAgainst": "Często przytaczane przeciw autentyczności",
+  "verdicts": {
+   "false": "Fałsz",
+   "noevidence": "Brak dowodów",
+   "unproven": "Nieudowodnione",
+   "overstated": "Przesadzone",
+   "partly": "Częściowo prawda"
+  },
+  "verdictKey": "Co oznaczają oceny: Fałsz oznacza, że źródła pokazują coś przeciwnego. Brak dowodów oznacza, że nic tego nie potwierdza. Nieudowodnione oznacza, że to możliwe, ale niewykazane. Przesadzone oznacza, że coś prawdziwego zostało rozdmuchane. Częściowo prawda oznacza, że fakt się zgadza, ale wyciągnięty z niego wniosek już nie.",
+  "seeExhibit": "Pełny dowód w aktach sprawy:",
+  "shown": "na liście",
+  "toTop": "Wróć na górę",
+  "next": "Dalej:"
+ },
+ "items": [
+  {
+   "id": "claim-debunked",
+   "side": "for",
+   "verdict": "overstated",
+   "claim": "Datowanie radiowęglowe zostało obalone.",
+   "check": "Test z 1988 roku ma prawdziwe słabe punkty. Wszystkie próbki pochodziły z jednego rogu, a gdy udostępniono surowe dane, ponowne analizy wykazały, że pomiary nie zgadzają się ze sobą tak dobrze, jak sugerował opublikowany wynik. Ale żadne laboratorium nie podało nowej daty i żadna ponowna analiza nie przesunęła wyniku na I wiek. Krytyka testu to nie to samo co jego obalenie. Data z 1988 roku pozostaje najmocniejszym dowodem przeciw autentyczności.",
+   "exhibits": [
+    "against-radiocarbon-1988",
+    "radiocarbon-heterogeneity"
+   ]
+  },
+  {
+   "id": "claim-swap",
+   "side": "for",
+   "verdict": "noevidence",
+   "claim": "Próbki podmieniono albo wynik sfałszowano.",
+   "check": "Niektórzy autorzy oskarżali laboratoria lub organizatorów o podmianę próbek z Całunu na średniowieczną tkaninę. Nigdy nie przedstawiono żadnego dowodu podmiany. Cięcie było filmowane i odbyło się przy świadkach, a każde laboratorium datowało też tkaniny kontrolne o znanym wieku i podało dla nich prawidłowe daty.",
+   "sources": [
+    {
+     "label": "Damon et al. 1989, Nature 337:611",
+     "url": "https://doi.org/10.1038/337611a0"
+    },
+    {
+     "label": "Wikipedia: Radiocarbon dating of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "claim-repair",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "Laboratoria datowały niewidoczną średniowieczną naprawę.",
+   "check": "Chemik Raymond Rogers stwierdził, że nici z datowanego rogu różnią się od reszty płótna. Inni zbadali pozostały kawałek próbki z 1988 roku i nie znaleźli śladów naprawy. Możliwe, ale niewykazane.",
+   "exhibits": [
+    "radiocarbon-sample-repair"
+   ]
+  },
+  {
+   "id": "claim-fire",
+   "side": "for",
+   "verdict": "noevidence",
+   "claim": "Pożar w 1532 roku, bakterie albo błysk neutronów zmieniły datę.",
+   "check": "Każdą z tych hipotez zaproponowano i żadnej nie wykazano. Aby płótno z I wieku wyszło w teście na średniowieczne, duża część węgla w próbce, mniej więcej jedna trzecia lub więcej, musiałaby być późniejszym zanieczyszczeniem, które przetrwało czyszczenie w laboratorium. Nikt go nie znalazł.",
+   "exhibits": [
+    "radiocarbon-contamination"
+   ]
+  },
+  {
+   "id": "claim-newdate",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "Nowe metody naukowe datowały go na czasy Chrystusa.",
+   "check": "Dwie nowsze metody, rozpraszanie promieni rentgenowskich na jednej nici i badania włókien wykonane przez Fantiego, dały wyniki zgodne z I wiekiem. Żadnej z tych metod nie sprawdzono na wielu tkaninach o znanym wieku i obie opierają się na założeniach. Obiecujące, ale to nie jest data.",
+   "exhibits": [
+    "waxs-dating-2022",
+    "fanti-spectroscopic-mechanical-dating"
+   ]
+  },
+  {
+   "id": "claim-coins",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "Na obrazie widać monety na oczach, napisy i kwiaty.",
+   "check": "Te kształty pojawiają się tylko na mocno przetworzonych zdjęciach, a inni badacze, oglądając te same obrazy, ich nie widzą. Ludzkie oko łatwo dostrzega wzory w szumie. Nie uznajemy ich za dowód.",
+   "exhibits": [
+    "coins-and-inscriptions",
+    "flower-images"
+   ]
+  },
+  {
+   "id": "claim-pollen",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "Pyłki dowodzą, że płótno było w Jerozolimie.",
+   "check": "Pyłki pochodziły z próbek pobranych taśmą klejącą w latach 70. XX wieku. Późniejszy ekspert od pyłków uznał, że ziaren nie da się rozpoznać aż do gatunku rośliny, więc wniosek o Jerozolimie należy odłożyć na bok, dopóki nie zbada się nowych próbek. Jeszcze tego nie zrobiono.",
+   "exhibits": [
+    "pollen-frei"
+   ]
+  },
+  {
+   "id": "claim-ab",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "Krew ma grupę AB, taką samą jak inne słynne relikwie.",
+   "check": "Oznaczanie grupy bardzo starej, rozłożonej krwi jest zawodne, a AB to znany fałszywy wynik w przypadku starych próbek. Dowody na to, że plamy są krwią, są dobre. Grupa krwi nie jest ustalona.",
+   "exhibits": [
+    "blood-type-ab",
+    "blood-is-real-blood"
+   ]
+  },
+  {
+   "id": "claim-sudarium",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "Sudarion z Oviedo to potwierdza.",
+   "check": "Sudarion to chusta na twarz przechowywana w Oviedo w Hiszpanii. Dopasowanie jej plam do Całunu to kwestia interpretacji, a badania radiowęglowe samego Sudarionu dały daty z okolic VII wieku. Nie może dodać wagi Całunowi.",
+   "exhibits": [
+    "sudarium-oviedo"
+   ]
+  },
+  {
+   "id": "claim-church-yes",
+   "side": "for",
+   "verdict": "false",
+   "claim": "Kościół uznał go za autentyczny.",
+   "check": "Kościół katolicki nigdy nie orzekł, że jest autentyczny. W 1998 roku papież Jan Paweł II powiedział, że Kościół nie ma szczególnych kompetencji, by rozstrzygnąć tę kwestię, i pozostawia ją nauce. Papieże nazywają go ikoną. Zgoda na oddawanie mu czci nie jest werdyktem.",
+   "exhibits": [
+    "church-position"
+   ]
+  },
+  {
+   "id": "claim-nasa",
+   "side": "for",
+   "verdict": "overstated",
+   "claim": "NASA udowodniła, że obraz jest trójwymiarowy.",
+   "check": "Efekt 3D jest prawdziwy i jest w aktach sprawy. Odkryli go jednak w 1976 roku dwaj naukowcy z Sił Powietrznych USA, John Jackson i Eric Jumper, za pomocą urządzenia VP-8 Image Analyzer. Nie było to badanie NASA, choć niektórzy członkowie późniejszego zespołu z 1978 roku pracowali w należącym do NASA Jet Propulsion Laboratory. Efekt 3D pokazuje, że obraz ma związek z odległością od ciała. Nie pokazuje, jak obraz powstał.",
+   "exhibits": [
+    "three-d-information"
+   ],
+   "sources": [
+    {
+     "label": "STERA: odkrycie za pomocą VP-8",
+     "url": "https://shroud.com/78strp10.htm"
+    }
+   ]
+  },
+  {
+   "id": "claim-watts",
+   "side": "for",
+   "verdict": "overstated",
+   "claim": "Naukowcy twierdzą, że do powstania obrazu potrzeba było 34 bilionów watów światła.",
+   "check": "Ta liczba pochodzi z włoskich doświadczeń z laserem (ENEA, 2011), w których małe kawałki lnu barwiono impulsami ultrafioletu. Badacze oszacowali moc, jakiej ich metoda wymagałaby do obrazu całego ciała, i zauważyli, że żadne dzisiejsze źródło światła nie jest w stanie jej dostarczyć. To szacunek dotyczący ich własnej metody. Nie jest to pomiar wykonany na Całunie i nie jest to dowód na zmartwychwstanie.",
+   "exhibits": [
+    "uv-laser-coloration"
+   ],
+   "sources": [
+    {
+     "label": "Di Lazzaro et al. 2011, raport ENEA RT/2011/14 (po włosku)",
+     "url": "http://opac.bologna.enea.it:8991/RT/2011/2011_14_ENEA.pdf"
+    }
+   ]
+  },
+  {
+   "id": "claim-leonardo",
+   "side": "against",
+   "verdict": "false",
+   "claim": "Wykonał go Leonardo da Vinci.",
+   "check": "Płótno pokazywano już w Lirey we Francji w latach 50. XIV wieku, a odznaka pielgrzymia z tego czasu zachowała się do dziś. Leonardo urodził się w 1452 roku, mniej więcej sto lat później.",
+   "exhibits": [
+    "against-no-record-before-1350s"
+   ],
+   "sources": [
+    {
+     "label": "Odznaka pielgrzymia z Lirey, Musée de Cluny",
+     "url": "https://sindonology.org/papers/clunySouvenir.shtml"
+    },
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "claim-confessed",
+   "side": "against",
+   "verdict": "partly",
+   "claim": "Fałszerz przyznał się w średniowieczu.",
+   "check": "Prawdziwy list biskupa Pierre'a d'Arcisa z 1389 roku mówi, że wcześniejszy biskup odnalazł artystę, który go namalował. To poważny dowód i jest w aktach sprawy. Ale artysta nigdzie nie jest wymieniony z imienia i nie znaleziono żadnego zapisu tamtego wcześniejszego dochodzenia. To relacja o przyznaniu się, a nie przyznanie się, które możemy przeczytać.",
+   "exhibits": [
+    "against-darcis-memorandum"
+   ]
+  },
+  {
+   "id": "claim-painting",
+   "side": "against",
+   "verdict": "partly",
+   "claim": "To tylko malowidło. Znaleziono na nim farbę.",
+   "check": "Walter McCrone znalazł drobne cząstki farby i uznał, że obraz namalowano. Zespół z 1978 roku ustalił, że sam obraz nie zawiera pigmentu, spoiwa ani śladów pędzla, a rozproszone cząstki prawdopodobnie pochodzą z malowanych kopii przykładanych do płótna przez wieki. Cząstki farby są na płótnie. Obraz nie jest z nich zrobiony.",
+   "exhibits": [
+    "against-mccrone-paint"
+   ]
+  },
+  {
+   "id": "claim-copied",
+   "side": "against",
+   "verdict": "overstated",
+   "claim": "Naukowcy wykonali doskonałą kopię.",
+   "check": "Kilka kopii na zdjęciu wygląda bardzo podobnie, a najbardziej znana jest kopia Luigiego Garlaschellego z 2009 roku. Z bliska każda się różni. W jego kopii kolor tkwi w pigmencie, a nie tylko w cienkiej wierzchniej warstwie włókien. Każda dotychczasowa kopia odtwarza niektóre cechy, ale żadna nie odtwarza wszystkich.",
+   "exhibits": [
+    "against-artistic-reproductions"
+   ]
+  },
+  {
+   "id": "claim-photo",
+   "side": "against",
+   "verdict": "noevidence",
+   "claim": "To średniowieczna fotografia.",
+   "check": "Niektórzy autorzy sugerowali, że ktoś w średniowieczu użył ciemni optycznej (camera obscura) i substancji światłoczułych, a współczesny badacz uzyskał podobny obraz za pomocą soczewki kwarcowej i soli srebra. Jednak badania fluorescencji rentgenowskiej z 1978 roku nie wykazały w obszarze obrazu srebra ani innych substancji fotograficznych, a nie ma żadnego zapisu o takiej technice w tamtych czasach.",
+   "sources": [
+    {
+     "label": "Morris, Schwalbe, London 1980, X-Ray Spectrometry 9(2):40-47",
+     "url": "https://www.shroud.com/pdfs/XRay%20Fluorescence%20Morris%20Schwalbe%20London%201980%20OCRsm.pdf"
+    }
+   ]
+  },
+  {
+   "id": "claim-scorch",
+   "side": "against",
+   "verdict": "noevidence",
+   "claim": "To przypalenie od rozgrzanej figury.",
+   "check": "Przypalenia na lnie świecą w świetle ultrafioletowym. Przypalenia z pożaru w 1532 roku na Całunie świecą. Obraz ciała nie. Dlatego zwykłe przypalenie jest mało prawdopodobne.",
+   "exhibits": [
+    "uv-fluorescence-1978"
+   ]
+  },
+  {
+   "id": "claim-strips",
+   "side": "against",
+   "verdict": "partly",
+   "claim": "Ewangelie mówią, że Jezusa owinięto w pasy płótna, a nie w jedno prześcieradło.",
+   "check": "Marek, Mateusz i Łukasz używają słowa sindon, czyli lniane prześcieradło. Jan używa słowa othonia, w liczbie mnogiej, które oznacza lniane płótna, i wspomina osobną chustę na twarz. Te słowa mogą pasować do jednego dużego płótna i mniejszych tkanin. Ewangelie ani nie potwierdzają Całunu, ani go nie wykluczają.",
+   "exhibits": [
+    "against-gospel-linen-strips"
+   ]
+  },
+  {
+   "id": "claim-many",
+   "side": "against",
+   "verdict": "partly",
+   "claim": "Było wiele «całunów Jezusa», więc to tylko kolejny.",
+   "check": "To prawda, w średniowiecznej Europie było kilka tkanin przedstawianych jako płótna grobowe Jezusa. Ta z Cadouin we Francji okazała się egipską tkaniną z około 1100 roku z arabskim napisem, który wymienia kalifa. Ale żadna z nich nie nosi takiego obrazu jak ten. Wiele fałszerstw mówi nam, by zachować ostrożność. Nie mówi nam, że to płótno jest fałszywe.",
+   "sources": [
+    {
+     "label": "The Cloth of Cadouin, Shroud Spectrum International 18",
+     "url": "https://www.shroud.com/pdfs/ssi18part5.pdf"
+    }
+   ]
+  },
+  {
+   "id": "claim-church-no",
+   "side": "against",
+   "verdict": "false",
+   "claim": "Kościół przyznał, że to fałszerstwo.",
+   "check": "Żaden papież ani żaden organ Kościoła nie uznał go za fałszerstwo, tak jak żaden nie uznał go za autentyczny. W 1390 roku papież w Awinionie pozwolił pokazywać go wyłącznie jako przedstawienie, a dziś papieże nazywają go ikoną. Jedno i drugie pozostawia pytanie o jego pochodzenie otwarte.",
+   "exhibits": [
+    "church-position",
+    "against-darcis-memorandum"
+   ]
+  },
+  {
+   "id": "claim-nojesus",
+   "side": "against",
+   "verdict": "false",
+   "claim": "Jezus nigdy nie istniał, więc to nie może być jego płótno.",
+   "check": "Niemal wszyscy historycy zajmujący się tym okresem, także sceptycy, zgadzają się, że Jezus z Nazaretu żył i został ukrzyżowany za Poncjusza Piłata. Rzymski historyk Tacyt około 116 roku wspomina o jego egzekucji. Czy to płótno należało do niego, to osobne pytanie, i właśnie tym pytaniem zajmuje się ta strona.",
+   "sources": [
+    {
+     "label": "Wikipedia: Historicity of Jesus",
+     "url": "https://en.wikipedia.org/wiki/Historicity_of_Jesus"
+    },
+    {
+     "label": "Wikipedia: Tacitus on Jesus",
+     "url": "https://en.wikipedia.org/wiki/Tacitus_on_Jesus"
+    }
+   ]
+  }
+ ]
+}

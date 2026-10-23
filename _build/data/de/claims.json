@@ -1,0 +1,297 @@
+{
+ "copy": {
+  "jumpLabel": "Auf dieser Seite",
+  "jumpEvidence": "Die Belege",
+  "jumpClaims": "Behauptungen, die Sie hören werden, geprüft",
+  "jumpWeigh": "Wägen Sie selbst ab",
+  "h2": "Behauptungen, die Sie hören werden, geprüft",
+  "intro": "Diese Behauptungen begegnen Ihnen in Videos, Kommentaren und Büchern. Manche stammen von Menschen, die das Grabtuch für echt halten, manche von Menschen, die sicher sind, dass es eine Fälschung ist. Wir haben jede einzelne geprüft. Wo die Fallakte sie schon behandelt, verlinken wir auf das vollständige Beweisstück. Wo nicht, stehen die Quellen gleich hier.",
+  "filterLabel": "Danach filtern, wer es meistens sagt",
+  "all": "Alle",
+  "sideFor": "Von Gläubigen zu hören",
+  "sideAgainst": "Von Skeptikern zu hören",
+  "tagFor": "Oft für die Echtheit angeführt",
+  "tagAgainst": "Oft gegen die Echtheit angeführt",
+  "verdicts": {
+   "false": "Falsch",
+   "noevidence": "Kein Beleg",
+   "unproven": "Unbewiesen",
+   "overstated": "Übertrieben",
+   "partly": "Teilweise wahr"
+  },
+  "verdictKey": "Was die Bewertungen bedeuten: Falsch heißt, die Quellen zeigen das Gegenteil. Kein Beleg heißt, nichts stützt es. Unbewiesen heißt, es ist möglich, aber nicht gezeigt. Übertrieben heißt, etwas Echtes wurde aufgebauscht. Teilweise wahr heißt, die Tatsache stimmt, aber der Schluss, der daraus gezogen wird, nicht.",
+  "seeExhibit": "Vollständiges Beweisstück in der Fallakte:",
+  "shown": "angezeigt",
+  "toTop": "Zurück nach oben",
+  "next": "Weiter:"
+ },
+ "items": [
+  {
+   "id": "claim-debunked",
+   "side": "for",
+   "verdict": "overstated",
+   "claim": "Die Radiokarbondatierung ist widerlegt.",
+   "check": "Der Test von 1988 hat echte Schwachstellen. Alle Proben stammten aus einer Ecke, und als die Rohdaten veröffentlicht wurden, zeigten Neuauswertungen, dass die Messungen weniger gut übereinstimmen, als das veröffentlichte Ergebnis nahelegte. Aber kein Labor hat ein neues Datum ermittelt, und keine Neuauswertung hat das Ergebnis ins erste Jahrhundert verschoben. Einen Test zu kritisieren heißt nicht, ihn umzustoßen. Das Datum von 1988 ist weiterhin der stärkste Beleg gegen die Echtheit.",
+   "exhibits": [
+    "against-radiocarbon-1988",
+    "radiocarbon-heterogeneity"
+   ]
+  },
+  {
+   "id": "claim-swap",
+   "side": "for",
+   "verdict": "noevidence",
+   "claim": "Die Proben wurden vertauscht, oder das Ergebnis wurde manipuliert.",
+   "check": "Einige Autoren warfen den Laboren oder den Organisatoren vor, die Proben vom Grabtuch gegen mittelalterlichen Stoff ausgetauscht zu haben. Ein Beleg für einen Austausch wurde nie vorgelegt. Das Schneiden wurde gefilmt und fand vor Zeugen statt, und jedes Labor datierte auch Kontrollstoffe mit bekanntem Alter und lag bei diesen richtig.",
+   "sources": [
+    {
+     "label": "Damon et al. 1989, Nature 337:611",
+     "url": "https://doi.org/10.1038/337611a0"
+    },
+    {
+     "label": "Wikipedia: Radiocarbon dating of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "claim-repair",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "Die Labore haben eine unsichtbare mittelalterliche Reparatur datiert.",
+   "check": "Der Chemiker Raymond Rogers berichtete, dass sich Fäden aus der datierten Ecke vom übrigen Tuch unterscheiden. Andere untersuchten ein übrig gebliebenes Stück der Probe von 1988 und fanden kein Anzeichen einer Reparatur. Möglich, aber nicht gezeigt.",
+   "exhibits": [
+    "radiocarbon-sample-repair"
+   ]
+  },
+  {
+   "id": "claim-fire",
+   "side": "for",
+   "verdict": "noevidence",
+   "claim": "Das Feuer von 1532, Bakterien oder ein Neutronenstoß haben das Datum verändert.",
+   "check": "Jede dieser Ideen wurde vorgeschlagen, keine wurde gezeigt. Damit ein Tuch aus dem ersten Jahrhundert im Test mittelalterlich erscheint, müsste ein großer Teil des Kohlenstoffs in der Probe, grob ein Drittel oder mehr, spätere Verunreinigung sein, die die Reinigung im Labor überstanden hat. Niemand hat sie gefunden.",
+   "exhibits": [
+    "radiocarbon-contamination"
+   ]
+  },
+  {
+   "id": "claim-newdate",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "Neue wissenschaftliche Methoden haben es auf die Zeit Christi datiert.",
+   "check": "Zwei neuere Methoden, Röntgenstreuung an einem Faden und Fantis Tests an Fasern, ergaben Werte, die zum ersten Jahrhundert passen. Keine der beiden Methoden wurde an vielen Stoffen mit bekanntem Alter erprobt, und beide beruhen auf Annahmen. Vielversprechend, aber kein Datum.",
+   "exhibits": [
+    "waxs-dating-2022",
+    "fanti-spectroscopic-mechanical-dating"
+   ]
+  },
+  {
+   "id": "claim-coins",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "Im Bild kann man Münzen auf den Augen, Schrift und Blumen sehen.",
+   "check": "Diese Formen zeigen sich nur auf stark bearbeiteten Fotos, und andere Forscher, die dieselben Bilder ansehen, sehen sie nicht. Das menschliche Auge findet leicht Muster im Rauschen. Wir werten sie nicht als Beleg.",
+   "exhibits": [
+    "coins-and-inscriptions",
+    "flower-images"
+   ]
+  },
+  {
+   "id": "claim-pollen",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "Pollen beweisen, dass das Tuch in Jerusalem war.",
+   "check": "Die Pollen stammen von Klebebandproben aus den 1970er Jahren. Ein späterer Pollenexperte kam zu dem Schluss, dass sich die Körner nicht bis auf die Pflanzenart bestimmen lassen. Der Schluss auf Jerusalem sollte daher zurückgestellt werden, bis neue Proben untersucht sind. Das ist bisher nicht geschehen.",
+   "exhibits": [
+    "pollen-frei"
+   ]
+  },
+  {
+   "id": "claim-ab",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "Das Blut hat die Blutgruppe AB, wie andere berühmte Reliquien.",
+   "check": "Bei sehr altem, zersetztem Blut ist die Bestimmung der Blutgruppe unzuverlässig, und AB ist ein bekanntes falsches Ergebnis bei gealterten Proben. Die Belege dafür, dass die Flecken Blut sind, sind gut. Die Blutgruppe ist nicht geklärt.",
+   "exhibits": [
+    "blood-type-ab",
+    "blood-is-real-blood"
+   ]
+  },
+  {
+   "id": "claim-sudarium",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "Das Sudarium von Oviedo bestätigt es.",
+   "check": "Das Sudarium ist ein Tuch für das Gesicht, das in Oviedo in Spanien aufbewahrt wird. Ob seine Flecken zu denen des Grabtuchs passen, ist eine Frage der Deutung, und Radiokarbontests am Sudarium selbst ergaben Daten um das 7. Jahrhundert. Es kann dem Grabtuch kein Gewicht verleihen.",
+   "exhibits": [
+    "sudarium-oviedo"
+   ]
+  },
+  {
+   "id": "claim-church-yes",
+   "side": "for",
+   "verdict": "false",
+   "claim": "Die Kirche hat es für echt erklärt.",
+   "check": "Die katholische Kirche hat nie entschieden, dass es echt ist. 1998 sagte Papst Johannes Paul II., die Kirche habe keine besondere Zuständigkeit, diese Frage zu entscheiden, und überlasse sie der Wissenschaft. Päpste nennen es eine Ikone. Die Verehrung zu erlauben ist kein Urteil.",
+   "exhibits": [
+    "church-position"
+   ]
+  },
+  {
+   "id": "claim-nasa",
+   "side": "for",
+   "verdict": "overstated",
+   "claim": "Die NASA hat bewiesen, dass das Bild dreidimensional ist.",
+   "check": "Der 3D-Effekt ist echt und steht in der Fallakte. Entdeckt haben ihn aber 1976 zwei Wissenschaftler der US-Luftwaffe, John Jackson und Eric Jumper, mit einem VP-8 Image Analyzer. Es war keine Studie der NASA, auch wenn einige Mitglieder des späteren Teams von 1978 am Jet Propulsion Laboratory der NASA arbeiteten. Der 3D-Effekt zeigt, dass das Bild mit dem Abstand zu einem Körper zusammenhängt. Er zeigt nicht, wie das Bild entstand.",
+   "exhibits": [
+    "three-d-information"
+   ],
+   "sources": [
+    {
+     "label": "STERA: die Entdeckung mit dem VP-8",
+     "url": "https://shroud.com/78strp10.htm"
+    }
+   ]
+  },
+  {
+   "id": "claim-watts",
+   "side": "for",
+   "verdict": "overstated",
+   "claim": "Wissenschaftler sagen, für das Bild seien 34 Billionen Watt Licht nötig gewesen.",
+   "check": "Die Zahl stammt aus italienischen Laserversuchen (ENEA, 2011), bei denen kleine Leinenstücke mit ultravioletten Pulsen gefärbt wurden. Die Forscher schätzten, welche Leistung ihre Methode für das Bild eines ganzen Körpers bräuchte, und merkten an, dass keine heutige Lichtquelle sie liefern kann. Das ist eine Schätzung zu ihrer eigenen Methode. Es ist keine Messung am Grabtuch, und es ist kein Beleg für eine Auferstehung.",
+   "exhibits": [
+    "uv-laser-coloration"
+   ],
+   "sources": [
+    {
+     "label": "Di Lazzaro et al. 2011, ENEA-Bericht RT/2011/14 (auf Italienisch)",
+     "url": "http://opac.bologna.enea.it:8991/RT/2011/2011_14_ENEA.pdf"
+    }
+   ]
+  },
+  {
+   "id": "claim-leonardo",
+   "side": "against",
+   "verdict": "false",
+   "claim": "Leonardo da Vinci hat es gemacht.",
+   "check": "Das Tuch wurde schon in den 1350er Jahren in Lirey in Frankreich gezeigt, und ein Pilgerzeichen aus dieser Zeit ist noch erhalten. Leonardo wurde 1452 geboren, etwa ein Jahrhundert später.",
+   "exhibits": [
+    "against-no-record-before-1350s"
+   ],
+   "sources": [
+    {
+     "label": "Pilgerzeichen von Lirey, Musée de Cluny",
+     "url": "https://sindonology.org/papers/clunySouvenir.shtml"
+    },
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "claim-confessed",
+   "side": "against",
+   "verdict": "partly",
+   "claim": "Der Fälscher hat im Mittelalter gestanden.",
+   "check": "Ein echter Brief von Bischof Pierre d'Arcis aus dem Jahr 1389 sagt, ein früherer Bischof habe den Künstler gefunden, der es gemalt hatte. Das ist ein ernsthafter Beleg, und er steht in der Fallakte. Aber der Künstler wird nie genannt, und kein Bericht über jene frühere Untersuchung wurde gefunden. Es ist der Bericht über ein Geständnis, kein Geständnis, das wir lesen können.",
+   "exhibits": [
+    "against-darcis-memorandum"
+   ]
+  },
+  {
+   "id": "claim-painting",
+   "side": "against",
+   "verdict": "partly",
+   "claim": "Es ist nur ein Gemälde. Man hat Farbe darauf gefunden.",
+   "check": "Walter McCrone fand winzige Farbteilchen und schloss daraus, es sei gemalt. Das Team von 1978 fand, dass das Bild selbst kein Pigment, kein Bindemittel und keine Pinselspuren hat und dass verstreute Teilchen wahrscheinlich von gemalten Kopien stammen, die im Lauf der Jahrhunderte gegen das Tuch gedrückt wurden. Farbteilchen sind auf dem Tuch. Das Bild besteht nicht aus ihnen.",
+   "exhibits": [
+    "against-mccrone-paint"
+   ]
+  },
+  {
+   "id": "claim-copied",
+   "side": "against",
+   "verdict": "overstated",
+   "claim": "Wissenschaftler haben eine perfekte Kopie gemacht.",
+   "check": "Mehrere Kopien kommen auf einem Foto nahe heran, am bekanntesten die von Luigi Garlaschelli aus dem Jahr 2009. Aus der Nähe weicht jede ab. Bei seiner Kopie sitzt die Farbe im Pigment, nicht nur in der dünnen obersten Schicht der Fasern. Jede bisherige Kopie trifft einige Merkmale, und keine trifft alle.",
+   "exhibits": [
+    "against-artistic-reproductions"
+   ]
+  },
+  {
+   "id": "claim-photo",
+   "side": "against",
+   "verdict": "noevidence",
+   "claim": "Es ist ein mittelalterliches Foto.",
+   "check": "Einige Autoren schlugen vor, jemand im Mittelalter habe eine Camera obscura und lichtempfindliche Chemikalien benutzt, und ein heutiger Forscher erzeugte ein ähnliches Bild mit einer Quarzlinse und Silbersalzen. Aber die Röntgenfluoreszenz-Tests von 1978 fanden im Bildbereich kein Silber und keine anderen fotografischen Chemikalien, und es gibt keinen Beleg für eine solche Technik in jener Zeit.",
+   "sources": [
+    {
+     "label": "Morris, Schwalbe, London 1980, X-Ray Spectrometry 9(2):40-47",
+     "url": "https://www.shroud.com/pdfs/XRay%20Fluorescence%20Morris%20Schwalbe%20London%201980%20OCRsm.pdf"
+    }
+   ]
+  },
+  {
+   "id": "claim-scorch",
+   "side": "against",
+   "verdict": "noevidence",
+   "claim": "Es ist eine Versengung durch eine erhitzte Statue.",
+   "check": "Versengungen auf Leinen leuchten unter ultraviolettem Licht. Die Brandspuren vom Feuer 1532 auf dem Grabtuch leuchten. Das Körperbild nicht. Eine einfache Versengung ist daher unwahrscheinlich.",
+   "exhibits": [
+    "uv-fluorescence-1978"
+   ]
+  },
+  {
+   "id": "claim-strips",
+   "side": "against",
+   "verdict": "partly",
+   "claim": "Die Evangelien sagen, Jesus sei in Binden gewickelt worden, nicht in ein einziges Tuch.",
+   "check": "Markus, Matthäus und Lukas verwenden sindon, ein Leinentuch. Johannes verwendet othonia, ein Wort in der Mehrzahl für Leinentücher, und erwähnt ein eigenes Tuch für das Gesicht. Die Wörter können zu einem großen Tuch mit kleineren Tüchern passen. Die Evangelien beweisen das Grabtuch nicht und schließen es auch nicht aus.",
+   "exhibits": [
+    "against-gospel-linen-strips"
+   ]
+  },
+  {
+   "id": "claim-many",
+   "side": "against",
+   "verdict": "partly",
+   "claim": "Es gab viele ‚Grabtücher Jesu‘, also ist das nur ein weiteres.",
+   "check": "Das stimmt, im mittelalterlichen Europa gab es mehrere Tücher, die als Grabtücher Jesu ausgegeben wurden. Das Tuch von Cadouin in Frankreich erwies sich als ägyptischer Stoff aus der Zeit um 1100, mit einer arabischen Inschrift, die einen Kalifen nennt. Aber keines davon trägt ein Bild wie dieses. Viele Fälschungen mahnen uns zur Vorsicht. Sie sagen uns nicht, dass dieses hier gefälscht ist.",
+   "sources": [
+    {
+     "label": "The Cloth of Cadouin, Shroud Spectrum International 18",
+     "url": "https://www.shroud.com/pdfs/ssi18part5.pdf"
+    }
+   ]
+  },
+  {
+   "id": "claim-church-no",
+   "side": "against",
+   "verdict": "false",
+   "claim": "Die Kirche hat zugegeben, dass es eine Fälschung ist.",
+   "check": "Kein Papst und keine Stelle der Kirche hat es für eine Fälschung erklärt, ebenso wenig wie für echt. 1390 erlaubte ein Papst in Avignon, es nur als Darstellung zu zeigen, und heute nennen Päpste es eine Ikone. Beides lässt die Frage nach seinem Ursprung offen.",
+   "exhibits": [
+    "church-position",
+    "against-darcis-memorandum"
+   ]
+  },
+  {
+   "id": "claim-nojesus",
+   "side": "against",
+   "verdict": "false",
+   "claim": "Jesus hat nie existiert, also kann es nicht seines sein.",
+   "check": "Fast alle Historiker, die diese Zeit erforschen, auch Skeptiker, sind sich einig, dass Jesus von Nazaret gelebt hat und unter Pontius Pilatus gekreuzigt wurde. Der römische Historiker Tacitus erwähnt um das Jahr 116 seine Hinrichtung. Ob dieses Tuch seines ist, ist eine andere Frage, und um genau diese Frage geht es auf dieser Website.",
+   "sources": [
+    {
+     "label": "Wikipedia: Historicity of Jesus",
+     "url": "https://en.wikipedia.org/wiki/Historicity_of_Jesus"
+    },
+    {
+     "label": "Wikipedia: Tacitus on Jesus",
+     "url": "https://en.wikipedia.org/wiki/Tacitus_on_Jesus"
+    }
+   ]
+  }
+ ]
+}

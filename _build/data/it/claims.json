@@ -1,0 +1,297 @@
+{
+ "copy": {
+  "jumpLabel": "In questa pagina",
+  "jumpEvidence": "Le prove",
+  "jumpClaims": "Le affermazioni che sentirai, verificate",
+  "jumpWeigh": "Valuta tu",
+  "h2": "Le affermazioni che sentirai, verificate",
+  "intro": "Incontrerai queste affermazioni in video, commenti e libri. Alcune vengono da chi crede che la Sindone sia autentica, altre da chi è sicuro che sia un falso. Le abbiamo verificate una per una. Quando il fascicolo ne parla già, rimandiamo al reperto completo. Quando non ne parla, le fonti sono qui.",
+  "filterLabel": "Filtra in base a chi lo dice di solito",
+  "all": "Tutte",
+  "sideFor": "Si sentono dai credenti",
+  "sideAgainst": "Si sentono dagli scettici",
+  "tagFor": "Spesso detta a favore dell'autenticità",
+  "tagAgainst": "Spesso detta contro l'autenticità",
+  "verdicts": {
+   "false": "Falso",
+   "noevidence": "Nessuna prova",
+   "unproven": "Non dimostrato",
+   "overstated": "Esagerato",
+   "partly": "In parte vero"
+  },
+  "verdictKey": "Che cosa significano le etichette: Falso significa che i fatti documentati mostrano il contrario. Nessuna prova significa che nulla lo sostiene. Non dimostrato significa che è possibile, ma non è stato dimostrato. Esagerato significa che un fatto reale è stato gonfiato. In parte vero significa che il fatto è giusto, ma la conclusione che se ne trae non lo è.",
+  "seeExhibit": "Reperto completo nel fascicolo:",
+  "shown": "visualizzate",
+  "toTop": "Torna all'inizio",
+  "next": "Successivo:"
+ },
+ "items": [
+  {
+   "id": "claim-debunked",
+   "side": "for",
+   "verdict": "overstated",
+   "claim": "La datazione al carbonio è stata smentita.",
+   "check": "Il test del 1988 ha veri punti deboli. Tutti i campioni venivano da un solo angolo, e quando i dati grezzi sono stati resi pubblici, le rianalisi hanno trovato che le misure non concordano tra loro così bene come lasciava intendere il risultato pubblicato. Ma nessun laboratorio ha prodotto una nuova data, e nessuna rianalisi ha spostato il risultato al I secolo. Criticare un test non significa ribaltarlo. La data del 1988 resta la prova più forte contro l'autenticità.",
+   "exhibits": [
+    "against-radiocarbon-1988",
+    "radiocarbon-heterogeneity"
+   ]
+  },
+  {
+   "id": "claim-swap",
+   "side": "for",
+   "verdict": "noevidence",
+   "claim": "I campioni furono scambiati, oppure il risultato fu truccato.",
+   "check": "Alcuni autori hanno accusato i laboratori o gli organizzatori di aver sostituito i campioni della Sindone con stoffa medievale. Nessuna prova di uno scambio è mai stata presentata. Il taglio fu filmato e avvenne davanti a testimoni, e ogni laboratorio datò anche tessuti di controllo di età nota, ottenendo per questi le date giuste.",
+   "sources": [
+    {
+     "label": "Damon et al. 1989, Nature 337:611",
+     "url": "https://doi.org/10.1038/337611a0"
+    },
+    {
+     "label": "Wikipedia: Radiocarbon dating of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "claim-repair",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "I laboratori hanno datato un rammendo medievale invisibile.",
+   "check": "Il chimico Raymond Rogers riferì che i fili dell'angolo datato sono diversi da quelli del resto del telo. Altri hanno esaminato un pezzo avanzato del campione del 1988 e non hanno trovato segni di un rammendo. Possibile, ma non dimostrato.",
+   "exhibits": [
+    "radiocarbon-sample-repair"
+   ]
+  },
+  {
+   "id": "claim-fire",
+   "side": "for",
+   "verdict": "noevidence",
+   "claim": "L'incendio del 1532, i batteri o un lampo di neutroni hanno cambiato la data.",
+   "check": "Ognuna di queste idee è stata proposta, e nessuna è stata dimostrata. Perché un telo del I secolo risulti medievale al test, una grande parte del carbonio del campione, circa un terzo o più, dovrebbe essere una contaminazione successiva sopravvissuta alla pulizia in laboratorio. Nessuno l'ha trovata.",
+   "exhibits": [
+    "radiocarbon-contamination"
+   ]
+  },
+  {
+   "id": "claim-newdate",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "Nuovi metodi scientifici l'hanno datata all'epoca di Cristo.",
+   "check": "Due metodi più recenti, la diffusione di raggi X su un filo e i test di Fanti sulle fibre, hanno dato risultati compatibili con il I secolo. Nessuno dei due metodi è stato provato su molti tessuti di età nota, ed entrambi dipendono da alcune ipotesi. Promettenti, ma non sono una data.",
+   "exhibits": [
+    "waxs-dating-2022",
+    "fanti-spectroscopic-mechanical-dating"
+   ]
+  },
+  {
+   "id": "claim-coins",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "Nell'immagine si vedono monete sugli occhi, scritte e fiori.",
+   "check": "Queste forme compaiono solo in fotografie molto elaborate, e altri ricercatori che guardano le stesse immagini non le vedono. L'occhio umano trova facilmente forme nel rumore. Non le consideriamo prove.",
+   "exhibits": [
+    "coins-and-inscriptions",
+    "flower-images"
+   ]
+  },
+  {
+   "id": "claim-pollen",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "I pollini dimostrano che il telo è stato a Gerusalemme.",
+   "check": "I pollini venivano da campioni prelevati con nastro adesivo negli anni Settanta. In seguito un esperto di pollini concluse che i granuli non si possono identificare fino alla specie della pianta, quindi la conclusione su Gerusalemme va messa da parte finché non si studieranno nuovi campioni. Non è ancora successo.",
+   "exhibits": [
+    "pollen-frei"
+   ]
+  },
+  {
+   "id": "claim-ab",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "Il sangue è di gruppo AB, come quello di altre reliquie famose.",
+   "check": "Stabilire il gruppo di un sangue molto antico e degradato non è affidabile, e AB è un falso risultato noto nei campioni invecchiati. Le prove che le macchie siano sangue sono buone. Il gruppo sanguigno non è accertato.",
+   "exhibits": [
+    "blood-type-ab",
+    "blood-is-real-blood"
+   ]
+  },
+  {
+   "id": "claim-sudarium",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "Il Sudario di Oviedo lo conferma.",
+   "check": "Il Sudario è un telo per il volto conservato a Oviedo, in Spagna. Far corrispondere le sue macchie a quelle della Sindone è una questione di interpretazione, e i test al radiocarbonio sul Sudario stesso hanno dato date intorno al VII secolo. Non può dare peso alla Sindone.",
+   "exhibits": [
+    "sudarium-oviedo"
+   ]
+  },
+  {
+   "id": "claim-church-yes",
+   "side": "for",
+   "verdict": "false",
+   "claim": "La Chiesa l'ha dichiarata autentica.",
+   "check": "La Chiesa cattolica non ha mai stabilito che sia autentica. Nel 1998 papa Giovanni Paolo II disse che la Chiesa non ha una competenza specifica per decidere la questione e la lascia alla scienza. I papi la chiamano un'icona. Permetterne la venerazione non è un verdetto.",
+   "exhibits": [
+    "church-position"
+   ]
+  },
+  {
+   "id": "claim-nasa",
+   "side": "for",
+   "verdict": "overstated",
+   "claim": "La NASA ha dimostrato che l'immagine è in 3D.",
+   "check": "L'effetto 3D è reale ed è nel fascicolo. Ma lo scoprirono nel 1976 due scienziati dell'aeronautica militare degli Stati Uniti, John Jackson ed Eric Jumper, con un VP-8 Image Analyzer. Non fu uno studio della NASA, anche se alcuni membri della squadra successiva, del 1978, lavoravano al Jet Propulsion Laboratory della NASA. L'effetto 3D mostra che l'immagine è legata alla distanza da un corpo. Non mostra come è stata fatta l'immagine.",
+   "exhibits": [
+    "three-d-information"
+   ],
+   "sources": [
+    {
+     "label": "STERA: la scoperta con il VP-8",
+     "url": "https://shroud.com/78strp10.htm"
+    }
+   ]
+  },
+  {
+   "id": "claim-watts",
+   "side": "for",
+   "verdict": "overstated",
+   "claim": "Gli scienziati dicono che per fare l'immagine ci sono voluti 34 mila miliardi di watt di luce.",
+   "check": "Il numero viene da esperimenti italiani con il laser (ENEA, 2011) che hanno colorato piccoli pezzi di lino con impulsi ultravioletti. I ricercatori stimarono la potenza che il loro metodo richiederebbe per l'immagine di un corpo intero e osservarono che oggi nessuna fonte di luce è in grado di fornirla. È una stima sul loro metodo. Non è una misura presa sulla Sindone, e non è una prova di una risurrezione.",
+   "exhibits": [
+    "uv-laser-coloration"
+   ],
+   "sources": [
+    {
+     "label": "Di Lazzaro et al. 2011, rapporto ENEA RT/2011/14 (in italiano)",
+     "url": "http://opac.bologna.enea.it:8991/RT/2011/2011_14_ENEA.pdf"
+    }
+   ]
+  },
+  {
+   "id": "claim-leonardo",
+   "side": "against",
+   "verdict": "false",
+   "claim": "L'ha fatta Leonardo da Vinci.",
+   "check": "Il telo era già esposto a Lirey, in Francia, negli anni Cinquanta del Trecento, e un'insegna di pellegrinaggio di quel periodo esiste ancora. Leonardo nacque nel 1452, circa un secolo dopo.",
+   "exhibits": [
+    "against-no-record-before-1350s"
+   ],
+   "sources": [
+    {
+     "label": "Insegna di pellegrinaggio di Lirey, Musée de Cluny",
+     "url": "https://sindonology.org/papers/clunySouvenir.shtml"
+    },
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "claim-confessed",
+   "side": "against",
+   "verdict": "partly",
+   "claim": "Il falsario confessò nel Medioevo.",
+   "check": "Una lettera autentica del vescovo Pierre d'Arcis, del 1389, dice che un vescovo precedente aveva trovato l'artista che l'aveva dipinta. È una prova seria ed è nel fascicolo. Ma l'artista non viene mai nominato e non è stato trovato alcun documento di quell'indagine precedente. È il racconto di una confessione, non una confessione che possiamo leggere.",
+   "exhibits": [
+    "against-darcis-memorandum"
+   ]
+  },
+  {
+   "id": "claim-painting",
+   "side": "against",
+   "verdict": "partly",
+   "claim": "È solo un dipinto. Ci hanno trovato della pittura.",
+   "check": "Walter McCrone trovò minuscole particelle di pittura e concluse che era dipinta. La squadra del 1978 trovò che l'immagine stessa non ha pigmento, legante o segni di pennello, e che le particelle sparse venivano probabilmente da copie dipinte appoggiate contro il telo nel corso dei secoli. Le particelle di pittura sono sul telo. L'immagine non è fatta di quelle particelle.",
+   "exhibits": [
+    "against-mccrone-paint"
+   ]
+  },
+  {
+   "id": "claim-copied",
+   "side": "against",
+   "verdict": "overstated",
+   "claim": "Gli scienziati hanno fatto una copia perfetta.",
+   "check": "Diverse copie si avvicinano molto in fotografia, e la più nota è quella di Luigi Garlaschelli del 2009. Da vicino, ognuna è diversa. Nella sua copia il colore sta nel pigmento, non solo nel sottile strato superficiale delle fibre. Finora ogni copia riproduce alcune caratteristiche, e nessuna le riproduce tutte.",
+   "exhibits": [
+    "against-artistic-reproductions"
+   ]
+  },
+  {
+   "id": "claim-photo",
+   "side": "against",
+   "verdict": "noevidence",
+   "claim": "È una fotografia medievale.",
+   "check": "Alcuni autori hanno proposto che qualcuno nel Medioevo abbia usato una camera oscura e sostanze chimiche sensibili alla luce, e un ricercatore moderno ha ottenuto un'immagine simile con una lente di quarzo e sali d'argento. Ma i test di fluorescenza a raggi X del 1978 non trovarono argento né altre sostanze chimiche fotografiche nell'area dell'immagine, e non c'è alcun documento di una tecnologia simile a quel tempo.",
+   "sources": [
+    {
+     "label": "Morris, Schwalbe, London 1980, X-Ray Spectrometry 9(2):40-47",
+     "url": "https://www.shroud.com/pdfs/XRay%20Fluorescence%20Morris%20Schwalbe%20London%201980%20OCRsm.pdf"
+    }
+   ]
+  },
+  {
+   "id": "claim-scorch",
+   "side": "against",
+   "verdict": "noevidence",
+   "claim": "È una bruciatura lasciata da una statua riscaldata.",
+   "check": "Le bruciature sul lino brillano sotto la luce ultravioletta. Le bruciature dell'incendio del 1532 sulla Sindone brillano. L'immagine del corpo no. Per questo una semplice bruciatura è improbabile.",
+   "exhibits": [
+    "uv-fluorescence-1978"
+   ]
+  },
+  {
+   "id": "claim-strips",
+   "side": "against",
+   "verdict": "partly",
+   "claim": "I Vangeli dicono che Gesù fu avvolto in bende, non in un unico lenzuolo.",
+   "check": "Marco, Matteo e Luca usano sindon, un lenzuolo di lino. Giovanni usa othonia, una parola al plurale che indica teli di lino, e parla di un telo separato per il volto. Queste parole possono indicare un grande lenzuolo insieme a teli più piccoli. I Vangeli non provano né escludono la Sindone.",
+   "exhibits": [
+    "against-gospel-linen-strips"
+   ]
+  },
+  {
+   "id": "claim-many",
+   "side": "against",
+   "verdict": "partly",
+   "claim": "C'erano molte “sindoni di Gesù”, quindi questa è solo un'altra.",
+   "check": "È vero, nell'Europa medievale c'erano diversi teli presentati come teli funerari di Gesù. Quello di Cadouin, in Francia, si rivelò un tessuto egiziano del 1100 circa, con un'iscrizione araba che nomina un califfo. Ma nessuno di essi porta un'immagine come questa. Molti falsi ci dicono di essere prudenti. Non ci dicono che questo sia un falso.",
+   "sources": [
+    {
+     "label": "The Cloth of Cadouin, Shroud Spectrum International 18",
+     "url": "https://www.shroud.com/pdfs/ssi18part5.pdf"
+    }
+   ]
+  },
+  {
+   "id": "claim-church-no",
+   "side": "against",
+   "verdict": "false",
+   "claim": "La Chiesa ha ammesso che è un falso.",
+   "check": "Nessun papa e nessun organismo della Chiesa l'ha dichiarata un falso, così come nessuno l'ha dichiarata autentica. Nel 1390 un papa di Avignone permise di mostrarla solo come rappresentazione, e oggi i papi la chiamano un'icona. In entrambi i casi la questione della sua origine resta aperta.",
+   "exhibits": [
+    "church-position",
+    "against-darcis-memorandum"
+   ]
+  },
+  {
+   "id": "claim-nojesus",
+   "side": "against",
+   "verdict": "false",
+   "claim": "Gesù non è mai esistito, quindi non può essere sua.",
+   "check": "Quasi tutti gli storici che studiano quel periodo, scettici compresi, concordano che Gesù di Nazaret visse e fu crocifisso sotto Ponzio Pilato. Lo storico romano Tacito, intorno all'anno 116, ne menziona l'esecuzione. Se questo telo sia suo è un'altra questione, ed è proprio la questione di cui si occupa questo sito.",
+   "sources": [
+    {
+     "label": "Wikipedia: Historicity of Jesus",
+     "url": "https://en.wikipedia.org/wiki/Historicity_of_Jesus"
+    },
+    {
+     "label": "Wikipedia: Tacitus on Jesus",
+     "url": "https://en.wikipedia.org/wiki/Tacitus_on_Jesus"
+    }
+   ]
+  }
+ ]
+}
