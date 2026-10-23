@@ -204,7 +204,7 @@ async function main() {
     // 404 only at the root, in the default language
     if (l.code === CONFIG.defaultLang) {
       const nf = (await import('./pages.mjs')).notFound;
-      fs.writeFileSync(path.join(ROOT, '404.html'), nf(makeCtx(l.code, L)));
+      fs.writeFileSync(path.join(ROOT, '404.html'), nf(makeCtx(l.code, L)).replace(/"\/(assets\/[^"]+\.(?:css|js))"/g, (m, a) => `"/${a}${verOf(a)}"`));
     }
   }
   // sitemap with hreflang alternates
