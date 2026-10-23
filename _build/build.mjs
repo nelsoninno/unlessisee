@@ -4,6 +4,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import crypto from 'node:crypto';
 import { pages } from './pages.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -52,13 +53,20 @@ async function loadLang(lang) {
 }
 
 // URL helpers
+// Cache busting: CSS and JS links carry a short hash of the file, so browsers fetch the new file after every change
+const _ver = {};
+function verOf(p) {
+  if (!/\.(css|js)$/.test(p)) return '';
+  if (!(p in _ver)) { try { _ver[p] = '?v=' + crypto.createHash('md5').update(fs.readFileSync(path.join(path.dirname(fileURLToPath(import.meta.url)), '..', p))).digest('hex').slice(0, 8); } catch (e) { _ver[p] = ''; } }
+  return _ver[p];
+}
 export function makeCtx(lang, L) {
   const isDefault = lang === CONFIG.defaultLang;
   const up = isDefault ? '' : '../';
   const base = `https://${CONFIG.domain}/`;
   return {
     lang, L, up,
-    asset: p => up + p,
+    asset: p => up + p + verOf(p),
     href: (slug, toLang = lang) => {
       const file = slug === 'index' ? 'index.html' : slug + '.html';
       if (toLang === lang) return file;
