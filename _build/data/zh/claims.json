@@ -1,0 +1,297 @@
+{
+ "copy": {
+  "jumpLabel": "本页内容",
+  "jumpEvidence": "证据",
+  "jumpClaims": "你会听到的说法，逐一核查",
+  "jumpWeigh": "自己来权衡",
+  "h2": "你会听到的说法，逐一核查",
+  "intro": "你会在视频、评论和书里遇到这些说法。有些来自相信裹尸布是真品的人，有些来自确信它是伪造品的人。我们逐一核查了每一条。案卷里已经讨论过的，我们链接到完整的证物。案卷里没有的，出处就列在这里。",
+  "filterLabel": "按通常由谁提出来筛选",
+  "all": "全部",
+  "sideFor": "常听相信者说",
+  "sideAgainst": "常听怀疑者说",
+  "tagFor": "常被用来支持真品",
+  "tagAgainst": "常被用来反对真品",
+  "verdicts": {
+   "false": "错误",
+   "noevidence": "没有证据",
+   "unproven": "未经证实",
+   "overstated": "言过其实",
+   "partly": "部分属实"
+  },
+  "verdictKey": "标签的含义：“错误”表示记录显示的恰恰相反。“没有证据”表示没有任何东西支持它。“未经证实”表示有可能，但没有得到证明。“言过其实”表示把真实的东西夸大了。“部分属实”表示事实没错，但由此得出的结论不对。",
+  "seeExhibit": "案卷中的完整证物：",
+  "shown": "条显示中",
+  "toTop": "回到顶部",
+  "next": "下一页："
+ },
+ "items": [
+  {
+   "id": "claim-debunked",
+   "side": "for",
+   "verdict": "overstated",
+   "claim": "碳定年已经被推翻了。",
+   "check": "1988年的检测确实有弱点。所有样本都取自同一个角落。原始数据公开后，重新分析发现，各次测量之间的一致程度不如公布的结果所暗示的那样好。但没有任何实验室给出新的年代，也没有任何重新分析把结果移到一世纪。批评一项检测，不等于推翻它。1988年的年代仍然是反对真品的最有力证据。",
+   "exhibits": [
+    "against-radiocarbon-1988",
+    "radiocarbon-heterogeneity"
+   ]
+  },
+  {
+   "id": "claim-swap",
+   "side": "for",
+   "verdict": "noevidence",
+   "claim": "样本被调包了，或者结果被操纵了。",
+   "check": "有些作者指控实验室或组织者把裹尸布样本换成了中世纪的布。从来没有人拿出过调包的证据。切取样本的过程有录像，也有见证人在场。每个实验室还为已知年代的对照布料定年，结果都是对的。",
+   "sources": [
+    {
+     "label": "Damon et al. 1989, Nature 337:611",
+     "url": "https://doi.org/10.1038/337611a0"
+    },
+    {
+     "label": "维基百科：Radiocarbon dating of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "claim-repair",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "实验室测的是一块看不出来的中世纪补丁。",
+   "check": "化学家Raymond Rogers报告说，被定年那个角的线与主布不同。另一些人检查了1988年样本剩下的一小块，没有发现修补的迹象。有可能，但没有得到证明。",
+   "exhibits": [
+    "radiocarbon-sample-repair"
+   ]
+  },
+  {
+   "id": "claim-fire",
+   "side": "for",
+   "verdict": "noevidence",
+   "claim": "1532年的火灾、细菌或一次中子爆发改变了年代。",
+   "check": "每一种设想都有人提出过，但没有一种得到证明。要让一块一世纪的布测出中世纪的年代，样本中很大一部分碳，大约三分之一或更多，必须是后来的污染，而且在实验室清洗后仍然留了下来。没有人找到这样的污染。",
+   "exhibits": [
+    "radiocarbon-contamination"
+   ]
+  },
+  {
+   "id": "claim-newdate",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "新的科学方法测出它属于基督的时代。",
+   "check": "两种较新的方法，即对一根线做的X射线散射，以及Fanti的纤维检测，得出的结果与一世纪相容。这两种方法都还没有在许多已知年代的布料上经过检验，而且都依赖于一些假设。有希望，但还不是一个年代。",
+   "exhibits": [
+    "waxs-dating-2022",
+    "fanti-spectroscopic-mechanical-dating"
+   ]
+  },
+  {
+   "id": "claim-coins",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "在图像里可以看到眼睛上的钱币、文字和花朵。",
+   "check": "这些形状只出现在经过大量处理的照片里，其他研究者看同样的图像却看不到。人眼很容易在杂乱的噪点中看出图案。我们不把它们算作证据。",
+   "exhibits": [
+    "coins-and-inscriptions",
+    "flower-images"
+   ]
+  },
+  {
+   "id": "claim-pollen",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "花粉证明这块布到过耶路撒冷。",
+   "check": "这些花粉来自1970年代用胶带取的样本。后来一位花粉专家得出结论，这些花粉粒无法鉴定到具体的植物种，所以关于耶路撒冷的结论应该先放在一边，等研究了新的样本再说。这件事至今还没有做。",
+   "exhibits": [
+    "pollen-frei"
+   ]
+  },
+  {
+   "id": "claim-ab",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "血型是AB型，和其他著名圣物一样。",
+   "check": "为非常古老、已经降解的血液验血型并不可靠，而AB型正是陈旧样本中一种已知的错误结果。这些痕迹是血的证据很充分。血型却还没有定论。",
+   "exhibits": [
+    "blood-type-ab",
+    "blood-is-real-blood"
+   ]
+  },
+  {
+   "id": "claim-sudarium",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "奥维耶多汗巾证实了它。",
+   "check": "奥维耶多汗巾是一块保存在西班牙奥维耶多的面巾。把它的血迹与裹尸布对应起来，是一个解读的问题。而对汗巾本身做的放射性碳检测，得出的年代在7世纪左右。它不能为裹尸布增加分量。",
+   "exhibits": [
+    "sudarium-oviedo"
+   ]
+  },
+  {
+   "id": "claim-church-yes",
+   "side": "for",
+   "verdict": "false",
+   "claim": "教会已经宣布它是真品。",
+   "check": "天主教会从来没有裁定它是真品。1998年，教宗若望保禄二世说，教会没有专门的权限来裁决这个问题，把它留给科学。教宗们称它为圣像。允许敬礼并不是一个裁决。",
+   "exhibits": [
+    "church-position"
+   ]
+  },
+  {
+   "id": "claim-nasa",
+   "side": "for",
+   "verdict": "overstated",
+   "claim": "NASA证明了图像是3D的。",
+   "check": "3D效果是真实的，案卷里也有。但它是在1976年由两位美国空军科学家John Jackson和Eric Jumper用VP-8图像分析仪发现的。这不是NASA的研究，尽管后来1978年那支团队中有几名成员在NASA的喷气推进实验室工作。3D效果说明图像与到身体的距离有关，并不能说明图像是怎样形成的。",
+   "exhibits": [
+    "three-d-information"
+   ],
+   "sources": [
+    {
+     "label": "STERA：VP-8的发现",
+     "url": "https://shroud.com/78strp10.htm"
+    }
+   ]
+  },
+  {
+   "id": "claim-watts",
+   "side": "for",
+   "verdict": "overstated",
+   "claim": "科学家说，形成这幅图像需要34万亿瓦的光。",
+   "check": "这个数字来自意大利的激光实验（ENEA，2011年），实验用紫外线脉冲给小块亚麻布着色。研究人员估算了用他们的方法制作一幅全身图像需要多大功率，并指出目前没有任何光源能提供这样的功率。这是对他们自己方法的估算。它不是从裹尸布上测得的数据，也不是复活的证据。",
+   "exhibits": [
+    "uv-laser-coloration"
+   ],
+   "sources": [
+    {
+     "label": "Di Lazzaro et al. 2011, ENEA report RT/2011/14（意大利语）",
+     "url": "http://opac.bologna.enea.it:8991/RT/2011/2011_14_ENEA.pdf"
+    }
+   ]
+  },
+  {
+   "id": "claim-leonardo",
+   "side": "against",
+   "verdict": "false",
+   "claim": "是列奥纳多·达·芬奇做的。",
+   "check": "早在1350年代，这块布就已经在法国利雷展出，那个时期的一枚朝圣者徽章至今还保存着。列奥纳多生于1452年，大约晚了一个世纪。",
+   "exhibits": [
+    "against-no-record-before-1350s"
+   ],
+   "sources": [
+    {
+     "label": "利雷朝圣者徽章，克吕尼博物馆",
+     "url": "https://sindonology.org/papers/clunySouvenir.shtml"
+    },
+    {
+     "label": "维基百科：History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "claim-confessed",
+   "side": "against",
+   "verdict": "partly",
+   "claim": "中世纪时伪造者已经认罪了。",
+   "check": "1389年，Pierre d'Arcis主教写过一封真实的信，信中说前一任主教找到了画它的画家。这是严肃的证据，案卷里也有。但这位画家从来没有被点名，那次早先的调查也没有找到任何记录。这是一份关于认罪的报告，不是一份我们能读到的认罪书。",
+   "exhibits": [
+    "against-darcis-memorandum"
+   ]
+  },
+  {
+   "id": "claim-painting",
+   "side": "against",
+   "verdict": "partly",
+   "claim": "它只是一幅画。上面发现了颜料。",
+   "check": "Walter McCrone发现了微小的颜料颗粒，并断定它是画出来的。1978年的团队发现，图像本身没有颜料、黏合剂或笔触，零星的颗粒很可能来自几百年来压在它上面的手绘复制品。布上确实有颜料颗粒，但图像不是由它们构成的。",
+   "exhibits": [
+    "against-mccrone-paint"
+   ]
+  },
+  {
+   "id": "claim-copied",
+   "side": "against",
+   "verdict": "overstated",
+   "claim": "科学家已经做出了一模一样的复制品。",
+   "check": "有几件复制品在照片上看起来很接近，最有名的是Luigi Garlaschelli在2009年做的那件。凑近看，每一件都有不同。在他的复制品中，颜色存在于颜料里，而不是只在纤维最上面的薄层。到目前为止，每件复制品都只吻合部分特征，没有一件能吻合全部特征。",
+   "exhibits": [
+    "against-artistic-reproductions"
+   ]
+  },
+  {
+   "id": "claim-photo",
+   "side": "against",
+   "verdict": "noevidence",
+   "claim": "它是一张中世纪的照片。",
+   "check": "有些作者提出，中世纪有人用暗箱和感光化学品做出了它。一位现代研究者也用石英透镜和银盐做出了类似的图像。但1978年的X射线荧光检测在图像区域没有发现银或其他照相化学品，而且当时也没有任何关于这种技术的记录。",
+   "sources": [
+    {
+     "label": "Morris, Schwalbe, London 1980, X-Ray Spectrometry 9(2):40-47",
+     "url": "https://www.shroud.com/pdfs/XRay%20Fluorescence%20Morris%20Schwalbe%20London%201980%20OCRsm.pdf"
+    }
+   ]
+  },
+  {
+   "id": "claim-scorch",
+   "side": "against",
+   "verdict": "noevidence",
+   "claim": "它是一尊加热过的雕像留下的烧焦痕迹。",
+   "check": "亚麻布上的烧焦痕迹在紫外光下会发荧光。裹尸布上1532年火灾留下的烧痕确实会发荧光，身体图像却不会。因此，它不太可能是简单的烧焦痕迹。",
+   "exhibits": [
+    "uv-fluorescence-1978"
+   ]
+  },
+  {
+   "id": "claim-strips",
+   "side": "against",
+   "verdict": "partly",
+   "claim": "福音书说耶稣是用布条裹着的，而不是一整块布。",
+   "check": "马可、马太和路加用的是sindon，意思是一块细麻布。约翰用的是othonia，这是一个复数词，指几块细麻布，他还提到另有一块包头的巾。这些词可以理解为一整块大布加上几块小布。福音书既不能证明裹尸布，也不能排除它。",
+   "exhibits": [
+    "against-gospel-linen-strips"
+   ]
+  },
+  {
+   "id": "claim-many",
+   "side": "against",
+   "verdict": "partly",
+   "claim": "历史上有很多‘耶稣的裹尸布’，这只是又一块而已。",
+   "check": "没错，中世纪的欧洲有好几块被说成是耶稣裹尸布的布。法国卡杜安的那一块，后来发现是约1100年的埃及织物，上面有一段提到一位哈里发名字的阿拉伯文。但它们都没有像这样的图像。赝品很多，这提醒我们要小心。但这并不能告诉我们这一块是假的。",
+   "sources": [
+    {
+     "label": "The Cloth of Cadouin, Shroud Spectrum International 18",
+     "url": "https://www.shroud.com/pdfs/ssi18part5.pdf"
+    }
+   ]
+  },
+  {
+   "id": "claim-church-no",
+   "side": "against",
+   "verdict": "false",
+   "claim": "教会承认它是伪造的。",
+   "check": "没有任何教宗或教会机构宣布它是伪造品，正如也没有任何一方宣布它是真品。1390年，阿维尼翁的一位教宗只允许把它作为一种表现物来展示。今天，教宗们称它为圣像。两者都没有对它的来源下结论。",
+   "exhibits": [
+    "church-position",
+    "against-darcis-memorandum"
+   ]
+  },
+  {
+   "id": "claim-nojesus",
+   "side": "against",
+   "verdict": "false",
+   "claim": "耶稣根本不存在，所以它不可能是他的。",
+   "check": "研究那个时期的历史学家，包括持怀疑态度的人在内，几乎都同意拿撒勒人耶稣确有其人，并在本丢·彼拉多治下被钉十字架。罗马历史学家塔西佗在约公元116年提到了他被处死。这块布是不是他的，是另一个问题，而这正是本站要探讨的问题。",
+   "sources": [
+    {
+     "label": "维基百科：Historicity of Jesus",
+     "url": "https://en.wikipedia.org/wiki/Historicity_of_Jesus"
+    },
+    {
+     "label": "维基百科：Tacitus on Jesus",
+     "url": "https://en.wikipedia.org/wiki/Tacitus_on_Jesus"
+    }
+   ]
+  }
+ ]
+}

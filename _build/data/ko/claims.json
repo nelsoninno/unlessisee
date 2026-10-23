@@ -1,0 +1,297 @@
+{
+ "copy": {
+  "jumpLabel": "이 페이지에서",
+  "jumpEvidence": "증거",
+  "jumpClaims": "자주 듣는 주장, 확인해 보았습니다",
+  "jumpWeigh": "직접 따져 보십시오",
+  "h2": "자주 듣는 주장, 확인해 보았습니다",
+  "intro": "이런 주장들은 영상, 댓글, 책에서 만나게 됩니다. 어떤 것은 수의가 진짜라고 믿는 사람들에게서, 어떤 것은 가짜라고 확신하는 사람들에게서 나옵니다. 우리는 하나하나 확인했습니다. 증거 파일에서 이미 다룬 내용이면 해당 증거물 전체로 연결합니다. 다루지 않은 내용이면 출처를 바로 여기에 실었습니다.",
+  "filterLabel": "주로 누가 하는 말인지로 보기",
+  "all": "전체",
+  "sideFor": "신자들에게서 듣는 말",
+  "sideAgainst": "회의론자들에게서 듣는 말",
+  "tagFor": "진품설을 지지할 때 자주 하는 말",
+  "tagAgainst": "진품설에 반대할 때 자주 하는 말",
+  "verdicts": {
+   "false": "거짓",
+   "noevidence": "증거 없음",
+   "unproven": "입증 안 됨",
+   "overstated": "과장됨",
+   "partly": "일부 사실"
+  },
+  "verdictKey": "라벨의 뜻: 거짓은 기록이 그 반대를 보여 준다는 뜻입니다. 증거 없음은 그것을 뒷받침하는 것이 없다는 뜻입니다. 입증 안 됨은 가능하지만 보여 주지 못했다는 뜻입니다. 과장됨은 실제 있는 것을 부풀렸다는 뜻입니다. 일부 사실은 사실 자체는 맞지만 거기서 끌어낸 결론은 틀렸다는 뜻입니다.",
+  "seeExhibit": "증거 파일의 전체 증거물:",
+  "shown": "건 표시",
+  "toTop": "맨 위로",
+  "next": "다음:"
+ },
+ "items": [
+  {
+   "id": "claim-debunked",
+   "side": "for",
+   "verdict": "overstated",
+   "claim": "탄소 연대 측정은 이미 반박되었다.",
+   "check": "1988년 검사에는 실제로 약점이 있습니다. 모든 시료가 한 모서리에서 나왔고, 원자료가 공개되자 재분석 결과 측정값들이 발표된 결과가 암시한 만큼 서로 잘 맞지 않는다는 것이 드러났습니다. 그러나 새로운 연대를 내놓은 연구소는 없고, 결과를 1세기로 옮겨 놓은 재분석도 없습니다. 검사를 비판하는 것과 검사를 뒤집는 것은 다릅니다. 1988년의 연대는 여전히 진품설에 반대하는 가장 강한 증거입니다.",
+   "exhibits": [
+    "against-radiocarbon-1988",
+    "radiocarbon-heterogeneity"
+   ]
+  },
+  {
+   "id": "claim-swap",
+   "side": "for",
+   "verdict": "noevidence",
+   "claim": "시료가 바꿔치기되었거나, 결과가 조작되었다.",
+   "check": "일부 저자들은 연구소나 주최 측이 수의 시료를 중세의 천으로 바꿔치기했다고 비난했습니다. 바꿔치기의 증거는 한 번도 제시된 적이 없습니다. 시료를 자르는 과정은 촬영되었고 증인들이 지켜보았습니다. 또 각 연구소는 연대를 아는 대조용 천들도 측정했고, 그 연대를 정확히 맞혔습니다.",
+   "sources": [
+    {
+     "label": "Damon et al. 1989, Nature 337:611",
+     "url": "https://doi.org/10.1038/337611a0"
+    },
+    {
+     "label": "위키백과(영어): Radiocarbon dating of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "claim-repair",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "연구소들은 눈에 보이지 않는 중세의 수선 부분을 측정했다.",
+   "check": "화학자 레이먼드 로저스는 연대를 측정한 모서리의 실이 본래 천과 다르다고 보고했습니다. 다른 연구자들은 1988년 시료의 남은 조각을 조사했지만 수선의 흔적을 찾지 못했습니다. 가능하지만, 보여 주지는 못했습니다.",
+   "exhibits": [
+    "radiocarbon-sample-repair"
+   ]
+  },
+  {
+   "id": "claim-fire",
+   "side": "for",
+   "verdict": "noevidence",
+   "claim": "1532년의 화재, 세균, 또는 갑작스러운 중성자 방출이 연대를 바꾸어 놓았다.",
+   "check": "각각의 생각이 제안되었지만, 어느 것도 입증되지 않았습니다. 1세기의 천이 중세의 것으로 측정되려면, 시료 속 탄소의 상당 부분, 대략 3분의 1 이상이 나중에 들어온 오염이어야 하고, 그 오염이 연구소의 세척 과정에서도 살아남아야 합니다. 그런 오염을 찾은 사람은 없습니다.",
+   "exhibits": [
+    "radiocarbon-contamination"
+   ]
+  },
+  {
+   "id": "claim-newdate",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "새로운 과학적 방법이 이것을 그리스도 시대의 것으로 측정했다.",
+   "check": "더 새로운 두 방법, 곧 실 한 가닥에 대한 X선 산란과 판티의 섬유 검사는 1세기와 양립하는 결과를 냈습니다. 두 방법 모두 연대를 아는 많은 천으로 검증된 적이 없고, 둘 다 몇 가지 가정에 기대고 있습니다. 유망하지만, 연대라고 할 수는 없습니다.",
+   "exhibits": [
+    "waxs-dating-2022",
+    "fanti-spectroscopic-mechanical-dating"
+   ]
+  },
+  {
+   "id": "claim-coins",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "형상에서 눈 위의 동전, 글자, 꽃을 볼 수 있다.",
+   "check": "이런 모양은 많이 처리한 사진에서만 나타나고, 같은 이미지를 본 다른 연구자들에게는 보이지 않습니다. 사람의 눈은 잡음 속에서도 쉽게 무늬를 찾아냅니다. 우리는 이것을 증거로 치지 않습니다.",
+   "exhibits": [
+    "coins-and-inscriptions",
+    "flower-images"
+   ]
+  },
+  {
+   "id": "claim-pollen",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "꽃가루가 이 천이 예루살렘에 있었다는 것을 증명한다.",
+   "check": "그 꽃가루는 1970년대에 접착테이프로 채취한 시료에서 나왔습니다. 나중에 한 꽃가루 전문가는 그 알갱이들을 식물의 종 수준까지 판별할 수 없다고 결론 내렸습니다. 그러므로 예루살렘이라는 결론은 새 시료를 연구할 때까지 보류해야 합니다. 그 연구는 아직 이루어지지 않았습니다.",
+   "exhibits": [
+    "pollen-frei"
+   ]
+  },
+  {
+   "id": "claim-ab",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "피는 AB형이며, 다른 유명한 유물들과 같다.",
+   "check": "아주 오래되고 변질된 피의 혈액형을 판별하는 것은 믿을 만하지 않으며, AB형은 오래된 시료에서 잘 알려진 잘못된 결과입니다. 얼룩이 피라는 증거는 좋습니다. 혈액형은 확정되지 않았습니다.",
+   "exhibits": [
+    "blood-type-ab",
+    "blood-is-real-blood"
+   ]
+  },
+  {
+   "id": "claim-sudarium",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "오비에도의 수다리움이 이것을 확인해 준다.",
+   "check": "수다리움은 스페인 오비에도에 보관된 얼굴 수건입니다. 그 얼룩을 수의와 맞추어 보는 일은 해석의 문제이고, 수다리움 자체에 대한 방사성 탄소 검사에서는 7세기 무렵의 연대가 나왔습니다. 수다리움은 수의에 무게를 더해 줄 수 없습니다.",
+   "exhibits": [
+    "sudarium-oviedo"
+   ]
+  },
+  {
+   "id": "claim-church-yes",
+   "side": "for",
+   "verdict": "false",
+   "claim": "교회가 이것을 진품이라고 선언했다.",
+   "check": "가톨릭교회는 이것이 진품이라고 판정한 적이 한 번도 없습니다. 1998년 교황 요한 바오로 2세는 교회에는 이 문제를 결정할 특별한 권한이 없으며 과학에 맡긴다고 말했습니다. 교황들은 이것을 이콘이라고 부릅니다. 공경을 허락하는 것은 판정이 아닙니다.",
+   "exhibits": [
+    "church-position"
+   ]
+  },
+  {
+   "id": "claim-nasa",
+   "side": "for",
+   "verdict": "overstated",
+   "claim": "NASA가 형상이 3D라는 것을 증명했다.",
+   "check": "3D 효과는 실제로 있고 증거 파일에도 있습니다. 그러나 그것은 1976년 미 공군의 과학자 두 사람, 존 잭슨과 에릭 점퍼가 VP-8 이미지 분석기로 발견했습니다. NASA의 연구가 아니었습니다. 다만 이후 1978년 조사단의 일부 구성원은 NASA 제트추진연구소에서 일했습니다. 3D 효과는 형상이 몸과의 거리와 관련이 있다는 것을 보여 줍니다. 형상이 어떻게 만들어졌는지를 보여 주지는 않습니다.",
+   "exhibits": [
+    "three-d-information"
+   ],
+   "sources": [
+    {
+     "label": "STERA: VP-8 발견",
+     "url": "https://shroud.com/78strp10.htm"
+    }
+   ]
+  },
+  {
+   "id": "claim-watts",
+   "side": "for",
+   "verdict": "overstated",
+   "claim": "과학자들은 이 형상을 만드는 데 34조 와트의 빛이 필요했다고 말한다.",
+   "check": "이 숫자는 자외선 펄스로 작은 아마포 조각을 물들인 이탈리아의 레이저 실험(ENEA, 2011)에서 나왔습니다. 연구자들은 자신들의 방법으로 전신 형상을 만들려면 얼마나 큰 출력이 필요할지 추정했고, 오늘날 그만한 빛을 낼 수 있는 광원은 없다고 덧붙였습니다. 그것은 자신들의 방법에 대한 추정입니다. 수의에서 잰 측정값이 아니며, 부활의 증거도 아닙니다.",
+   "exhibits": [
+    "uv-laser-coloration"
+   ],
+   "sources": [
+    {
+     "label": "Di Lazzaro et al. 2011, ENEA report RT/2011/14 (이탈리아어)",
+     "url": "http://opac.bologna.enea.it:8991/RT/2011/2011_14_ENEA.pdf"
+    }
+   ]
+  },
+  {
+   "id": "claim-leonardo",
+   "side": "against",
+   "verdict": "false",
+   "claim": "레오나르도 다빈치가 만들었다.",
+   "check": "이 천은 1350년대에 이미 프랑스 리레에서 전시되고 있었고, 그 무렵의 순례자 배지가 지금도 남아 있습니다. 레오나르도는 1452년에 태어났으니, 약 한 세기 뒤입니다.",
+   "exhibits": [
+    "against-no-record-before-1350s"
+   ],
+   "sources": [
+    {
+     "label": "리레 순례자 배지, 클뤼니 박물관",
+     "url": "https://sindonology.org/papers/clunySouvenir.shtml"
+    },
+    {
+     "label": "위키백과(영어): History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "claim-confessed",
+   "side": "against",
+   "verdict": "partly",
+   "claim": "위조자가 중세에 자백했다.",
+   "check": "1389년 피에르 다르시 주교가 쓴 실제 편지에는 이전 주교가 그것을 그린 화가를 찾아냈다고 적혀 있습니다. 이것은 진지한 증거이며 증거 파일에도 있습니다. 그러나 그 화가의 이름은 한 번도 나오지 않고, 그 이전 조사의 기록도 발견되지 않았습니다. 이것은 자백이 있었다는 보고이지, 우리가 읽을 수 있는 자백이 아닙니다.",
+   "exhibits": [
+    "against-darcis-memorandum"
+   ]
+  },
+  {
+   "id": "claim-painting",
+   "side": "against",
+   "verdict": "partly",
+   "claim": "그냥 그림일 뿐이다. 물감이 발견되었다.",
+   "check": "월터 맥크론은 아주 작은 물감 입자를 발견하고 이것이 그려진 것이라고 결론 내렸습니다. 1978년 조사단은 형상 자체에는 안료도, 접착제도, 붓 자국도 없으며, 흩어진 입자들은 여러 세기 동안 이 천에 맞대어 눌렀던 채색 사본들에서 왔을 가능성이 크다는 것을 발견했습니다. 천에 물감 입자가 있는 것은 맞습니다. 형상이 그것으로 이루어진 것은 아닙니다.",
+   "exhibits": [
+    "against-mccrone-paint"
+   ]
+  },
+  {
+   "id": "claim-copied",
+   "side": "against",
+   "verdict": "overstated",
+   "claim": "과학자들이 완벽한 복제품을 만들었다.",
+   "check": "몇몇 복제품은 사진으로 보면 비슷합니다. 가장 잘 알려진 것은 2009년 루이지 가를라스켈리의 복제품입니다. 가까이서 보면 하나하나 다릅니다. 그의 복제품에서는 색이 섬유의 얇은 맨 윗층에만 있는 것이 아니라 안료 속에 있습니다. 지금까지 모든 복제품이 일부 특징과는 맞지만, 모든 특징과 맞는 것은 하나도 없습니다.",
+   "exhibits": [
+    "against-artistic-reproductions"
+   ]
+  },
+  {
+   "id": "claim-photo",
+   "side": "against",
+   "verdict": "noevidence",
+   "claim": "이것은 중세의 사진이다.",
+   "check": "일부 저자들은 중세의 누군가가 카메라 옵스큐라와 빛에 반응하는 화학 물질을 썼다고 주장했고, 한 현대 연구자는 석영 렌즈와 은염으로 비슷한 형상을 만들었습니다. 그러나 1978년의 X선 형광 검사에서는 형상 부위에서 은이나 다른 사진용 화학 물질이 발견되지 않았고, 당시에 그런 기술이 있었다는 기록도 없습니다.",
+   "sources": [
+    {
+     "label": "Morris, Schwalbe, London 1980, X-Ray Spectrometry 9(2):40-47",
+     "url": "https://www.shroud.com/pdfs/XRay%20Fluorescence%20Morris%20Schwalbe%20London%201980%20OCRsm.pdf"
+    }
+   ]
+  },
+  {
+   "id": "claim-scorch",
+   "side": "against",
+   "verdict": "noevidence",
+   "claim": "이것은 달군 조각상에 그을린 자국이다.",
+   "check": "아마포에 생긴 그을린 자국은 자외선 아래에서 빛납니다. 수의에 있는 1532년 화재의 불탄 자국은 실제로 빛납니다. 몸의 형상은 빛나지 않습니다. 그래서 단순한 그을린 자국일 가능성은 낮습니다.",
+   "exhibits": [
+    "uv-fluorescence-1978"
+   ]
+  },
+  {
+   "id": "claim-strips",
+   "side": "against",
+   "verdict": "partly",
+   "claim": "복음서는 예수가 한 장의 천이 아니라 띠로 싸였다고 말한다.",
+   "check": "마가, 마태, 누가는 세마포 한 장을 뜻하는 sindon이라는 말을 씁니다. 요한은 세마포 천들을 가리키는 복수형 단어 othonia를 쓰고, 따로 놓인 얼굴 수건도 언급합니다. 이 말들은 큰 천 한 장과 작은 천 몇 장으로도 이해할 수 있습니다. 복음서는 수의를 증명하지도, 배제하지도 않습니다.",
+   "exhibits": [
+    "against-gospel-linen-strips"
+   ]
+  },
+  {
+   "id": "claim-many",
+   "side": "against",
+   "verdict": "partly",
+   "claim": "‘예수의 수의’는 여러 개 있었으니, 이것도 그중 하나일 뿐이다.",
+   "check": "맞습니다. 중세 유럽에는 예수의 장례용 천이라고 주장된 천이 여럿 있었습니다. 프랑스 카두앵의 천은 1100년 무렵의 이집트 직물로 밝혀졌고, 거기에는 칼리프의 이름이 적힌 아랍어 글귀가 있었습니다. 그러나 그중 어느 것에도 이런 형상은 없습니다. 가짜가 많다는 것은 조심하라는 뜻입니다. 이것이 가짜라는 뜻은 아닙니다.",
+   "sources": [
+    {
+     "label": "The Cloth of Cadouin, Shroud Spectrum International 18",
+     "url": "https://www.shroud.com/pdfs/ssi18part5.pdf"
+    }
+   ]
+  },
+  {
+   "id": "claim-church-no",
+   "side": "against",
+   "verdict": "false",
+   "claim": "교회가 이것이 가짜라고 인정했다.",
+   "check": "어떤 교황이나 교회 기관도 이것을 가짜라고 선언한 적이 없습니다. 진품이라고 선언한 적이 없는 것과 마찬가지입니다. 1390년 아비뇽의 한 교황은 이것을 재현물로서만 전시하도록 허락했고, 오늘날 교황들은 이것을 이콘이라고 부릅니다. 두 경우 모두 그 기원에 대한 질문을 열어 둡니다.",
+   "exhibits": [
+    "church-position",
+    "against-darcis-memorandum"
+   ]
+  },
+  {
+   "id": "claim-nojesus",
+   "side": "against",
+   "verdict": "false",
+   "claim": "예수는 존재한 적이 없으니, 이것이 그의 것일 수는 없다.",
+   "check": "그 시대를 연구하는 역사학자들은 회의론자들을 포함해 거의 모두, 나사렛 예수가 실제로 살았고 본디오 빌라도 치하에서 십자가에 못 박혔다는 데 동의합니다. 로마의 역사가 타키투스는 서기 116년 무렵에 그의 처형을 언급합니다. 이 천이 그의 것인지는 별개의 질문이며, 바로 그 질문이 이 사이트가 다루는 것입니다.",
+   "sources": [
+    {
+     "label": "위키백과(영어): Historicity of Jesus",
+     "url": "https://en.wikipedia.org/wiki/Historicity_of_Jesus"
+    },
+    {
+     "label": "위키백과(영어): Tacitus on Jesus",
+     "url": "https://en.wikipedia.org/wiki/Tacitus_on_Jesus"
+    }
+   ]
+  }
+ ]
+}

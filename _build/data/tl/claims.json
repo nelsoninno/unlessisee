@@ -1,0 +1,297 @@
+{
+ "copy": {
+  "jumpLabel": "Sa pahinang ito",
+  "jumpEvidence": "Ang ebidensiya",
+  "jumpClaims": "Mga claim na maririnig mo, sinuri",
+  "jumpWeigh": "Ikaw mismo ang tumimbang",
+  "h2": "Mga claim na maririnig mo, sinuri",
+  "intro": "Makikita mo ang mga claim na ito sa mga video, comment at aklat. Ang ilan ay galing sa mga naniniwalang tunay ang Shroud, ang ilan sa mga siguradong peke ito. Sinuri namin ang bawat isa. Kung saklaw na ito ng case file, nagli-link kami sa buong exhibit. Kung hindi, narito mismo ang mga source.",
+  "filterLabel": "I-filter ayon sa kung sino ang karaniwang nagsasabi nito",
+  "all": "Lahat",
+  "sideFor": "Galing sa mga mananampalataya",
+  "sideAgainst": "Galing sa mga skeptic",
+  "tagFor": "Madalas sabihin pabor sa pagiging tunay",
+  "tagAgainst": "Madalas sabihin laban sa pagiging tunay",
+  "verdicts": {
+   "false": "Mali",
+   "noevidence": "Walang ebidensiya",
+   "unproven": "Hindi napatunayan",
+   "overstated": "Pinalaki",
+   "partly": "Bahagyang totoo"
+  },
+  "verdictKey": "Ang ibig sabihin ng mga label: Ang Mali ay nangangahulugang kabaligtaran ang ipinakikita ng tala. Ang Walang ebidensiya ay nangangahulugang walang sumusuporta rito. Ang Hindi napatunayan ay nangangahulugang posible ito pero hindi naipakita. Ang Pinalaki ay nangangahulugang may totoong bagay na pinalaki. Ang Bahagyang totoo ay nangangahulugang tama ang katotohanan pero mali ang konklusyong hinango rito.",
+  "seeExhibit": "Buong exhibit sa case file:",
+  "shown": "ipinapakita",
+  "toTop": "Bumalik sa itaas",
+  "next": "Susunod:"
+ },
+ "items": [
+  {
+   "id": "claim-debunked",
+   "side": "for",
+   "verdict": "overstated",
+   "claim": "Napabulaanan na ang carbon dating.",
+   "check": "May tunay na mahihinang punto ang pagsusuri noong 1988. Galing sa iisang sulok ang lahat ng sample, at nang ilabas ang raw data, natuklasan ng mga reanalysis na hindi kasing-tugma ng isa't isa ang mga sukat gaya ng ipinahiwatig ng nailathalang resulta. Pero walang laboratoryong naglabas ng bagong petsa, at walang reanalysis na naglipat sa resulta sa unang siglo. Ang pagpuna sa isang pagsusuri ay hindi katulad ng pagbaligtad dito. Ang petsa noong 1988 pa rin ang pinakamatibay na ebidensiya laban sa pagiging tunay.",
+   "exhibits": [
+    "against-radiocarbon-1988",
+    "radiocarbon-heterogeneity"
+   ]
+  },
+  {
+   "id": "claim-swap",
+   "side": "for",
+   "verdict": "noevidence",
+   "claim": "Pinagpalit ang mga sample, o dinaya ang resulta.",
+   "check": "Inakusahan ng ilang manunulat ang mga laboratoryo o ang mga organizer na pinalitan nila ang mga sample ng Shroud ng medieval na tela. Wala pang naipakitang ebidensiya ng pagpapalit. Kinunan ng video at may mga saksi ang paggupit, at nagpetsa rin ang bawat laboratoryo ng mga control na tela na alam ang edad, at tama ang mga petsang nakuha nila para sa mga iyon.",
+   "sources": [
+    {
+     "label": "Damon et al. 1989, Nature 337:611",
+     "url": "https://doi.org/10.1038/337611a0"
+    },
+    {
+     "label": "Wikipedia: Radiocarbon dating of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "claim-repair",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "Isang di-nakikitang medieval na pagkukumpuni ang pinetsahan ng mga laboratoryo.",
+   "check": "Iniulat ng chemist na si Raymond Rogers na iba ang mga sinulid mula sa sulok na pinetsahan kaysa sa pangunahing tela. Sinuri ng iba ang natirang piraso ng sample noong 1988 at wala silang nakitang palatandaan ng pagkukumpuni. Posible, pero hindi naipakita.",
+   "exhibits": [
+    "radiocarbon-sample-repair"
+   ]
+  },
+  {
+   "id": "claim-fire",
+   "side": "for",
+   "verdict": "noevidence",
+   "claim": "Binago ng sunog noong 1532, ng bakterya o ng biglang paglabas ng neutron ang petsa.",
+   "check": "Iminungkahi na ang bawat ideya, at wala pang naipakita. Para lumabas na medieval ang isang tela mula sa unang siglo, kailangang ang malaking bahagi ng carbon sa sample, humigit-kumulang sangkatlo o higit pa, ay kontaminasyong dumating nang mas huli at nakaligtas sa paglilinis sa laboratoryo. Wala pang nakatagpo nito.",
+   "exhibits": [
+    "radiocarbon-contamination"
+   ]
+  },
+  {
+   "id": "claim-newdate",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "Napetsahan ito ng mga bagong siyentipikong pamamaraan sa panahon ni Kristo.",
+   "check": "Dalawang mas bagong pamamaraan, ang X-ray scattering sa iisang sinulid at ang mga pagsusuri ni Fanti sa hibla, ang nagbigay ng mga resultang tugma sa unang siglo. Wala pa sa dalawa ang nasubok sa maraming tela na alam ang edad, at parehong nakasalalay sa mga palagay. May potensiyal, pero hindi ito isang petsa.",
+   "exhibits": [
+    "waxs-dating-2022",
+    "fanti-spectroscopic-mechanical-dating"
+   ]
+  },
+  {
+   "id": "claim-coins",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "Makikita mo sa imahe ang mga barya sa mata, mga sulat at mga bulaklak.",
+   "check": "Lumilitaw lamang ang mga hugis na ito sa mga litratong labis na pinroseso, at hindi ito nakikita ng ibang mananaliksik na tumitingin sa parehong mga imahe. Madaling makakita ang mata ng tao ng mga pattern sa random na ingay ng larawan. Hindi namin ito itinuturing na ebidensiya.",
+   "exhibits": [
+    "coins-and-inscriptions",
+    "flower-images"
+   ]
+  },
+  {
+   "id": "claim-pollen",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "Pinatutunayan ng pollen na nasa Jerusalem ang tela.",
+   "check": "Galing ang pollen sa mga sample na kinuha gamit ang sticky tape noong dekada 1970. Nagtapos ang isang eksperto sa pollen sa kalaunan na hindi matutukoy ang mga butil hanggang sa uri ng halaman, kaya dapat munang isantabi ang konklusyon tungkol sa Jerusalem hanggang mapag-aralan ang mga bagong sample. Hindi pa iyon nangyayari.",
+   "exhibits": [
+    "pollen-frei"
+   ]
+  },
+  {
+   "id": "claim-ab",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "Blood type AB ang dugo, gaya ng sa ibang tanyag na relikya.",
+   "check": "Hindi maaasahan ang pag-alam sa blood type ng napakatanda at sirang dugo, at kilalang maling resulta ang AB sa matatandang sample. Matibay ang ebidensiya na dugo ang mga mantsa. Hindi pa tiyak ang blood type.",
+   "exhibits": [
+    "blood-type-ab",
+    "blood-is-real-blood"
+   ]
+  },
+  {
+   "id": "claim-sudarium",
+   "side": "for",
+   "verdict": "unproven",
+   "claim": "Kinukumpirma ito ng Sudarium ng Oviedo.",
+   "check": "Ang Sudarium ay isang telang pantakip sa mukha na nakatago sa Oviedo, Spain. Usapin ng interpretasyon ang pagtutugma ng mga mantsa nito sa Shroud, at nagbigay ang mga radiocarbon test sa mismong Sudarium ng mga petsang nasa bandang ika-7 siglo. Hindi ito makapagdaragdag ng bigat sa Shroud.",
+   "exhibits": [
+    "sudarium-oviedo"
+   ]
+  },
+  {
+   "id": "claim-church-yes",
+   "side": "for",
+   "verdict": "false",
+   "claim": "Idineklara ng Simbahan na tunay ito.",
+   "check": "Hindi kailanman nagpasya ang Simbahang Katolika na tunay ito. Noong 1998, sinabi ni Papa Juan Pablo II na walang tiyak na kakayahan ang Simbahan na pagpasyahan ang tanong at iniiwan niya ito sa agham. Tinatawag ito ng mga papa na isang icon. Ang pagpapahintulot na parangalan ito ay hindi isang hatol.",
+   "exhibits": [
+    "church-position"
+   ]
+  },
+  {
+   "id": "claim-nasa",
+   "side": "for",
+   "verdict": "overstated",
+   "claim": "Pinatunayan ng NASA na 3D ang imahe.",
+   "check": "Totoo ang 3D effect at nasa case file ito. Pero natuklasan ito noong 1976 ng dalawang siyentipiko ng U.S. Air Force, sina John Jackson at Eric Jumper, gamit ang isang VP-8 Image Analyzer. Hindi ito pag-aaral ng NASA, kahit na nagtrabaho sa Jet Propulsion Laboratory ng NASA ang ilang miyembro ng sumunod na team noong 1978. Ipinakikita ng 3D effect na may kaugnayan ang imahe sa layo mula sa isang katawan. Hindi nito ipinakikita kung paano ginawa ang imahe.",
+   "exhibits": [
+    "three-d-information"
+   ],
+   "sources": [
+    {
+     "label": "STERA: ang pagkatuklas gamit ang VP-8",
+     "url": "https://shroud.com/78strp10.htm"
+    }
+   ]
+  },
+  {
+   "id": "claim-watts",
+   "side": "for",
+   "verdict": "overstated",
+   "claim": "Sabi ng mga siyentipiko, 34 trilyong watt ng liwanag ang kinailangan para mabuo ang imahe.",
+   "check": "Galing ang numero sa mga eksperimentong Italyano sa laser (ENEA, 2011) na nagkulay sa maliliit na piraso ng lino gamit ang mga pulso ng ultraviolet. Tinantiya ng mga mananaliksik ang lakas na kakailanganin ng kanilang pamamaraan para sa imahe ng buong katawan, at binanggit nilang walang pinagmumulan ng liwanag ngayon na kayang magbigay nito. Tantiya iyan tungkol sa sarili nilang pamamaraan. Hindi ito sukat na kinuha mula sa Shroud, at hindi ito ebidensiya ng muling pagkabuhay.",
+   "exhibits": [
+    "uv-laser-coloration"
+   ],
+   "sources": [
+    {
+     "label": "Di Lazzaro et al. 2011, ENEA report RT/2011/14 (Italyano)",
+     "url": "http://opac.bologna.enea.it:8991/RT/2011/2011_14_ENEA.pdf"
+    }
+   ]
+  },
+  {
+   "id": "claim-leonardo",
+   "side": "against",
+   "verdict": "false",
+   "claim": "Si Leonardo da Vinci ang gumawa nito.",
+   "check": "Ipinakikita na ang tela sa Lirey, France, noong dekada 1350, at may natitira pa ring pilgrim badge mula sa panahong iyon. Isinilang si Leonardo noong 1452, humigit-kumulang isang siglo pagkaraan.",
+   "exhibits": [
+    "against-no-record-before-1350s"
+   ],
+   "sources": [
+    {
+     "label": "Pilgrim badge mula sa Lirey, Musée de Cluny",
+     "url": "https://sindonology.org/papers/clunySouvenir.shtml"
+    },
+    {
+     "label": "Wikipedia: History of the Shroud of Turin",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin"
+    }
+   ]
+  },
+  {
+   "id": "claim-confessed",
+   "side": "against",
+   "verdict": "partly",
+   "claim": "Umamin ang manloloko noong Middle Ages.",
+   "check": "Sinasabi ng isang tunay na liham ni Obispo Pierre d'Arcis noong 1389 na natagpuan ng isang naunang obispo ang pintor na nagpinta nito. Seryosong ebidensiya ito at nasa case file. Pero hindi kailanman pinangalanan ang pintor, at walang natagpuang tala ng naunang imbestigasyong iyon. Ulat ito ng isang pag-amin, hindi isang pag-aming mababasa natin.",
+   "exhibits": [
+    "against-darcis-memorandum"
+   ]
+  },
+  {
+   "id": "claim-painting",
+   "side": "against",
+   "verdict": "partly",
+   "claim": "Ipininta lang ito. May nakitang pintura rito.",
+   "check": "Nakakita si Walter McCrone ng maliliit na particle ng pintura at nagtapos siya na ipininta ito. Natuklasan ng team noong 1978 na walang pigment, binder o marka ng brush ang mismong imahe, at malamang na galing ang mga nakakalat na particle sa mga ipinintang kopya na idinikit dito sa paglipas ng mga siglo. May mga particle ng pintura sa tela. Hindi gawa sa mga ito ang imahe.",
+   "exhibits": [
+    "against-mccrone-paint"
+   ]
+  },
+  {
+   "id": "claim-copied",
+   "side": "against",
+   "verdict": "overstated",
+   "claim": "Nakagawa na ang mga siyentipiko ng perpektong kopya.",
+   "check": "Malapit sa orihinal sa litrato ang ilang kopya, at ang pinakakilala ay ang kay Luigi Garlaschelli noong 2009. Sa malapitan, may pagkakaiba ang bawat isa. Sa kopya niya, nasa pigment ang kulay, hindi lamang sa manipis na pinakaibabaw na layer ng mga hibla. Tugma ang bawat kopya hanggang ngayon sa ilang katangian, at wala ni isang tumutugma sa lahat.",
+   "exhibits": [
+    "against-artistic-reproductions"
+   ]
+  },
+  {
+   "id": "claim-photo",
+   "side": "against",
+   "verdict": "noevidence",
+   "claim": "Isa itong medieval na litrato.",
+   "check": "Iminungkahi ng ilang manunulat na may gumamit noong Middle Ages ng camera obscura at mga kemikal na sensitibo sa liwanag, at nakagawa ang isang makabagong mananaliksik ng kahawig na imahe gamit ang quartz lens at silver salts. Pero walang nakitang silver o iba pang kemikal ng potograpiya sa bahagi ng imahe ang mga X-ray fluorescence test noong 1978, at walang tala ng ganitong teknolohiya noong panahong iyon.",
+   "sources": [
+    {
+     "label": "Morris, Schwalbe, London 1980, X-Ray Spectrometry 9(2):40-47",
+     "url": "https://www.shroud.com/pdfs/XRay%20Fluorescence%20Morris%20Schwalbe%20London%201980%20OCRsm.pdf"
+    }
+   ]
+  },
+  {
+   "id": "claim-scorch",
+   "side": "against",
+   "verdict": "noevidence",
+   "claim": "Paso ito mula sa isang pinainit na estatwa.",
+   "check": "Kumikinang sa ilalim ng ultraviolet light ang mga paso sa lino. Kumikinang nga ang mga paso mula sa sunog noong 1532 sa Shroud. Hindi kumikinang ang imahe ng katawan. Kaya hindi malamang na simpleng paso ito.",
+   "exhibits": [
+    "uv-fluorescence-1978"
+   ]
+  },
+  {
+   "id": "claim-strips",
+   "side": "against",
+   "verdict": "partly",
+   "claim": "Sinasabi ng mga Ebanghelyo na binalot si Hesus sa mga piraso ng tela, hindi sa iisang kumot.",
+   "check": "Gumagamit sina Marcos, Mateo at Lucas ng sindon, isang kumot na lino. Gumagamit si Juan ng othonia, isang salitang maramihan para sa mga telang lino, at bumabanggit siya ng hiwalay na telang pantakip sa mukha. Maaaring tumugma ang mga salita sa iisang malaking kumot kasama ang mas maliliit na tela. Hindi pinatutunayan ng mga Ebanghelyo ang Shroud, at hindi rin nila ito inaalis sa posibilidad.",
+   "exhibits": [
+    "against-gospel-linen-strips"
+   ]
+  },
+  {
+   "id": "claim-many",
+   "side": "against",
+   "verdict": "partly",
+   "claim": "Maraming 'shroud ni Hesus' noon, kaya isa lang ito sa marami.",
+   "check": "Totoo, may ilang tela sa Europa noong Middle Ages na sinasabing telang panlibing ni Hesus. Ang nasa Cadouin sa France ay lumabas na isang telang Egyptian mula noong mga 1100, na may inskripsiyong Arabe na nagbabanggit ng pangalan ng isang caliph. Pero wala ni isa sa kanila ang may imaheng tulad nito. Sinasabi sa atin ng maraming peke na mag-ingat. Hindi nila sinasabi sa atin na peke ang isang ito.",
+   "sources": [
+    {
+     "label": "The Cloth of Cadouin, Shroud Spectrum International 18",
+     "url": "https://www.shroud.com/pdfs/ssi18part5.pdf"
+    }
+   ]
+  },
+  {
+   "id": "claim-church-no",
+   "side": "against",
+   "verdict": "false",
+   "claim": "Inamin ng Simbahan na peke ito.",
+   "check": "Walang papa o lupon ng Simbahan na nagdeklarang peke ito, gaya ng walang nagdeklarang tunay ito. Noong 1390, pinahintulutan ng isang papa sa Avignon na ipakita ito bilang isang representasyon lamang, at ngayon ay tinatawag ito ng mga papa na isang icon. Parehong iniiwang bukas ang tanong tungkol sa pinagmulan nito.",
+   "exhibits": [
+    "church-position",
+    "against-darcis-memorandum"
+   ]
+  },
+  {
+   "id": "claim-nojesus",
+   "side": "against",
+   "verdict": "false",
+   "claim": "Hindi kailanman umiral si Hesus, kaya hindi maaaring kaniya ito.",
+   "check": "Halos lahat ng historyador ng panahong iyon, kabilang ang mga skeptic, ay sang-ayon na nabuhay si Hesus ng Nazaret at ipinako sa krus sa ilalim ni Poncio Pilato. Binabanggit ng Romanong historyador na si Tacito ang pagpatay sa kaniya noong bandang taong 116. Kung kaniya ang telang ito ay hiwalay na tanong, at iyon ang tanong na tinatalakay ng site na ito.",
+   "sources": [
+    {
+     "label": "Wikipedia: Historicity of Jesus",
+     "url": "https://en.wikipedia.org/wiki/Historicity_of_Jesus"
+    },
+    {
+     "label": "Wikipedia: Tacitus on Jesus",
+     "url": "https://en.wikipedia.org/wiki/Tacitus_on_Jesus"
+    }
+   ]
+  }
+ ]
+}

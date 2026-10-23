@@ -613,3 +613,4 @@ h1{font-size:clamp(2.5rem,5.6vw,4.6rem)}
 .verdict--overstated,.verdict--partly{border-color:var(--sepia);color:var(--sepia)}
 @media (max-width:860px){.heards{grid-template-columns:1fr}.heard{scroll-margin-top:80px}}
 .jump-next{margin-top:2rem;padding-top:1.2rem;border-top:1px solid var(--linen-edge);font-size:.95rem}
+:lang(ar) .heard__q q{quotes:"«" "»" "‹" "›"}
