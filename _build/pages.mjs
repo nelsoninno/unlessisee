@@ -573,7 +573,6 @@ ${vids.map(v => `<article class="vid" id="v-${attr(v.id)}">
   <ol class="vclaims">${v.claims.map(cl => `<li><a class="vt" href="https://www.youtube.com/watch?v=${attr(v.id)}&amp;t=${secs(cl.t)}s" target="_blank" rel="noopener">${esc(cl.t)}</a><div><div>${meter({ strength: rate }, cl.r)}</div><p class="vc">${esc(cl.c)}</p><p class="meta">${esc(cl.n)}</p></div></li>`).join('')}</ol>
 </article>`).join('')}
 ${rec}
-<div class="note measure" style="margin-top:3rem"><p><strong style="font-weight:600">${esc(p.missingH)}</strong></p><ul style="margin:.6rem 0 0 1.1rem">${(V.missing || []).map(m => `<li>${esc(m)}</li>`).join('')}</ul><p style="margin-top:.8rem">${p.missingAfter}</p></div>
 </div></section>`;
   return layout(ctx, page, { title: p.title, description: p.description, jsonld: siteGraph(ctx, page, p) }, body, ['assets/js/lists.js']);
 }
