@@ -318,14 +318,42 @@ ${srcList(it.sources)}
   <div><h2>${hp.weighH}</h2>${wp.teaser}<div class="btn-row"><a class="btn btn--solid" href="${ctx.href('weigh')}">${esc(wp.cta)}</a></div></div>
   <div><blockquote class="pull">${hp.quote}</blockquote><span class="cite">${hp.quoteCite}</span></div>
 </div></section>`;
+  // "Claims you will hear, checked": popular claims from both sides, linked to exhibits or sourced here
+  const CL = ctx.L.data.claims || { copy: {}, items: [] }, cc = CL.copy || {};
+  const exTitle = {}; items.forEach(i => exTitle[i.id] = i.title);
+  const claimsList = (CL.items || []).map(cl => {
+    const links = (cl.exhibits || []).filter(id => exTitle[id]).map(id => `<a href="#${attr(id)}">${esc(exTitle[id])}</a>`).join(' &middot; ');
+    return `<article class="heard" id="${attr(cl.id)}" data-side="${cl.side}">
+<div class="heard__head"><span class="exhibit__lean exhibit__lean--${cl.side}">${esc(cl.side === 'for' ? cc.tagFor : cc.tagAgainst)}</span><span class="verdict verdict--${attr(cl.verdict)}">${esc((cc.verdicts || {})[cl.verdict] || cl.verdict)}</span></div>
+<h3 class="heard__q"><q>${esc(cl.claim)}</q></h3>
+<p>${esc(cl.check)}</p>
+${links ? `<p class="meta heard__see">${esc(cc.seeExhibit)} ${links}</p>` : ''}${srcList(cl.sources)}
+</article>`;
+  }).join('\n');
+  const nClaims = (CL.items || []).length;
+  const cchip = (v, label, on) => `<button class="chip" type="button" data-cfilter="${v}" aria-pressed="${on ? 'true' : 'false'}">${esc(label)}</button>`;
+  const claimsSec = nClaims ? `
+<section class="linen band" id="claims" aria-labelledby="claims-h"><div class="wrap">
+  <h2 id="claims-h">${esc(cc.h2)}</h2>
+  <p class="lede measure" style="margin-top:1rem">${esc(cc.intro)}</p>
+  <div class="filters" role="group" aria-label="${attr(cc.filterLabel)}">${cchip('all', cc.all, true)}${cchip('for', cc.sideFor)}${cchip('against', cc.sideAgainst)}</div>
+  <p class="meta measure" style="margin:-1rem 0 2rem">${esc(cc.verdictKey)}</p>
+  <div class="heards">${claimsList}</div>
+  <p class="meta" style="margin-top:2rem"><a href="#main">${esc(cc.toTop)}</a></p>
+</div></section>` : '';
+  const jump = nClaims ? `<nav class="jump" aria-label="${attr(cc.jumpLabel)}"><span class="meta jump__label">${esc(cc.jumpLabel)}</span><a href="#exhibits" data-jump="exhibits">${esc(cc.jumpEvidence)} <b>${items.length}</b></a><a href="#claims" data-jump="claims">${esc(cc.jumpClaims)} <b>${nClaims}</b></a><a href="#weigh" data-jump="weigh">${esc(String(hp.weighH || cc.jumpWeigh).replace(/<[^>]+>/g, ''))}</a></nav>` : '';
   const body = `${pageHead(ctx, p, `<p class="meta" style="margin-top:1.5rem">${p.counts.replace('{n}', items.length).replace('{f}', nFor).replace('{a}', nAg)}</p>`)}
+${jump ? `<div class="jump-wrap"><div class="wrap">${jump}</div></div>` : ''}
 <section class="linen band band--tight" style="padding-top:0"><div class="wrap">
+  <div id="exhibits" class="ex-wrap">
   <div class="note measure">${p.method}</div>
   <div class="filters" role="group" aria-label="${attr(p.filterLean)}">${chip('lean', 'all', c.ui.all, true)}${chip('lean', 'for', c.lean.for)}${chip('lean', 'against', c.lean.against)}</div>
   <div class="filters" role="group" aria-label="${attr(p.filterCat)}" style="margin-top:-1rem">${chip('cat', 'all', c.ui.allTopics, true)}${cats.map(k => chip('cat', k, c.categories[k] || k)).join('')}</div>
   <p class="meta"><span data-ex-count>${items.length}</span> ${esc(c.ui.shown)} &middot; <button class="meta" type="button" data-open-all style="text-decoration:underline">${esc(c.ui.openAll)}</button></p>
   <div class="exhibits">${ex}</div>
-</div></section>${weigh}`;
+  ${nClaims ? `<p class="meta jump-next"><a href="#claims">${esc(cc.next || '')} ${esc(cc.jumpClaims)} (${nClaims})</a></p>` : ''}
+  </div>
+</div></section>${claimsSec}${weigh}`;
   return layout(ctx, page, { title: p.title, description: p.description, jsonld: siteGraph(ctx, page, p) }, body, ['assets/js/evidence.js']);
 }
 
@@ -519,7 +547,20 @@ function videos(ctx, page) {
   // Order chosen by Nelson: Barrie Schwortz (TEDx), then Truthly, then Jeremiah Johnston
   const ORDER = ['4G4sj8hUVaY', 'DA9unW5A0pk', 'rKMQY49py4w'];
   const vids = V.videos.slice().sort((a, b) => (ORDER.indexOf(a.id) + 1 || 99) - (ORDER.indexOf(b.id) + 1 || 99));
-  const pick = `<nav class="vid-pick" aria-label="${attr(p.h1)}">${vids.map((v, i) => `<a class="vid-pick__item" href="#v-${attr(v.id)}" data-vid="${attr(v.id)}"><span class="vid-pick__thumb" style="background-image:url(https://i.ytimg.com/vi/${attr(v.id)}/mqdefault.jpg)"><b>${i + 1}</b></span><span class="vid-pick__text"><span class="meta">${esc(v.channel)}</span><span class="vid-pick__title">${esc(v.title)}</span></span></a>`).join('')}</nav>`;
+  // A companion video that is not about the Shroud (chosen by Nelson), shown after the three, clearly labeled
+  const R = V.recommended || (ctx.L.data.videosEn || {}).recommended;
+  const recPick = R ? `<a class="vid-pick__item vid-pick__item--rec" href="#v-${attr(R.id)}" data-vid="${attr(R.id)}"><span class="vid-pick__thumb" style="background-image:url(https://i.ytimg.com/vi/${attr(R.id)}/mqdefault.jpg)"></span><span class="vid-pick__text"><span class="meta">${esc(R.label)}</span><span class="vid-pick__title">${esc(R.kicker)}: ${esc(R.guest)}</span></span></a>` : '';
+  const pick = `<nav class="vid-pick${R ? ' vid-pick--4' : ''}" aria-label="${attr(p.h1)}">${vids.map((v, i) => `<a class="vid-pick__item" href="#v-${attr(v.id)}" data-vid="${attr(v.id)}"><span class="vid-pick__thumb" style="background-image:url(https://i.ytimg.com/vi/${attr(v.id)}/mqdefault.jpg)"><b>${i + 1}</b></span><span class="vid-pick__text"><span class="meta">${esc(v.channel)}</span><span class="vid-pick__title">${esc(v.title)}</span></span></a>`).join('')}${recPick}</nav>`;
+  const rec = R ? `<article class="vid vid--rec" id="v-${attr(R.id)}">
+  <p class="vid__kicker">${esc(R.kicker)}</p>
+  <div class="vid__head">
+    <button class="vid__facade" type="button" data-yt="${attr(R.id)}" aria-label="${attr(p.play + ': ' + R.title)}" style="background-image:url(https://i.ytimg.com/vi/${attr(R.id)}/hqdefault.jpg)"><span>${esc(p.play)}</span></button>
+    <div><p class="meta">${esc(R.channel)} &middot; ${R.year} &middot; ${esc(R.length)}</p><h2 class="vid__title">${esc(R.title)} <span class="vid__guest">${esc(R.guest)}</span></h2><p>${esc(R.summary)}</p><p class="vid__why">${esc(R.why)}</p>
+    <p class="meta" style="margin-top:.8rem"><a href="https://www.youtube.com/watch?v=${attr(R.id)}" target="_blank" rel="noopener">${esc(p.watch)}</a></p></div>
+  </div>
+  <h3 class="vid__chh">${esc(R.chaptersH)}</h3>
+  <ol class="vchapters">${(R.chapters || []).map(ch => `<li><a class="vt" href="https://www.youtube.com/watch?v=${attr(R.id)}&amp;t=${secs(ch.t)}s" target="_blank" rel="noopener">${esc(ch.t)}</a><span>${esc(ch.c)}</span></li>`).join('')}</ol>
+</article>` : '';
   const body = `${pageHead(ctx, p)}
 <section class="linen band band--tight" style="padding-top:0"><div class="wrap">
 ${pick}
@@ -531,6 +572,7 @@ ${vids.map(v => `<article class="vid" id="v-${attr(v.id)}">
   </div>
   <ol class="vclaims">${v.claims.map(cl => `<li><a class="vt" href="https://www.youtube.com/watch?v=${attr(v.id)}&amp;t=${secs(cl.t)}s" target="_blank" rel="noopener">${esc(cl.t)}</a><div><div>${meter({ strength: rate }, cl.r)}</div><p class="vc">${esc(cl.c)}</p><p class="meta">${esc(cl.n)}</p></div></li>`).join('')}</ol>
 </article>`).join('')}
+${rec}
 <div class="note measure" style="margin-top:3rem"><p><strong style="font-weight:600">${esc(p.missingH)}</strong></p><ul style="margin:.6rem 0 0 1.1rem">${(V.missing || []).map(m => `<li>${esc(m)}</li>`).join('')}</ul><p style="margin-top:.8rem">${p.missingAfter}</p></div>
 </div></section>`;
   return layout(ctx, page, { title: p.title, description: p.description, jsonld: siteGraph(ctx, page, p) }, body, ['assets/js/lists.js']);

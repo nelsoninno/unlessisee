@@ -571,3 +571,45 @@ h1{font-size:clamp(2.5rem,5.6vw,4.6rem)}
 .vid-pick__title{font-family:var(--font-sans);font-size:.82rem;line-height:1.25;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .vid{scroll-margin-top:190px}
 @media (max-width:900px){.vid-pick{grid-template-columns:1fr;gap:.3rem}.vid{scroll-margin-top:80px}.vid-pick__thumb{width:84px}}
+
+/* Videos: companion video that is not about the Shroud */
+.vid-pick--4{grid-template-columns:repeat(4,minmax(0,1fr))}
+.vid-pick__item--rec{border-style:dashed;border-color:var(--linen-edge)}
+.vid-pick__item--rec .vid-pick__thumb{opacity:.85}
+.vid--rec{margin-top:3rem;padding:2.5rem clamp(1rem,3vw,2.5rem);background:var(--white);border:1px dashed var(--linen-edge);border-radius:20px}
+.vid__kicker{font-family:var(--font-sans);font-size:.85rem;font-weight:600;color:var(--sepia);margin-bottom:1.2rem}
+.vid__guest{display:block;font-size:.6em;color:var(--ink-soft);margin-top:.3rem}
+.vid__why{margin-top:.9rem;padding-inline-start:1rem;border-inline-start:2px solid var(--sepia);color:var(--ink-soft)}
+.vid__chh{font-family:var(--font-sans);font-size:1rem;font-weight:600;margin:2rem 0 .8rem}
+.vchapters{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.2rem 2rem}
+.vchapters li{display:flex;gap:1rem;align-items:baseline;padding:.55rem 0;border-top:1px solid var(--linen-edge);font-family:var(--font-sans);font-size:.95rem;min-width:0}
+.vchapters .vt{flex:none;min-width:4.2rem}
+@media (max-width:1100px){.vid-pick--4{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:900px){.vid-pick--4{grid-template-columns:1fr}.vchapters{grid-template-columns:1fr}}
+
+/* Case file: jump links and "Claims you will hear, checked" */
+.jump{display:flex;flex-wrap:wrap;align-items:center;gap:.4rem .5rem;margin:0 0 2rem;padding:.55rem .7rem;background:color-mix(in srgb,var(--linen) 92%,transparent);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);border:1px solid var(--linen-edge);border-radius:999px;z-index:20;font-family:var(--font-sans)}
+.jump__label{padding-inline:.4rem}
+.jump a{font-size:.88rem;color:var(--ink);text-decoration:none;padding:.35rem .8rem;border-radius:999px;border:1px solid transparent}
+.jump a b{font-weight:600;color:var(--sepia);margin-inline-start:.2rem}
+.jump a:hover{background:var(--white);border-color:var(--linen-edge)}
+.jump a.is-on{background:var(--ink);color:var(--white)}
+.jump a.is-on b{color:var(--white)}
+.jump-wrap{background:var(--linen);padding-bottom:.2rem}
+@media (min-width:901px){.jump-wrap{position:sticky;top:64px;z-index:20;padding-top:.6rem;background:transparent;pointer-events:none}.jump-wrap .jump{pointer-events:auto;margin-bottom:1.4rem}#exhibits,#claims,#weigh{scroll-margin-top:150px}}
+@media (max-width:900px){.jump{border-radius:16px}.jump__label{width:100%}#exhibits,#claims,#weigh{scroll-margin-top:80px}}
+.heards{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1.25rem}
+.heard{background:var(--white);border:1px solid var(--linen-edge);border-radius:16px;padding:1.4rem 1.5rem;min-width:0;scroll-margin-top:140px}
+.heard[hidden]{display:none}
+.heard__head{display:flex;flex-wrap:wrap;justify-content:space-between;gap:.5rem;align-items:center;margin-bottom:.8rem}
+.heard__q{font-size:clamp(1.15rem,1.6vw,1.35rem);line-height:1.35;margin-bottom:.7rem;text-wrap:balance}
+.heard p{font-size:1rem;line-height:1.65}
+.heard__see{margin-top:.8rem}
+.heard .sources{margin-top:.6rem}
+.verdict{font-family:var(--font-sans);font-size:.78rem;font-weight:600;padding:.2rem .7rem;border-radius:999px;border:1px solid var(--ink);color:var(--ink);white-space:nowrap}
+.verdict--false{background:var(--ink);color:var(--white)}
+.verdict--noevidence{border-color:var(--ink-soft);color:var(--ink-soft)}
+.verdict--unproven{border-style:dashed}
+.verdict--overstated,.verdict--partly{border-color:var(--sepia);color:var(--sepia)}
+@media (max-width:860px){.heards{grid-template-columns:1fr}.heard{scroll-margin-top:80px}}
+.jump-next{margin-top:2rem;padding-top:1.2rem;border-top:1px solid var(--linen-edge);font-size:.95rem}

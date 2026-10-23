@@ -40,12 +40,13 @@ Also known as: See the Shroud; Hasta que no vea (Spanish). The subject is also c
 - [Questions and answers](https://seetheshroud.org/faq.html): the Shroud of Turin explained in 19 short, sourced answers
 - [Explore the cloth](https://seetheshroud.org/explore.html): zoomable full-cloth image with negative filter and annotated marks
 - [The case file](https://seetheshroud.org/evidence.html): 52 arguments for and against, rated by strength, with the skeptic's best answer
+- [Claims you will hear, checked](https://seetheshroud.org/evidence.html#claims): 22 popular claims from both sides (Leonardo da Vinci, NASA, the Church, the carbon date, pollen, coins over the eyes and more), each with a verdict and sources
 - [Your verdict](https://seetheshroud.org/weigh.html): weigh 14 key points yourself; skeptic, neutral and believer presets
 - [The wounds](https://seetheshroud.org/wounds.html): each wound described by forensic pathologists, next to the Gospel text
 - [Carbon dating](https://seetheshroud.org/dating.html): the 1988 test, all twelve measurements, the sample, the reanalyses
 - [How was it made?](https://seetheshroud.org/image.html): image properties and every hypothesis, including painting, scorch, rubbing, proto-photography, Maillard reaction and radiation
 - [Timeline](https://seetheshroud.org/timeline.html): documented and hypothesized history
-- [Videos checked](https://seetheshroud.org/videos.html): three popular videos fact-checked claim by claim
+- [Videos checked](https://seetheshroud.org/videos.html): three popular videos fact-checked claim by claim, plus one recommended conversation about the historical Jesus
 - [Library](https://seetheshroud.org/library.html): searchable index of research papers, mostly from shroud.com
 - [What now?](https://seetheshroud.org/next.html): next steps for skeptics, seekers and believers
 - [About](https://seetheshroud.org/about.html): method, credits, contact
@@ -480,6 +481,81 @@ During the failed palace revolt of John Comnenus in 1201 (some scholars date it 
 Skeptic: This is an eyewitness who looked after these relics, writing in the same list where he took care to note an image on a towel. If the linens had borne a full-length figure of the crucified Christ, that would have been the most striking thing about them. His plain linens also weaken Robert de Clari's report, two or three years later, of a shroud in the city showing the figure of the Lord.
 Reply: Mesarites was writing a rhetorical speech, a list he calls a decalogue of relics with a sentence or two for each, not a description of each object, so his silence about an image is weak evidence. He uses the plural, 'burial shrouds,' and may mean several cloths. The passage does show that linens venerated as Jesus' burial cloths were kept in the palace in 1201, which the Edessa and de Clari hypotheses need. It cannot show whether one of them was this Shroud.
 Sources: Mesarites, The Palace Revolution of John Comnenus (excerpts), Shroud Spectrum International 17, 1985 https://www.shroud.com/pdfs/ssi17part4.pdf; Wikipedia: John Komnenos the Fat https://en.wikipedia.org/wiki/John_Komnenos_the_Fat
+
+## Claims you will hear, checked
+
+### "The carbon dating has been debunked." (usually said for authenticity; verdict: overstated)
+The 1988 test has real weak points. All samples came from one corner, and when the raw data were released, reanalyses found the measurements do not agree with each other as well as the published result implied. But no laboratory has produced a new date, and no reanalysis has moved the result to the first century. Criticizing a test is not the same as overturning it. The 1988 date is still the strongest evidence against authenticity.
+
+### "The samples were switched, or the result was rigged." (usually said for authenticity; verdict: no evidence)
+Some writers accused the laboratories or the organizers of swapping the Shroud samples for medieval cloth. No evidence of a swap has ever been produced. The cutting was filmed and witnessed, and each laboratory also dated control cloths of known age and got those dates right.
+Sources: Damon et al. 1989, Nature 337:611 https://doi.org/10.1038/337611a0; Wikipedia: Radiocarbon dating of the Shroud of Turin https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin
+
+### "The labs dated an invisible medieval repair." (usually said for authenticity; verdict: unproven)
+Chemist Raymond Rogers reported that threads from the dated corner differ from the main cloth. Others examined a leftover piece of the 1988 sample and found no sign of a repair. Possible, not shown.
+
+### "The 1532 fire, bacteria or a burst of neutrons changed the date." (usually said for authenticity; verdict: no evidence)
+Each idea has been proposed and none has been shown. To make a first-century cloth test as medieval, a large share of the carbon in the sample, roughly a third or more, would have to be later contamination that survived the lab cleaning. No one has found it.
+
+### "New scientific methods dated it to the time of Christ." (usually said for authenticity; verdict: unproven)
+Two newer methods, X-ray scattering on one thread and Fanti's fiber tests, gave results compatible with the first century. Neither method has been tested on many cloths of known age, and both depend on assumptions. Promising, not a date.
+
+### "You can see coins over the eyes, writing and flowers in the image." (usually said for authenticity; verdict: unproven)
+These shapes show up only in heavily processed photographs, and other researchers looking at the same images do not see them. The human eye easily finds patterns in noise. We do not count them as evidence.
+
+### "Pollen proves the cloth was in Jerusalem." (usually said for authenticity; verdict: unproven)
+The pollen came from sticky tape samples taken in the 1970s. A later pollen expert concluded the grains cannot be identified down to the plant species, so the Jerusalem conclusion should be set aside until new samples are studied. That has not happened yet.
+
+### "The blood is type AB, the same as other famous relics." (usually said for authenticity; verdict: unproven)
+Typing very old, degraded blood is unreliable, and AB is a known false result with aged samples. The evidence that the stains are blood is good. The blood type is not settled.
+
+### "The Sudarium of Oviedo confirms it." (usually said for authenticity; verdict: unproven)
+The Sudarium is a face cloth kept in Oviedo, Spain. Matching its stains to the Shroud is a matter of interpretation, and radiocarbon tests on the Sudarium itself gave dates around the 7th century. It cannot add weight to the Shroud.
+
+### "The Church has declared it authentic." (usually said for authenticity; verdict: false)
+The Catholic Church has never ruled that it is authentic. In 1998 Pope John Paul II said the Church has no specific competence to decide the question and leaves it to science. Popes call it an icon. Allowing veneration is not a verdict.
+
+### "NASA proved the image is 3D." (usually said for authenticity; verdict: overstated)
+The 3D effect is real and is in the case file. But it was found in 1976 by two U.S. Air Force scientists, John Jackson and Eric Jumper, using a VP-8 Image Analyzer. It was not a NASA study, although some members of the later 1978 team worked at NASA's Jet Propulsion Laboratory. The 3D effect shows the image relates to distance from a body. It does not show how the image was made.
+Sources: STERA: the VP-8 discovery https://shroud.com/78strp10.htm
+
+### "Scientists say it took 34 trillion watts of light to make the image." (usually said for authenticity; verdict: overstated)
+The number comes from Italian laser experiments (ENEA, 2011) that colored small pieces of linen with ultraviolet pulses. The researchers estimated the power their method would need for a whole body image and noted no light source today can deliver it. That is an estimate about their own method. It is not a measurement taken from the Shroud, and it is not evidence of a resurrection.
+Sources: Di Lazzaro et al. 2011, ENEA report RT/2011/14 (Italian) http://opac.bologna.enea.it:8991/RT/2011/2011_14_ENEA.pdf
+
+### "Leonardo da Vinci made it." (usually said against authenticity; verdict: false)
+The cloth was already on display in Lirey, France, in the 1350s, and a pilgrim badge from that time still survives. Leonardo was born in 1452, about a century later.
+Sources: Lirey pilgrim badge, Musée de Cluny https://sindonology.org/papers/clunySouvenir.shtml; Wikipedia: History of the Shroud of Turin https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin
+
+### "The forger confessed in the Middle Ages." (usually said against authenticity; verdict: partly true)
+A real letter from Bishop Pierre d'Arcis in 1389 says an earlier bishop found the artist who painted it. This is serious evidence and it is in the case file. But the artist is never named and no record of that earlier inquiry has been found. It is a report of a confession, not a confession we can read.
+
+### "It is just a painting. Paint was found on it." (usually said against authenticity; verdict: partly true)
+Walter McCrone found tiny paint particles and concluded it was painted. The 1978 team found that the image itself has no pigment, binder or brush marks, and that scattered particles likely came from painted copies pressed against it over the centuries. Paint particles are on the cloth. The image is not made of them.
+
+### "Scientists have made a perfect copy." (usually said against authenticity; verdict: overstated)
+Several copies come close in a photograph, the best known by Luigi Garlaschelli in 2009. Up close each one differs. In his copy the color sits in pigment, not only in the thin top layer of the fibers. Every copy so far matches some features, and none matches all of them.
+
+### "It is a medieval photograph." (usually said against authenticity; verdict: no evidence)
+Some writers proposed that someone in the Middle Ages used a camera obscura and light-sensitive chemicals, and a modern researcher made a similar image with a quartz lens and silver salts. But the 1978 X-ray fluorescence tests found no silver or other photographic chemicals in the image area, and there is no record of such technology at the time.
+Sources: Morris, Schwalbe, London 1980, X-Ray Spectrometry 9(2):40-47 https://www.shroud.com/pdfs/XRay%20Fluorescence%20Morris%20Schwalbe%20London%201980%20OCRsm.pdf
+
+### "It is a scorch from a heated statue." (usually said against authenticity; verdict: no evidence)
+Scorches on linen glow under ultraviolet light. The burns from the 1532 fire on the Shroud do glow. The body image does not. That makes a simple scorch unlikely.
+
+### "The Gospels say Jesus was wrapped in strips, not one sheet." (usually said against authenticity; verdict: partly true)
+Mark, Matthew and Luke use sindon, a linen sheet. John uses othonia, a plural word for linen cloths, and mentions a separate face cloth. The words can fit one large sheet plus smaller cloths. The Gospels neither prove nor rule out the Shroud.
+
+### "There were many 'shrouds of Jesus', so this is just one more." (usually said against authenticity; verdict: partly true)
+True, medieval Europe had several cloths claimed as Jesus's burial cloths. The one at Cadouin in France turned out to be an Egyptian fabric from around 1100, with an Arabic inscription naming a caliph. But none of them carries an image like this one. Many fakes tell us to be careful. They do not tell us that this one is fake.
+Sources: The Cloth of Cadouin, Shroud Spectrum International 18 https://www.shroud.com/pdfs/ssi18part5.pdf
+
+### "The Church admitted it is a fake." (usually said against authenticity; verdict: false)
+No pope or Church body has declared it a fake, just as none has declared it authentic. In 1390 a pope at Avignon allowed it to be shown only as a representation, and today popes call it an icon. Both leave the question of its origin open.
+
+### "Jesus never existed, so it cannot be his." (usually said against authenticity; verdict: false)
+Almost all historians of the period, including skeptics, agree that Jesus of Nazareth lived and was crucified under Pontius Pilate. The Roman historian Tacitus mentions his execution around the year 116. Whether this cloth is his is a separate question, and that question is what this site is about.
+Sources: Wikipedia: Historicity of Jesus https://en.wikipedia.org/wiki/Historicity_of_Jesus; Wikipedia: Tacitus on Jesus https://en.wikipedia.org/wiki/Tacitus_on_Jesus
 
 ## Timeline
 - c. AD 30 or 33: Crucifixion and burial of Jesus (hypothesized). The Gospels say Joseph of Arimathea wrapped the body in a linen cloth (sindon) and laid it in a rock tomb. John mentions linen cloths and a separate face cloth. Any link to this Shroud is a hypothesis.

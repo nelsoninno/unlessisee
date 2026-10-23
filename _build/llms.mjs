@@ -29,12 +29,13 @@ ${faq.map(f => `- [${f.q}](${d}faq.html#${f.id})`).join('\n')}
 - [Questions and answers](${d}faq.html): the Shroud of Turin explained in ${faq.length} short, sourced answers
 - [Explore the cloth](${d}explore.html): zoomable full-cloth image with negative filter and annotated marks
 - [The case file](${d}evidence.html): ${L.data.evidence ? L.data.evidence.items.length : ''} arguments for and against, rated by strength, with the skeptic's best answer
+- [Claims you will hear, checked](${d}evidence.html#claims): ${L.data.claims ? L.data.claims.items.length : ''} popular claims from both sides (Leonardo da Vinci, NASA, the Church, the carbon date, pollen, coins over the eyes and more), each with a verdict and sources
 - [Your verdict](${d}weigh.html): weigh 14 key points yourself; skeptic, neutral and believer presets
 - [The wounds](${d}wounds.html): each wound described by forensic pathologists, next to the Gospel text
 - [Carbon dating](${d}dating.html): the 1988 test, all twelve measurements, the sample, the reanalyses
 - [How was it made?](${d}image.html): image properties and every hypothesis, including painting, scorch, rubbing, proto-photography, Maillard reaction and radiation
 - [Timeline](${d}timeline.html): documented and hypothesized history
-- [Videos checked](${d}videos.html): three popular videos fact-checked claim by claim
+- [Videos checked](${d}videos.html): three popular videos fact-checked claim by claim, plus one recommended conversation about the historical Jesus
 - [Library](${d}library.html): searchable index of research papers, mostly from shroud.com
 - [What now?](${d}next.html): next steps for skeptics, seekers and believers
 - [About](${d}about.html): method, credits, contact
@@ -52,6 +53,11 @@ export function llmsFull(L, C) {
   s += '\n## The case file, item by item\n';
   for (const it of (L.data.evidence ? L.data.evidence.items : [])) {
     s += `\n### ${it.title} (${it.lean === 'against' ? 'argument against authenticity' : it.lean === 'neutral' ? 'context' : 'argument for authenticity'}, rated ${it.strength})\n${strip(it.claim)}\n${strip(it.detail)}\nSkeptic: ${strip(it.skeptic)}\n${it.reply ? 'Reply: ' + strip(it.reply) + '\n' : ''}Sources: ${(it.sources || []).map(x => x.label + ' ' + x.url).join('; ')}\n`;
+  }
+  if (L.data.claims && L.data.claims.items) {
+    const V = { false: 'false', noevidence: 'no evidence', unproven: 'unproven', overstated: 'overstated', partly: 'partly true' };
+    s += '\n## Claims you will hear, checked\n';
+    for (const cl of L.data.claims.items) s += `\n### "${cl.claim}" (usually said ${cl.side === 'against' ? 'against' : 'for'} authenticity; verdict: ${V[cl.verdict] || cl.verdict})\n${strip(cl.check)}\n${(cl.sources || []).length ? 'Sources: ' + cl.sources.map(x => x.label + ' ' + x.url).join('; ') + '\n' : ''}`;
   }
   s += '\n## Timeline\n';
   for (const e of (L.data.timeline ? L.data.timeline.events : [])) s += `- ${e.date_label}: ${e.title} (${e.certainty}). ${strip(e.text)}\n`;
