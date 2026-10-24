@@ -1,11 +1,11 @@
 // Texto em português do Brasil. Linguagem simples, sem travessões. HTML permitido nos campos longos.
 export default {
-  brand: 'Se em suas mãos não vir',
+  brand: 'See The Shroud',
   locale: 'pt_BR',
-  shareImage: 'social-share-unless-i-see-seetheshroud.org.jpg',
-  keywords: 'Santo Sudário de Turim, Sudário de Turim, Santo Sudário, Santo Sudário evidências, Santo Sudário datação por carbono, Santo Sudário imagem negativa, Santo Sudário 3D, o Santo Sudário é verdadeiro, mortalha de Jesus, sindonologia, Shroud of Turin, STURP, Secondo Pia',
+  shareImage: 'social-share-see-the-shroud-seetheshroud.org.jpg',
+  keywords: 'See The Shroud, explorar o Santo Sudário de Turim, examinar o Santo Sudário de Turim, ver o Santo Sudário de perto, Santo Sudário interativo, site interativo do Santo Sudário, Santo Sudário em alta resolução, guia visual do Santo Sudário, tudo sobre o Santo Sudário de Turim, Santo Sudário de Turim, Sudário de Turim, Santo Sudário, Santo Sudário evidências, Santo Sudário datação por carbono, Santo Sudário imagem negativa, Santo Sudário 3D, o Santo Sudário é verdadeiro, mortalha de Jesus, sindonologia, Shroud of Turin, STURP, Secondo Pia',
   shareAlt: 'O rosto do Santo Sudário de Turim como negativo fotográfico',
-  orgDescription: '“Se em suas mãos não vir” é um projeto educativo gratuito e sem fins comerciais que apresenta as evidências a favor e contra a autenticidade do Santo Sudário de Turim, com fontes, em vários idiomas.',
+  orgDescription: 'See The Shroud é um site educativo gratuito e sem fins comerciais onde você pode explorar e examinar de perto o Santo Sudário de Turim (em alta resolução, em negativo e em 3D) e pesar as evidências a favor e contra a sua autenticidade, com todas as fontes, em 12 idiomas.',
   ui: {
     skip: 'Pular para o conteúdo', menu: 'Menu', mainNav: 'Principal', language: 'Idioma',
     exhibit: 'Item', detail: 'Os detalhes', skeptic: 'A melhor resposta cética', reply: 'A réplica',
@@ -28,7 +28,7 @@ export default {
   footer: {
     about: 'Um projeto gratuito e sem fins comerciais. Cada afirmação tem fonte no dossiê, inclusive as fontes que discordam de nós.',
     explore: 'Explorar', more: 'Aprofundar', extra: [],
-    rights: 'Texto {year} “Se em suas mãos não vir”. Livre para compartilhar com um link para o site. Créditos das imagens na página Sobre.',
+    rights: 'Texto {year} See The Shroud. Livre para compartilhar com um link para o site. Créditos das imagens na página Sobre.',
     eky: 'Site feito com amor, por', ekyAria: 'Site feito com amor por everybodyknowsyou.com'
   },
   strength: { strong: 'Forte', moderate: 'Moderada', weak: 'Fraca', disputed: 'Contestada', debunked: 'Refutada' },
@@ -88,12 +88,12 @@ export default {
     labsAlt: 'Gráfico das doze medições de radiocarbono publicadas pelos laboratórios do Arizona, de Oxford e de Zurique, com barras de erro',
     bpAxis: 'Idade por radiocarbono, em anos antes de 1950 (AP). Menor significa mais recente.', bpShort: 'anos de radiocarbono AP', labMean: 'Média do laboratório', combined: 'Combinado'
   },
-  notFound: { title: 'Página não encontrada | Se em suas mãos não vir', h1: 'Esta página não está aqui', text: 'O link pode ser antigo, ou o endereço pode ter um erro de digitação. Tudo no site começa na página inicial.', cta: 'Ir para a página inicial' },
+  notFound: { title: 'Página não encontrada | See The Shroud', h1: 'Esta página não está aqui', text: 'O link pode ser antigo, ou o endereço pode ter um erro de digitação. Tudo no site começa na página inicial.', cta: 'Ir para a página inicial' },
 
   pages: {
     index: {
-      title: 'Santo Sudário de Turim: as evidências a favor e contra | Se em suas mãos não vir',
-      description: 'O Santo Sudário de Turim é verdadeiro? Explore o pano em alta resolução, veja o negativo e a imagem em 3D e pese as evidências dos dois lados, com as fontes.',
+      title: 'See The Shroud: explore o Santo Sudário de Turim e suas evidências',
+      description: 'Explore e examine de perto o Santo Sudário de Turim: zoom, negativo, 3D, mapa das feridas e as evidências a favor e contra, com fontes. Grátis, em 12 idiomas.',
       h1: 'Examine o Santo Sudário de Turim por conta própria',
       lede: 'Um pano de linho de 4,4 metros traz a imagem tênue de um homem que foi flagelado e crucificado. Uns dizem que é uma falsificação medieval. Outros, que é a mortalha de Jesus. Aqui estão as evidências dos dois lados, com todas as fontes, para que você mesmo julgue.',
       cta1: 'Explorar o pano', cta2: 'Ler o dossiê',
@@ -102,7 +102,7 @@ export default {
       hint2: 'Passe o cursor sobre o rosto para vê-lo como o olho o vê',
       faceCaption: 'O rosto do Sudário. Fotografia de Giuseppe Enrie, 1931.',
       thomasText: `<h2>Tomé pediu para ver as marcas</h2>
-<p>Este site leva o nome do cético mais honesto dos Evangelhos. Tomé não acreditou no que os amigos lhe contaram. Ele queria uma prova que pudesse ver e tocar: as marcas dos cravos, a ferida no lado.</p>
+<p>Este site foi feito no espírito do cético mais honesto dos Evangelhos. Tomé não acreditou no que os amigos lhe contaram. Ele queria uma prova que pudesse ver e tocar: as marcas dos cravos, a ferida no lado.</p>
 <p>O Santo Sudário de Turim mostra um homem com marcas do mesmo tipo. Se ele é o que muitos acreditam que é, essa é a pergunta que este site deixa para você. Vamos mostrar as marcas, os testes, as dúvidas e as respostas, e indicar cada fonte.</p>`,
       thomasCta: 'Ver as marcas',
       objH: 'O que é',
@@ -177,8 +177,8 @@ export default {
     },
 
     explore: {
-      title: 'Explore o Santo Sudário de Turim em alta resolução | Se em suas mãos não vir',
-      description: 'Aproxime o Santo Sudário de Turim inteiro, mude para o negativo fotográfico, realce a imagem e encontre cada ferida, queimadura e remendo, com explicações.',
+      title: 'Explore o Santo Sudário de Turim: interativo e em alta resolução | See The Shroud',
+      description: 'Visualização interativa do Santo Sudário de Turim inteiro: dê zoom, mude para o negativo, realce a imagem e ache cada ferida, queimadura e remendo, explicados.',
       h1: 'Explore o pano',
       lede: 'Este é o Sudário inteiro, com as imagens frontal e dorsal, cabeça com cabeça. Arraste para mover, role ou faça o gesto de pinça para dar zoom. Mude para o negativo para ver o que Secondo Pia viu em 1898. As marcas numeradas explicam o que você está vendo.',
       imgAlt: 'O Santo Sudário de Turim inteiro, imagens frontal e dorsal',
@@ -194,7 +194,7 @@ export default {
     },
 
     evidence: {
-      title: 'Evidências sobre o Santo Sudário de Turim, a favor e contra | Se em suas mãos não vir',
+      title: 'Evidências sobre o Santo Sudário de Turim, a favor e contra | See The Shroud',
       description: 'Os principais argumentos sobre o Santo Sudário de Turim, a favor e contra a autenticidade, classificados pela força, com a melhor resposta cética e as fontes.',
       h1: 'O dossiê',
       lede: 'Todos os principais argumentos sobre o Sudário, a favor e contra. Cada um é classificado pela sua força, com a melhor objeção, a melhor réplica e as fontes. Incluímos os argumentos contra a autenticidade com toda a sua força, porque você deve ouvi-los primeiro de nós.',
@@ -216,7 +216,7 @@ export default {
     },
 
     wounds: {
-      title: 'As feridas do Santo Sudário de Turim e os Evangelhos | Se em suas mãos não vir',
+      title: 'As feridas do Santo Sudário de Turim e os Evangelhos | See The Shroud',
       description: 'Cada ferida do Santo Sudário de Turim, das marcas do flagelo ao cravo no pulso e à ferida no lado, mostrada no pano ao lado do texto do Evangelho.',
       h1: 'As feridas, e o que dizem os Evangelhos',
       lede: 'Clique num número no pano ou numa ferida da lista. Cada marca é explicada do jeito que os patologistas forenses a descrevem, ao lado do versículo do Evangelho a que corresponde, e com a observação cética quando há uma.',
@@ -236,7 +236,7 @@ export default {
     },
 
     dating: {
-      title: 'Datação por carbono do Santo Sudário de Turim e o debate | Se em suas mãos não vir',
+      title: 'Datação por carbono do Santo Sudário de Turim e o debate | See The Shroud',
       description: 'A datação por radiocarbono do Santo Sudário de Turim, em 1988, deu 1260 a 1390 d.C. Veja as 12 medições, a origem da amostra, as reanálises e outros métodos.',
       h1: 'A datação por carbono',
       lede: 'Este é o argumento isolado mais forte de que o Sudário é medieval, e ele merece um olhar cuidadoso. Aqui está o que foi feito, o que se encontrou, o que os críticos encontraram desde então e o que isso prova e não prova.',
@@ -265,7 +265,7 @@ export default {
     },
 
     image: {
-      title: 'Como foi feita a imagem do Santo Sudário de Turim? | Se em suas mãos não vir',
+      title: 'Como foi feita a imagem do Santo Sudário de Turim? | See The Shroud',
       description: 'Todas as hipóteses para a imagem do Santo Sudário de Turim, da tinta e queimadura a uma reação química ou explosão de luz, com o que explicam e onde falham.',
       h1: 'Como a imagem foi feita?',
       lede: 'Esta é a pergunta em aberto mais profunda sobre o Sudário. Qualquer explicação, natural ou não, tem de dar conta de uma lista de propriedades muito estranhas. Aqui estão elas, seguidas de todas as principais hipóteses e de seus problemas.',
@@ -322,7 +322,7 @@ export default {
     },
 
     timeline: {
-      title: 'Linha do tempo do Santo Sudário de Turim: de Lirey até hoje | Se em suas mãos não vir',
+      title: 'Linha do tempo do Santo Sudário de Turim: de Lirey até hoje | See The Shroud',
       description: 'Linha do tempo interativa do Santo Sudário de Turim: a história antiga hipotética, o registro desde cerca de 1354, os incêndios, as fotografias e os testes.',
       h1: 'Linha do tempo',
       lede: 'A história documentada do Sudário começa na França por volta de 1354. Antes disso, sua história é uma hipótese, construída a partir de imagens e textos que podem ou não descrever este pano. A linha do tempo mantém as duas coisas separadas.',
@@ -344,7 +344,7 @@ export default {
     },
 
     videos: {
-      title: 'Vídeos do Santo Sudário de Turim: afirmações verificadas | Se em suas mãos não vir',
+      title: 'Vídeos do Santo Sudário de Turim: afirmações verificadas | See The Shroud',
       description: 'Três vídeos populares sobre o Santo Sudário de Turim, verificados afirmação por afirmação: o que se sustenta, o que é contestado e o que está errado.',
       h1: 'Vídeos populares, verificados',
       lede: 'A maioria das pessoas conhece o Sudário por vídeos. Assistimos a três vídeos populares do começo ao fim, incluindo as transcrições, e verificamos suas principais afirmações. Vários são excelentes. Alguns estão errados. Clique num horário para ir àquele momento.',
@@ -354,7 +354,7 @@ export default {
       missingAfter: 'Uma análise justa também precisa lidar com isto. Você encontra cada ponto no <a href="evidence.html">dossiê</a>.'
     },
     library: {
-      title: 'Biblioteca de pesquisa sobre o Santo Sudário de Turim | Se em suas mãos não vir',
+      title: 'Biblioteca de pesquisa sobre o Santo Sudário de Turim | See The Shroud',
       description: 'Biblioteca pesquisável de artigos e estudos sobre o Santo Sudário de Turim, a favor e contra, com links diretos para os originais no shroud.com e em revistas.',
       h1: 'Biblioteca',
       lede: 'Mais de 2.400 artigos, estudos, textos e boletins, quase todos do arquivo do shroud.com, que Barrie Schwortz criou e manteve desde os anos 1990 até a sua morte, em 2024. Comece pelas 25 leituras essenciais, depois pesquise por palavra, filtre por tema e vá direto ao original.',
@@ -370,7 +370,7 @@ export default {
     },
 
     next: {
-      title: 'E agora? Depois do Santo Sudário de Turim | Se em suas mãos não vir',
+      title: 'E agora? Depois do Santo Sudário de Turim | See The Shroud',
       description: 'Você viu as evidências sobre o Santo Sudário de Turim. Quer você duvide, se pergunte ou creia, aqui estão próximos passos honestos.',
       h1: 'E agora?',
       lede: 'Onde quer que você tenha chegado depois de olhar as evidências, existe um próximo passo sensato. Nenhum deles exige que você finja ter mais certeza do que tem.',
@@ -379,20 +379,20 @@ export default {
         { id: 'wonder', h: 'Se você se pergunta', body: `<p>O Sudário é uma pergunta sobre um homem. O melhor próximo passo é conhecê-lo onde ele é descrito de forma mais completa.</p><ul><li>Leia o Evangelho de João. Leva cerca de duas horas, e termina com Tomé.</li><li>Converse com alguém em quem você confia e que tenha fé, e faça a sua pergunta mais difícil.</li><li>Se você nunca rezou, experimente uma oração simples e honesta: se você está aí, mostre-se para mim.</li></ul>` },
         { id: 'believe', h: 'Se você crê', body: `<p>Então a pergunta já não é o que o pano prova, mas como você vive.</p><ul><li>Seja alguém em quem um cético possa confiar: justo, curioso e gentil, sobretudo com quem discorda de você.</li><li>Compartilhe este site com o cético mais ponderado que você conhece, e ouça o que ele tem a dizer.</li><li>Sirva alguém que precisa nesta semana. Uma fé que age é a melhor evidência que a maioria das pessoas vai ver.</li></ul>` }
       ],
-      story: `<h2>Em breve: a história de uma pessoa</h2><p>Nelson Inno, que criou este site, vai compartilhar aqui a sua própria história e uma reflexão sobre o que ele chama de padrão que leva a Deus. Ela vai ficar numa página própria, separada das evidências, para que você possa pesar cada uma nos seus próprios termos.</p>`,
+      story: `<h2>Em breve: a história de uma pessoa</h2><p>Nelson Inno, que criou este site, vai compartilhar a sua própria história e uma reflexão sobre o que ele chama de padrão que leva a Deus num site separado. Manter as duas coisas separadas permite que você pese cada uma nos seus próprios termos.</p>`,
       quote: 'Estes estão escritos, para que creiais que Jesus é o Cristo, o Filho de Deus.',
       quoteCite: 'João 20:31'
     },
     about: {
-      title: 'Sobre o “Se em suas mãos não vir”: por que este site existe | Se em suas mãos não vir',
-      description: '“Se em suas mãos não vir” é um site gratuito e não comercial sobre o Santo Sudário de Turim. Como avaliamos a evidência, de onde vêm as imagens e quem o fez.',
+      title: 'Sobre o See The Shroud: por que este site existe | See The Shroud',
+      description: 'See The Shroud é um site gratuito e não comercial sobre o Santo Sudário de Turim. Como avaliamos a evidência, de onde vêm as imagens e quem o fez.',
       h1: 'Sobre este site',
       lede: 'Por que ele existe, como trabalhamos e de onde vem tudo.',
       body: `<h2>Por que este site existe</h2>
 <p>O Santo Sudário de Turim pode ser uma obra de arte medieval, uma falsificação deliberada ou a mortalha de Jesus de Nazaré. Seja o que for, merece ser ouvido com mais cuidado do que numa manchete de dez segundos. A maior parte do que se encontra na internet é escrita para vencer: um lado grita “prova”, o outro grita “falso”. Este site é escrito para informar.</p>
-<p>Ele leva o nome de Tomé, que se recusou a crer até poder ver as marcas dos cravos. Achamos que uma dúvida como a dele é honesta, e que ela merece evidências, não pressão.</p>
+<p>O nome, See The Shroud, quer dizer “veja o Sudário”, e é um convite: veja o Santo Sudário por conta própria, de perto, e julgue as evidências. O espírito vem de Tomé, que se recusou a crer até poder ver as marcas dos cravos. Achamos que uma dúvida como a dele é honesta, e que ela merece evidências, não pressão.</p>
 <h2>Quem o fez</h2>
-<p>“Se em suas mãos não vir” foi criado por Nelson Inno, um empreendedor salvadorenho, como um projeto gratuito e pro bono. Para total transparência: Nelson acredita que o Sudário é autêntico. É exatamente por isso que o site segue uma regra: os argumentos mais fortes contra a autenticidade são mostrados com toda a sua força, logo ao lado dos argumentos a favor. Se algum dia não cumprirmos isso, queremos saber.</p>
+<p>See The Shroud foi criado por Nelson Inno, um empreendedor salvadorenho, como um projeto gratuito e pro bono. Para total transparência: Nelson acredita que o Sudário é autêntico. É exatamente por isso que o site segue uma regra: os argumentos mais fortes contra a autenticidade são mostrados com toda a sua força, logo ao lado dos argumentos a favor. Se algum dia não cumprirmos isso, queremos saber.</p>
 <h2>Como trabalhamos</h2>
 <ul>
 <li>Cada afirmação factual tem um link para uma fonte. Sempre que possível, a fonte é um artigo revisado por pares ou um documento primário.</li>
@@ -404,7 +404,7 @@ export default {
 <h2>Encontrou um erro?</h2>
 <p>Escreva para <a href="mailto:hey@everybodyknowsyou.com">hey@everybodyknowsyou.com</a> com a página, a afirmação e a sua fonte. Correções de céticos são especialmente bem-vindas.</p>
 <h2>Em breve</h2>
-<p>A história do próprio Nelson, e uma reflexão sobre o que ele chama de padrão que leva a Deus, vão ficar numa página própria. As evidências ficam aqui, separadas, para que você possa pesá-las nos seus próprios termos.</p>`,
+<p>A história do próprio Nelson, e uma reflexão sobre o que ele chama de padrão que leva a Deus, vão ficar num site separado chamado “Unless I See” (Se em suas mãos não vir), inspirado nas palavras de Tomé em João 20:25. As evidências ficam aqui, para que você possa pesá-las nos seus próprios termos.</p>`,
       creditsH: 'Créditos das imagens', sourceLink: 'fonte'
     }
   }

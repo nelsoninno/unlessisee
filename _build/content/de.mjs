@@ -1,12 +1,12 @@
 // German copy (Deutsch). Plain language, no em dashes. HTML allowed in long fields.
 // Bible quotations: Lutherbibel 1912 (public domain), original spelling.
 export default {
-  brand: 'Es sei denn, daß ich … sehe',
+  brand: 'See The Shroud',
   locale: 'de_DE',
-  shareImage: 'social-share-unless-i-see-seetheshroud.org.jpg',
-  keywords: 'Grabtuch von Turin, Turiner Grabtuch, Grabtuch Jesu, Grabtuch von Turin Belege, Grabtuch von Turin Radiokarbondatierung, Grabtuch von Turin Negativ, Grabtuch von Turin 3D, ist das Grabtuch von Turin echt, Leichentuch Jesu, Sindonologie, Shroud of Turin, STURP, Secondo Pia',
+  shareImage: 'social-share-see-the-shroud-seetheshroud.org.jpg',
+  keywords: 'See The Shroud, Grabtuch von Turin erkunden, Grabtuch von Turin untersuchen, Grabtuch von Turin aus der Nähe ansehen, Grabtuch von Turin interaktiv, interaktive Website zum Grabtuch von Turin, Grabtuch von Turin in hoher Auflösung, Grabtuch von Turin online ansehen, Grabtuch von Turin anschaulich erklärt, alles über das Grabtuch von Turin, Grabtuch von Turin, Turiner Grabtuch, Grabtuch Jesu, Grabtuch von Turin Belege, Grabtuch von Turin Radiokarbondatierung, Grabtuch von Turin Negativ, Grabtuch von Turin 3D, ist das Grabtuch von Turin echt, Leichentuch Jesu, Sindonologie, Shroud of Turin, STURP, Secondo Pia',
   shareAlt: 'Das Gesicht auf dem Grabtuch von Turin als fotografisches Negativ',
-  orgDescription: '„Es sei denn, daß ich … sehe“ ist ein kostenloses, nicht kommerzielles Bildungsprojekt, das die Belege für und gegen die Echtheit des Grabtuchs von Turin vorstellt, mit Quellen und in vielen Sprachen.',
+  orgDescription: 'See The Shroud ist eine kostenlose, nicht kommerzielle Bildungswebsite, auf der Sie das Grabtuch von Turin aus der Nähe erkunden und untersuchen können (in hoher Auflösung, als Negativ und in 3D) und die Belege für und gegen seine Echtheit abwägen, mit allen Quellen, in 12 Sprachen.',
   ui: {
     skip: 'Zum Inhalt springen', menu: 'Menü', mainNav: 'Hauptnavigation', language: 'Sprache',
     exhibit: 'Beweisstück', detail: 'Die Einzelheiten', skeptic: 'Die beste Antwort der Skeptiker', reply: 'Die Erwiderung',
@@ -29,7 +29,7 @@ export default {
   footer: {
     about: 'Ein kostenloses, nicht kommerzielles Projekt. Jede Aussage ist in der Fallakte belegt, auch mit den Quellen, die uns widersprechen.',
     explore: 'Erkunden', more: 'Tiefer einsteigen', extra: [],
-    rights: 'Text {year} „Es sei denn, daß ich … sehe“. Frei teilbar mit einem Link auf diese Website. Bildnachweise auf der Seite Über.',
+    rights: 'Text {year} See The Shroud. Frei teilbar mit einem Link auf diese Website. Bildnachweise auf der Seite Über.',
     eky: 'Website mit Liebe gemacht, von', ekyAria: 'Website mit Liebe gemacht von everybodyknowsyou.com'
   },
   strength: { strong: 'Stark', moderate: 'Mittel', weak: 'Schwach', disputed: 'Umstritten', debunked: 'Widerlegt' },
@@ -89,12 +89,12 @@ export default {
     labsAlt: 'Diagramm der zwölf veröffentlichten Radiokarbonmessungen aus Arizona, Oxford und Zürich, mit Fehlerbalken',
     bpAxis: 'Radiokarbonalter in Jahren vor 1950 (BP). Niedriger heißt jünger.', bpShort: 'Radiokarbonjahre BP', labMean: 'Labormittel', combined: 'Gesamt'
   },
-  notFound: { title: 'Seite nicht gefunden | Es sei denn, daß ich … sehe', h1: 'Diese Seite gibt es hier nicht', text: 'Der Link ist vielleicht veraltet, oder die Adresse enthält einen Tippfehler. Alles auf der Website beginnt auf der Startseite.', cta: 'Zur Startseite' },
+  notFound: { title: 'Seite nicht gefunden | See The Shroud', h1: 'Diese Seite gibt es hier nicht', text: 'Der Link ist vielleicht veraltet, oder die Adresse enthält einen Tippfehler. Alles auf der Website beginnt auf der Startseite.', cta: 'Zur Startseite' },
 
   pages: {
     index: {
-      title: 'Grabtuch von Turin: Die Belege dafür und dagegen | Es sei denn, daß ich … sehe',
-      description: 'Ist das Grabtuch von Turin echt? Erkunden Sie es in hoher Auflösung, sehen Sie Negativ und 3D-Bild und wägen Sie die Belege beider Seiten ab, mit Quellen.',
+      title: 'See The Shroud: Das Grabtuch von Turin und seine Belege erkunden',
+      description: 'Untersuchen Sie das Grabtuch von Turin aus der Nähe: Zoom, Negativ, 3D, Wundenkarte und die Belege dafür und dagegen, mit Quellen. Kostenlos, in 12 Sprachen.',
       h1: 'Prüfen Sie das Grabtuch von Turin selbst',
       lede: 'Ein Leinentuch, 4,4 Meter lang, trägt das blasse Bild eines Mannes, der gegeißelt und gekreuzigt wurde. Manche halten es für eine mittelalterliche Fälschung. Andere halten es für das Grabtuch Jesu. Hier finden Sie die Belege beider Seiten, mit allen Quellen, damit Sie selbst urteilen können.',
       cta1: 'Das Tuch erkunden', cta2: 'Die Fallakte lesen',
@@ -103,7 +103,7 @@ export default {
       hint2: 'Fahren Sie über das Gesicht, um es so zu sehen, wie das Auge es sieht',
       faceCaption: 'Das Gesicht auf dem Grabtuch. Fotografie von Giuseppe Enrie, 1931.',
       thomasText: `<h2>Thomas wollte die Male sehen</h2>
-<p>Diese Website ist nach dem ehrlichsten Skeptiker der Evangelien benannt. Thomas glaubte nicht, was seine Freunde ihm erzählten. Er wollte Belege, die er sehen und berühren konnte: die Male der Nägel, die Wunde in der Seite.</p>
+<p>Diese Website ist im Geist des ehrlichsten Skeptikers der Evangelien entstanden. Thomas glaubte nicht, was seine Freunde ihm erzählten. Er wollte Belege, die er sehen und berühren konnte: die Male der Nägel, die Wunde in der Seite.</p>
 <p>Das Grabtuch von Turin zeigt einen Mann mit Malen derselben Art. Ob es das ist, wofür viele es halten, ist die Frage, die diese Website Ihnen überlässt. Wir zeigen Ihnen die Male, die Untersuchungen, die Zweifel und die Antworten, und wir verweisen Sie auf jede Quelle.</p>`,
       thomasCta: 'Die Male ansehen',
       objH: 'Was es ist',
@@ -178,8 +178,8 @@ export default {
     },
 
     explore: {
-      title: 'Das Grabtuch von Turin in hoher Auflösung erkunden | Es sei denn, daß ich … sehe',
-      description: 'Zoomen Sie ins ganze Grabtuch von Turin, wechseln Sie zum Negativ, verstärken Sie das Bild und finden Sie Wunden, Brandstellen und Flicken, mit Erklärungen.',
+      title: 'Grabtuch von Turin erkunden: interaktiv und in hoher Auflösung | See The Shroud',
+      description: 'Das ganze Grabtuch von Turin interaktiv: zoomen, zum Negativ wechseln, das Bild verstärken und Wunden, Brandstellen und Flicken finden, jeweils erklärt.',
       h1: 'Das Tuch erkunden',
       lede: 'Das ist das ganze Grabtuch, Vorder- und Rückenansicht, Kopf an Kopf. Ziehen zum Verschieben, scrollen oder mit zwei Fingern zoomen. Schalten Sie auf Negativ, um zu sehen, was Secondo Pia 1898 sah. Die nummerierten Markierungen erklären, was Sie sehen.',
       imgAlt: 'Das ganze Grabtuch von Turin, Vorder- und Rückenansicht',
@@ -195,7 +195,7 @@ export default {
     },
 
     evidence: {
-      title: 'Grabtuch von Turin: Belege dafür und dagegen | Es sei denn, daß ich … sehe',
+      title: 'Grabtuch von Turin: Belege dafür und dagegen | See The Shroud',
       description: 'Die wichtigsten Argumente über das Grabtuch von Turin, für und gegen die Echtheit, nach Stärke bewertet, mit der besten Antwort der Skeptiker und den Quellen.',
       h1: 'Die Fallakte',
       lede: 'Jedes wichtige Argument über das Grabtuch, dafür und dagegen. Jedes ist danach bewertet, wie stark es ist, mit dem besten Einwand, der besten Erwiderung und den Quellen. Die Argumente gegen die Echtheit zeigen wir in voller Stärke, denn Sie sollten sie zuerst von uns hören.',
@@ -217,7 +217,7 @@ export default {
     },
 
     wounds: {
-      title: 'Die Wunden auf dem Grabtuch von Turin und die Evangelien | Es sei denn, daß ich … sehe',
+      title: 'Die Wunden auf dem Grabtuch von Turin und die Evangelien | See The Shroud',
       description: 'Jede Wunde auf dem Grabtuch von Turin, von den Geißelspuren bis zum Nagel im Handgelenk und der Seitenwunde, auf dem Tuch neben dem Evangelientext gezeigt.',
       h1: 'Die Wunden und was die Evangelien sagen',
       lede: 'Klicken Sie auf eine Nummer auf dem Tuch oder auf eine Wunde in der Liste. Jedes Mal wird so erklärt, wie forensische Pathologen es beschreiben, neben dem Vers aus den Evangelien, dem es entspricht, und mit dem Hinweis der Skeptiker, wo es einen gibt.',
@@ -237,7 +237,7 @@ export default {
     },
 
     dating: {
-      title: 'Radiokarbondatierung des Grabtuchs von Turin und die Debatte | Es sei denn, daß ich … sehe',
+      title: 'Radiokarbondatierung des Grabtuchs von Turin und die Debatte | See The Shroud',
       description: 'Die Radiokarbondatierung des Grabtuchs von Turin von 1988 ergab 1260 bis 1390 n. Chr. Die 12 Messungen, die Probenstelle, Neuauswertungen und andere Methoden.',
       h1: 'Die Radiokarbondatierung',
       lede: 'Das ist das stärkste einzelne Argument dafür, dass das Grabtuch mittelalterlich ist, und es verdient einen genauen Blick. Hier steht, was gemacht wurde, was herauskam, was Kritiker seitdem gefunden haben und was es beweist und was nicht.',
@@ -266,7 +266,7 @@ export default {
     },
 
     image: {
-      title: 'Wie entstand das Bild auf dem Grabtuch von Turin? | Es sei denn, daß ich … sehe',
+      title: 'Wie entstand das Bild auf dem Grabtuch von Turin? | See The Shroud',
       description: 'Jede Hypothese zum Bild auf dem Grabtuch von Turin, von Farbe und Versengung bis zum Lichtblitz, mit dem, was sie erklärt, und dem, woran sie scheitert.',
       h1: 'Wie entstand das Bild?',
       lede: 'Das ist die tiefste offene Frage zum Grabtuch. Jede Erklärung, ob natürlich oder nicht, muss eine Reihe sehr seltsamer Eigenschaften erklären. Hier sind sie, gefolgt von jeder wichtigen Hypothese und ihren Problemen.',
@@ -323,7 +323,7 @@ export default {
     },
 
     timeline: {
-      title: 'Zeitleiste des Grabtuchs von Turin: von Lirey bis heute | Es sei denn, daß ich … sehe',
+      title: 'Zeitleiste des Grabtuchs von Turin: von Lirey bis heute | See The Shroud',
       description: 'Interaktive Zeitleiste des Grabtuchs von Turin: vermutete frühe Geschichte, belegte Überlieferung seit etwa 1354, Brände, Fotografien und Untersuchungen.',
       h1: 'Zeitleiste',
       lede: 'Die belegte Geschichte des Grabtuchs beginnt um 1354 in Frankreich. Davor ist seine Geschichte eine Hypothese, aufgebaut aus Bildern und Texten, die dieses Tuch beschreiben können oder auch nicht. Die Zeitleiste hält beides auseinander.',
@@ -345,7 +345,7 @@ export default {
     },
 
     videos: {
-      title: 'Videos über das Grabtuch von Turin: Aussagen geprüft | Es sei denn, daß ich … sehe',
+      title: 'Videos über das Grabtuch von Turin: Aussagen geprüft | See The Shroud',
       description: 'Drei beliebte Videos über das Grabtuch von Turin, Aussage für Aussage mit Zeitmarken geprüft: was standhält, was umstritten ist und was falsch ist.',
       h1: 'Beliebte Videos, geprüft',
       lede: 'Die meisten Menschen begegnen dem Grabtuch über Videos. Wir haben drei beliebte Videos von Anfang bis Ende angesehen, einschließlich der Transkripte, und ihre wichtigsten Aussagen geprüft. Einige sind ausgezeichnet. Manche sind falsch. Klicken Sie auf eine Zeitangabe, um zu dieser Stelle zu springen.',
@@ -355,7 +355,7 @@ export default {
       missingAfter: 'Eine faire Darstellung muss sich auch damit befassen. Jeden dieser Punkte finden Sie in der <a href="evidence.html">Fallakte</a>.'
     },
     library: {
-      title: 'Forschungsbibliothek zum Grabtuch von Turin | Es sei denn, daß ich … sehe',
+      title: 'Forschungsbibliothek zum Grabtuch von Turin | See The Shroud',
       description: 'Durchsuchbare Bibliothek mit Studien zum Grabtuch von Turin, dafür und dagegen, mit direkten Links zu den Originalen auf shroud.com und in Fachzeitschriften.',
       h1: 'Bibliothek',
       lede: 'Mehr als 2.400 Artikel, Studien, Beiträge und Newsletter, fast alle aus dem Archiv von shroud.com, das Barrie Schwortz seit den 1990er-Jahren aufbaute und bis zu seinem Tod 2024 pflegte. Beginnen Sie mit den 25 wichtigsten Texten, suchen Sie dann nach Wörtern, filtern Sie nach Thema, und gehen Sie direkt zum Original.',
@@ -371,7 +371,7 @@ export default {
     },
 
     next: {
-      title: 'Und jetzt? Nach dem Grabtuch von Turin | Es sei denn, daß ich … sehe',
+      title: 'Und jetzt? Nach dem Grabtuch von Turin | See The Shroud',
       description: 'Sie haben die Belege zum Grabtuch von Turin gesehen. Ob Sie zweifeln, sich wundern oder glauben, hier sind ehrliche nächste Schritte.',
       h1: 'Und jetzt?',
       lede: 'Wo auch immer Sie nach dem Blick auf die Belege gelandet sind, es gibt einen sinnvollen nächsten Schritt. Keiner verlangt, dass Sie sich sicherer geben, als Sie sind.',
@@ -380,20 +380,20 @@ export default {
         { id: 'wonder', h: 'Wenn Sie sich wundern', body: `<p>Das Grabtuch ist eine Frage nach einem Mann. Der beste nächste Schritt ist, ihm dort zu begegnen, wo er am ausführlichsten beschrieben wird.</p><ul><li>Lesen Sie das Johannesevangelium. Es dauert etwa zwei Stunden, und es endet mit Thomas.</li><li>Sprechen Sie mit jemandem, dem Sie vertrauen und der glaubt, und stellen Sie Ihre schwierigste Frage.</li><li>Wenn Sie noch nie gebetet haben, versuchen Sie ein einfaches, ehrliches Gebet: Wenn es dich gibt, zeig es mir.</li></ul>` },
         { id: 'believe', h: 'Wenn Sie glauben', body: `<p>Dann lautet die Frage nicht mehr, was das Tuch beweist, sondern wie Sie leben.</p><ul><li>Seien Sie jemand, dem ein Skeptiker vertrauen kann: fair, neugierig und freundlich, besonders gegenüber Menschen, die anderer Meinung sind.</li><li>Teilen Sie diese Website mit dem nachdenklichsten Skeptiker, den Sie kennen, und hören Sie zu, was er sagt.</li><li>Helfen Sie in dieser Woche jemandem, der in Not ist. Ein Glaube, der handelt, ist der beste Beleg, den die meisten Menschen je sehen werden.</li></ul>` }
       ],
-      story: `<h2>Demnächst: die Geschichte eines Menschen</h2><p>Nelson Inno, der diese Website geschaffen hat, wird hier seine eigene Geschichte erzählen, dazu eine Betrachtung über das, was er das Muster nennt, das zu Gott führt. Sie wird auf einer eigenen Seite stehen, getrennt von den Belegen, damit Sie beides für sich abwägen können.</p>`,
+      story: `<h2>Demnächst: die Geschichte eines Menschen</h2><p>Nelson Inno, der diese Website geschaffen hat, wird seine eigene Geschichte auf einer eigenen Website erzählen, dazu eine Betrachtung über das, was er das Muster nennt, das zu Gott führt. So bleibt sie von den Belegen getrennt, und Sie können beides für sich abwägen.</p>`,
       quote: 'Diese aber sind geschrieben, daß ihr glaubet, Jesus sei Christus, der Sohn Gottes.',
       quoteCite: 'Johannes 20,31'
     },
     about: {
-      title: 'Über „Es sei denn, daß ich … sehe“: Warum es sie gibt | Es sei denn, daß ich … sehe',
-      description: 'Eine kostenlose, nicht kommerzielle Website über das Grabtuch von Turin: wie wir Belege bewerten, woher unsere Bilder stammen und wer sie gebaut hat.',
+      title: 'Über See The Shroud: Warum es diese Website gibt | See The Shroud',
+      description: 'See The Shroud ist eine kostenlose, nicht kommerzielle Website zum Grabtuch von Turin: wie wir Belege bewerten, woher die Bilder stammen und wer sie gebaut hat.',
       h1: 'Über diese Website',
       lede: 'Warum es sie gibt, wie wir arbeiten und woher alles stammt.',
       body: `<h2>Warum es diese Website gibt</h2>
 <p>Das Grabtuch von Turin kann ein mittelalterliches Kunstwerk sein, eine bewusste Fälschung oder das Grabtuch von Jesus von Nazareth. Was auch immer es ist, es verdient mehr Gehör als eine Schlagzeile von zehn Sekunden. Das meiste, was man online findet, ist geschrieben, um zu gewinnen: Die eine Seite ruft „Beweis“, die andere „Fälschung“. Diese Website ist geschrieben, um zu informieren.</p>
-<p>Sie ist nach Thomas benannt, der sich weigerte zu glauben, bevor er die Male der Nägel sehen konnte. Wir halten einen Zweifel wie seinen für ehrlich, und er verdient Belege, keinen Druck.</p>
+<p>Ihr Name ist eine Einladung: Sehen Sie sich das Grabtuch selbst an, aus der Nähe, und urteilen Sie über die Belege. Der Geist kommt von Thomas, der sich weigerte zu glauben, bevor er die Male der Nägel sehen konnte. Wir halten einen Zweifel wie seinen für ehrlich, und er verdient Belege, keinen Druck.</p>
 <h2>Wer sie gemacht hat</h2>
-<p>„Es sei denn, daß ich … sehe“ wurde von Nelson Inno, einem salvadorianischen Gründer, als kostenloses, ehrenamtliches Projekt geschaffen. Offen gesagt: Nelson hält das Grabtuch für echt. Genau deshalb hält sich die Website an eine Regel: Die stärksten Argumente gegen die Echtheit werden in voller Stärke gezeigt, direkt neben den Argumenten dafür. Wenn wir dem einmal nicht gerecht werden, wollen wir es wissen.</p>
+<p>See The Shroud wurde von Nelson Inno, einem salvadorianischen Gründer, als kostenloses, ehrenamtliches Projekt geschaffen. Offen gesagt: Nelson hält das Grabtuch für echt. Genau deshalb hält sich die Website an eine Regel: Die stärksten Argumente gegen die Echtheit werden in voller Stärke gezeigt, direkt neben den Argumenten dafür. Wenn wir dem einmal nicht gerecht werden, wollen wir es wissen.</p>
 <h2>Wie wir arbeiten</h2>
 <ul>
 <li>Jede Tatsachenbehauptung ist mit einer Quelle verlinkt. Wo möglich, ist die Quelle ein begutachteter Artikel oder ein Primärdokument.</li>
@@ -405,7 +405,7 @@ export default {
 <h2>Einen Fehler gefunden?</h2>
 <p>Schreiben Sie an <a href="mailto:hey@everybodyknowsyou.com">hey@everybodyknowsyou.com</a>, mit der Seite, der Aussage und Ihrer Quelle. Korrekturen von Skeptikern sind besonders willkommen.</p>
 <h2>Demnächst</h2>
-<p>Nelsons eigene Geschichte und eine Betrachtung über das, was er das Muster nennt, das zu Gott führt, werden auf einer eigenen Seite stehen. Die Belege bleiben hier, getrennt, damit Sie sie für sich abwägen können.</p>`,
+<p>Nelsons eigene Geschichte und eine Betrachtung über das, was er das Muster nennt, das zu Gott führt, werden auf einer eigenen Website stehen. Sie heißt „Unless I See“ („Es sei denn, daß ich … sehe“), nach den Worten des Thomas in Johannes 20,25. Die Belege bleiben hier, damit Sie sie für sich abwägen können.</p>`,
       creditsH: 'Bildnachweise', sourceLink: 'Quelle'
     }
   }

@@ -1,6 +1,6 @@
 {
  "page": {
-  "title": "Shroud of Turin Explained: Real or Fake? Questions Answered | Unless I See",
+  "title": "Shroud of Turin Explained: Real or Fake? Questions Answered | See The Shroud",
   "description": "Is the Shroud of Turin real? Clear, sourced answers on the evidence for and against authenticity, the carbon dating, the image, the blood and the wounds.",
   "h1": "The Shroud of Turin explained: your questions answered",
   "lede": "Short, sourced answers to the questions people ask most about the Shroud of Turin, with links to the full evidence. Where experts disagree, we say so.",
@@ -112,6 +112,18 @@
    "link": "explore"
   },
   {
+   "id": "online",
+   "q": "Where can I explore and examine the Shroud of Turin online?",
+   "a": "Right here, for free. The Explore page shows the whole cloth in high resolution: zoom into any detail, switch to the photographic negative, enhance faint marks, and open numbered notes on the wounds, the burns and the linen. The home page shows the face as a 3D relief you can turn, the Wounds page places each wound on a body map next to the Gospel text, and the Your verdict page lets you weigh the evidence point by point. It works on a phone and needs no account.",
+   "link": "explore"
+  },
+  {
+   "id": "allinone",
+   "q": "Is there one website that brings together everything about the Shroud of Turin?",
+   "a": "That is what See The Shroud is built to be. In one place it gathers the cloth itself to explore, its history from Lirey to today, the 1988 carbon dating with all twelve measurements, the image and every theory of how it formed, the blood and the wounds, popular videos checked claim by claim, a library of more than 2,400 research papers, and 52 arguments for and against, each rated by strength and linked to its source. It is free and available in 12 languages.",
+   "link": "evidence"
+  },
+  {
    "id": "proof",
    "q": "Does the Shroud prove that Jesus rose from the dead?",
    "a": "No. Even if the cloth were shown to be from the first century, it could not prove a resurrection; at most it raises questions that science has not answered. Our view is that the Shroud gives a serious mind enough to take the question seriously, and leaves the last step to each person.",
@@ -120,7 +132,7 @@
   {
    "id": "who",
    "q": "Who made this site, and is it neutral?",
-   "a": "Unless I See is a free, non-commercial project created by Nelson Inno and built by everybodyknowsyou.com. Nelson believes the Shroud is authentic and says so openly. The site still gives the strongest arguments on both sides at full strength, rates each one, and links every claim to its source, so you can judge for yourself.",
+   "a": "See The Shroud is a free, non-commercial project created by Nelson Inno and built by everybodyknowsyou.com. Nelson believes the Shroud is authentic and says so openly. The site still gives the strongest arguments on both sides at full strength, rates each one, and links every claim to its source, so you can judge for yourself.",
    "link": "about"
   }
  ]

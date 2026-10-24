@@ -1,11 +1,11 @@
 // Filipino (Tagalog) copy. Plain language, no em dashes. HTML allowed in long fields.
 export default {
-  brand: "Malibang aking makita",
+  brand: "See The Shroud",
   locale: "fil_PH",
-  shareImage: "social-share-unless-i-see-seetheshroud.org.jpg",
-  keywords: "Shroud of Turin, Banal na Sindone ng Turin, ebidensiya tungkol sa Shroud of Turin, carbon dating ng Shroud of Turin, negative ng Shroud of Turin, Shroud of Turin 3D, totoo ba ang Shroud of Turin, telang panlibing ni Hesus, sindonology, Turin Shroud, STURP, Secondo Pia",
+  shareImage: "social-share-see-the-shroud-seetheshroud.org.jpg",
+  keywords: "See The Shroud, tuklasin ang Shroud of Turin, suriin ang Shroud of Turin, makita nang malapitan ang Shroud of Turin, interactive na Shroud of Turin, interactive na website tungkol sa Shroud of Turin, Shroud of Turin sa high resolution, biswal na gabay sa Shroud of Turin, lahat tungkol sa Shroud of Turin, Shroud of Turin, Banal na Sindone ng Turin, ebidensiya tungkol sa Shroud of Turin, carbon dating ng Shroud of Turin, negative ng Shroud of Turin, Shroud of Turin 3D, totoo ba ang Shroud of Turin, telang panlibing ni Hesus, sindonology, Turin Shroud, STURP, Secondo Pia",
   shareAlt: "Ang mukha sa Shroud of Turin bilang negative ng litrato",
-  orgDescription: "Ang “Malibang aking makita” ay isang libre at hindi pangkomersiyong proyektong pang-edukasyon na naglalahad ng ebidensiya para at laban sa pagiging tunay ng Shroud of Turin, kasama ang mga source, sa maraming wika.",
+  orgDescription: "Ang See The Shroud ay isang libre at hindi pangkomersiyong website pang-edukasyon kung saan maaari mong tuklasin at suriin nang malapitan ang Shroud of Turin (sa high resolution, sa negative at sa 3D) at timbangin ang ebidensiya para at laban sa pagiging tunay nito, kasama ang bawat source, sa 12 wika.",
   ui: {
     skip: "Lumaktaw sa nilalaman", menu: "Menu", mainNav: "Pangunahin", language: "Wika",
     exhibit: "Exhibit", detail: "Ang mga detalye", skeptic: "Ang pinakamahusay na sagot ng skeptic", reply: "Ang tugon",
@@ -28,7 +28,7 @@ export default {
   footer: {
     about: "Isang libre at hindi pangkomersiyong proyekto. May source ang bawat claim sa case file, kasama ang mga source na hindi sang-ayon sa amin.",
     explore: "Tuklasin", more: "Lumalim pa", extra: [],
-    rights: "Teksto {year} “Malibang aking makita”. Malayang ibahagi basta may link pabalik. Nasa pahinang Tungkol dito ang credits ng mga imahe.",
+    rights: "Teksto {year} See The Shroud. Malayang ibahagi basta may link pabalik. Nasa pahinang Tungkol dito ang credits ng mga imahe.",
     eky: "Website na ginawa nang may pagmamahal, ng", ekyAria: "Website na ginawa nang may pagmamahal ng everybodyknowsyou.com"
   },
   strength: { strong: "Matibay", moderate: "Katamtaman", weak: "Mahina", disputed: "Pinagtatalunan", debunked: "Napabulaanan" },
@@ -88,12 +88,12 @@ export default {
     labsAlt: "Chart ng labindalawang nailathalang sukat ng radiocarbon mula sa Arizona, Oxford at Zurich, may error bar",
     bpAxis: "Edad sa radiocarbon, mga taon bago ang 1950 (BP). Mas mababa, mas bata.", bpShort: "radiocarbon years BP", labMean: "Average ng lab", combined: "Pinagsama"
   },
-  notFound: { title: "Hindi makita ang pahina | Malibang aking makita", h1: "Wala rito ang pahinang ito", text: "Maaaring luma na ang link, o may mali sa pagkakasulat ng address. Nagsisimula sa home page ang lahat ng nasa site.", cta: "Pumunta sa home page" },
+  notFound: { title: "Hindi makita ang pahina | See The Shroud", h1: "Wala rito ang pahinang ito", text: "Maaaring luma na ang link, o may mali sa pagkakasulat ng address. Nagsisimula sa home page ang lahat ng nasa site.", cta: "Pumunta sa home page" },
 
   pages: {
     index: {
-      title: "Shroud of Turin: Ang Ebidensiya Para at Laban | Malibang aking makita",
-      description: "Totoo ba ang Shroud of Turin? Tingnan ang tela sa high resolution, ang negative at 3D na imahe, at timbangin ang ebidensiya ng magkabilang panig, may source.",
+      title: "See The Shroud: Tuklasin ang Shroud of Turin at ang Ebidensiya Nito",
+      description: "Tuklasin at suriin nang malapitan ang Shroud of Turin: zoom, negative, 3D, mapa ng mga sugat, at ebidensiya para at laban na may source. Libre, sa 12 wika.",
       h1: "Suriin mo mismo ang Shroud of Turin",
       lede: "Isang telang lino, 4.4 metro ang haba, ang may malabong imahe ng isang lalaking hinagupit at ipinako sa krus. May nagsasabing pamemeke ito noong Middle Ages. May iba namang nagsasabing ito ang telang ipinambalot sa bangkay ni Hesus. Narito ang ebidensiya mula sa magkabilang panig, kasama ang bawat source, para ikaw mismo ang humusga.",
       cta1: "Tuklasin ang tela", cta2: "Basahin ang case file",
@@ -102,7 +102,7 @@ export default {
       hint2: "Igalaw ang cursor sa mukha para makita ito gaya ng nakikita ng mata",
       faceCaption: "Ang mukha sa Shroud. Litrato ni Giuseppe Enrie, 1931.",
       thomasText: `<h2>Hiniling ni Tomas na makita ang mga marka</h2>
-<p>Ipinangalan ang site na ito sa pinakatapat na skeptic sa mga Ebanghelyo. Hindi pinaniwalaan ni Tomas ang sinabi sa kaniya ng mga kaibigan niya. Gusto niya ng ebidensiyang makikita at mahahawakan niya: ang mga marka ng pako, ang sugat sa tagiliran.</p>
+<p>Ginawa ang site na ito sa diwa ng pinakatapat na skeptic sa mga Ebanghelyo. Hindi pinaniwalaan ni Tomas ang sinabi sa kaniya ng mga kaibigan niya. Gusto niya ng ebidensiyang makikita at mahahawakan niya: ang mga marka ng pako, ang sugat sa tagiliran.</p>
 <p>Ipinakikita ng Shroud of Turin ang isang lalaking may ganoon ding uri ng mga marka. Kung ito nga ang pinaniniwalaan ng marami, iyan ang tanong na iniiwan sa iyo ng site na ito. Ipapakita namin sa iyo ang mga marka, ang mga pagsusuri, ang mga pagdududa at ang mga sagot, at ituturo namin ang bawat source.</p>`,
       thomasCta: "Tingnan ang mga marka",
       objH: "Ano ito",
@@ -177,8 +177,8 @@ export default {
     },
 
     explore: {
-      title: "Tuklasin ang Shroud of Turin sa High Resolution | Malibang aking makita",
-      description: "Mag-zoom sa buong Shroud of Turin, lumipat sa negative ng litrato, palinawin ang imahe, at hanapin ang bawat sugat, sunog at tagpi, kasama ang paliwanag.",
+      title: "Tuklasin ang Shroud of Turin: Interactive na View sa High Resolution | See The Shroud",
+      description: "Interactive na view ng buong Shroud of Turin: mag-zoom, lumipat sa negative, palinawin ang imahe, at hanapin ang bawat sugat, sunog at tagpi, may paliwanag.",
       h1: "Tuklasin ang tela",
       lede: "Ito ang buong Shroud, imahe ng harap at likod, magkadikit ang ulo. Hilahin para gumalaw, mag-scroll o mag-pinch para mag-zoom. Lumipat sa negative para makita ang nakita ni Secondo Pia noong 1898. Ipinaliliwanag ng mga markang may numero kung ano ang tinitingnan mo.",
       imgAlt: "Ang buong Shroud of Turin, imahe ng harap at likod",
@@ -194,7 +194,7 @@ export default {
     },
 
     evidence: {
-      title: "Ebidensiya tungkol sa Shroud of Turin, Para at Laban | Malibang aking makita",
+      title: "Ebidensiya tungkol sa Shroud of Turin, Para at Laban | See The Shroud",
       description: "Bawat pangunahing argumento tungkol sa Shroud of Turin, para at laban, may marka ayon sa tibay, kasama ang pinakamahusay na sagot ng skeptic at mga source.",
       h1: "Ang case file",
       lede: "Bawat pangunahing argumento tungkol sa Shroud, para at laban. May marka ang bawat isa ayon sa tibay nito, kasama ang pinakamahusay na pagtutol, ang pinakamahusay na tugon at ang mga source. Isinasama namin nang buong lakas ang mga argumento laban sa pagiging tunay, dahil dapat mo itong marinig muna mula sa amin.",
@@ -216,7 +216,7 @@ export default {
     },
 
     wounds: {
-      title: "Ang mga Sugat sa Shroud of Turin at ang mga Ebanghelyo | Malibang aking makita",
+      title: "Ang mga Sugat sa Shroud of Turin at ang mga Ebanghelyo | See The Shroud",
       description: "Bawat sugat sa Shroud of Turin, mula sa hagupit hanggang sa pako sa pulso at sugat sa tagiliran, ipinakita sa tela katabi ng teksto ng Ebanghelyo.",
       h1: "Ang mga sugat, at ang sinasabi ng mga Ebanghelyo",
       lede: "I-click ang isang numero sa tela o isang sugat sa listahan. Ipinaliliwanag ang bawat marka gaya ng paglalarawan dito ng mga forensic pathologist, katabi ng talata ng Ebanghelyo na katapat nito, at ang tala ng skeptic kung mayroon.",
@@ -236,7 +236,7 @@ export default {
     },
 
     dating: {
-      title: "Carbon Dating ng Shroud of Turin: Mga Resulta at ang Debate | Malibang aking makita",
+      title: "Carbon Dating ng Shroud of Turin: Mga Resulta at ang Debate | See The Shroud",
       description: "Ang radiocarbon dating ng Shroud of Turin noong 1988 ay nagbigay ng AD 1260 hanggang 1390. Ang 12 sukat, pinagmulan ng sample, mga reanalysis at ibang paraan.",
       h1: "Ang carbon dating",
       lede: "Ito ang pinakamatibay na iisang argumento na medieval ang Shroud, at nararapat itong suriin nang maingat. Narito ang ginawa, ang natuklasan, ang natuklasan ng mga kritiko mula noon, at ang napapatunayan at hindi napapatunayan nito.",
@@ -265,7 +265,7 @@ export default {
     },
 
     image: {
-      title: "Paano Ginawa ang Imahe sa Shroud of Turin? | Malibang aking makita",
+      title: "Paano Ginawa ang Imahe sa Shroud of Turin? | See The Shroud",
       description: "Bawat hipotesis tungkol sa imahe sa Shroud of Turin, mula pintura at sunog hanggang biglang paglabas ng liwanag, ano ang naipapaliwanag at saan bumabagsak.",
       h1: "Paano ginawa ang imahe?",
       lede: "Ito ang pinakamalalim na bukas na tanong tungkol sa Shroud. Ang anumang paliwanag, natural man o hindi, ay kailangang sumagot sa isang listahan ng napakakakaibang katangian. Narito ang mga ito, kasunod ang bawat pangunahing hipotesis at ang mga problema nito.",
@@ -322,7 +322,7 @@ export default {
     },
 
     timeline: {
-      title: "Timeline ng Shroud of Turin: Mula Lirey Hanggang Ngayon | Malibang aking makita",
+      title: "Timeline ng Shroud of Turin: Mula Lirey Hanggang Ngayon | See The Shroud",
       description: "Interactive na timeline ng Shroud of Turin: ang ipinapalagay na maagang kasaysayan, ang dokumentadong tala mula mga 1354, mga sunog, litrato at pagsusuri.",
       h1: "Timeline",
       lede: "Nagsisimula ang dokumentadong kasaysayan ng Shroud sa France noong mga 1354. Bago noon, hipotesis ang kasaysayan nito, na binuo mula sa mga imahe at teksto na maaaring tumutukoy o hindi tumutukoy sa telang ito. Pinaghihiwalay ng timeline ang dalawa.",
@@ -344,7 +344,7 @@ export default {
     },
 
     videos: {
-      title: "Mga Video tungkol sa Shroud of Turin, Sinuri Bawat Claim | Malibang aking makita",
+      title: "Mga Video tungkol sa Shroud of Turin, Sinuri Bawat Claim | See The Shroud",
       description: "Tatlong popular na video tungkol sa Shroud of Turin, sinuri bawat claim kasama ang timestamp: ang tumatayo, ang pinagtatalunan at ang mali.",
       h1: "Mga popular na video, sinuri",
       lede: "Sa mga video unang nakikilala ng karamihan ang Shroud. Pinanood namin ang tatlong popular mula simula hanggang wakas, kasama ang mga transcript, at sinuri ang kanilang mga pangunahing claim. Mahusay ang ilan. May ilang mali. I-click ang isang oras para tumalon sa sandaling iyon.",
@@ -354,7 +354,7 @@ export default {
       missingAfter: "Kailangan ding harapin ng isang makatarungang argumento ang mga ito. Makikita mo ang bawat isa sa <a href=\"evidence.html\">case file</a>."
     },
     library: {
-      title: "Aklatan ng Pananaliksik sa Shroud of Turin | Malibang aking makita",
+      title: "Aklatan ng Pananaliksik sa Shroud of Turin | See The Shroud",
       description: "Mahahanap na aklatan ng mga research paper at pag-aaral sa Shroud of Turin, para at laban, may direktang link sa mga orihinal sa shroud.com at mga journal.",
       h1: "Aklatan",
       lede: "Mahigit 2,400 papel, pag-aaral, artikulo at newsletter, halos lahat mula sa archive sa shroud.com, na binuo at iningatan ni Barrie Schwortz mula dekada 1990 hanggang sa kaniyang pagpanaw noong 2024. Magsimula sa 25 pangunahing babasahin, saka maghanap ayon sa salita, mag-filter ayon sa paksa, at dumiretso sa orihinal.",
@@ -370,7 +370,7 @@ export default {
     },
 
     next: {
-      title: "Ano Na Ngayon? Pagkatapos ng Shroud of Turin | Malibang aking makita",
+      title: "Ano Na Ngayon? Pagkatapos ng Shroud of Turin | See The Shroud",
       description: "Nakita mo na ang ebidensiya tungkol sa Shroud of Turin. Nagdududa ka man, nagtataka o naniniwala, narito ang mga tapat na susunod na hakbang.",
       h1: "Ano na ngayon?",
       lede: "Saanman ka humantong pagkatapos tingnan ang ebidensiya, may makatwirang susunod na hakbang. Wala sa mga ito ang nangangailangan sa iyo na magkunwaring mas tiyak ka kaysa sa totoo.",
@@ -379,20 +379,20 @@ export default {
         { id: 'wonder', h: "Kung nagtataka ka", body: `<p>Tanong tungkol sa iisang tao ang Shroud. Ang pinakamahusay na susunod na hakbang ay makilala siya kung saan siya pinakabuong inilalarawan.</p><ul><li>Basahin ang Ebanghelyo ni Juan. Mga dalawang oras itong basahin, at nagtatapos ito kay Tomas.</li><li>Makipag-usap sa isang taong pinagkakatiwalaan mo na naniniwala, at itanong ang pinakamahirap mong tanong.</li><li>Kung hindi ka pa kailanman nanalangin, subukan ang isang simple at tapat na dasal: kung nariyan ka, ipakita mo sa akin.</li></ul>` },
         { id: 'believe', h: "Kung naniniwala ka", body: `<p>Kung gayon, ang tanong ay hindi na kung ano ang napapatunayan ng tela, kundi kung paano ka namumuhay.</p><ul><li>Maging taong mapagkakatiwalaan ng isang skeptic: patas, mausisa at mabait, lalo na sa mga taong hindi sang-ayon sa iyo.</li><li>Ibahagi ang site na ito sa pinakamaalalahaning skeptic na kilala mo, at pakinggan ang sasabihin niya.</li><li>Paglingkuran ang isang nangangailangan ngayong linggo. Ang pananampalatayang kumikilos ang pinakamahusay na ebidensiyang makikita ng karamihan ng tao.</li></ul>` }
       ],
-      story: `<h2>Malapit na: ang kuwento ng isang tao</h2><p>Si Nelson Inno, na lumikha ng site na ito, ay magbabahagi rito ng sarili niyang kuwento, at ng isang pagninilay tungkol sa tinatawag niyang pattern patungo sa Diyos. Magkakaroon ito ng sariling pahina, hiwalay sa ebidensiya, para matimbang mo ang bawat isa ayon sa sarili nitong batayan.</p>`,
+      story: `<h2>Malapit na: ang kuwento ng isang tao</h2><p>Si Nelson Inno, na lumikha ng site na ito, ay magbabahagi ng sarili niyang kuwento, at ng isang pagninilay tungkol sa tinatawag niyang pattern patungo sa Diyos, sa isang hiwalay na website. Dahil hiwalay ito sa ebidensiya, matitimbang mo ang bawat isa ayon sa sarili nitong batayan.</p>`,
       quote: "Ang mga ito ay nangasulat, upang kayo'y magsisampalataya na si Jesus ay ang Cristo, ang Anak ng Dios.",
       quoteCite: "Juan 20:31"
     },
     about: {
-      title: "Tungkol sa “Malibang aking makita”: Bakit May Site na Ito | Malibang aking makita",
-      description: "Libre at hindi pangkomersiyong site tungkol sa Shroud of Turin. Kung paano namin minamarkahan ang ebidensiya, saan galing ang imahe, at sino ang gumawa nito.",
+      title: "Tungkol sa See The Shroud: Bakit May Site na Ito | See The Shroud",
+      description: "Ang See The Shroud ay libre at hindi pangkomersiyong site tungkol sa Shroud of Turin. Paano namin minamarkahan ang ebidensiya, saan galing ang imahe, at sino kami.",
       h1: "Tungkol sa site na ito",
       lede: "Kung bakit ito umiiral, kung paano kami nagtatrabaho, at kung saan galing ang lahat.",
       body: `<h2>Bakit may site na ito</h2>
 <p>Ang Shroud of Turin ay maaaring isang medieval na likhang-sining, isang sinadyang pamemeke, o ang telang ipinambalot sa bangkay ni Hesus ng Nazaret. Alinman dito, karapat-dapat ito sa mas mahusay na pagdinig kaysa sa isang headline na sampung segundo. Karamihan ng nakikita ng mga tao online ay isinulat para manalo: sumisigaw ang isang panig ng "patunay", sumisigaw ang kabila ng "peke". Isinulat ang site na ito para magbigay-kaalaman.</p>
-<p>Ipinangalan ito kay Tomas, na tumangging maniwala hangga't hindi niya nakikita ang mga marka ng pako. Sa tingin namin, tapat ang ganitong pagdududa, at nararapat itong bigyan ng ebidensiya, hindi ng panggigipit.</p>
+<p>Isang paanyaya ang pangalan nito: tingnan mo mismo ang Shroud, nang malapitan, at ikaw ang humusga sa ebidensiya. Galing kay Tomas ang diwa nito, siya na tumangging maniwala hangga't hindi niya nakikita ang mga marka ng pako. Sa tingin namin, tapat ang ganitong pagdududa, at nararapat itong bigyan ng ebidensiya, hindi ng panggigipit.</p>
 <h2>Sino ang gumawa nito</h2>
-<p>Ang “Malibang aking makita” ay nilikha ni Nelson Inno, isang Salvadoran na founder, bilang isang libre at pro bono na proyekto. Buong pagsisiwalat: naniniwala si Nelson na tunay ang Shroud. Iyan mismo ang dahilan kung bakit may iisang panuntunan ang site: ipinapakita nang buong lakas ang pinakamatibay na argumento laban sa pagiging tunay, katabi mismo ng mga argumentong pabor dito. Kung magkulang man kami rito, gusto naming malaman.</p>
+<p>Ang See The Shroud ay nilikha ni Nelson Inno, isang Salvadoran na founder, bilang isang libre at pro bono na proyekto. Buong pagsisiwalat: naniniwala si Nelson na tunay ang Shroud. Iyan mismo ang dahilan kung bakit may iisang panuntunan ang site: ipinapakita nang buong lakas ang pinakamatibay na argumento laban sa pagiging tunay, katabi mismo ng mga argumentong pabor dito. Kung magkulang man kami rito, gusto naming malaman.</p>
 <h2>Paano kami nagtatrabaho</h2>
 <ul>
 <li>May link sa isang source ang bawat claim na tungkol sa katotohanan. Hangga't maaari, ang source ay isang peer-reviewed na papel o isang primary na dokumento.</li>
@@ -404,7 +404,7 @@ export default {
 <h2>May nakitang mali?</h2>
 <p>Sumulat sa <a href="mailto:hey@everybodyknowsyou.com">hey@everybodyknowsyou.com</a> kasama ang pahina, ang claim at ang iyong source. Lalo naming tinatanggap ang mga pagwawasto mula sa mga skeptic.</p>
 <h2>Malapit na</h2>
-<p>Ang sariling kuwento ni Nelson, at isang pagninilay tungkol sa tinatawag niyang pattern patungo sa Diyos, ay magkakaroon ng sariling pahina. Mananatili rito ang ebidensiya, hiwalay, para matimbang mo ito ayon sa sarili nitong batayan.</p>`,
+<p>Ang sariling kuwento ni Nelson, at isang pagninilay tungkol sa tinatawag niyang pattern patungo sa Diyos, ay ilalagay sa isang hiwalay na website na tatawaging “Unless I See” (“Malibang aking makita”), ayon sa mga salita ni Tomas sa Juan 20:25. Mananatili rito ang ebidensiya, para matimbang mo ito ayon sa sarili nitong batayan.</p>`,
       creditsH: "Mga credit ng imahe", sourceLink: "source"
     }
   }

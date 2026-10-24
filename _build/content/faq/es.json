@@ -1,6 +1,6 @@
 {
  "page": {
-  "title": "La Sábana Santa de Turín explicada: ¿real o falsa? | Hasta que no vea",
+  "title": "La Sábana Santa de Turín explicada: ¿real o falsa? | See The Shroud",
   "description": "¿Es real la Sábana Santa de Turín? Respuestas claras y con fuentes sobre la evidencia a favor y en contra, la datación, la imagen, la sangre y las heridas.",
   "h1": "La Sábana Santa de Turín explicada: respuestas a tus preguntas",
   "lede": "Respuestas breves y con fuentes a las preguntas más comunes sobre la Sábana Santa de Turín, con enlaces a la evidencia completa. Donde los expertos no están de acuerdo, lo decimos.",
@@ -112,6 +112,18 @@
    "link": "explore"
   },
   {
+   "id": "online",
+   "q": "¿Dónde puedo explorar y examinar la Sábana Santa de Turín en línea?",
+   "a": "Aquí mismo, gratis. La página Explora muestra toda la tela en alta resolución: acércate a cualquier detalle, cambia al negativo fotográfico, realza las marcas tenues y abre notas numeradas sobre las heridas, las quemaduras y el lino. La página de inicio muestra el rostro como un relieve en 3D que puedes girar, la página Heridas ubica cada herida en un mapa del cuerpo junto al texto del Evangelio, y la página Tu veredicto te deja pesar la evidencia punto por punto. Funciona en el celular y no necesitas una cuenta.",
+   "link": "explore"
+  },
+  {
+   "id": "allinone",
+   "q": "¿Hay un sitio web que reúna todo sobre la Sábana Santa de Turín?",
+   "a": "Para eso está hecho See The Shroud. En un solo lugar reúne la tela misma para explorarla, su historia desde Lirey hasta hoy, la datación por radiocarbono de 1988 con las doce mediciones, la imagen y cada teoría sobre cómo se formó, la sangre y las heridas, videos populares verificados afirmación por afirmación, una biblioteca de más de 2.400 artículos de investigación y 52 argumentos a favor y en contra, cada uno calificado por su fuerza y enlazado a su fuente. Es gratis y está disponible en 12 idiomas.",
+   "link": "evidence"
+  },
+  {
    "id": "proof",
    "q": "¿La Sábana Santa prueba que Jesús resucitó?",
    "a": "No. Aunque se demostrara que la tela es del siglo I, no podría probar una resurrección; como mucho plantea preguntas que la ciencia no ha respondido. Nuestra opinión es que la Sábana Santa le da a una mente seria razones suficientes para tomarse la pregunta en serio, y deja el último paso a cada persona.",
@@ -120,7 +132,7 @@
   {
    "id": "who",
    "q": "¿Quién hizo este sitio y es neutral?",
-   "a": "«Hasta que no vea» es un proyecto gratuito y sin fines de lucro creado por Nelson Inno y construido por everybodyknowsyou.com. Nelson cree que la Sábana Santa es auténtica y lo dice abiertamente. Aun así, el sitio presenta con toda su fuerza los mejores argumentos de ambos lados, califica cada uno y enlaza cada afirmación a su fuente, para que juzgues por ti mismo.",
+   "a": "See The Shroud es un proyecto gratuito y sin fines de lucro creado por Nelson Inno y construido por everybodyknowsyou.com. Nelson cree que la Sábana Santa es auténtica y lo dice abiertamente. Aun así, el sitio presenta con toda su fuerza los mejores argumentos de ambos lados, califica cada uno y enlaza cada afirmación a su fuente, para que juzgues por ti mismo.",
    "link": "about"
   }
  ]

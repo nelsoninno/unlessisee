@@ -1,6 +1,6 @@
 {
  "page": {
-  "title": "Grabtuch von Turin erklärt: echt oder Fälschung? | Es sei denn, daß ich … sehe",
+  "title": "Grabtuch von Turin erklärt: echt oder Fälschung? | See The Shroud",
   "description": "Ist das Grabtuch von Turin echt? Klare Antworten mit Quellen zu den Belegen für und gegen die Echtheit, zur Datierung, zum Bild, zum Blut und zu den Wunden.",
   "h1": "Das Grabtuch von Turin erklärt: Antworten auf Ihre Fragen",
   "lede": "Kurze Antworten mit Quellen auf die häufigsten Fragen zum Grabtuch von Turin, mit Links zu allen Belegen. Wo Fachleute uneins sind, sagen wir das.",
@@ -112,6 +112,18 @@
    "link": "explore"
   },
   {
+   "id": "online",
+   "q": "Wo kann ich das Grabtuch von Turin online erkunden und untersuchen?",
+   "a": "Genau hier, kostenlos. Die Seite Erkunden zeigt das ganze Tuch in hoher Auflösung: Sie können jedes Detail vergrößern, zum fotografischen Negativ wechseln, schwache Spuren verstärken und nummerierte Hinweise zu den Wunden, den Brandstellen und dem Leinen öffnen. Die Startseite zeigt das Gesicht als 3D-Relief, das Sie drehen können, die Seite Wunden zeigt jede Wunde auf einer Körperkarte neben dem Text der Evangelien, und auf der Seite Ihr Urteil wägen Sie die Belege Punkt für Punkt ab. Es funktioniert auf dem Handy und braucht kein Konto.",
+   "link": "explore"
+  },
+  {
+   "id": "allinone",
+   "q": "Gibt es eine Website, die alles über das Grabtuch von Turin zusammenbringt?",
+   "a": "Genau dafür ist See The Shroud gemacht. An einem Ort finden Sie das Tuch selbst zum Erkunden, seine Geschichte von Lirey bis heute, die Radiokarbondatierung von 1988 mit allen zwölf Messungen, das Bild und jede Theorie zu seiner Entstehung, das Blut und die Wunden, bekannte Videos, Aussage für Aussage geprüft, eine Bibliothek mit mehr als 2.400 Forschungsarbeiten und 52 Argumente dafür und dagegen, jedes nach Stärke bewertet und mit seiner Quelle verknüpft. Die Website ist kostenlos und in 12 Sprachen verfügbar.",
+   "link": "evidence"
+  },
+  {
    "id": "proof",
    "q": "Beweist das Grabtuch, dass Jesus von den Toten auferstanden ist?",
    "a": "Nein. Selbst wenn sich zeigen ließe, dass das Tuch aus dem ersten Jahrhundert stammt, könnte es keine Auferstehung beweisen; höchstens wirft es Fragen auf, die die Wissenschaft nicht beantwortet hat. Wir meinen: Das Grabtuch gibt einem ernsthaften Verstand genug, um die Frage ernst zu nehmen, und überlässt jedem Menschen den letzten Schritt.",
@@ -120,7 +132,7 @@
   {
    "id": "who",
    "q": "Wer hat diese Website gemacht, und ist sie neutral?",
-   "a": "„Es sei denn, daß ich … sehe“ ist ein kostenloses, nicht kommerzielles Projekt von Nelson Inno, umgesetzt von everybodyknowsyou.com. Nelson hält das Grabtuch für echt und sagt das offen. Trotzdem stellt die Website die stärksten Argumente beider Seiten in voller Stärke dar, bewertet jedes davon und verweist bei jeder Aussage auf ihre Quelle, damit Sie selbst urteilen können.",
+   "a": "See The Shroud ist ein kostenloses, nicht kommerzielles Projekt von Nelson Inno, umgesetzt von everybodyknowsyou.com. Nelson hält das Grabtuch für echt und sagt das offen. Trotzdem stellt die Website die stärksten Argumente beider Seiten in voller Stärke dar, bewertet jedes davon und verweist bei jeder Aussage auf ihre Quelle, damit Sie selbst urteilen können.",
    "link": "about"
   }
  ]

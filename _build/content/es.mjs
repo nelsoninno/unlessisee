@@ -1,11 +1,11 @@
 // Spanish copy (Latin American, El Salvador). Plain language, no em dashes. HTML allowed in long fields.
 export default {
-  brand: 'Hasta que no vea',
+  brand: 'See The Shroud',
   locale: 'es_SV',
-  shareImage: 'social-share-hasta-que-no-vea-seetheshroud.org.jpg',
-  keywords: 'Sábana Santa explicada, Sábana Santa de Jesús, Santo Sudario, ¿es real la Sábana Santa?, Sábana Santa auténtica o falsa, evidencia de la Sábana Santa, Sábana Santa de Turín preguntas, Sábana Santa de Turín, Síndone de Turín, evidencia de la Sábana Santa, datación de la Sábana Santa, carbono 14 Sábana Santa, negativo de la Sábana Santa, Sábana Santa en 3D, es real la Sábana Santa, sudario de Jesús, sindonología, Shroud of Turin, STURP, Secondo Pia',
+  shareImage: 'social-share-see-the-shroud-es-seetheshroud.org.jpg',
+  keywords: 'See The Shroud, explorar la Sábana Santa de Turín, examinar la Sábana Santa de Turín, ver la Sábana Santa de cerca, Sábana Santa de Turín interactiva, sitio interactivo de la Sábana Santa, Sábana Santa de Turín en alta resolución, guía visual de la Sábana Santa, todo sobre la Sábana Santa de Turín, Sábana Santa explicada, Sábana Santa de Jesús, Santo Sudario, ¿es real la Sábana Santa?, Sábana Santa auténtica o falsa, evidencia de la Sábana Santa, Sábana Santa de Turín preguntas, Sábana Santa de Turín, Síndone de Turín, evidencia de la Sábana Santa, datación de la Sábana Santa, carbono 14 Sábana Santa, negativo de la Sábana Santa, Sábana Santa en 3D, es real la Sábana Santa, sudario de Jesús, sindonología, Shroud of Turin, STURP, Secondo Pia',
   shareAlt: 'El rostro de la Sábana Santa de Turín como negativo fotográfico',
-  orgDescription: '«Hasta que no vea» es un proyecto educativo gratuito y sin fines de lucro que presenta la evidencia a favor y en contra de la autenticidad de la Sábana Santa de Turín, con sus fuentes, en varios idiomas.',
+  orgDescription: 'See The Shroud es un sitio educativo gratuito y sin fines de lucro donde puedes explorar y examinar de cerca la Sábana Santa de Turín (en alta resolución, en negativo y en 3D) y pesar la evidencia a favor y en contra de su autenticidad, con todas las fuentes, en 12 idiomas.',
   ui: {
     skip: 'Ir al contenido', menu: 'Menú', mainNav: 'Principal', language: 'Idioma',
     exhibit: 'Prueba', detail: 'Los detalles', skeptic: 'La mejor respuesta escéptica', reply: 'La réplica',
@@ -28,7 +28,7 @@ export default {
   footer: {
     about: 'Un proyecto gratuito y sin fines de lucro. Cada afirmación tiene su fuente en el expediente, incluidas las fuentes que no están de acuerdo con nosotros.',
     explore: 'Explora', more: 'Profundiza', extra: [],
-    rights: 'Texto {year} «Hasta que no vea». Puedes compartirlo libremente con un enlace a este sitio. Créditos de las imágenes en la página Acerca de.',
+    rights: 'Texto {year} See The Shroud. Puedes compartirlo libremente con un enlace a este sitio. Créditos de las imágenes en la página Acerca de.',
     eky: 'Sitio web hecho con amor, por', ekyAria: 'Sitio web hecho con amor por everybodyknowsyou.com'
   },
   strength: { strong: 'Sólida', moderate: 'Moderada', weak: 'Débil', disputed: 'Disputada', debunked: 'Descartada' },
@@ -88,12 +88,12 @@ export default {
     labsAlt: 'Gráfico de las doce mediciones de radiocarbono publicadas por Arizona, Oxford y Zúrich, con sus barras de error',
     bpAxis: 'Edad por radiocarbono, años antes de 1950 (AP). Menos significa más reciente.', bpShort: 'años de radiocarbono AP', labMean: 'Media del laboratorio', combined: 'Combinada'
   },
-  notFound: { title: 'Página no encontrada | Hasta que no vea', h1: 'Esta página no está aquí', text: 'Puede que el enlace sea antiguo o que la dirección tenga un error. Todo el sitio parte de la página de inicio.', cta: 'Ir a la página de inicio' },
+  notFound: { title: 'Página no encontrada | See The Shroud', h1: 'Esta página no está aquí', text: 'Puede que el enlace sea antiguo o que la dirección tenga un error. Todo el sitio parte de la página de inicio.', cta: 'Ir a la página de inicio' },
 
   pages: {
     index: {
-      title: 'Sábana Santa de Turín: la evidencia a favor y en contra | Hasta que no vea',
-      description: '¿Es real la Sábana Santa de Turín? Explora la tela en alta resolución, en negativo y en 3D, y pesa la evidencia de ambos lados, con todas las fuentes.',
+      title: 'See The Shroud: explora la Sábana Santa de Turín y su evidencia',
+      description: 'Explora y examina de cerca la Sábana Santa de Turín: zoom, negativo, 3D, mapa de heridas, evidencia a favor y en contra y fuentes. Gratis, en 12 idiomas.',
       h1: 'Examina tú mismo la Sábana Santa de Turín',
       lede: 'Una tela de lino de 4,4 metros de largo lleva la imagen tenue de un hombre que fue flagelado y crucificado. Algunos la llaman una falsificación medieval. Otros, la mortaja de Jesús. Aquí está la evidencia de ambos lados, con todas las fuentes, para que la juzgues tú mismo.',
       cta1: 'Explora la tela', cta2: 'Lee el expediente',
@@ -102,7 +102,7 @@ export default {
       hint2: 'Pasa el cursor sobre el rostro para verlo como lo ve el ojo',
       faceCaption: 'El rostro de la Sábana Santa. Fotografía de Giuseppe Enrie, 1931.',
       thomasText: `<h2>Tomás pidió ver las marcas</h2>
-<p>Este sitio lleva el nombre del escéptico más honesto de los Evangelios. Tomás no creyó lo que le contaron sus amigos. Quería evidencia que pudiera ver y tocar: las marcas de los clavos, la herida del costado.</p>
+<p>Este sitio está hecho con el espíritu del escéptico más honesto de los Evangelios. Tomás no creyó lo que le contaron sus amigos. Quería evidencia que pudiera ver y tocar: las marcas de los clavos, la herida del costado.</p>
 <p>La Sábana Santa de Turín muestra a un hombre con marcas del mismo tipo. Si es lo que muchos creen que es, esa pregunta este sitio te la deja a ti. Te mostraremos las marcas, las pruebas, las dudas y las respuestas, y te indicaremos cada fuente.</p>`,
       thomasCta: 'Mira las marcas',
       objH: 'Qué es',
@@ -177,8 +177,8 @@ export default {
     },
 
     explore: {
-      title: 'Explora la Sábana Santa de Turín en alta resolución | Hasta que no vea',
-      description: 'Acércate a toda la Sábana Santa de Turín, cambia al negativo fotográfico, realza la imagen y encuentra cada herida, quemadura y remiendo, con explicaciones.',
+      title: 'Explora la Sábana Santa de Turín: vista interactiva en alta resolución | See The Shroud',
+      description: 'Vista interactiva de toda la Sábana Santa de Turín: acércate, cambia al negativo, realza la imagen y encuentra cada herida, quemadura y remiendo, explicados.',
       h1: 'Explora la tela',
       lede: 'Esta es la Sábana Santa completa, imagen frontal y dorsal, cabeza con cabeza. Arrastra para moverte, usa la rueda o pellizca para acercar. Cambia al negativo para ver lo que vio Secondo Pia en 1898. Las marcas numeradas explican lo que estás viendo.',
       imgAlt: 'La Sábana Santa de Turín completa, imagen frontal y dorsal',
@@ -194,7 +194,7 @@ export default {
     },
 
     evidence: {
-      title: 'Evidencia sobre la Sábana Santa de Turín, a favor y en contra | Hasta que no vea',
+      title: 'Evidencia sobre la Sábana Santa de Turín, a favor y en contra | See The Shroud',
       description: 'Cada argumento importante sobre la Sábana Santa de Turín, a favor y en contra, calificado según su fuerza, con la mejor respuesta escéptica y sus fuentes.',
       h1: 'El expediente',
       lede: 'Cada argumento importante sobre la Sábana Santa, a favor y en contra. Cada uno está calificado según su fuerza, con la mejor objeción, la mejor réplica y las fuentes. Incluimos los argumentos contra la autenticidad con toda su fuerza, porque debes escucharlos primero de nosotros.',
@@ -216,7 +216,7 @@ export default {
     },
 
     wounds: {
-      title: 'Las heridas de la Sábana Santa de Turín y los Evangelios | Hasta que no vea',
+      title: 'Las heridas de la Sábana Santa de Turín y los Evangelios | See The Shroud',
       description: 'Cada herida de la Sábana Santa de Turín, del flagelo al clavo en la muñeca y la herida del costado, mostrada en la tela junto al texto del Evangelio.',
       h1: 'Las heridas, y lo que dicen los Evangelios',
       lede: 'Haz clic en un número sobre la tela o en una herida de la lista. Cada marca se explica como la describen los patólogos forenses, junto al versículo del Evangelio al que corresponde y, cuando la hay, la nota del escéptico.',
@@ -236,7 +236,7 @@ export default {
     },
 
     dating: {
-      title: 'Datación por radiocarbono de la Sábana Santa: 1988 y el debate | Hasta que no vea',
+      title: 'Datación por radiocarbono de la Sábana Santa: 1988 y el debate | See The Shroud',
       description: 'La datación por radiocarbono de 1988 situó la Sábana Santa de Turín entre 1260 y 1390. Mira las 12 mediciones, la muestra, los nuevos análisis y otros métodos.',
       h1: 'La prueba del carbono 14',
       lede: 'Este es el argumento individual más fuerte de que la Sábana Santa es medieval, y merece una mirada cuidadosa. Aquí está lo que se hizo, lo que se encontró, lo que los críticos han encontrado desde entonces y lo que prueba y no prueba.',
@@ -265,7 +265,7 @@ export default {
     },
 
     image: {
-      title: '¿Cómo se formó la imagen de la Sábana Santa de Turín? | Hasta que no vea',
+      title: '¿Cómo se formó la imagen de la Sábana Santa de Turín? | See The Shroud',
       description: '¿Pintura, quemadura, frotado, fotografía o un estallido de luz? Todas las hipótesis sobre la imagen de la Sábana Santa de Turín, qué explican y dónde fallan.',
       h1: '¿Cómo se formó la imagen?',
       lede: 'Esta es la pregunta abierta más profunda sobre la Sábana Santa. Cualquier explicación, natural o no, tiene que dar cuenta de una lista de propiedades muy extrañas. Aquí están, seguidas de cada hipótesis importante y sus problemas.',
@@ -322,7 +322,7 @@ export default {
     },
 
     timeline: {
-      title: 'Cronología de la Sábana Santa de Turín, de Lirey a hoy | Hasta que no vea',
+      title: 'Cronología de la Sábana Santa de Turín, de Lirey a hoy | See The Shroud',
       description: 'Cronología interactiva de la Sábana Santa de Turín: su posible historia temprana, el registro documentado desde 1354, los incendios, las fotos y las pruebas.',
       h1: 'Cronología',
       lede: 'La historia documentada de la Sábana Santa comienza en Francia hacia 1354. Antes de eso, su historia es una hipótesis, construida con imágenes y textos que pueden o no describir esta tela. La cronología mantiene separadas las dos cosas.',
@@ -344,7 +344,7 @@ export default {
     },
 
     videos: {
-      title: 'Videos sobre la Sábana Santa de Turín, verificados | Hasta que no vea',
+      title: 'Videos sobre la Sábana Santa de Turín, verificados | See The Shroud',
       description: 'Tres videos populares sobre la Sábana Santa de Turín, verificados afirmación por afirmación: qué se sostiene, qué está en disputa y qué es falso.',
       h1: 'Videos populares, verificados',
       lede: 'La mayoría de la gente conoce la Sábana Santa por medio de videos. Vimos tres videos populares de principio a fin, incluidas sus transcripciones, y verificamos sus afirmaciones principales. Varias son excelentes. Algunas son falsas. Haz clic en un tiempo para saltar a ese momento.',
@@ -355,7 +355,7 @@ export default {
     },
 
     library: {
-      title: 'Biblioteca de investigación sobre la Sábana Santa de Turín | Hasta que no vea',
+      title: 'Biblioteca de investigación sobre la Sábana Santa de Turín | See The Shroud',
       description: 'Biblioteca con buscador de artículos y estudios sobre la Sábana Santa de Turín, a favor y en contra, con enlaces a los originales en shroud.com y en revistas.',
       h1: 'Biblioteca',
       lede: 'Más de 2.400 artículos, estudios, textos y boletines, casi todos del archivo de shroud.com, que Barrie Schwortz creó y mantuvo desde la década de 1990 hasta su muerte en 2024. Empieza por las 25 lecturas clave; luego busca por palabra, filtra por tema y ve directo al original.',
@@ -371,7 +371,7 @@ export default {
     },
 
     next: {
-      title: '¿Y ahora qué? Después de la Sábana Santa de Turín | Hasta que no vea',
+      title: '¿Y ahora qué? Después de la Sábana Santa de Turín | See The Shroud',
       description: 'Ya viste la evidencia sobre la Sábana Santa de Turín. Ya sea que dudes, te lo preguntes o creas, aquí hay pasos honestos para seguir.',
       h1: '¿Y ahora qué?',
       lede: 'Dondequiera que hayas llegado después de ver la evidencia, hay un siguiente paso sensato. Ninguno te pide fingir más certeza de la que tienes.',
@@ -380,20 +380,20 @@ export default {
         { id: 'wonder', h: 'Si te lo estás preguntando', body: `<p>La Sábana Santa es una pregunta sobre un hombre. El mejor paso siguiente es conocerlo donde se le describe con más detalle.</p><ul><li>Lee el Evangelio de Juan. Toma unas dos horas y termina con Tomás.</li><li>Habla con alguien de confianza que crea, y hazle tu pregunta más difícil.</li><li>Si nunca has orado, prueba con algo sencillo y honesto: si estás ahí, muéstramelo.</li></ul>` },
         { id: 'believe', h: 'Si crees', body: `<p>Entonces la pregunta ya no es qué prueba la tela, sino cómo vives.</p><ul><li>Sé alguien en quien un escéptico pueda confiar: justo, curioso y amable, sobre todo con quien no piensa igual.</li><li>Comparte este sitio con el escéptico más reflexivo que conozcas, y escucha lo que te diga.</li><li>Sirve a alguien que lo necesite esta semana. Una fe que actúa es la mejor evidencia que la mayoría de personas llegará a ver.</li></ul>` }
       ],
-      story: `<h2>Muy pronto: la historia de una persona</h2><p>Nelson Inno, quien creó este sitio, compartirá aquí su propia historia y una reflexión sobre lo que él llama el patrón hacia Dios. Tendrá su propia página, separada de la evidencia, para que puedas valorar cada cosa por sí misma.</p>`,
+      story: `<h2>Muy pronto: la historia de una persona</h2><p>Nelson Inno, quien creó este sitio, compartirá su propia historia y una reflexión sobre lo que él llama el patrón hacia Dios en un sitio web aparte. Mantenerla separada de la evidencia te permite valorar cada cosa por sí misma.</p>`,
       quote: 'Estas han sido escritas para que crean que Jesús es el Cristo, el Hijo de Dios.',
       quoteCite: 'Juan 20:31'
     },
     about: {
-      title: 'Acerca de «Hasta que no vea»: por qué existe este sitio | Hasta que no vea',
-      description: '«Hasta que no vea» es un sitio gratuito sobre la Sábana Santa de Turín. Cómo calificamos la evidencia, de dónde vienen las imágenes y quién lo hizo.',
+      title: 'Acerca de See The Shroud: por qué existe este sitio | See The Shroud',
+      description: 'See The Shroud es un sitio gratuito sobre la Sábana Santa de Turín. Cómo calificamos la evidencia, de dónde vienen las imágenes y quién lo hizo.',
       h1: 'Acerca de este sitio',
       lede: 'Por qué existe, cómo trabajamos y de dónde viene todo.',
       body: `<h2>Por qué existe este sitio</h2>
 <p>La Sábana Santa de Turín puede ser una obra de arte medieval, una falsificación deliberada o la mortaja de Jesús de Nazaret. Sea lo que sea, merece algo mejor que un titular de diez segundos. Casi todo lo que la gente encuentra en internet está escrito para ganar: un lado grita "prueba", el otro grita "falso". Este sitio está escrito para informar.</p>
-<p>Lleva el nombre de Tomás, que se negó a creer hasta poder ver las marcas de los clavos. Creemos que una duda como la suya es honesta, y que merece evidencia, no presión.</p>
+<p>Su nombre, See The Shroud, significa «mira la Sábana Santa», y es una invitación: mírala por ti mismo, de cerca, y juzga la evidencia. El espíritu viene de Tomás, que se negó a creer hasta poder ver las marcas de los clavos. Creemos que una duda como la suya es honesta, y que merece evidencia, no presión.</p>
 <h2>Quién lo hizo</h2>
-<p>«Hasta que no vea» fue creado por Nelson Inno, un fundador salvadoreño, como un proyecto gratuito y pro bono. Para ser totalmente transparentes: Nelson cree que la Sábana Santa es auténtica. Justamente por eso el sitio se exige una regla: los argumentos más fuertes contra la autenticidad se muestran con toda su fuerza, justo al lado de los argumentos a favor. Si alguna vez no cumplimos con eso, queremos saberlo.</p>
+<p>See The Shroud fue creado por Nelson Inno, un fundador salvadoreño, como un proyecto gratuito y pro bono. Para ser totalmente transparentes: Nelson cree que la Sábana Santa es auténtica. Justamente por eso el sitio se exige una regla: los argumentos más fuertes contra la autenticidad se muestran con toda su fuerza, justo al lado de los argumentos a favor. Si alguna vez no cumplimos con eso, queremos saberlo.</p>
 <h2>Cómo trabajamos</h2>
 <ul>
 <li>Cada afirmación sobre hechos enlaza a una fuente. Cuando es posible, la fuente es un artículo revisado por pares o un documento original.</li>
@@ -405,7 +405,7 @@ export default {
 <h2>¿Encontraste un error?</h2>
 <p>Escribe a <a href="mailto:hey@everybodyknowsyou.com">hey@everybodyknowsyou.com</a> con la página, la afirmación y tu fuente. Las correcciones de los escépticos son especialmente bienvenidas.</p>
 <h2>Muy pronto</h2>
-<p>La historia de Nelson, y una reflexión sobre lo que él llama el patrón hacia Dios, tendrán su propia página. La evidencia se queda aquí, aparte, para que puedas pesarla en sus propios términos.</p>`,
+<p>La historia de Nelson, y una reflexión sobre lo que él llama el patrón hacia Dios, estarán en un sitio web aparte llamado «Unless I See» (Hasta que no vea), inspirado en las palabras de Tomás en Juan 20:25. La evidencia se queda aquí, para que puedas pesarla en sus propios términos.</p>`,
       creditsH: 'Créditos de las imágenes', sourceLink: 'fuente'
     }
   }

@@ -1,6 +1,6 @@
 {
  "page": {
-  "title": "La Sindone di Torino spiegata: vera o falsa? | Se io non vedo",
+  "title": "La Sindone di Torino spiegata: vera o falsa? | See The Shroud",
   "description": "La Sindone di Torino è vera? Risposte chiare e con le fonti sulle prove a favore e contro l'autenticità, sulla datazione, l'immagine, il sangue e le ferite.",
   "h1": "La Sindone di Torino spiegata: le risposte alle tue domande",
   "lede": "Risposte brevi e con le fonti alle domande più frequenti sulla Sindone di Torino, con i link alle prove complete. Dove gli esperti non sono d'accordo, lo diciamo.",
@@ -112,6 +112,18 @@
    "link": "explore"
   },
   {
+   "id": "online",
+   "q": "Dove posso esplorare ed esaminare la Sindone di Torino online?",
+   "a": "Proprio qui, gratis. La pagina Esplora mostra l'intero telo in alta risoluzione: ingrandisci qualsiasi dettaglio, passa al negativo fotografico, rendi più visibili i segni deboli e apri le note numerate su ferite, bruciature e lino. La pagina iniziale mostra il volto come un rilievo 3D che puoi ruotare, la pagina Ferite colloca ogni ferita su una mappa del corpo accanto al testo del Vangelo, e la pagina Il tuo verdetto ti permette di valutare le prove punto per punto. Funziona sul telefono e non serve un account.",
+   "link": "explore"
+  },
+  {
+   "id": "allinone",
+   "q": "Esiste un sito che riunisce tutto sulla Sindone di Torino?",
+   "a": "È proprio ciò che vuole essere See The Shroud. In un solo posto riunisce il telo stesso da esplorare, la sua storia da Lirey a oggi, la datazione al carbonio del 1988 con tutte e dodici le misure, l'immagine e ogni teoria su come si è formata, il sangue e le ferite, video popolari verificati affermazione per affermazione, una biblioteca di oltre 2.400 studi e 52 argomenti a favore e contro, ciascuno valutato per forza e collegato alla sua fonte. È gratuito e disponibile in 12 lingue.",
+   "link": "evidence"
+  },
+  {
    "id": "proof",
    "q": "La Sindone dimostra che Gesù è risorto?",
    "a": "No. Anche se si dimostrasse che il telo è del I secolo, non potrebbe provare una risurrezione; al massimo solleva domande a cui la scienza non ha risposto. Secondo noi la Sindone dà a una mente seria abbastanza elementi per prendere sul serio la domanda, e lascia a ciascuno l'ultimo passo.",
@@ -120,7 +132,7 @@
   {
    "id": "who",
    "q": "Chi ha creato questo sito, ed è neutrale?",
-   "a": "«Se io non vedo» è un progetto gratuito e senza scopo di lucro creato da Nelson Inno e realizzato da everybodyknowsyou.com. Nelson crede che la Sindone sia autentica e lo dice apertamente. Il sito presenta comunque gli argomenti più forti di entrambe le parti in tutta la loro forza, valuta ciascuno di essi e collega ogni affermazione alla sua fonte, così puoi giudicare da solo.",
+   "a": "See The Shroud è un progetto gratuito e senza scopo di lucro creato da Nelson Inno e realizzato da everybodyknowsyou.com. Nelson crede che la Sindone sia autentica e lo dice apertamente. Il sito presenta comunque gli argomenti più forti di entrambe le parti in tutta la loro forza, valuta ciascuno di essi e collega ogni affermazione alla sua fonte, così puoi giudicare da solo.",
    "link": "about"
   }
  ]

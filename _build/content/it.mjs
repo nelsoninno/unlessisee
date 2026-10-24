@@ -1,12 +1,12 @@
 // Testi in italiano. Linguaggio semplice, niente lineette lunghe. HTML ammesso nei campi lunghi.
 // Testo biblico: Riveduta 1927 (pubblico dominio), da ebible.org.
 export default {
-  brand: "Se io non vedo",
+  brand: "See The Shroud",
   locale: "it_IT",
-  shareImage: "social-share-unless-i-see-seetheshroud.org.jpg",
-  keywords: "Sindone di Torino, Sacra Sindone, prove sulla Sindone di Torino, datazione al carbonio della Sindone, negativo fotografico della Sindone, Sindone 3D, la Sindone di Torino è vera, telo funerario di Gesù, sindonologia, Shroud of Turin, STURP, Secondo Pia",
+  shareImage: "social-share-see-the-shroud-seetheshroud.org.jpg",
+  keywords: "See The Shroud, esplorare la Sindone di Torino, esaminare la Sindone di Torino, vedere la Sindone di Torino da vicino, Sindone di Torino interattiva, sito interattivo sulla Sindone di Torino, Sindone di Torino in alta risoluzione, Sindone di Torino online, guida visiva alla Sindone di Torino, tutto sulla Sindone di Torino, Sindone di Torino, Sacra Sindone, prove sulla Sindone di Torino, datazione al carbonio della Sindone, negativo fotografico della Sindone, Sindone 3D, la Sindone di Torino è vera, telo funerario di Gesù, sindonologia, Shroud of Turin, STURP, Secondo Pia",
   shareAlt: "Il volto della Sindone di Torino come negativo fotografico",
-  orgDescription: "«Se io non vedo» è un progetto educativo gratuito e senza scopo di lucro che presenta le prove a favore e contro l'autenticità della Sindone di Torino, con le fonti, in molte lingue.",
+  orgDescription: "See The Shroud è un sito educativo gratuito e senza scopo di lucro dove puoi esplorare ed esaminare da vicino la Sindone di Torino (in alta risoluzione, in negativo e in 3D) e valutare le prove a favore e contro la sua autenticità, con tutte le fonti, in 12 lingue.",
   ui: {
     skip: "Vai al contenuto", menu: "Menu", mainNav: "Principale", language: "Lingua",
     exhibit: "Reperto", detail: "I dettagli", skeptic: "La migliore risposta dello scettico", reply: "La replica",
@@ -29,7 +29,7 @@ export default {
   footer: {
     about: "Un progetto gratuito e senza scopo di lucro. Ogni affermazione ha la sua fonte nel fascicolo, comprese le fonti che non sono d'accordo con noi.",
     explore: "Esplora", more: "Approfondisci", extra: [],
-    rights: "Testi {year} «Se io non vedo». Liberi di essere condivisi con un link alla fonte. Crediti delle immagini nella pagina Chi siamo.",
+    rights: "Testi {year} See The Shroud. Liberi di essere condivisi con un link alla fonte. Crediti delle immagini nella pagina Chi siamo.",
     eky: "Sito web realizzato con amore, da", ekyAria: "Sito web realizzato con amore da everybodyknowsyou.com"
   },
   strength: { strong: "Forte", moderate: "Moderata", weak: "Debole", disputed: "Contestata", debunked: "Smentita" },
@@ -89,12 +89,12 @@ export default {
     labsAlt: "Grafico delle dodici misure al radiocarbonio pubblicate da Arizona, Oxford e Zurigo, con le barre d'errore",
     bpAxis: "Età radiocarbonica, anni prima del 1950 (BP). Un valore più basso significa più recente.", bpShort: "anni radiocarbonici BP", labMean: "Media del laboratorio", combined: "Combinato"
   },
-  notFound: { title: "Pagina non trovata | Se io non vedo", h1: "Questa pagina non c'è", text: "Il link potrebbe essere vecchio, o l'indirizzo potrebbe contenere un errore di battitura. Tutto il sito parte dalla pagina iniziale.", cta: "Vai alla pagina iniziale" },
+  notFound: { title: "Pagina non trovata | See The Shroud", h1: "Questa pagina non c'è", text: "Il link potrebbe essere vecchio, o l'indirizzo potrebbe contenere un errore di battitura. Tutto il sito parte dalla pagina iniziale.", cta: "Vai alla pagina iniziale" },
 
   pages: {
     index: {
-      title: "Sindone di Torino: le prove a favore e contro | Se io non vedo",
-      description: "La Sindone di Torino è vera? Esplora il telo in alta risoluzione, guarda il negativo e l'immagine 3D e valuta le prove di entrambe le parti, con tutte le fonti.",
+      title: "See The Shroud: esplora la Sindone di Torino e le sue prove",
+      description: "Esplora ed esamina da vicino la Sindone di Torino: zoom, negativo, 3D, mappa delle ferite e le prove a favore e contro, con tutte le fonti. Gratis, in 12 lingue.",
       h1: "Esamina con i tuoi occhi la Sindone di Torino",
       lede: "Un telo di lino lungo 4,4 metri porta l'immagine debole di un uomo flagellato e crocifisso. Alcuni lo considerano un falso medievale. Altri, il telo funerario di Gesù. Ecco le prove di entrambe le parti, con tutte le fonti, perché tu possa giudicare con la tua testa.",
       cta1: "Esplora il telo", cta2: "Leggi il fascicolo",
@@ -103,7 +103,7 @@ export default {
       hint2: "Passa sopra il volto per vederlo come lo vede l'occhio",
       faceCaption: "Il volto della Sindone. Fotografia di Giuseppe Enrie, 1931.",
       thomasText: `<h2>Tommaso chiese di vedere i segni</h2>
-<p>Questo sito prende il nome dallo scettico più onesto dei Vangeli. Tommaso non credette a ciò che gli dicevano i suoi amici. Voleva prove che potesse vedere e toccare: i segni dei chiodi, la ferita nel costato.</p>
+<p>Questo sito nasce nello spirito dello scettico più onesto dei Vangeli. Tommaso non credette a ciò che gli dicevano i suoi amici. Voleva prove che potesse vedere e toccare: i segni dei chiodi, la ferita nel costato.</p>
 <p>La Sindone di Torino mostra un uomo con segni dello stesso tipo. Se sia ciò che molti credono che sia, è la domanda che questo sito lascia a te. Ti mostreremo i segni, i test, i dubbi e le risposte, e ti indicheremo ogni fonte.</p>`,
       thomasCta: "Guarda i segni",
       objH: "Che cos'è",
@@ -178,8 +178,8 @@ export default {
     },
 
     explore: {
-      title: "Esplora la Sindone di Torino in alta risoluzione | Se io non vedo",
-      description: "Ingrandisci la Sindone di Torino intera, passa al negativo fotografico, migliora l'immagine e trova ogni ferita, bruciatura e toppa, con le spiegazioni.",
+      title: "Esplora la Sindone di Torino: vista interattiva in alta risoluzione | See The Shroud",
+      description: "Vista interattiva della Sindone di Torino intera: ingrandisci, passa al negativo, migliora l'immagine e trova ogni ferita, bruciatura e toppa, con spiegazioni.",
       h1: "Esplora il telo",
       lede: "Questa è la Sindone intera, immagine frontale e dorsale, testa contro testa. Trascina per spostarti, scorri o pizzica per ingrandire. Passa al negativo per vedere ciò che vide Secondo Pia nel 1898. I segni numerati spiegano ciò che stai guardando.",
       imgAlt: "La Sindone di Torino intera, immagine frontale e dorsale",
@@ -195,7 +195,7 @@ export default {
     },
 
     evidence: {
-      title: "Le prove sulla Sindone di Torino, a favore e contro | Se io non vedo",
+      title: "Le prove sulla Sindone di Torino, a favore e contro | See The Shroud",
       description: "I principali argomenti sulla Sindone di Torino, a favore e contro l'autenticità, valutati per forza, con la migliore risposta dello scettico e le fonti.",
       h1: "Il fascicolo",
       lede: "Tutti i principali argomenti sulla Sindone, a favore e contro. Ognuno è valutato in base alla sua forza, con l'obiezione migliore, la replica migliore e le fonti. Presentiamo gli argomenti contro l'autenticità con tutta la loro forza, perché è giusto che tu li senta prima da noi.",
@@ -217,7 +217,7 @@ export default {
     },
 
     wounds: {
-      title: "Le ferite sulla Sindone di Torino e i Vangeli | Se io non vedo",
+      title: "Le ferite sulla Sindone di Torino e i Vangeli | See The Shroud",
       description: "Ogni ferita sulla Sindone di Torino, dai segni del flagello al chiodo nel polso e alla ferita al costato, mostrata sul telo accanto al testo del Vangelo.",
       h1: "Le ferite, e che cosa dicono i Vangeli",
       lede: "Clicca su un numero sul telo o su una ferita nell'elenco. Ogni segno è spiegato come lo descrivono i medici legali, accanto al versetto del Vangelo a cui corrisponde, con la nota dello scettico dove c'è.",
@@ -237,7 +237,7 @@ export default {
     },
 
     dating: {
-      title: "Datazione al carbonio della Sindone di Torino e il dibattito | Se io non vedo",
+      title: "Datazione al carbonio della Sindone di Torino e il dibattito | See The Shroud",
       description: "La datazione al radiocarbonio della Sindone di Torino del 1988 diede 1260-1390 d.C. Le 12 misure, l'origine del campione, le rianalisi e gli altri metodi.",
       h1: "La datazione al carbonio",
       lede: "È il singolo argomento più forte a favore dell'origine medievale della Sindone, e merita un esame attento. Ecco che cosa fu fatto, che cosa si trovò, che cosa hanno trovato i critici in seguito, e che cosa dimostra e non dimostra.",
@@ -266,7 +266,7 @@ export default {
     },
 
     image: {
-      title: "Come si è formata l'immagine della Sindone di Torino? | Se io non vedo",
+      title: "Come si è formata l'immagine della Sindone di Torino? | See The Shroud",
       description: "Tutte le ipotesi sull'immagine della Sindone di Torino, dalla pittura alla bruciatura fino a un lampo di luce, con ciò che spiegano e dove falliscono.",
       h1: "Come si è formata l'immagine?",
       lede: "È la questione aperta più profonda sulla Sindone. Qualsiasi spiegazione, naturale o no, deve rendere conto di un elenco di proprietà molto strane. Eccole, seguite da tutte le principali ipotesi e dai loro problemi.",
@@ -323,7 +323,7 @@ export default {
     },
 
     timeline: {
-      title: "Cronologia della Sindone di Torino: da Lirey a oggi | Se io non vedo",
+      title: "Cronologia della Sindone di Torino: da Lirey a oggi | See The Shroud",
       description: "Cronologia interattiva della Sindone di Torino: la storia antica ipotizzata, la documentazione dal 1354 circa, gli incendi, le foto e i test scientifici.",
       h1: "Cronologia",
       lede: "La storia documentata della Sindone comincia in Francia intorno al 1354. Prima di allora, la sua storia è un'ipotesi, costruita su immagini e testi che potrebbero descrivere o non descrivere questo telo. La cronologia tiene separate le due cose.",
@@ -345,7 +345,7 @@ export default {
     },
 
     videos: {
-      title: "Video sulla Sindone di Torino: affermazioni verificate | Se io non vedo",
+      title: "Video sulla Sindone di Torino: affermazioni verificate | See The Shroud",
       description: "Tre video popolari sulla Sindone di Torino, verificati affermazione per affermazione: che cosa regge, che cosa è contestato e che cosa è sbagliato.",
       h1: "Video popolari, verificati",
       lede: "La maggior parte delle persone conosce la Sindone attraverso i video. Ne abbiamo guardati tre molto popolari dall'inizio alla fine, comprese le trascrizioni, e ne abbiamo verificato le affermazioni principali. Diverse sono eccellenti. Alcune sono sbagliate. Clicca su un orario per saltare a quel momento.",
@@ -355,7 +355,7 @@ export default {
       missingAfter: `Un'argomentazione onesta deve fare i conti anche con questi punti. Li trovi tutti nel <a href="evidence.html">fascicolo</a>.`
     },
     library: {
-      title: "Biblioteca di ricerca sulla Sindone di Torino | Se io non vedo",
+      title: "Biblioteca di ricerca sulla Sindone di Torino | See The Shroud",
       description: "Biblioteca consultabile di articoli e studi sulla Sindone di Torino, a favore e contro, con link diretti agli originali su shroud.com e sulle riviste.",
       h1: "Biblioteca",
       lede: "Più di 2.400 articoli, studi, testi e notiziari, quasi tutti dall'archivio di shroud.com, che Barrie Schwortz creò e curò dagli anni Novanta fino alla sua morte nel 2024. Comincia dalle 25 letture chiave, poi cerca per parola, filtra per argomento e vai direttamente all'originale.",
@@ -371,7 +371,7 @@ export default {
     },
 
     next: {
-      title: "E adesso? Dopo la Sindone di Torino | Se io non vedo",
+      title: "E adesso? Dopo la Sindone di Torino | See The Shroud",
       description: "E adesso, dopo la Sindone di Torino? Hai visto le prove. Che tu dubiti, ti interroghi o creda, ecco alcuni passi successivi onesti per continuare.",
       h1: "E adesso?",
       lede: "Qualunque sia la tua conclusione dopo aver esaminato le prove, c'è un passo successivo sensato. Nessuno di questi passi ti chiede di fingere più certezza di quella che hai.",
@@ -380,20 +380,20 @@ export default {
         { id: 'wonder', h: "Se ti stai interrogando", body: `<p>La Sindone è una domanda su un uomo. Il passo migliore è incontrarlo dove è descritto in modo più completo.</p><ul><li>Leggi il Vangelo di Giovanni. Richiede circa due ore, e finisce con Tommaso.</li><li>Parla con una persona di cui ti fidi e che crede, e falle la tua domanda più difficile.</li><li>Se non hai mai pregato, prova con una preghiera semplice e sincera: se ci sei, mostrati a me.</li></ul>` },
         { id: 'believe', h: "Se credi", body: `<p>Allora la domanda non è più che cosa dimostri il telo, ma come vivi.</p><ul><li>Sii una persona di cui uno scettico possa fidarsi: equa, curiosa e gentile, soprattutto con chi non è d'accordo.</li><li>Condividi questo sito con lo scettico più riflessivo che conosci, e ascolta ciò che ti dice.</li><li>Questa settimana aiuta qualcuno nel bisogno. Una fede che si traduce in azioni è la prova migliore che la maggior parte delle persone vedrà mai.</li></ul>` }
       ],
-      story: `<h2>Prossimamente: la storia di una persona</h2><p>Nelson Inno, che ha creato questo sito, racconterà qui la sua storia, insieme a una riflessione su ciò che chiama «il disegno che porta a Dio». Avrà una pagina a sé, separata dalle prove, così potrai valutare ciascuna cosa per quello che è.</p>`,
+      story: `<h2>Prossimamente: la storia di una persona</h2><p>Nelson Inno, che ha creato questo sito, racconterà la sua storia, insieme a una riflessione su ciò che chiama «il disegno che porta a Dio», su un sito separato. Tenerla distinta dalle prove ti permette di valutare ciascuna cosa per quello che è.</p>`,
       quote: "Queste cose sono scritte, affinché crediate che Gesù è il Cristo, il Figliuol di Dio.",
       quoteCite: "Giovanni 20,31"
     },
     about: {
-      title: "Chi siamo: perché esiste «Se io non vedo» | Se io non vedo",
-      description: "«Se io non vedo» è un sito gratuito e senza scopo di lucro sulla Sindone di Torino. Come valutiamo le prove, da dove vengono le immagini e chi lo ha fatto.",
+      title: "Chi siamo: perché esiste See The Shroud | See The Shroud",
+      description: "See The Shroud è un sito gratuito e senza scopo di lucro sulla Sindone di Torino. Come valutiamo le prove, da dove vengono le immagini e chi lo ha fatto.",
       h1: "Informazioni su questo sito",
       lede: "Perché esiste, come lavoriamo e da dove viene tutto ciò che contiene.",
       body: `<h2>Perché esiste questo sito</h2>
 <p>La Sindone di Torino può essere un'opera d'arte medievale, un falso deliberato o il telo funerario di Gesù di Nazaret. Qualunque cosa sia, merita più attenzione di un titolo da dieci secondi. La maggior parte di ciò che si trova online è scritto per vincere: una parte grida «prova», l'altra grida «falso». Questo sito è scritto per informare.</p>
-<p>Prende il nome da Tommaso, che si rifiutò di credere finché non avesse visto i segni dei chiodi. Pensiamo che un dubbio come il suo sia onesto, e che meriti prove, non pressioni.</p>
+<p>Il suo nome è un invito: guarda la Sindone con i tuoi occhi, da vicino, e giudica le prove. Lo spirito viene da Tommaso, che si rifiutò di credere finché non avesse visto i segni dei chiodi. Pensiamo che un dubbio come il suo sia onesto, e che meriti prove, non pressioni.</p>
 <h2>Chi lo ha realizzato</h2>
-<p>«Se io non vedo» è stato creato da Nelson Inno, fondatore salvadoregno, come progetto gratuito e pro bono. Per trasparenza: Nelson crede che la Sindone sia autentica. È proprio per questo che il sito si impone una regola: gli argomenti più forti contro l'autenticità sono mostrati con tutta la loro forza, accanto agli argomenti a favore. Se mai non fossimo all'altezza di questa regola, vogliamo saperlo.</p>
+<p>See The Shroud è stato creato da Nelson Inno, fondatore salvadoregno, come progetto gratuito e pro bono. Per trasparenza: Nelson crede che la Sindone sia autentica. È proprio per questo che il sito si impone una regola: gli argomenti più forti contro l'autenticità sono mostrati con tutta la loro forza, accanto agli argomenti a favore. Se mai non fossimo all'altezza di questa regola, vogliamo saperlo.</p>
 <h2>Come lavoriamo</h2>
 <ul>
 <li>Ogni affermazione fattuale rimanda a una fonte. Dove possibile, la fonte è un articolo con revisione paritaria o un documento primario.</li>
@@ -405,7 +405,7 @@ export default {
 <h2>Hai trovato un errore?</h2>
 <p>Scrivi a <a href="mailto:hey@everybodyknowsyou.com">hey@everybodyknowsyou.com</a> indicando la pagina, l'affermazione e la tua fonte. Le correzioni degli scettici sono particolarmente gradite.</p>
 <h2>Prossimamente</h2>
-<p>La storia di Nelson, e una riflessione su ciò che chiama «il disegno che porta a Dio», avranno una pagina a sé. Le prove restano qui, separate, così potrai valutarle per quello che sono.</p>`,
+<p>La storia di Nelson, e una riflessione su ciò che chiama «il disegno che porta a Dio», avranno un sito a sé, chiamato «Unless I See» («Se io non vedo»), dalle parole di Tommaso in Giovanni 20,25. Le prove restano qui, così potrai valutarle per quello che sono.</p>`,
       creditsH: "Crediti delle immagini", sourceLink: "fonte"
     }
   }

@@ -29,11 +29,11 @@ function siteGraph(ctx, page, p, extraNodes = []) {
   return {
     '@context': 'https://schema.org',
     '@graph': [
-      { '@type': 'Organization', '@id': base + '#org', name: 'Unless I See', alternateName: ['Hasta que no vea', 'UnlessISee', 'See the Shroud'], url: base,
+      { '@type': 'Organization', '@id': base + '#org', name: 'See The Shroud', alternateName: ['See the Shroud', 'seetheshroud.org'], url: base,
         logo: base + 'android-chrome-512x512.png', description: ctx.L.copy.orgDescription,
         founder: { '@type': 'Person', name: 'Nelson Inno', url: 'https://nelsoninno.com' }, knowsLanguage: CONFIG.langs.map(l => l.code),
         knowsAbout: ['Shroud of Turin', 'Shroud of Jesus', 'Holy Shroud', 'Sindonology', 'Radiocarbon dating of the Shroud of Turin', 'Image formation on the Shroud of Turin', 'Evidence for and against the authenticity of the Shroud of Turin', 'Christian apologetics'] },
-      { '@type': 'WebSite', '@id': base + '#website', url: base, name: ctx.L.copy.brand, alternateName: ['Unless I See', 'Hasta que no vea', 'See the Shroud', 'Shroud of Turin: the evidence for and against'], description: ctx.L.copy.orgDescription, keywords: ctx.L.copy.keywords, isAccessibleForFree: true, inLanguage: CONFIG.langs.map(l => l.code), publisher: { '@id': base + '#org' }, about: { '@id': base + '#shroud' } },
+      { '@type': 'WebSite', '@id': base + '#website', url: base, name: ctx.L.copy.brand, alternateName: ['See the Shroud', 'seetheshroud.org', 'Explore the Shroud of Turin', 'Shroud of Turin: the evidence for and against'], description: ctx.L.copy.orgDescription, keywords: ctx.L.copy.keywords, isAccessibleForFree: true, inLanguage: CONFIG.langs.map(l => l.code), publisher: { '@id': base + '#org' }, about: { '@id': base + '#shroud' } },
       { '@type': 'Thing', '@id': base + '#shroud', name: 'Shroud of Turin', alternateName: ['Turin Shroud', 'Holy Shroud', 'Shroud of Jesus', 'Sábana Santa de Turín', 'Sindone di Torino'], sameAs: ['https://en.wikipedia.org/wiki/Shroud_of_Turin', 'https://www.wikidata.org/wiki/Q150401'] },
       { '@type': page.slug === 'index' ? 'WebPage' : (page.schemaType || 'WebPage'), '@id': ctx.abs(page.slug) + '#page', url: ctx.abs(page.slug), name: p.title, description: p.description,
         inLanguage: ctx.lang, isPartOf: { '@id': base + '#website' }, keywords: ctx.L.copy.keywords, isAccessibleForFree: true,

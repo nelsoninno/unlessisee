@@ -1,6 +1,6 @@
 {
  "page": {
-  "title": "Le Saint-Suaire de Turin expliqué : vrai ou faux ? | Si je ne vois",
+  "title": "Le Saint-Suaire de Turin expliqué : vrai ou faux ? | See The Shroud",
   "description": "Le Saint-Suaire de Turin est-il authentique ? Des réponses claires et sourcées sur les arguments pour et contre, la datation, l’image, le sang et les plaies.",
   "h1": "Le Saint-Suaire de Turin expliqué : vos questions, nos réponses",
   "lede": "Des réponses courtes et sourcées aux questions les plus fréquentes sur le Saint-Suaire de Turin, avec des liens vers l’ensemble des éléments. Quand les experts ne sont pas d’accord, nous le disons.",
@@ -112,6 +112,18 @@
    "link": "explore"
   },
   {
+   "id": "online",
+   "q": "Où explorer et examiner le Saint-Suaire de Turin en ligne ?",
+   "a": "Ici même, gratuitement. La page Explorer montre tout le linge en haute résolution : zoomez sur n’importe quel détail, passez au négatif photographique, renforcez les marques pâles et ouvrez des notes numérotées sur les blessures, les brûlures et le lin. La page d’accueil montre le visage en relief 3D que vous pouvez faire pivoter, la page Les blessures place chaque blessure sur une carte du corps à côté du texte de l’Évangile, et la page Votre verdict vous permet de peser les éléments point par point. Le site fonctionne sur téléphone et ne demande aucun compte.",
+   "link": "explore"
+  },
+  {
+   "id": "allinone",
+   "q": "Existe-t-il un site qui réunit tout sur le Saint-Suaire de Turin ?",
+   "a": "C’est ce que See The Shroud veut être. Il réunit en un seul endroit le linge lui-même à explorer, son histoire de Lirey à nos jours, la datation au radiocarbone de 1988 avec les douze mesures, l’image et chaque théorie sur sa formation, le sang et les blessures, des vidéos populaires vérifiées affirmation par affirmation, une bibliothèque de plus de 2 400 articles de recherche, et 52 arguments pour et contre, chacun noté selon sa solidité et relié à sa source. Il est gratuit et disponible en 12 langues.",
+   "link": "evidence"
+  },
+  {
    "id": "proof",
    "q": "Le Saint-Suaire prouve-t-il que Jésus est ressuscité ?",
    "a": "Non. Même s’il était démontré que le linge date du Ier siècle, il ne pourrait pas prouver une résurrection ; tout au plus, il soulève des questions auxquelles la science n’a pas répondu. Notre avis est que le Saint-Suaire donne à un esprit sérieux assez de matière pour prendre la question au sérieux, et laisse le dernier pas à chacun.",
@@ -120,7 +132,7 @@
   {
    "id": "who",
    "q": "Qui a créé ce site, et est-il neutre ?",
-   "a": "« Si je ne vois » est un projet gratuit et non commercial créé par Nelson Inno et réalisé par everybodyknowsyou.com. Nelson croit que le Saint-Suaire est authentique et le dit ouvertement. Le site présente malgré tout les arguments les plus solides des deux camps avec toute leur force, évalue chacun d’eux et relie chaque affirmation à sa source, pour que vous puissiez juger par vous-même.",
+   "a": "See The Shroud est un projet gratuit et non commercial créé par Nelson Inno et réalisé par everybodyknowsyou.com. Nelson croit que le Saint-Suaire est authentique et le dit ouvertement. Le site présente malgré tout les arguments les plus solides des deux camps avec toute leur force, évalue chacun d’eux et relie chaque affirmation à sa source, pour que vous puissiez juger par vous-même.",
    "link": "about"
   }
  ]

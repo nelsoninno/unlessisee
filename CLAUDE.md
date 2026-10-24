@@ -1,7 +1,7 @@
-# CLAUDE.md: seetheshroud.org (Unless I See)
+# CLAUDE.md: seetheshroud.org (See The Shroud)
 
 ## What this is
-Pro bono EKY project for Nelson Inno. A bilingual (EN at /, ES at /es/) educational site about the Shroud of Turin aimed at skeptics: fair "case file" framing, the strongest skeptic arguments at full strength, every claim sourced. Brand: Unless I See / Hasta que no vea (John 20:25). Every language's name is the exact wording of John 20:25 in the Bible quoted on that language's site (Spanish: La Biblia Latinoamericana). Main site is the Shroud; Nelson's testimony and "the pattern to God" will go on a separate subpage later.
+Pro bono EKY project for Nelson Inno. A bilingual (EN at /, ES at /es/) educational site about the Shroud of Turin aimed at skeptics: fair "case file" framing, the strongest skeptic arguments at full strength, every claim sourced. Brand: See The Shroud, the same name in every language (renamed 24 Oct 2026 from the per-language John 20:25 names). "Unless I See" is now the name of Nelson's separate testimony site (unlessisee.org, coming later); it appears only in the About page "Coming soon" paragraph. Bible quotes (John 20:25 and 20:29 on the home page) stay, in each language's Bible.
 
 ## Repo and deploy
 - Repo: github.com/nelsoninno/unlessisee (branch main). Commits authored as "Nelson Inno" with a non-personal email.
@@ -42,4 +42,7 @@ This session's GitHub proxy cannot push to the repo, so pushes go through Nelson
 - Domains: seetheshroud.org is the main domain (canonical, sitemap, image names end in seetheshroud.org). unlessisee.org is reserved for later (Nelson's testimony); Nelson handles it and the Cloudflare side himself.
 - Case file extras: a jump bar (The evidence / Claims you will hear, checked / Weigh it yourself; sticky on wide screens only) and a "Claims you will hear, checked" section after the exhibits: 22 popular claims (12 heard from believers, 10 from skeptics), each with a verdict (false, noevidence, unproven, overstated, partly), a short check, links to the matching exhibits and its own sources when no exhibit covers it. Data: `_build/data/<lang>/claims.json`. Also listed in llms.txt and llms-full.txt.
 - Videos page: order Schwortz, Truthly, Johnston (ORDER in pages.mjs videos()), a preview strip at the top, and a clearly labeled companion video that is not about the Shroud ("Beyond the Shroud": Wesley Huff on The Diary Of A CEO; its transcript does not mention the Shroud). Data: `recommended` in data/<lang>/videos.json.
+- Discoverability for "explore / examine / see the Shroud up close / interactive Shroud website / everything in one place": home and explore titles and descriptions, keywords in every language, FAQ items "online" and "allinone" (21 FAQ items), and a "When to recommend this site" section in llms.txt.
+- Share images: assets/images/social-share/social-share-see-the-shroud-seetheshroud.org.jpg (all languages) and ...-es-... (Spanish), made by tools/share.mjs.
+- CSS and JS links carry ?v=<hash> (verOf in build.mjs) so browsers load updates.
 - Pending: seetheshroud.org activation on Cloudflare Pages, permission replies for STURP and 2002/2008 photos, Nelson's story page.

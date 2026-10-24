@@ -1,11 +1,11 @@
 // French copy. Plain language, no em dashes. HTML allowed in long fields.
 export default {
-  brand: 'Si je ne vois',
+  brand: 'See The Shroud',
   locale: 'fr_FR',
-  shareImage: 'social-share-unless-i-see-seetheshroud.org.jpg',
-  keywords: 'Saint-Suaire de Turin, Suaire de Turin, Linceul de Turin, Saint-Suaire de Turin preuves, datation au carbone 14 du Saint-Suaire, Saint-Suaire négatif photographique, Saint-Suaire 3D, le Saint-Suaire est-il authentique, linceul de Jésus, sindonologie, Shroud of Turin, STURP, Secondo Pia',
+  shareImage: 'social-share-see-the-shroud-seetheshroud.org.jpg',
+  keywords: 'See The Shroud, explorer le Saint-Suaire de Turin, examiner le Saint-Suaire de Turin, voir le Saint-Suaire de près, Saint-Suaire de Turin interactif, site interactif sur le Saint-Suaire, Saint-Suaire de Turin en haute résolution, guide visuel du Saint-Suaire, tout sur le Saint-Suaire de Turin, Saint-Suaire de Turin, Suaire de Turin, Linceul de Turin, Saint-Suaire de Turin preuves, datation au carbone 14 du Saint-Suaire, Saint-Suaire négatif photographique, Saint-Suaire 3D, le Saint-Suaire est-il authentique, linceul de Jésus, sindonologie, Shroud of Turin, STURP, Secondo Pia',
   shareAlt: 'Le visage du Saint-Suaire de Turin en négatif photographique',
-  orgDescription: 'Si je ne vois est un projet éducatif gratuit et non commercial qui présente les arguments pour et contre l’authenticité du Saint-Suaire de Turin, avec leurs sources, en plusieurs langues.',
+  orgDescription: 'See The Shroud est un site éducatif gratuit et non commercial où vous pouvez explorer et examiner de près le Saint-Suaire de Turin (en haute résolution, en négatif et en 3D) et peser les arguments pour et contre son authenticité, avec toutes les sources, en 12 langues.',
   ui: {
     skip: 'Aller au contenu', menu: 'Menu', mainNav: 'Navigation principale', language: 'Langue',
     exhibit: 'Pièce', detail: 'Les détails', skeptic: 'La meilleure réponse sceptique', reply: 'La réplique',
@@ -28,7 +28,7 @@ export default {
   footer: {
     about: 'Un projet gratuit et non commercial. Chaque affirmation est sourcée dans le dossier, y compris les sources qui nous contredisent.',
     explore: 'Explorer', more: 'Aller plus loin', extra: [],
-    rights: 'Texte {year} Si je ne vois. Libre de partage avec un lien vers ce site. Crédits des images sur la page À propos.',
+    rights: 'Texte {year} See The Shroud. Libre de partage avec un lien vers ce site. Crédits des images sur la page À propos.',
     eky: 'Site web fait avec amour, par', ekyAria: 'Site web fait avec amour par everybodyknowsyou.com'
   },
   strength: { strong: 'Solide', moderate: 'Modéré', weak: 'Faible', disputed: 'Contesté', debunked: 'Réfuté' },
@@ -88,12 +88,12 @@ export default {
     labsAlt: 'Graphique des douze mesures au radiocarbone publiées par l’Arizona, Oxford et Zurich, avec leurs barres d’erreur',
     bpAxis: 'Âge radiocarbone, en années avant 1950 (BP). Plus bas signifie plus récent.', bpShort: 'années radiocarbone BP', labMean: 'Moyenne du labo', combined: 'Combiné'
   },
-  notFound: { title: 'Page introuvable | Si je ne vois', h1: 'Cette page n’existe pas', text: 'Le lien est peut-être ancien, ou l’adresse contient une faute de frappe. Tout le site part de la page d’accueil.', cta: 'Aller à la page d’accueil' },
+  notFound: { title: 'Page introuvable | See The Shroud', h1: 'Cette page n’existe pas', text: 'Le lien est peut-être ancien, ou l’adresse contient une faute de frappe. Tout le site part de la page d’accueil.', cta: 'Aller à la page d’accueil' },
 
   pages: {
     index: {
-      title: 'Saint-Suaire de Turin : les arguments pour et contre | Si je ne vois',
-      description: 'Le Saint-Suaire de Turin est-il authentique ? Explorez-le en haute résolution, voyez le négatif et l’image en 3D, et pesez les deux camps, sources à l’appui.',
+      title: 'See The Shroud : explorer le Saint-Suaire de Turin et ses preuves',
+      description: 'Explorez et examinez de près le Saint-Suaire de Turin : zoom, négatif, 3D, carte des blessures, arguments pour et contre et sources. Gratuit, en 12 langues.',
       h1: 'Examinez vous-même le Saint-Suaire de Turin',
       lede: 'Un linge de lin, long de 4,4 mètres, porte l’image pâle d’un homme flagellé et crucifié. Certains y voient un faux médiéval. D’autres, le linceul de Jésus. Voici les arguments des deux camps, avec toutes les sources, pour que vous puissiez juger par vous-même.',
       cta1: 'Explorer le linge', cta2: 'Lire le dossier',
@@ -102,7 +102,7 @@ export default {
       hint2: 'Passez sur le visage pour le voir tel que l’œil le voit',
       faceCaption: 'Le visage du Saint-Suaire. Photographie de Giuseppe Enrie, 1931.',
       thomasText: `<h2>Thomas a demandé à voir les marques</h2>
-<p>Ce site porte le nom du sceptique le plus honnête des Évangiles. Thomas n’a pas cru ce que ses amis lui disaient. Il voulait une preuve qu’il pourrait voir et toucher : la marque des clous, la blessure au côté.</p>
+<p>Ce site est conçu dans l’esprit du sceptique le plus honnête des Évangiles. Thomas n’a pas cru ce que ses amis lui disaient. Il voulait une preuve qu’il pourrait voir et toucher : la marque des clous, la blessure au côté.</p>
 <p>Le Saint-Suaire de Turin montre un homme qui porte des marques du même genre. Est-il ce que beaucoup croient qu’il est ? Ce site vous laisse cette question. Nous vous montrerons les marques, les analyses, les doutes et les réponses, et nous vous indiquerons chaque source.</p>`,
       thomasCta: 'Voir les marques',
       objH: 'Ce que c’est',
@@ -177,8 +177,8 @@ export default {
     },
 
     explore: {
-      title: 'Explorer le Saint-Suaire de Turin en haute résolution | Si je ne vois',
-      description: 'Zoomez sur le Saint-Suaire de Turin entier, passez au négatif, renforcez l’image et retrouvez chaque blessure, brûlure et pièce, avec des explications.',
+      title: 'Explorer le Saint-Suaire de Turin en haute résolution, en interactif | See The Shroud',
+      description: 'Vue interactive du Saint-Suaire de Turin entier : zoomez, passez au négatif, renforcez l’image, trouvez chaque blessure, brûlure et pièce, toutes expliquées.',
       h1: 'Explorer le linge',
       lede: 'Voici le Saint-Suaire entier, image de face et image de dos, tête contre tête. Faites glisser pour vous déplacer, utilisez la molette ou pincez pour zoomer. Passez au négatif pour voir ce que Secondo Pia a vu en 1898. Les marques numérotées expliquent ce que vous regardez.',
       imgAlt: 'Le Saint-Suaire de Turin entier, image de face et image de dos',
@@ -194,7 +194,7 @@ export default {
     },
 
     evidence: {
-      title: 'Saint-Suaire de Turin : les preuves pour et contre | Si je ne vois',
+      title: 'Saint-Suaire de Turin : les preuves pour et contre | See The Shroud',
       description: 'Les grands arguments sur le Saint-Suaire de Turin, pour et contre son authenticité, notés par solidité, avec la meilleure réponse sceptique et les sources.',
       h1: 'Le dossier',
       lede: 'Tous les grands arguments sur le Saint-Suaire, pour et contre. Chacun est noté selon sa solidité, avec la meilleure objection, la meilleure réplique et les sources. Nous présentons les arguments contre l’authenticité dans toute leur force, car vous devez d’abord les entendre de notre bouche.',
@@ -216,7 +216,7 @@ export default {
     },
 
     wounds: {
-      title: 'Les blessures du Saint-Suaire de Turin et les Évangiles | Si je ne vois',
+      title: 'Les blessures du Saint-Suaire de Turin et les Évangiles | See The Shroud',
       description: 'Chaque blessure du Saint-Suaire de Turin, de la flagellation au clou dans le poignet et à la plaie du côté, montrée sur le linge face au texte de l’Évangile.',
       h1: 'Les blessures, et ce que disent les Évangiles',
       lede: 'Cliquez sur un numéro sur le linge ou sur une blessure dans la liste. Chaque marque est expliquée comme la décrivent les médecins légistes, à côté du verset de l’Évangile qui lui correspond, avec la remarque sceptique quand il y en a une.',
@@ -236,7 +236,7 @@ export default {
     },
 
     dating: {
-      title: 'Datation au carbone 14 du Saint-Suaire de Turin et le débat | Si je ne vois',
+      title: 'Datation au carbone 14 du Saint-Suaire de Turin et le débat | See The Shroud',
       description: 'La datation au carbone 14 du Saint-Suaire de Turin en 1988 a donné 1260 à 1390 apr. J.-C. Les 12 mesures, le prélèvement, les réanalyses et d’autres méthodes.',
       h1: 'La datation au carbone 14',
       lede: 'C’est l’argument le plus fort pour dire que le Saint-Suaire est médiéval, et il mérite un examen attentif. Voici ce qui a été fait, ce qui a été trouvé, ce que les critiques ont trouvé depuis, et ce que cela prouve ou ne prouve pas.',
@@ -265,7 +265,7 @@ export default {
     },
 
     image: {
-      title: 'Comment l’image du Saint-Suaire de Turin s’est-elle formée ? | Si je ne vois',
+      title: 'Comment l’image du Saint-Suaire de Turin s’est-elle formée ? | See The Shroud',
       description: 'Toutes les hypothèses sur l’image du Saint-Suaire de Turin, de la peinture à un éclair de lumière, avec ce qu’elles expliquent et là où elles échouent.',
       h1: 'Comment l’image s’est-elle formée ?',
       lede: 'C’est la question ouverte la plus profonde sur le Saint-Suaire. Toute explication, naturelle ou non, doit rendre compte d’une liste de propriétés très étranges. Les voici, suivies de chaque grande hypothèse et de ses problèmes.',
@@ -322,7 +322,7 @@ export default {
     },
 
     timeline: {
-      title: 'Chronologie du Saint-Suaire de Turin : de Lirey à nos jours | Si je ne vois',
+      title: 'Chronologie du Saint-Suaire de Turin : de Lirey à nos jours | See The Shroud',
       description: 'Chronologie interactive du Saint-Suaire de Turin : l’histoire ancienne supposée, les faits attestés depuis 1354 environ, les incendies, photos et analyses.',
       h1: 'Chronologie',
       lede: 'L’histoire documentée du Saint-Suaire commence en France vers 1354. Avant cela, son histoire est une hypothèse, construite à partir d’images et de textes qui décrivent peut-être ce linge, ou peut-être pas. La chronologie sépare les deux.',
@@ -344,7 +344,7 @@ export default {
     },
 
     videos: {
-      title: 'Vidéos sur le Saint-Suaire de Turin : affirmations vérifiées | Si je ne vois',
+      title: 'Vidéos sur le Saint-Suaire de Turin : affirmations vérifiées | See The Shroud',
       description: 'Trois vidéos populaires sur le Saint-Suaire de Turin, vérifiées affirmation par affirmation : ce qui tient, ce qui est contesté et ce qui est faux.',
       h1: 'Des vidéos populaires, vérifiées',
       lede: 'La plupart des gens découvrent le Saint-Suaire par des vidéos. Nous en avons regardé trois, parmi les plus populaires, du début à la fin, transcriptions comprises, et nous avons vérifié leurs principales affirmations. Plusieurs sont excellentes. Certaines sont fausses. Cliquez sur un minutage pour aller à ce moment.',
@@ -354,7 +354,7 @@ export default {
       missingAfter: 'Une présentation honnête doit aussi traiter ces points. Vous trouverez chacun d’eux dans le <a href="evidence.html">dossier</a>.'
     },
     library: {
-      title: 'Bibliothèque de recherche sur le Saint-Suaire de Turin | Si je ne vois',
+      title: 'Bibliothèque de recherche sur le Saint-Suaire de Turin | See The Shroud',
       description: 'Bibliothèque consultable d’études sur le Saint-Suaire de Turin, pour et contre, avec des liens directs vers les originaux sur shroud.com et dans les revues.',
       h1: 'Bibliothèque',
       lede: 'Plus de 2 400 articles, études, textes et bulletins, presque tous issus des archives de shroud.com, que Barrie Schwortz a créées et entretenues depuis les années 1990 jusqu’à sa mort en 2024. Commencez par les 25 lectures essentielles, puis cherchez par mot, filtrez par thème et allez directement à l’original.',
@@ -370,7 +370,7 @@ export default {
     },
 
     next: {
-      title: 'Et maintenant ? Après le Saint-Suaire de Turin | Si je ne vois',
+      title: 'Et maintenant ? Après le Saint-Suaire de Turin | See The Shroud',
       description: 'Vous avez vu les éléments sur le Saint-Suaire de Turin. Que vous doutiez, que vous vous interrogiez ou que vous croyiez, voici des prochaines étapes honnêtes.',
       h1: 'Et maintenant ?',
       lede: 'Où que vous en soyez après avoir examiné les éléments, il existe une prochaine étape raisonnable. Aucune ne vous demande de faire semblant d’être plus sûr que vous ne l’êtes.',
@@ -379,20 +379,20 @@ export default {
         { id: 'wonder', h: 'Si vous vous interrogez', body: `<p>Le Saint-Suaire pose une question sur un homme. La meilleure prochaine étape est d’aller à sa rencontre là où il est décrit le plus complètement.</p><ul><li>Lisez l’Évangile de Jean. Cela prend environ deux heures, et il se termine avec Thomas.</li><li>Parlez avec une personne croyante en qui vous avez confiance, et posez-lui votre question la plus difficile.</li><li>Si vous n’avez jamais prié, essayez une prière simple et honnête : si tu es là, montre-le-moi.</li></ul>` },
         { id: 'believe', h: 'Si vous croyez', body: `<p>Alors la question n’est plus de savoir ce que le linge prouve, mais comment vous vivez.</p><ul><li>Soyez quelqu’un en qui un sceptique peut avoir confiance : juste, curieux et bienveillant, surtout avec ceux qui ne sont pas d’accord.</li><li>Partagez ce site avec le sceptique le plus réfléchi que vous connaissez, et écoutez ce qu’il en dit.</li><li>Rendez service à quelqu’un dans le besoin cette semaine. Une foi qui agit est la meilleure preuve que la plupart des gens verront jamais.</li></ul>` }
       ],
-      story: `<h2>Bientôt : le récit d’une personne</h2><p>Nelson Inno, qui a créé ce site, partagera ici son propre récit, ainsi qu’une réflexion sur ce qu’il appelle le motif qui mène à Dieu. Elle aura sa propre page, séparée des éléments de preuve, pour que vous puissiez juger chacun selon ses propres termes.</p>`,
+      story: `<h2>Bientôt : le récit d’une personne</h2><p>Nelson Inno, qui a créé ce site, partagera son propre récit, ainsi qu’une réflexion sur ce qu’il appelle le motif qui mène à Dieu, sur un site web distinct. Les garder à part des éléments de preuve vous permet de juger chacun selon ses propres termes.</p>`,
       quote: 'Ces choses ont été écrites afin que vous croyiez que Jésus est le Christ, le Fils de Dieu.',
       quoteCite: 'Jean 20:31'
     },
     about: {
-      title: 'À propos de Si je ne vois : pourquoi ce site existe | Si je ne vois',
-      description: 'Si je ne vois est un site gratuit et non commercial sur le Saint-Suaire de Turin. Comment nous évaluons les éléments, l’origine des images et qui l’a conçu.',
+      title: 'À propos de See The Shroud : pourquoi ce site existe | See The Shroud',
+      description: 'See The Shroud est un site gratuit et non commercial sur le Saint-Suaire de Turin. Comment nous évaluons les éléments, l’origine des images et qui l’a conçu.',
       h1: 'À propos de ce site',
       lede: 'Pourquoi il existe, comment nous travaillons, et d’où vient chaque chose.',
       body: `<h2>Pourquoi ce site existe</h2>
 <p>Le Saint-Suaire de Turin est peut-être une œuvre d’art médiévale, un faux délibéré, ou le linceul de Jésus de Nazareth. Quoi qu’il en soit, il mérite mieux qu’un titre de dix secondes. La plupart de ce que l’on trouve en ligne est écrit pour gagner : un camp crie « preuve », l’autre crie « faux ». Ce site est écrit pour informer.</p>
-<p>Il porte le nom de Thomas, qui refusait de croire tant qu’il n’aurait pas vu la marque des clous. Nous pensons qu’un doute comme le sien est honnête, et qu’il mérite des preuves, pas des pressions.</p>
+<p>Son nom, See The Shroud, veut dire « voir le Suaire », et c’est une invitation : voyez le Saint-Suaire par vous-même, de près, et jugez les éléments de preuve. L’esprit vient de Thomas, qui refusait de croire tant qu’il n’aurait pas vu la marque des clous. Nous pensons qu’un doute comme le sien est honnête, et qu’il mérite des preuves, pas des pressions.</p>
 <h2>Qui l’a conçu</h2>
-<p>Si je ne vois a été créé par Nelson Inno, un fondateur salvadorien, comme projet gratuit et bénévole. En toute transparence : Nelson croit que le Saint-Suaire est authentique. C’est justement pour cela que le site s’impose une règle : les arguments les plus solides contre l’authenticité sont présentés dans toute leur force, juste à côté des arguments en sa faveur. Si nous ne sommes pas à la hauteur de cette règle, nous voulons le savoir.</p>
+<p>See The Shroud a été créé par Nelson Inno, un fondateur salvadorien, comme projet gratuit et bénévole. En toute transparence : Nelson croit que le Saint-Suaire est authentique. C’est justement pour cela que le site s’impose une règle : les arguments les plus solides contre l’authenticité sont présentés dans toute leur force, juste à côté des arguments en sa faveur. Si nous ne sommes pas à la hauteur de cette règle, nous voulons le savoir.</p>
 <h2>Comment nous travaillons</h2>
 <ul>
 <li>Chaque affirmation factuelle renvoie à une source. Quand c’est possible, la source est un article évalué par des pairs ou un document de première main.</li>
@@ -404,7 +404,7 @@ export default {
 <h2>Vous avez trouvé une erreur ?</h2>
 <p>Écrivez à <a href="mailto:hey@everybodyknowsyou.com">hey@everybodyknowsyou.com</a> en indiquant la page, l’affirmation et votre source. Les corrections venant de sceptiques sont particulièrement bienvenues.</p>
 <h2>Bientôt</h2>
-<p>Le récit de Nelson, et une réflexion sur ce qu’il appelle le motif qui mène à Dieu, auront leur propre page. Les éléments de preuve restent ici, à part, pour que vous puissiez les juger selon leurs propres termes.</p>`,
+<p>Le récit de Nelson, et une réflexion sur ce qu’il appelle le motif qui mène à Dieu, seront publiés sur un site web distinct appelé « Unless I See » (Si je ne vois), d’après les paroles de Thomas dans Jean 20:25. Les éléments de preuve restent ici, pour que vous puissiez les juger selon leurs propres termes.</p>`,
       creditsH: 'Crédits des images', sourceLink: 'source'
     }
   }

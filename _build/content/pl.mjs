@@ -1,11 +1,11 @@
 // Polish copy. Plain language, no em dashes. HTML allowed in long fields.
 export default {
-  brand: 'Jeśli nie zobaczę',
+  brand: 'See The Shroud',
   locale: 'pl_PL',
-  shareImage: 'social-share-unless-i-see-seetheshroud.org.jpg',
-  keywords: 'Całun Turyński, Całun z Turynu, dowody autentyczności Całunu Turyńskiego, datowanie radiowęglowe Całunu Turyńskiego, negatyw Całunu Turyńskiego, Całun Turyński w 3D, czy Całun Turyński jest prawdziwy, płótno grobowe Jezusa, syndonologia, Shroud of Turin, STURP, Secondo Pia',
+  shareImage: 'social-share-see-the-shroud-seetheshroud.org.jpg',
+  keywords: 'See The Shroud, zobacz Całun Turyński, obejrzyj Całun Turyński, zbadaj Całun Turyński, Całun Turyński z bliska, Całun Turyński interaktywnie, interaktywna strona o Całunie Turyńskim, Całun Turyński w wysokiej rozdzielczości, Całun Turyński online, wszystko o Całunie Turyńskim, Całun Turyński, Całun z Turynu, dowody autentyczności Całunu Turyńskiego, datowanie radiowęglowe Całunu Turyńskiego, negatyw Całunu Turyńskiego, Całun Turyński w 3D, czy Całun Turyński jest prawdziwy, płótno grobowe Jezusa, syndonologia, Shroud of Turin, STURP, Secondo Pia',
   shareAlt: 'Twarz z Całunu Turyńskiego jako negatyw fotograficzny',
-  orgDescription: 'Jeśli nie zobaczę to bezpłatny, niekomercyjny projekt edukacyjny, który przedstawia dowody za autentycznością Całunu Turyńskiego i przeciw niej, ze źródłami, w wielu językach.',
+  orgDescription: 'See The Shroud to bezpłatna, niekomercyjna strona edukacyjna, na której możesz z bliska obejrzeć i zbadać Całun Turyński (w wysokiej rozdzielczości, w negatywie i w 3D) oraz rozważyć dowody za jego autentycznością i przeciw niej, z każdym źródłem, w 12 językach.',
   ui: {
     skip: 'Przejdź do treści', menu: 'Menu', mainNav: 'Główna nawigacja', language: 'Język',
     exhibit: 'Dowód', detail: 'Szczegóły', skeptic: 'Najlepsza odpowiedź sceptyka', reply: 'Replika',
@@ -28,7 +28,7 @@ export default {
   footer: {
     about: 'Bezpłatny, niekomercyjny projekt. Każde twierdzenie ma źródło w aktach sprawy, także źródła, które się z nami nie zgadzają.',
     explore: 'Zobacz', more: 'Więcej', extra: [],
-    rights: 'Tekst {year} Jeśli nie zobaczę. Można udostępniać z linkiem do strony. Źródła zdjęć podajemy w zakładce O stronie.',
+    rights: 'Tekst {year} See The Shroud. Można udostępniać z linkiem do strony. Źródła zdjęć podajemy w zakładce O stronie.',
     eky: 'Strona wykonana z miłością przez', ekyAria: 'Strona wykonana z miłością przez everybodyknowsyou.com'
   },
   strength: { strong: 'Mocny', moderate: 'Umiarkowany', weak: 'Słaby', disputed: 'Sporny', debunked: 'Obalony' },
@@ -88,12 +88,12 @@ export default {
     labsAlt: 'Wykres dwunastu opublikowanych pomiarów radiowęglowych z Arizony, Oksfordu i Zurychu, z zakresami błędu',
     bpAxis: 'Wiek radiowęglowy, lata przed 1950 rokiem (BP). Mniej oznacza młodszy.', bpShort: 'lat radiowęglowych BP', labMean: 'Średnia laboratorium', combined: 'Łącznie'
   },
-  notFound: { title: 'Nie znaleziono strony | Jeśli nie zobaczę', h1: 'Tej strony tu nie ma', text: 'Link może być nieaktualny albo w adresie jest literówka. Wszystko na tej stronie zaczyna się od strony głównej.', cta: 'Przejdź do strony głównej' },
+  notFound: { title: 'Nie znaleziono strony | See The Shroud', h1: 'Tej strony tu nie ma', text: 'Link może być nieaktualny albo w adresie jest literówka. Wszystko na tej stronie zaczyna się od strony głównej.', cta: 'Przejdź do strony głównej' },
 
   pages: {
     index: {
-      title: 'Całun Turyński: dowody za i przeciw | Jeśli nie zobaczę',
-      description: 'Czy Całun Turyński jest prawdziwy? Obejrzyj płótno w wysokiej rozdzielczości, zobacz negatyw i obraz 3D, i rozważ dowody obu stron, z każdym źródłem.',
+      title: 'See The Shroud: zobacz Całun Turyński i poznaj dowody',
+      description: 'Obejrzyj i zbadaj Całun Turyński z bliska: zoom, negatyw, 3D, mapa ran oraz dowody za i przeciw z każdym źródłem. Bezpłatnie, w 12 językach.',
       h1: 'Zbadaj Całun Turyński samodzielnie',
       lede: 'Lniane płótno o długości 4,4 metra nosi słaby obraz mężczyzny, który był biczowany i ukrzyżowany. Jedni nazywają je średniowiecznym fałszerstwem. Inni płótnem grobowym Jezusa. Oto dowody obu stron, z każdym źródłem, abyś mógł ocenić je samodzielnie.',
       cta1: 'Zobacz płótno', cta2: 'Przeczytaj akta sprawy',
@@ -102,7 +102,7 @@ export default {
       hint2: 'Najedź na twarz, aby zobaczyć ją tak, jak widzi ją oko',
       faceCaption: 'Twarz z Całunu. Zdjęcie Giuseppe Enriego, 1931.',
       thomasText: `<h2>Tomasz chciał zobaczyć ślady</h2>
-<p>Ta strona nosi imię najbardziej uczciwego sceptyka w Ewangeliach. Tomasz nie uwierzył w to, co mówili mu przyjaciele. Chciał dowodu, który mógłby zobaczyć i dotknąć: śladów gwoździ, rany w boku.</p>
+<p>Ta strona powstała w duchu najbardziej uczciwego sceptyka w Ewangeliach. Tomasz nie uwierzył w to, co mówili mu przyjaciele. Chciał dowodu, który mógłby zobaczyć i dotknąć: śladów gwoździ, rany w boku.</p>
 <p>Całun Turyński przedstawia mężczyznę ze śladami tego samego rodzaju. Czy jest tym, za co uważa go wielu, to pytanie, które ta strona zostawia Tobie. Pokażemy Ci ślady, badania, wątpliwości i odpowiedzi, i wskażemy każde źródło.</p>`,
       thomasCta: 'Zobacz ślady',
       objH: 'Czym jest',
@@ -177,8 +177,8 @@ export default {
     },
 
     explore: {
-      title: 'Całun Turyński w wysokiej rozdzielczości | Jeśli nie zobaczę',
-      description: 'Powiększ cały Całun Turyński, przełącz na negatyw fotograficzny, wzmocnij obraz i znajdź każdą ranę, przypalenie i łatę, z objaśnieniami.',
+      title: 'Zobacz Całun Turyński: interaktywny widok w wysokiej rozdzielczości | See The Shroud',
+      description: 'Interaktywny widok całego Całunu Turyńskiego: powiększaj, przełącz na negatyw, wzmocnij obraz i znajdź każdą ranę, przypalenie i łatę, z objaśnieniami.',
       h1: 'Zobacz płótno',
       lede: 'To cały Całun, obraz przedni i tylny, głowa przy głowie. Przeciągnij, aby przesunąć, przewiń lub zsuń palce, aby powiększyć. Przełącz na negatyw, aby zobaczyć to, co Secondo Pia zobaczył w 1898 roku. Numerowane znaczniki wyjaśniają, na co patrzysz.',
       imgAlt: 'Cały Całun Turyński, obraz przedni i tylny',
@@ -194,7 +194,7 @@ export default {
     },
 
     evidence: {
-      title: 'Całun Turyński: dowody za i przeciw autentyczności | Jeśli nie zobaczę',
+      title: 'Całun Turyński: dowody za i przeciw autentyczności | See The Shroud',
       description: 'Każdy ważny argument o Całunie Turyńskim, za autentycznością i przeciw niej, oceniony pod względem siły, z najlepszą odpowiedzią sceptyka i linkami do źródeł.',
       h1: 'Akta sprawy',
       lede: 'Każdy ważny argument o Całunie, za i przeciw. Każdy jest oceniony pod względem siły, z najlepszym zarzutem, najlepszą repliką i źródłami. Argumenty przeciw autentyczności podajemy w pełnej sile, bo powinieneś najpierw usłyszeć je od nas.',
@@ -216,7 +216,7 @@ export default {
     },
 
     wounds: {
-      title: 'Rany na Całunie Turyńskim i Ewangelie | Jeśli nie zobaczę',
+      title: 'Rany na Całunie Turyńskim i Ewangelie | See The Shroud',
       description: 'Każda rana na Całunie Turyńskim, od śladów biczowania po gwóźdź w nadgarstku i ranę w boku, pokazana na płótnie obok tekstu Ewangelii, który ją opisuje.',
       h1: 'Rany i to, co mówią Ewangelie',
       lede: 'Kliknij numer na płótnie lub ranę na liście. Każdy ślad jest objaśniony tak, jak opisują go patolodzy sądowi, obok wersetu Ewangelii, któremu odpowiada, oraz z uwagą sceptyka, jeśli taka jest.',
@@ -236,7 +236,7 @@ export default {
     },
 
     dating: {
-      title: 'Datowanie radiowęglowe Całunu Turyńskiego: wyniki i spór | Jeśli nie zobaczę',
+      title: 'Datowanie radiowęglowe Całunu Turyńskiego: wyniki i spór | See The Shroud',
       description: 'Datowanie radiowęglowe Całunu Turyńskiego z 1988 roku dało lata 1260 do 1390 n.e. Zobacz 12 pomiarów, miejsce pobrania próbki, ponowne analizy i inne metody.',
       h1: 'Datowanie radiowęglowe',
       lede: 'To najmocniejszy pojedynczy argument, że Całun jest średniowieczny, i zasługuje na uważne przyjrzenie się. Oto co zrobiono, co znaleziono, co krytycy odkryli od tamtej pory i czego to dowodzi, a czego nie.',
@@ -265,7 +265,7 @@ export default {
     },
 
     image: {
-      title: 'Jak powstał obraz na Całunie Turyńskim? | Jeśli nie zobaczę',
+      title: 'Jak powstał obraz na Całunie Turyńskim? | See The Shroud',
       description: 'Każda hipoteza o obrazie na Całunie Turyńskim, od farby, przypalenia i wczesnej fotografii po błysk światła, z tym, co wyjaśnia, i z tym, gdzie zawodzi.',
       h1: 'Jak powstał obraz?',
       lede: 'To najgłębsze otwarte pytanie o Całun. Każde wyjaśnienie, naturalne czy nie, musi uwzględnić listę bardzo dziwnych cech. Oto one, a po nich każda ważna hipoteza i jej problemy.',
@@ -322,7 +322,7 @@ export default {
     },
 
     timeline: {
-      title: 'Oś czasu Całunu Turyńskiego: historia od Lirey do dziś | Jeśli nie zobaczę',
+      title: 'Oś czasu Całunu Turyńskiego: historia od Lirey do dziś | See The Shroud',
       description: 'Interaktywna oś czasu Całunu Turyńskiego: hipotetyczna wczesna historia, udokumentowane dzieje od około 1354 roku, pożary, zdjęcia i badania naukowe.',
       h1: 'Oś czasu',
       lede: 'Udokumentowana historia Całunu zaczyna się we Francji około 1354 roku. Wcześniejsza historia to hipoteza, zbudowana z obrazów i tekstów, które mogą, ale nie muszą opisywać tego płótna. Oś czasu trzyma jedno i drugie osobno.',
@@ -344,7 +344,7 @@ export default {
     },
 
     videos: {
-      title: 'Filmy o Całunie Turyńskim: sprawdzone twierdzenia | Jeśli nie zobaczę',
+      title: 'Filmy o Całunie Turyńskim: sprawdzone twierdzenia | See The Shroud',
       description: 'Trzy popularne filmy o Całunie Turyńskim sprawdzone twierdzenie po twierdzeniu, ze znacznikami czasu: co się broni, co jest sporne, a co błędne.',
       h1: 'Popularne filmy, sprawdzone',
       lede: 'Większość ludzi poznaje Całun dzięki filmom. Obejrzeliśmy trzy popularne filmy od początku do końca, razem z transkrypcjami, i sprawdziliśmy ich główne twierdzenia. Kilka jest znakomitych. Niektóre są błędne. Kliknij czas, aby przejść do tego momentu.',
@@ -354,7 +354,7 @@ export default {
       missingAfter: 'Uczciwy wywód musi zmierzyć się także z tym. Każdą z tych kwestii znajdziesz w <a href="evidence.html">aktach sprawy</a>.'
     },
     library: {
-      title: 'Biblioteka badań o Całunie Turyńskim: artykuły i studia | Jeśli nie zobaczę',
+      title: 'Biblioteka badań o Całunie Turyńskim: artykuły i studia | See The Shroud',
       description: 'Biblioteka z wyszukiwarką: artykuły naukowe i studia o Całunie Turyńskim, za i przeciw, z bezpośrednimi linkami do oryginałów na shroud.com i w czasopismach.',
       h1: 'Biblioteka',
       lede: 'Ponad 2400 artykułów, badań, tekstów i biuletynów, prawie wszystkie z archiwum shroud.com, które Barrie Schwortz tworzył i prowadził od lat 90. aż do swojej śmierci w 2024 roku. Zacznij od 25 kluczowych lektur, potem szukaj według słów, filtruj według tematu i przechodź prosto do oryginału.',
@@ -370,7 +370,7 @@ export default {
     },
 
     next: {
-      title: 'Co dalej? Po Całunie Turyńskim | Jeśli nie zobaczę',
+      title: 'Co dalej? Po Całunie Turyńskim | See The Shroud',
       description: 'Co dalej po Całunie Turyńskim? Znasz już dowody. Czy wątpisz, zastanawiasz się, czy wierzysz, oto uczciwe kolejne kroki, które możesz teraz zrobić.',
       h1: 'Co dalej?',
       lede: 'Gdziekolwiek doszedłeś po przyjrzeniu się dowodom, jest rozsądny kolejny krok. Żaden z nich nie wymaga, abyś udawał większą pewność, niż masz.',
@@ -379,20 +379,20 @@ export default {
         { id: 'wonder', h: 'Jeśli się zastanawiasz', body: `<p>Całun to pytanie o jednego człowieka. Najlepszym kolejnym krokiem jest poznać Go tam, gdzie jest opisany najpełniej.</p><ul><li>Przeczytaj Ewangelię według świętego Jana. Zajmie to około dwóch godzin, a kończy się na Tomaszu.</li><li>Porozmawiaj z kimś wierzącym, komu ufasz, i zadaj mu swoje najtrudniejsze pytanie.</li><li>Jeśli nigdy się nie modliłeś, spróbuj prostej, szczerej modlitwy: jeśli jesteś, pokaż mi.</li></ul>` },
         { id: 'believe', h: 'Jeśli wierzysz', body: `<p>Wtedy pytanie nie brzmi już, czego dowodzi płótno, ale jak żyjesz.</p><ul><li>Bądź kimś, komu sceptyk może zaufać: uczciwym, ciekawym i życzliwym, zwłaszcza wobec ludzi, którzy się z Tobą nie zgadzają.</li><li>Pokaż tę stronę najbardziej myślącemu sceptykowi, jakiego znasz, i wysłuchaj, co powie.</li><li>W tym tygodniu pomóż komuś w potrzebie. Wiara, która działa, to najlepszy dowód, jaki większość ludzi kiedykolwiek zobaczy.</li></ul>` }
       ],
-      story: `<h2>Wkrótce: historia jednego człowieka</h2><p>Nelson Inno, twórca tej strony, opowie tu swoją historię i podzieli się refleksją o tym, co nazywa wzorcem prowadzącym do Boga. Znajdzie się ona na osobnej stronie, oddzielnie od dowodów, abyś mógł ocenić każde z nich na jego własnych warunkach.</p>`,
+      story: `<h2>Wkrótce: historia jednego człowieka</h2><p>Nelson Inno, twórca tej strony, opowie swoją historię i podzieli się refleksją o tym, co nazywa wzorcem prowadzącym do Boga, na osobnej stronie internetowej. Dzięki temu będzie ona oddzielona od dowodów, abyś mógł ocenić każde z nich na jego własnych warunkach.</p>`,
       quote: 'Lecz te są napisane, abyście wierzyli, że Jezus jest Chrystusem, Synem Bożym.',
       quoteCite: 'J 20,31'
     },
     about: {
-      title: 'O stronie Jeśli nie zobaczę: dlaczego istnieje | Jeśli nie zobaczę',
-      description: 'Jeśli nie zobaczę to bezpłatna, niekomercyjna strona o Całunie Turyńskim. Jak oceniamy dowody, skąd pochodzą nasze zdjęcia i kto ją zbudował.',
+      title: 'O stronie See The Shroud: dlaczego istnieje | See The Shroud',
+      description: 'See The Shroud to bezpłatna, niekomercyjna strona o Całunie Turyńskim. Jak oceniamy dowody, skąd pochodzą nasze zdjęcia i kto ją zbudował.',
       h1: 'O tej stronie',
       lede: 'Dlaczego istnieje, jak pracujemy i skąd wszystko pochodzi.',
       body: `<h2>Dlaczego ta strona istnieje</h2>
 <p>Całun Turyński może być średniowiecznym dziełem sztuki, celowym fałszerstwem albo płótnem grobowym Jezusa z Nazaretu. Czymkolwiek jest, zasługuje na lepsze potraktowanie niż dziesięciosekundowy nagłówek. Większość tego, co ludzie znajdują w internecie, pisze się po to, by wygrać: jedna strona krzyczy „dowód”, druga krzyczy „podróbka”. Ta strona jest pisana po to, by informować.</p>
-<p>Nosi imię Tomasza, który nie chciał uwierzyć, dopóki nie zobaczy śladów gwoździ. Uważamy, że taka wątpliwość jest uczciwa i że zasługuje na dowody, a nie na nacisk.</p>
+<p>Jej nazwa to zaproszenie: zobacz Całun na własne oczy, z bliska, i oceń dowody. Jej duch pochodzi od Tomasza, który nie chciał uwierzyć, dopóki nie zobaczy śladów gwoździ. Uważamy, że taka wątpliwość jest uczciwa i że zasługuje na dowody, a nie na nacisk.</p>
 <h2>Kto ją stworzył</h2>
-<p>Stronę Jeśli nie zobaczę stworzył Nelson Inno, przedsiębiorca z Salwadoru, jako bezpłatny projekt pro bono. Dla pełnej jasności: Nelson wierzy, że Całun jest autentyczny. Właśnie dlatego strona trzyma się jednej zasady: najmocniejsze argumenty przeciw autentyczności są pokazane w pełnej sile, tuż obok argumentów za nią. Jeśli kiedyś tego nie dotrzymamy, chcemy o tym wiedzieć.</p>
+<p>Stronę See The Shroud stworzył Nelson Inno, przedsiębiorca z Salwadoru, jako bezpłatny projekt pro bono. Dla pełnej jasności: Nelson wierzy, że Całun jest autentyczny. Właśnie dlatego strona trzyma się jednej zasady: najmocniejsze argumenty przeciw autentyczności są pokazane w pełnej sile, tuż obok argumentów za nią. Jeśli kiedyś tego nie dotrzymamy, chcemy o tym wiedzieć.</p>
 <h2>Jak pracujemy</h2>
 <ul>
 <li>Każde twierdzenie dotyczące faktów ma link do źródła. W miarę możliwości jest to recenzowany artykuł naukowy lub dokument źródłowy.</li>
@@ -404,7 +404,7 @@ export default {
 <h2>Znalazłeś błąd?</h2>
 <p>Napisz na <a href="mailto:hey@everybodyknowsyou.com">hey@everybodyknowsyou.com</a>, podając stronę, twierdzenie i swoje źródło. Poprawki od sceptyków są szczególnie mile widziane.</p>
 <h2>Wkrótce</h2>
-<p>Historia Nelsona i jego refleksja o tym, co nazywa wzorcem prowadzącym do Boga, znajdą się na osobnej stronie. Dowody zostają tutaj, oddzielnie, abyś mógł ocenić je na ich własnych warunkach.</p>`,
+<p>Historia Nelsona i jego refleksja o tym, co nazywa wzorcem prowadzącym do Boga, znajdą się na osobnej stronie internetowej o nazwie „Unless I See” („Jeśli nie zobaczę”), od słów Tomasza z J 20,25. Dowody zostają tutaj, abyś mógł ocenić je na ich własnych warunkach.</p>`,
       creditsH: 'Źródła zdjęć', sourceLink: 'źródło'
     }
   }

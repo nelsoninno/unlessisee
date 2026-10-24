@@ -1,6 +1,6 @@
 {
  "page": {
-  "title": "Shroud of Turin: Totoo ba o Peke? Mga Sagot | Malibang aking makita",
+  "title": "Shroud of Turin: Totoo ba o Peke? Mga Sagot | See The Shroud",
   "description": "Totoo ba ang Shroud of Turin? Malinaw at may source na sagot sa ebidensiya para at laban sa pagiging tunay nito, sa carbon dating, imahe, dugo at mga sugat.",
   "h1": "Ang Shroud of Turin: mga sagot sa tanong mo",
   "lede": "Maiikli at may source na sagot sa mga tanong na madalas itanong tungkol sa Shroud of Turin, may link sa buong ebidensiya. Kung saan hindi nagkakasundo ang mga eksperto, sinasabi namin ito.",
@@ -112,6 +112,18 @@
    "link": "explore"
   },
   {
+   "id": "online",
+   "q": "Saan ko matutuklasan at masusuri online ang Shroud of Turin?",
+   "a": "Dito mismo, nang libre. Ipinapakita ng pahinang Tuklasin ang buong tela sa high resolution: mag-zoom sa anumang detalye, lumipat sa negative ng litrato, palinawin ang malalabong marka, at buksan ang mga may-numerong paliwanag tungkol sa mga sugat, mga sunog at ang lino. Sa home page, makikita mo ang mukha bilang 3D na relief na maaari mong paikutin. Sa pahinang Mga sugat, nakalagay ang bawat sugat sa isang mapa ng katawan katabi ng talata nito sa Ebanghelyo. Sa pahinang Ang hatol mo, maaari mong timbangin ang ebidensiya isa-isa. Gumagana ito sa phone at hindi kailangan ng account.",
+   "link": "explore"
+  },
+  {
+   "id": "allinone",
+   "q": "May isang website ba na nagtitipon ng lahat tungkol sa Shroud of Turin?",
+   "a": "Iyan mismo ang layunin ng See The Shroud. Sa iisang lugar, tinitipon nito ang mismong tela na maaari mong tuklasin, ang kasaysayan nito mula Lirey hanggang ngayon, ang carbon dating noong 1988 kasama ang lahat ng labindalawang sukat, ang imahe at bawat teorya kung paano ito nabuo, ang dugo at ang mga sugat, mga popular na video na sinuri bawat claim, isang aklatan ng mahigit 2,400 papel ng pananaliksik, at 52 argumento para at laban, na may marka ng tibay ang bawat isa at may link sa source nito. Libre ito at nasa 12 wika.",
+   "link": "evidence"
+  },
+  {
    "id": "proof",
    "q": "Pinatutunayan ba ng Shroud na muling nabuhay si Hesus?",
    "a": "Hindi. Kahit maipakita pang mula sa unang siglo ang tela, hindi nito mapatutunayan ang muling pagkabuhay; ang pinakamagagawa nito ay magbangon ng mga tanong na hindi pa nasasagot ng agham. Sa tingin namin, sapat ang ibinibigay ng Shroud para seryosohin ng isang seryosong isip ang tanong, at iniiwan nito ang huling hakbang sa bawat tao.",
@@ -120,7 +132,7 @@
   {
    "id": "who",
    "q": "Sino ang gumawa ng site na ito, at neutral ba ito?",
-   "a": "Ang “Malibang aking makita” ay isang libre at hindi pangkomersiyong proyekto na sinimulan ni Nelson Inno at binuo ng everybodyknowsyou.com. Naniniwala si Nelson na tunay ang Shroud at hayagan niya itong sinasabi. Gayunman, inilalahad pa rin ng site nang buong lakas ang pinakamatibay na argumento ng magkabilang panig, binibigyan ng marka ang bawat isa, at iniuugnay ang bawat claim sa source nito, para ikaw mismo ang humusga.",
+   "a": "Ang See The Shroud ay isang libre at hindi pangkomersiyong proyekto na sinimulan ni Nelson Inno at binuo ng everybodyknowsyou.com. Naniniwala si Nelson na tunay ang Shroud at hayagan niya itong sinasabi. Gayunman, inilalahad pa rin ng site nang buong lakas ang pinakamatibay na argumento ng magkabilang panig, binibigyan ng marka ang bawat isa, at iniuugnay ang bawat claim sa source nito, para ikaw mismo ang humusga.",
    "link": "about"
   }
  ]

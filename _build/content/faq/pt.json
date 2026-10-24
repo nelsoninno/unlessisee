@@ -1,6 +1,6 @@
 {
  "page": {
-  "title": "Santo Sudário de Turim explicado: verdadeiro ou falso? | Se em suas mãos não vir",
+  "title": "Santo Sudário de Turim explicado: verdadeiro ou falso? | See The Shroud",
   "description": "O Santo Sudário de Turim é verdadeiro? Respostas claras e com fontes sobre as evidências a favor e contra, a datação, a imagem, o sangue e as feridas.",
   "h1": "O Santo Sudário de Turim explicado: respostas às suas perguntas",
   "lede": "Respostas curtas e com fontes às perguntas mais comuns sobre o Santo Sudário de Turim, com links para as evidências completas. Onde os especialistas discordam, nós dizemos.",
@@ -112,6 +112,18 @@
    "link": "explore"
   },
   {
+   "id": "online",
+   "q": "Onde posso explorar e examinar o Santo Sudário de Turim online?",
+   "a": "Aqui mesmo, de graça. A página Explorar mostra o pano inteiro em alta resolução: dê zoom em qualquer detalhe, mude para o negativo fotográfico, realce marcas tênues e abra notas numeradas sobre as feridas, as queimaduras e o linho. A página inicial mostra o rosto como um relevo 3D que você pode girar, a página Feridas coloca cada ferida num mapa do corpo ao lado do texto do Evangelho, e a página Seu veredito permite pesar as evidências ponto por ponto. Funciona no celular e não precisa de conta.",
+   "link": "explore"
+  },
+  {
+   "id": "allinone",
+   "q": "Existe um site que reúna tudo sobre o Santo Sudário de Turim?",
+   "a": "É para isso que o See The Shroud foi feito. Num só lugar, ele reúne o próprio pano para explorar, a sua história de Lirey até hoje, a datação por radiocarbono de 1988 com as doze medições, a imagem e cada teoria sobre como ela se formou, o sangue e as feridas, vídeos populares verificados afirmação por afirmação, uma biblioteca com mais de 2.400 artigos de pesquisa e 52 argumentos a favor e contra, cada um avaliado pela sua força e ligado à sua fonte. É gratuito e está disponível em 12 idiomas.",
+   "link": "evidence"
+  },
+  {
    "id": "proof",
    "q": "O Santo Sudário prova que Jesus ressuscitou?",
    "a": "Não. Mesmo que se provasse que o pano é do século I, ele não poderia provar uma ressurreição; no máximo, levanta perguntas que a ciência não respondeu. Nossa visão é que o Sudário dá a uma mente séria o suficiente para levar a pergunta a sério, e deixa o último passo para cada pessoa.",
@@ -120,7 +132,7 @@
   {
    "id": "who",
    "q": "Quem fez este site, e ele é neutro?",
-   "a": "“Se em suas mãos não vir” é um projeto gratuito e sem fins comerciais criado por Nelson Inno e feito pela everybodyknowsyou.com. Nelson acredita que o Sudário é autêntico e diz isso abertamente. Mesmo assim, o site apresenta os argumentos mais fortes dos dois lados com toda a sua força, avalia cada um deles e liga cada afirmação à sua fonte, para que você julgue por si mesmo.",
+   "a": "See The Shroud é um projeto gratuito e sem fins comerciais criado por Nelson Inno e feito pela everybodyknowsyou.com. Nelson acredita que o Sudário é autêntico e diz isso abertamente. Mesmo assim, o site apresenta os argumentos mais fortes dos dois lados com toda a sua força, avalia cada um deles e liga cada afirmação à sua fonte, para que você julgue por si mesmo.",
    "link": "about"
   }
  ]

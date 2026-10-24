@@ -1,10 +1,10 @@
 // English copy. Plain language, no em dashes. HTML allowed in long fields.
 export default {
-  brand: 'Unless I See',
+  brand: 'See The Shroud',
   locale: 'en_US',
-  keywords: 'Shroud of Turin explained, Shroud of Jesus, Holy Shroud, is the Shroud of Turin real, is the Shroud of Turin authentic, Shroud of Turin real or fake, evidence the Shroud of Turin is authentic, evidence against the Shroud of Turin, the evidence behind the Shroud, Shroud of Turin facts, Shroud of Turin FAQ, Shroud of Turin, Turin Shroud, Shroud of Turin evidence, Shroud of Turin carbon dating, Shroud of Turin negative image, Shroud of Turin 3D, Jesus burial cloth, sindonology, Sábana Santa de Turín, STURP, Secondo Pia',
+  keywords: 'See The Shroud, explore the Shroud of Turin, examine the Shroud of Turin, see the Shroud of Turin up close, interactive Shroud of Turin, Shroud of Turin interactive website, Shroud of Turin in high resolution, visual guide to the Shroud of Turin, everything about the Shroud of Turin, Shroud of Turin explained, Shroud of Jesus, Holy Shroud, is the Shroud of Turin real, is the Shroud of Turin authentic, Shroud of Turin real or fake, evidence the Shroud of Turin is authentic, evidence against the Shroud of Turin, the evidence behind the Shroud, Shroud of Turin facts, Shroud of Turin FAQ, Shroud of Turin, Turin Shroud, Shroud of Turin evidence, Shroud of Turin carbon dating, Shroud of Turin negative image, Shroud of Turin 3D, Jesus burial cloth, sindonology, Sábana Santa de Turín, STURP, Secondo Pia',
   shareAlt: 'The face on the Shroud of Turin as a photographic negative',
-  orgDescription: 'Unless I See is a free, non-commercial educational project that presents the evidence for and against the authenticity of the Shroud of Turin, with sources, in many languages.',
+  orgDescription: 'See The Shroud is a free, non-commercial educational website where you can explore and examine the Shroud of Turin up close (in high resolution, in negative and in 3D) and weigh the evidence for and against its authenticity, with every source, in 12 languages.',
   ui: {
     skip: 'Skip to content', menu: 'Menu', mainNav: 'Main', language: 'Language',
     exhibit: 'Exhibit', detail: 'The details', skeptic: 'The skeptic\'s best answer', reply: 'The reply',
@@ -27,7 +27,7 @@ export default {
   footer: {
     about: 'A free, non-commercial project. Every claim is sourced in the case file, including the sources that disagree with us.',
     explore: 'Explore', more: 'Go deeper', extra: [],
-    rights: 'Text {year} Unless I See. Free to share with a link back. Image credits on the About page.',
+    rights: 'Text {year} See The Shroud. Free to share with a link back. Image credits on the About page.',
     eky: 'Website made with love, by', ekyAria: 'Website made with love by everybodyknowsyou.com'
   },
   strength: { strong: 'Strong', moderate: 'Moderate', weak: 'Weak', disputed: 'Disputed', debunked: 'Debunked' },
@@ -87,12 +87,12 @@ export default {
     labsAlt: 'Chart of the twelve published radiocarbon measurements from Arizona, Oxford and Zurich, with error bars',
     bpAxis: 'Radiocarbon age, years before 1950 (BP). Lower means younger.', bpShort: 'radiocarbon years BP', labMean: 'Lab mean', combined: 'Combined'
   },
-  notFound: { title: 'Page not found | Unless I See', h1: 'This page is not here', text: 'The link may be old, or the address may have a typo. Everything on the site starts from the home page.', cta: 'Go to the home page' },
+  notFound: { title: 'Page not found | See The Shroud', h1: 'This page is not here', text: 'The link may be old, or the address may have a typo. Everything on the site starts from the home page.', cta: 'Go to the home page' },
 
   pages: {
     index: {
-      title: 'Shroud of Turin: The Evidence For and Against | Unless I See',
-      description: 'Is the Shroud of Turin real? Explore the cloth in high resolution, see the negative and the 3D image, and weigh the evidence on both sides, with every source.',
+      title: 'See The Shroud: Explore the Shroud of Turin and Its Evidence',
+      description: 'Explore and examine the Shroud of Turin up close: zoom, negative, 3D, a wound map, and the evidence for and against with every source. Free, in 12 languages.',
       h1: 'Examine the Shroud of Turin for yourself',
       lede: 'A linen cloth, 4.4 meters long, carries the faint image of a man who was scourged and crucified. Some call it a medieval forgery. Others call it the burial cloth of Jesus. Here is the evidence from both sides, with every source, so you can judge it yourself.',
       cta1: 'Explore the cloth', cta2: 'Read the case file',
@@ -101,7 +101,7 @@ export default {
       hint2: 'Move over the face to see it as the eye sees it',
       faceCaption: 'The face on the Shroud. Photograph by Giuseppe Enrie, 1931.',
       thomasText: `<h2>Thomas asked to see the marks</h2>
-<p>This site is named after the most honest skeptic in the Gospels. Thomas did not believe what his friends told him. He wanted evidence he could see and touch: the marks of the nails, the wound in the side.</p>
+<p>This site is built in the spirit of the most honest skeptic in the Gospels. Thomas did not believe what his friends told him. He wanted evidence he could see and touch: the marks of the nails, the wound in the side.</p>
 <p>The Shroud of Turin shows a man with marks of the same kind. Whether it is what many believe it is, is the question this site leaves to you. We will show you the marks, the tests, the doubts and the answers, and point you to every source.</p>`,
       thomasCta: 'See the marks',
       objH: 'What it is',
@@ -176,8 +176,8 @@ export default {
     },
 
     explore: {
-      title: 'Explore the Shroud of Turin in High Resolution | Unless I See',
-      description: 'Zoom into the full Shroud of Turin, switch to the photographic negative, enhance the image, and find each wound, burn and patch, with explanations.',
+      title: 'Explore the Shroud of Turin: Interactive High-Resolution View | See The Shroud',
+      description: 'An interactive view of the whole Shroud of Turin: zoom in, switch to the negative, enhance the image, and find each wound, burn and patch, each explained.',
       h1: 'Explore the cloth',
       lede: 'This is the whole Shroud, front and back image, head to head. Drag to move, scroll or pinch to zoom. Switch to the negative to see what Secondo Pia saw in 1898. The numbered marks explain what you are looking at.',
       imgAlt: 'The full Shroud of Turin, front and back image',
@@ -193,7 +193,7 @@ export default {
     },
 
     evidence: {
-      title: 'Shroud of Turin Evidence, For and Against | Unless I See',
+      title: 'Shroud of Turin Evidence, For and Against | See The Shroud',
       description: 'Every major argument about the Shroud of Turin, for and against authenticity, rated by strength, with the skeptic\'s best answer and links to the sources.',
       h1: 'The case file',
       lede: 'Every major argument about the Shroud, for and against. Each one is rated by how strong it is, with the best objection, the best reply and the sources. We include the arguments against authenticity at full strength, because you should hear them from us first.',
@@ -215,7 +215,7 @@ export default {
     },
 
     wounds: {
-      title: 'The Wounds on the Shroud of Turin and the Gospels | Unless I See',
+      title: 'The Wounds on the Shroud of Turin and the Gospels | See The Shroud',
       description: 'Each wound on the Shroud of Turin, from the scourge marks to the nail in the wrist and the side wound, shown on the cloth next to the Gospel text that describes it.',
       h1: 'The wounds, and what the Gospels say',
       lede: 'Click a number on the cloth or a wound in the list. Each mark is explained the way forensic pathologists describe it, next to the Gospel verse it corresponds to, and the skeptic\'s note where there is one.',
@@ -235,7 +235,7 @@ export default {
     },
 
     dating: {
-      title: 'Shroud of Turin Carbon Dating: 1988 Results and the Debate | Unless I See',
+      title: 'Shroud of Turin Carbon Dating: 1988 Results and the Debate | See The Shroud',
       description: 'The 1988 radiocarbon dating put the Shroud of Turin at AD 1260 to 1390. See all 12 lab results, where the sample came from, the reanalyses and other methods.',
       h1: 'The carbon dating',
       lede: 'This is the strongest single argument that the Shroud is medieval, and it deserves a careful look. Here is what was done, what was found, what critics have found since, and what it does and does not prove.',
@@ -264,7 +264,7 @@ export default {
     },
 
     image: {
-      title: 'How Was the Image on the Shroud of Turin Made? | Unless I See',
+      title: 'How Was the Image on the Shroud of Turin Made? | See The Shroud',
       description: 'Paint, scorch, rubbing, early photography or a burst of light? Every hypothesis for the Shroud of Turin image, what it explains and where it fails.',
       h1: 'How was the image made?',
       lede: 'This is the deepest open question about the Shroud. Any explanation, natural or not, has to account for a list of very strange properties. Here they are, followed by every major hypothesis and its problems.',
@@ -321,7 +321,7 @@ export default {
     },
 
     timeline: {
-      title: 'Shroud of Turin Timeline: History From Lirey to Today | Unless I See',
+      title: 'Shroud of Turin Timeline: History From Lirey to Today | See The Shroud',
       description: 'Interactive timeline of the Shroud of Turin: its possible early history, the documented record since about 1354, the fires, the photographs and the tests.',
       h1: 'Timeline',
       lede: 'The documented history of the Shroud starts in France around 1354. Before that, its history is a hypothesis, built from images and texts that may or may not describe this cloth. The timeline keeps the two apart.',
@@ -343,7 +343,7 @@ export default {
     },
 
     videos: {
-      title: 'Shroud of Turin Videos, Fact-Checked Claim by Claim | Unless I See',
+      title: 'Shroud of Turin Videos, Fact-Checked Claim by Claim | See The Shroud',
       description: 'Three popular videos about the Shroud of Turin, checked claim by claim with timestamps: what holds up, what is disputed and what is wrong.',
       h1: 'Popular videos, checked',
       lede: 'Most people meet the Shroud through videos. We watched three popular ones from start to finish, including the transcripts, and checked their main claims. Several are excellent. Some are wrong. Click a time to jump to that moment.',
@@ -353,7 +353,7 @@ export default {
       missingAfter: 'A fair case has to deal with these too. You will find each of them in the <a href="evidence.html">case file</a>.'
     },
     library: {
-      title: 'Shroud of Turin Research Library: Papers and Studies | Unless I See',
+      title: 'Shroud of Turin Research Library: Papers and Studies | See The Shroud',
       description: 'A searchable library of research papers, studies and articles on the Shroud of Turin, for and against, with direct links to the originals on shroud.com and journals.',
       h1: 'Library',
       lede: 'More than 2,400 papers, studies, articles and newsletters, almost all from the archive at shroud.com, which Barrie Schwortz built and kept from the 1990s until his death in 2024. Start with the 25 key readings, then search by word, filter by topic, and go straight to the original.',
@@ -369,7 +369,7 @@ export default {
     },
 
     next: {
-      title: 'What Now? After the Shroud of Turin | Unless I See',
+      title: 'What Now? After the Shroud of Turin | See The Shroud',
       description: 'You have seen the evidence on the Shroud of Turin. Whether you doubt, wonder or believe, here are honest next steps: what to read, watch and ask next.',
       h1: 'What now?',
       lede: 'Wherever you landed after looking at the evidence, there is a sensible next step. None of them require you to pretend to be more certain than you are.',
@@ -378,20 +378,20 @@ export default {
         { id: 'wonder', h: 'If you are wondering', body: `<p>The Shroud is a question about one man. The best next step is to meet him where he is described most fully.</p><ul><li>Read the Gospel of John. It takes about two hours, and it ends with Thomas.</li><li>Talk with someone you trust who believes, and ask your hardest question.</li><li>If you have never prayed, try a simple, honest one: if you are there, show me.</li></ul>` },
         { id: 'believe', h: 'If you believe', body: `<p>Then the question is no longer what the cloth proves, but how you live.</p><ul><li>Be someone a skeptic can trust: fair, curious and kind, especially with people who disagree.</li><li>Share this site with the most thoughtful skeptic you know, and listen to what they say.</li><li>Serve someone in need this week. Faith that takes action is the best evidence most people will ever see.</li></ul>` }
       ],
-      story: `<h2>Coming soon: one person's story</h2><p>Nelson Inno, who created this site, will share his own story here, and a reflection on what he calls the pattern to God. It will live on its own page, separate from the evidence, so you can weigh each on its own terms.</p>`,
+      story: `<h2>Coming soon: one person's story</h2><p>Nelson Inno, who created this site, will share his own story, and a reflection on what he calls the pattern to God, on a separate website. Keeping it apart from the evidence lets you weigh each on its own terms.</p>`,
       quote: 'These are written that you may believe that Jesus is the Christ, the Son of God.',
       quoteCite: 'John 20:31'
     },
     about: {
-      title: 'About Unless I See: Why This Site Exists | Unless I See',
-      description: 'Unless I See is a free, non-commercial site about the Shroud of Turin. How we rate evidence, where our images come from, and who built it.',
+      title: 'About See The Shroud: Why This Site Exists | See The Shroud',
+      description: 'See The Shroud is a free, non-commercial site about the Shroud of Turin. How we rate evidence, where our images come from, and who built it.',
       h1: 'About this site',
       lede: 'Why it exists, how we work, and where everything comes from.',
       body: `<h2>Why this site exists</h2>
 <p>The Shroud of Turin may be a medieval work of art, a deliberate forgery, or the burial cloth of Jesus of Nazareth. Whichever it is, it deserves a better hearing than a ten-second headline. Most of what people find online is written to win: one side shouts "proof", the other shouts "fake". This site is written to inform.</p>
-<p>It is named after Thomas, who refused to believe until he could see the marks of the nails. We think doubt like his is honest, and that it deserves evidence, not pressure.</p>
+<p>Its name is an invitation: see the Shroud for yourself, up close, and judge the evidence. The spirit comes from Thomas, who refused to believe until he could see the marks of the nails. We think doubt like his is honest, and that it deserves evidence, not pressure.</p>
 <h2>Who made it</h2>
-<p>Unless I See was created by Nelson Inno, a Salvadoran founder, as a free, pro bono project. Full disclosure: Nelson believes the Shroud is authentic. That is exactly why the site holds itself to one rule: the strongest arguments against authenticity are shown at full strength, right next to the arguments for it. If we ever fall short of that, we want to know.</p>
+<p>See The Shroud was created by Nelson Inno, a Salvadoran founder, as a free, pro bono project. Full disclosure: Nelson believes the Shroud is authentic. That is exactly why the site holds itself to one rule: the strongest arguments against authenticity are shown at full strength, right next to the arguments for it. If we ever fall short of that, we want to know.</p>
 <h2>How we work</h2>
 <ul>
 <li>Every factual claim links to a source. Where possible, the source is a peer-reviewed paper or a primary document.</li>
@@ -403,7 +403,7 @@ export default {
 <h2>Found an error?</h2>
 <p>Write to <a href="mailto:hey@everybodyknowsyou.com">hey@everybodyknowsyou.com</a> with the page, the claim and your source. Corrections from skeptics are especially welcome.</p>
 <h2>Coming soon</h2>
-<p>Nelson's own story, and a reflection on what he calls the pattern to God, will live on their own page. The evidence stays here, separate, so you can weigh it on its own terms.</p>`,
+<p>Nelson's own story, and a reflection on what he calls the pattern to God, will live on a separate website called Unless I See, after the words of Thomas in John 20:25. The evidence stays here, so you can weigh it on its own terms.</p>`,
       creditsH: 'Image credits', sourceLink: 'source'
     }
   }

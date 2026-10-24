@@ -1,6 +1,6 @@
 {
  "page": {
-  "title": "Całun Turyński: prawdziwy czy fałszywy? Pytania i odpowiedzi | Jeśli nie zobaczę",
+  "title": "Całun Turyński: prawdziwy czy fałszywy? Pytania i odpowiedzi | See The Shroud",
   "description": "Czy Całun Turyński jest prawdziwy? Jasne odpowiedzi ze źródłami o dowodach za autentycznością i przeciw niej, o datowaniu, obrazie, krwi i ranach.",
   "h1": "Całun Turyński wyjaśniony: odpowiedzi na Twoje pytania",
   "lede": "Krótkie odpowiedzi ze źródłami na pytania, które ludzie najczęściej zadają o Całun Turyński, z linkami do pełnych dowodów. Tam, gdzie eksperci się nie zgadzają, mówimy o tym.",
@@ -112,6 +112,18 @@
    "link": "explore"
   },
   {
+   "id": "online",
+   "q": "Gdzie można obejrzeć i zbadać Całun Turyński online?",
+   "a": "Właśnie tutaj, bezpłatnie. Strona Zobacz płótno pokazuje całe płótno w wysokiej rozdzielczości: możesz powiększyć każdy szczegół, przełączyć na negatyw fotograficzny, wzmocnić słabe ślady i otworzyć ponumerowane opisy ran, przypaleń i lnu. Strona główna pokazuje twarz jako relief 3D, który możesz obracać, strona Rany pokazuje każdą ranę na mapie ciała obok tekstu z Ewangelii, a na stronie Twój werdykt możesz rozważyć dowody punkt po punkcie. Działa na telefonie i nie wymaga konta.",
+   "link": "explore"
+  },
+  {
+   "id": "allinone",
+   "q": "Czy jest jedna strona, która zbiera wszystko o Całunie Turyńskim?",
+   "a": "Właśnie taką stroną ma być See The Shroud. W jednym miejscu zbiera samo płótno do oglądania, jego historię od Lirey do dziś, datowanie radiowęglowe z 1988 roku ze wszystkimi dwunastoma pomiarami, obraz i każdą teorię o tym, jak powstał, krew i rany, popularne filmy sprawdzone twierdzenie po twierdzeniu, bibliotekę ponad 2400 prac badawczych oraz 52 argumenty za i przeciw, każdy oceniony pod względem siły i połączony ze swoim źródłem. Strona jest bezpłatna i dostępna w 12 językach.",
+   "link": "evidence"
+  },
+  {
    "id": "proof",
    "q": "Czy Całun dowodzi, że Jezus zmartwychwstał?",
    "a": "Nie. Nawet gdyby wykazano, że płótno pochodzi z I wieku, nie mogłoby dowieść zmartwychwstania; co najwyżej stawia pytania, na które nauka nie odpowiedziała. Naszym zdaniem Całun daje poważnie myślącemu człowiekowi dość, by potraktował to pytanie poważnie, a ostatni krok zostawia każdemu z osobna.",
@@ -120,7 +132,7 @@
   {
    "id": "who",
    "q": "Kto stworzył tę stronę i czy jest ona neutralna?",
-   "a": "„Jeśli nie zobaczę” to bezpłatny, niekomercyjny projekt. Jego autorem jest Nelson Inno, a stronę zbudowało everybodyknowsyou.com. Nelson uważa, że Całun jest autentyczny, i mówi o tym otwarcie. Mimo to strona przedstawia najmocniejsze argumenty obu stron w pełnej sile, ocenia każdy z nich i łączy każde twierdzenie z jego źródłem, aby każdy mógł ocenić sam.",
+   "a": "See The Shroud to bezpłatny, niekomercyjny projekt. Jego autorem jest Nelson Inno, a stronę zbudowało everybodyknowsyou.com. Nelson uważa, że Całun jest autentyczny, i mówi o tym otwarcie. Mimo to strona przedstawia najmocniejsze argumenty obu stron w pełnej sile, ocenia każdy z nich i łączy każde twierdzenie z jego źródłem, aby każdy mógł ocenić sam.",
    "link": "about"
   }
  ]
