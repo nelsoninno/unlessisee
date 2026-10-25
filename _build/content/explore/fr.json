@@ -1,0 +1,15 @@
+{
+ "ui": {
+  "view": "Affichage",
+  "vertical": "Vertical",
+  "horizontal": "Horizontal",
+  "outlines": "Contours",
+  "outlinesNote": "Contours tracés par nous sur la photographie de 1931. Les zones des taches de sang sont approximatives.",
+  "overlays": {
+   "burns": { "label": "Trous de brûlure (1532)", "note": "Trous laissés par l’incendie de Chambéry en 1532, rapiécés par les clarisses en 1534." },
+   "poker": { "label": "Trous de tisonnier", "note": "Quatre groupes de petits trous de brûlure disposés en L, plus anciens que l’incendie de 1532." },
+   "blood": { "label": "Taches de sang", "note": "Les principales taches de sang : tête, poignets, avant-bras, côté, creux des reins et pieds. Zones approximatives." },
+   "sample": { "label": "Échantillon radiocarbone", "note": "Le coin où l’échantillon de 1988 pour le carbone 14 a été découpé (emplacement approximatif)." }
+  }
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "ui": {
+  "view": "Vista",
+  "vertical": "Vertical",
+  "horizontal": "Horizontal",
+  "outlines": "Contornos",
+  "outlinesNote": "Contornos trazados por nosotros sobre la fotografía de 1931. Las zonas de las manchas de sangre son aproximadas.",
+  "overlays": {
+   "burns": { "label": "Quemaduras (1532)", "note": "Agujeros que dejó el incendio de Chambéry en 1532, remendados por las monjas clarisas en 1534." },
+   "poker": { "label": "Agujeros de atizador", "note": "Cuatro grupos de pequeños agujeros de quemadura en forma de L, anteriores al incendio de 1532." },
+   "blood": { "label": "Manchas de sangre", "note": "Las principales manchas de sangre: cabeza, muñecas, antebrazos, costado, zona lumbar y pies. Zonas aproximadas." },
+   "sample": { "label": "Muestra de radiocarbono", "note": "La esquina donde se cortó la muestra de radiocarbono de 1988 (ubicación aproximada)." }
+  }
+ }
+}

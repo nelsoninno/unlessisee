@@ -1,0 +1,15 @@
+{
+ "ui": {
+  "view": "View",
+  "vertical": "Vertical",
+  "horizontal": "Horizontal",
+  "outlines": "Outlines",
+  "outlinesNote": "Outlines drawn by us on the 1931 photograph. The bloodstain areas are approximate.",
+  "overlays": {
+   "burns": { "label": "Burn holes (1532)", "note": "Holes burned by the fire at Chambéry in 1532, patched by the Poor Clare nuns in 1534." },
+   "poker": { "label": "Poker holes", "note": "Four L-shaped groups of small burn holes, older than the 1532 fire." },
+   "blood": { "label": "Bloodstains", "note": "The main bloodstains: head, wrists, forearms, side, small of the back and feet. Approximate areas." },
+   "sample": { "label": "Carbon dating sample", "note": "The corner where the 1988 radiocarbon sample was cut (approximate)." }
+  }
+ }
+}

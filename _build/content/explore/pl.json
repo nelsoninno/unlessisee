@@ -1,0 +1,15 @@
+{
+ "ui": {
+  "view": "Widok",
+  "vertical": "Pionowo",
+  "horizontal": "Poziomo",
+  "outlines": "Kontury",
+  "outlinesNote": "Kontury narysowaliśmy sami na zdjęciu z 1931 roku. Obszary plam krwi są przybliżone.",
+  "overlays": {
+   "burns": { "label": "Otwory po pożarze (1532)", "note": "Otwory wypalone przez pożar w Chambéry w 1532 roku, załatane przez siostry klaryski w 1534 roku." },
+   "poker": { "label": "Otwory po pogrzebaczu", "note": "Cztery grupy małych otworów po przypaleniu ułożonych w kształt litery L, starszych niż pożar w 1532 roku." },
+   "blood": { "label": "Plamy krwi", "note": "Główne plamy krwi: głowa, nadgarstki, przedramiona, bok, okolica lędźwi i stopy. Obszary przybliżone." },
+   "sample": { "label": "Próbka radiowęglowa", "note": "Róg, z którego w 1988 roku wycięto próbkę do datowania radiowęglowego (położenie przybliżone)." }
+  }
+ }
+}

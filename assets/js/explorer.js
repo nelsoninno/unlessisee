@@ -14,6 +14,12 @@
   var W=D.image.w, H=D.image.h;
   img.width=W; img.height=H; img.style.width=W+'px'; img.style.height=H+'px';
   var s=1, tx=0, ty=0, minS=0.05, maxS=4;
+  // Orientation: vertical (front image upright, as the cloth hangs) by default, or horizontal
+  var qs=new URLSearchParams(location.search), rot=(qs.get('orient')==='h')?0:-90, cs=0, sn=-1;
+  function setRot(r){rot=r;var a=r*Math.PI/180;cs=Math.round(Math.cos(a));sn=Math.round(Math.sin(a));root.classList.toggle('vert',r!==0);
+    root.querySelectorAll('[data-view]').forEach(function(b){b.setAttribute('aria-pressed',(b.dataset.view==='v')===(r!==0)?'true':'false');});}
+  // put image point (px,py) at screen point (X,Y) for the current scale and rotation
+  function place(px,py,X,Y){tx=X-s*(cs*px-sn*py);ty=Y-s*(sn*px+cs*py);}
   var hiLoaded=false;
 
   // Hotspots
@@ -39,25 +45,34 @@
   }
 
   function apply(){
-    canvas.style.transform='translate('+tx+'px,'+ty+'px) scale('+s+')';
+    canvas.style.transform='translate('+tx+'px,'+ty+'px) rotate('+rot+'deg) scale('+s+')'; canvas.style.setProperty('--unrot',(-rot)+'deg');
     // keep hotspot size constant on screen
     var inv=1/s;
     D.spots.forEach(function(sp){sp.el.style.transform='scale('+inv+')';});
     canvas.style.setProperty('--inv',inv);
     if(cur>=0){var c=D.spots[cur];callout(c,(c.r||150)*s+26);}
     if(!hiLoaded&&D.image.srcHi&&s>D.image.hiAt){hiLoaded=true;var hi=new Image();hi.onload=function(){img.src=D.image.srcHi;lensImg.src=D.image.srcHi;};hi.src=D.image.srcHi;}
-    if(vp){var mw=mini.clientWidth/W;var r=stage.getBoundingClientRect();
+    if(vp&&rot===0){var mw=mini.clientWidth/W;var r=stage.getBoundingClientRect();
       vp.style.left=Math.max(0,(-tx/s)*mw)+'px'; vp.style.top=Math.max(0,(-ty/s)*mw)+'px';
       vp.style.width=Math.min(mini.clientWidth,(r.width/s)*mw)+'px'; vp.style.height=Math.min(mini.clientHeight,(r.height/s)*mw)+'px';}
   }
   function fit(){
     var r=stage.getBoundingClientRect();
+    if(rot!==0){ // vertical: the whole cloth, standing
+      s=Math.min(r.width/H,r.height/W)*0.94; minS=s*0.6; place(W/2,H/2,r.width/2,r.height/2); apply(); return;
+    }
     if(r.width<r.height){ // portrait phone: fill the height and start on the front face
       s=r.height*0.9/H; minS=Math.min(r.width/W,r.height/H)*0.9;
       tx=r.width/2-0.43*W*s; ty=(r.height-H*s)/2; apply(); return;
     }
     s=Math.min(r.width/W,r.height/H)*0.94; minS=s*0.6;
     tx=(r.width-W*s)/2; ty=(r.height-H*s)/2; apply();
+  }
+  // Starting view: in vertical, zoom onto the front image from the face down to the hands
+  function start(){
+    if(rot===0){fit();return;}
+    var r=stage.getBoundingClientRect(), whole=Math.min(r.width/H,r.height/W)*0.94; minS=whole*0.6;
+    s=Math.max(whole,Math.min(r.height/(0.27*W),r.width*0.94/H)); place(0.375*W,0.5*H,r.width/2,r.height/2); apply();
   }
   function zoomAt(f,cx,cy,anim){
     var ns=Math.max(minS,Math.min(maxS,s*f));
@@ -73,7 +88,7 @@
       var room=r.height-panel.offsetHeight-16; cy=Math.max(80,room/2);
       if(cur>=0){var rr=D.spots[cur].r||150; s=Math.max(minS,Math.min(s,(room/2-34)/rr));}
     }
-    tx=(r.width-panelW)/2-x*W*s; ty=cy-y*H*s;
+    place(x*W,y*H,(r.width-panelW)/2,cy);
     canvas.style.transition='transform .9s cubic-bezier(.3,0,.2,1)'; apply();
   }
 
@@ -85,6 +100,19 @@
   var ring=document.createElement('div'); ring.className='explorer__ring';
   var after=img;[dim,lens,ring].forEach(function(e){e.setAttribute('aria-hidden','true');e.style.width=W+'px';e.style.height=H+'px';canvas.insertBefore(e,after.nextSibling);after=e;});
   ring.style.width=ring.style.height='0px';
+  // Outline layers (our own tracing on the 1931 photograph)
+  var NS='http://www.w3.org/2000/svg', ov=document.createElementNS(NS,'svg');
+  ov.setAttribute('class','explorer__ov'); ov.setAttribute('viewBox','0 0 '+W+' '+H); ov.setAttribute('width',W); ov.setAttribute('height',H); ov.setAttribute('aria-hidden','true');
+  (D.overlays||[]).forEach(function(L){var g=document.createElementNS(NS,'g');g.setAttribute('data-ov',L.id);g.style.setProperty('--ov',L.color);g.style.display='none';
+    L.polys.forEach(function(pts){var pg=document.createElementNS(NS,'polygon');pg.setAttribute('points',pts.map(function(q){return (q[0]*W).toFixed(1)+','+(q[1]*H).toFixed(1);}).join(' '));g.appendChild(pg);});ov.appendChild(g);});
+  canvas.insertBefore(ov,after.nextSibling);
+  var ovNote=root.querySelector('.explorer__ovnote');
+  root.querySelectorAll('[data-ov]').forEach(function(b){ if(b.tagName!=='BUTTON')return;
+    b.addEventListener('click',function(){var on=b.getAttribute('aria-pressed')!=='true';b.setAttribute('aria-pressed',on?'true':'false');
+      var g=ov.querySelector('g[data-ov="'+b.dataset.ov+'"]'); if(g)g.style.display=on?'':'none';
+      var L=(D.overlays||[]).filter(function(x){return x.id===b.dataset.ov;})[0];
+      if(ovNote){var any=root.querySelector('button[data-ov][aria-pressed="true"]');ovNote.textContent=on&&L?L.note+' '+(D.outlinesNote||''):(any?'':'');}
+    });});
   function spotlight(sp){
     if(!sp){canvas.classList.remove('spot-on');return;}
     var x=sp.x*W, y=sp.y*H, r=sp.r||150;
@@ -178,6 +206,7 @@
     if(e.target.closest('input,textarea'))return;
     var k=e.key.toLowerCase();
     if(k==='n')root.querySelector('[data-tool=neg]').click();
+    else if(k==='v')root.querySelector('[data-view='+(rot===0?'v':'h')+']').click();
     else if(k==='e')root.querySelector('[data-tool=enh]').click();
     else if(k==='escape')close();
     else if(k==='arrowright'&&cur>=0)open((cur+1)%D.spots.length,true);
@@ -187,8 +216,11 @@
   });
   if(mini){mini.addEventListener('click',function(e){var r=mini.getBoundingClientRect();flyTo((e.clientX-r.left)/r.width,(e.clientY-r.top)/r.height,s);});}
 
-  window.addEventListener('resize',function(){fit();});
-  function init(){fit();var h=location.hash.slice(1);if(h){for(var i=0;i<D.spots.length;i++)if(D.spots[i].id===h){open(i,true);break;}}
+  root.querySelectorAll('[data-view]').forEach(function(b){b.addEventListener('click',function(){
+    var r=b.dataset.view==='v'?-90:0; if(r===rot)return; setRot(r); canvas.style.transition='transform .6s cubic-bezier(.3,0,.2,1)';
+    if(cur>=0){var sp=D.spots[cur];flyTo(sp.x,sp.y,s);} else start();});});
+  var lastW=0; window.addEventListener('resize',function(){var w=stage.clientWidth; if(Math.abs(w-lastW)<2)return; lastW=w; if(cur>=0)return; start();});
+  function init(){setRot(rot);lastW=stage.clientWidth;start();var h=location.hash.slice(1);if(h){for(var i=0;i<D.spots.length;i++)if(D.spots[i].id===h){open(i,true);break;}}
     var p=new URLSearchParams(location.search);if(p.get('view')==='negative')root.querySelector('[data-tool=neg]').click();}
   if(img.complete)init(); else img.addEventListener('load',init);
 })();

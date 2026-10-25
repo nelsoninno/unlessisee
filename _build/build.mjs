@@ -43,6 +43,10 @@ async function loadLang(lang) {
   const fEn = readJSON(path.join(__dirname, 'content', 'faq', CONFIG.defaultLang + '.json'), null);
   const fLoc = readJSON(path.join(__dirname, 'content', 'faq', lang + '.json'), null) || fEn;
   if (fEn) copy.pages = { ...copy.pages, faq: { ...deepMerge(fEn.page, fLoc.page), items: (fLoc.items && fLoc.items.length === fEn.items.length) ? fLoc.items : fEn.items } };
+  // Explore page extras (view buttons, outline layers) live in content/explore/<lang>.json, English as fallback
+  const xEn = readJSON(path.join(__dirname, 'content', 'explore', CONFIG.defaultLang + '.json'), null);
+  const xLoc = readJSON(path.join(__dirname, 'content', 'explore', lang + '.json'), null) || xEn;
+  if (xEn && copy.pages.explore) copy.pages = { ...copy.pages, explore: { ...copy.pages.explore, ui: deepMerge(copy.pages.explore.ui, deepMerge(xEn.ui, xLoc.ui)) } };
   const d = n => readJSON(path.join(__dirname, 'data', lang, n + '.json'), readJSON(path.join(__dirname, 'data', 'en', n + '.json'), null));
   // Positions, zoom levels and layers always come from the English data, so translations never drift.
   const enD = n => readJSON(path.join(__dirname, 'data', 'en', n + '.json'), null);

@@ -1,0 +1,15 @@
+{
+ "ui": {
+  "view": "Vista",
+  "vertical": "Verticale",
+  "horizontal": "Orizzontale",
+  "outlines": "Contorni",
+  "outlinesNote": "Contorni tracciati da noi sulla fotografia del 1931. Le aree delle macchie di sangue sono approssimative.",
+  "overlays": {
+   "burns": { "label": "Bruciature (1532)", "note": "Fori lasciati dall'incendio di Chambéry del 1532, rattoppati dalle clarisse nel 1534." },
+   "poker": { "label": "Fori a L", "note": "Quattro gruppi di piccoli fori di bruciatura disposti a L, più antichi dell'incendio del 1532." },
+   "blood": { "label": "Macchie di sangue", "note": "Le principali macchie di sangue: testa, polsi, avambracci, costato, zona lombare e piedi. Aree approssimative." },
+   "sample": { "label": "Campione al radiocarbonio", "note": "L'angolo dove fu tagliato il campione per la datazione al radiocarbonio del 1988 (posizione approssimativa)." }
+  }
+ }
+}

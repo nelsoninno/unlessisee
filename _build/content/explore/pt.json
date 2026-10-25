@@ -1,0 +1,15 @@
+{
+ "ui": {
+  "view": "Vista",
+  "vertical": "Vertical",
+  "horizontal": "Horizontal",
+  "outlines": "Contornos",
+  "outlinesNote": "Contornos traçados por nós sobre a fotografia de 1931. As áreas das manchas de sangue são aproximadas.",
+  "overlays": {
+   "burns": { "label": "Furos de queimadura (1532)", "note": "Furos deixados pelo incêndio de Chambéry em 1532, remendados pelas freiras clarissas em 1534." },
+   "poker": { "label": "Furos de atiçador", "note": "Quatro grupos de pequenos furos de queimadura em forma de L, mais antigos que o incêndio de 1532." },
+   "blood": { "label": "Manchas de sangue", "note": "As principais manchas de sangue: cabeça, pulsos, antebraços, lado, região lombar e pés. Áreas aproximadas." },
+   "sample": { "label": "Amostra de radiocarbono", "note": "O canto onde a amostra de radiocarbono de 1988 foi cortada (localização aproximada)." }
+  }
+ }
+}

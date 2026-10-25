@@ -1,0 +1,15 @@
+{
+ "ui": {
+  "view": "Ansicht",
+  "vertical": "Senkrecht",
+  "horizontal": "Waagerecht",
+  "outlines": "Umrisse",
+  "outlinesNote": "Die Umrisse haben wir auf der Fotografie von 1931 eingezeichnet. Die Bereiche der Blutflecken sind ungefähr.",
+  "overlays": {
+   "burns": { "label": "Brandlöcher (1532)", "note": "Löcher vom Brand in Chambéry 1532, die die Klarissen 1534 flickten." },
+   "poker": { "label": "Schürhakenlöcher", "note": "Vier L-förmige Gruppen kleiner Brandlöcher, älter als der Brand von 1532." },
+   "blood": { "label": "Blutflecken", "note": "Die wichtigsten Blutflecken: Kopf, Handgelenke, Unterarme, Seite, unterer Rücken und Füße. Ungefähre Bereiche." },
+   "sample": { "label": "Radiokarbonprobe", "note": "Die Ecke, an der 1988 die Probe für die Radiokarbondatierung entnommen wurde (ungefähre Lage)." }
+  }
+ }
+}

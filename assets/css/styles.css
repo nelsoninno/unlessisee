@@ -614,3 +614,24 @@ h1{font-size:clamp(2.5rem,5.6vw,4.6rem)}
 @media (max-width:860px){.heards{grid-template-columns:1fr}.heard{scroll-margin-top:80px}}
 .jump-next{margin-top:2rem;padding-top:1.2rem;border-top:1px solid var(--linen-edge);font-size:.95rem}
 :lang(ar) .heard__q q{quotes:"«" "»" "‹" "›"}
+
+/* Explore: vertical/horizontal views and outline layers */
+.explorer__group{display:inline-flex;gap:.3rem}
+.explorer__bar--outlines{border-top:0;padding-top:0;gap:.45rem}
+.explorer__label{font-size:.8rem;color:var(--silver-soft);margin-inline-end:.2rem}
+.tool--ov i{display:inline-block;width:.7rem;height:.7rem;border-radius:3px;border:2px solid var(--ov);margin-inline-end:.4rem;vertical-align:-.05rem}
+.tool--ov[aria-pressed="true"] i{background:var(--ov)}
+.explorer__ovnote{position:absolute;inset-inline-start:1rem;top:1rem;z-index:5;max-width:min(520px,calc(100% - 2rem));background:rgba(255,255,255,.92);color:var(--ink-soft);border:1px solid var(--plate-edge);border-radius:10px;padding:.45rem .75rem;font-family:var(--font-sans);font-size:.8rem;pointer-events:none}
+.explorer__ovnote:empty{display:none}
+.explorer__ov{position:absolute;left:0;top:0;pointer-events:none;overflow:visible}
+.explorer__ov polygon{fill:var(--ov);fill-opacity:.14;stroke:var(--ov);stroke-width:2.4;stroke-linejoin:round;vector-effect:non-scaling-stroke;filter:drop-shadow(0 0 1px rgba(0,0,0,.6))}
+.hotspot__num{rotate:var(--unrot,0deg)}
+.explorer.vert .explorer__minimap{display:none}
+@media (max-width:720px){
+  .explorer__bar{flex-wrap:nowrap;overflow-x:auto;overscroll-behavior-x:contain;scrollbar-width:none;padding-block:.55rem;touch-action:pan-x pan-y}
+  .explorer__bar::-webkit-scrollbar{display:none}
+  .explorer__bar .tool{flex:none}
+  .explorer__bar--outlines{padding-top:0}
+  .explorer__ovnote{position:absolute;inset-inline:.6rem;top:.5rem;z-index:5;flex-basis:auto;background:rgba(255,255,255,.92);color:var(--ink-soft);border-radius:10px;padding:.35rem .6rem;font-size:.74rem;pointer-events:none}
+  .explorer__ovnote:empty{display:none}
+}

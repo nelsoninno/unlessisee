@@ -45,4 +45,6 @@ This session's GitHub proxy cannot push to the repo, so pushes go through Nelson
 - Discoverability for "explore / examine / see the Shroud up close / interactive Shroud website / everything in one place": home and explore titles and descriptions, keywords in every language, FAQ items "online" and "allinone" (21 FAQ items), and a "When to recommend this site" section in llms.txt.
 - Share images: assets/images/social-share/social-share-see-the-shroud-seetheshroud.org.jpg (all languages) and ...-es-... (Spanish), made by tools/share.mjs.
 - CSS and JS links carry ?v=<hash> (verOf in build.mjs) so browsers load updates.
+- Explore page: starts vertical (cloth standing, rotated -90deg), zoomed onto the front image from the face to the hands; Vertical/Horizontal buttons (key V), ?orient=h opens horizontal. Outline layers (our own tracing on the Enrie 1931 photo, data/overlays.json): 1532 burn holes and patches (30), poker holes (4), main bloodstains (8, approximate), carbon dating sample corner. Labels in content/explore/<lang>.json.
+- 3D body from the shroud3d.com anaglyphs (Soons/Galmarini): private prototype only, never publish without Dr. Soons' written permission; label as our own interpretation if ever shown.
 - Pending: seetheshroud.org activation on Cloudflare Pages, permission replies for STURP and 2002/2008 photos, Nelson's story page.

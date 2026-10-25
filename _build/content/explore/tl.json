@@ -1,0 +1,15 @@
+{
+ "ui": {
+  "view": "Tanaw",
+  "vertical": "Patayo",
+  "horizontal": "Pahiga",
+  "outlines": "Mga balangkas",
+  "outlinesNote": "Kami ang gumuhit ng mga balangkas sa litrato noong 1931. Tinatayang lokasyon lamang ang mga bahaging may mantsa ng dugo.",
+  "overlays": {
+   "burns": { "label": "Butas ng sunog (1532)", "note": "Mga butas na gawa ng sunog sa Chambéry noong 1532, na tinagpian ng mga madreng Poor Clare noong 1534." },
+   "poker": { "label": "Mga poker hole", "note": "Apat na grupo ng maliliit na butas ng sunog na hugis L, mas matanda kaysa sa sunog noong 1532." },
+   "blood": { "label": "Mantsa ng dugo", "note": "Ang mga pangunahing mantsa ng dugo: ulo, mga pulso, mga bisig, tagiliran, ibabang likod at mga paa. Tinatayang lokasyon." },
+   "sample": { "label": "Carbon dating sample", "note": "Ang sulok kung saan ginupit ang sample para sa carbon dating noong 1988 (tinatayang lokasyon)." }
+  }
+ }
+}

@@ -252,7 +252,8 @@ ${p.paths.map(x => `<a class="path" href="${ctx.href(x.slug)}"><h3>${x.h}</h3><p
 // ===================================================================== EXPLORE
 function explore(ctx, page) {
   const c = ctx.L.copy, p = c.pages.explore, S = ctx.L.data.spots || { spots: [] };
-  const data = { image: { w: 3000, h: 769, src: ctx.asset(IMG + 'shroud/full-cloth-shroud-of-turin-seetheshroud.org.webp'), srcHi: ctx.asset(IMG + 'shroud/full-cloth-hi-shroud-of-turin-seetheshroud.org.webp'), hiAt: 0.9, ...(S.image || {}) },
+  const OV = readJ('overlays.json', { layers: [] });
+  const data = { overlays: OV.layers.map(l => ({ ...l, note: p.ui.overlays[l.id].note })), outlinesNote: p.ui.outlinesNote, image: { w: 3000, h: 769, src: ctx.asset(IMG + 'shroud/full-cloth-shroud-of-turin-seetheshroud.org.webp'), srcHi: ctx.asset(IMG + 'shroud/full-cloth-hi-shroud-of-turin-seetheshroud.org.webp'), hiAt: 0.9, ...(S.image || {}) },
     spots: S.spots.map(s => ({ ...s, link: s.link ? ctx.href(s.link.split('#')[0]) + (s.link.includes('#') ? '#' + s.link.split('#')[1] : '') : null })), ui: p.ui };
   data.image.src = ctx.asset(S.image ? S.image.src : IMG + 'shroud/full-cloth-shroud-of-turin-seetheshroud.org.webp');
   if (S.image && S.image.srcHi) data.image.srcHi = ctx.asset(S.image.srcHi);
@@ -268,6 +269,12 @@ function explore(ctx, page) {
     <span class="sep" aria-hidden="true"></span>
     <button class="tool" type="button" data-tool="tour">${esc(p.ui.tour)}</button>
     <button class="tool" type="button" data-tool="fit">${esc(p.ui.fit)}</button>
+    <span class="sep" aria-hidden="true"></span>
+    <span class="explorer__group" role="group" aria-label="${attr(p.ui.view)}"><button class="tool" type="button" data-view="v" aria-pressed="true">${esc(p.ui.vertical)}</button><button class="tool" type="button" data-view="h" aria-pressed="false">${esc(p.ui.horizontal)}</button></span>
+  </div>
+  <div class="explorer__bar explorer__bar--outlines" role="group" aria-label="${attr(p.ui.outlines)}">
+    <span class="explorer__label">${esc(p.ui.outlines)}</span>
+    ${OV.layers.map(l => `<button class="tool tool--ov" type="button" data-ov="${attr(l.id)}" aria-pressed="false" title="${attr(p.ui.overlays[l.id].note)}" style="--ov:${attr(l.color)}"><i aria-hidden="true"></i>${esc(p.ui.overlays[l.id].label)}</button>`).join('')}
   </div>
   <div class="explorer__stage">
     <div class="explorer__canvas"><img src="${data.image.src}" alt="${attr(p.imgAlt)}" draggable="false"></div>
@@ -275,6 +282,7 @@ function explore(ctx, page) {
     <div class="explorer__minimap" aria-hidden="true"><img src="${data.image.src}" alt=""><div class="vp"></div></div>
     <aside class="explorer__panel" hidden aria-live="polite"></aside>
     <p class="explorer__help">${esc(p.ui.help)}</p>
+    <p class="explorer__ovnote" aria-live="polite"></p>
   </div>
   <script type="application/json" id="explorer-data">${json(data)}</script>
 </section>
