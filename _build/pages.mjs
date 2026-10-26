@@ -113,6 +113,7 @@ function emanation(ctx, c) {
 <source data-src="${src('480' + S + '.mp4')}" type="video/mp4" media="(max-width: 700px)">
 <source data-src="${src(S.slice(1) + '.webm')}" type="video/webm">
 <source data-src="${src(S.slice(1) + '.mp4')}" type="video/mp4"></video>
+<button class="lightvid__big" type="button" aria-label="${attr(E.ui.play)}"><svg viewBox="0 0 64 64" aria-hidden="true"><circle cx="32" cy="32" r="31"/><path d="M26 20v24l19-12z"/></svg></button>
 <button class="lightvid__toggle" type="button" aria-pressed="false" data-labels='${attr(JSON.stringify({ play: E.ui.play, pause: E.ui.pause }))}'>${esc(E.ui.play)}</button></div>
 <figcaption>${E.note ? `<p class="lightvid__note">${esc(E.note)}</p>` : ''}<ol class="lightvid__steps">${E.captions.map(t => `<li>${esc(t)}</li>`).join('')}</ol></figcaption></figure>`;
 }
