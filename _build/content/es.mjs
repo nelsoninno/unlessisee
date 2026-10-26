@@ -93,7 +93,7 @@ export default {
   pages: {
     index: {
       title: 'See The Shroud: explora la Sábana Santa de Turín y su evidencia',
-      description: 'Explora y examina de cerca la Sábana Santa de Turín: zoom, negativo, 3D, mapa de heridas, evidencia a favor y en contra y fuentes. Gratis, en 12 idiomas.',
+      description: "Explora la Sábana Santa de Turín en línea y gratis: acércate, mira el negativo y la imagen 3D, encuentra cada herida y pesa las pruebas a favor y en contra.",
       h1: 'Examina tú mismo la Sábana Santa de Turín',
       lede: 'Una tela de lino de 4,4 metros de largo lleva la imagen tenue de un hombre que fue flagelado y crucificado. Algunos la llaman una falsificación medieval. Otros, la mortaja de Jesús. Aquí está la evidencia de ambos lados, con todas las fuentes, para que la juzgues tú mismo.',
       cta1: 'Explora la tela', cta2: 'Lee el expediente',
@@ -194,8 +194,8 @@ export default {
     },
 
     evidence: {
-      title: 'Evidencia sobre la Sábana Santa de Turín, a favor y en contra | See The Shroud',
-      description: 'Cada argumento importante sobre la Sábana Santa de Turín, a favor y en contra, calificado según su fuerza, con la mejor respuesta escéptica y sus fuentes.',
+      title: "Sábana Santa de Turín: ¿auténtica o falsa? Pruebas a favor y en contra | See The Shroud",
+      description: "¿La Sábana Santa de Turín es auténtica o falsa? Los grandes argumentos a favor y en contra, según su fuerza, con la mejor réplica escéptica y fuentes.",
       h1: 'El expediente',
       lede: 'Cada argumento importante sobre la Sábana Santa, a favor y en contra. Cada uno está calificado según su fuerza, con la mejor objeción, la mejor réplica y las fuentes. Incluimos los argumentos contra la autenticidad con toda su fuerza, porque debes escucharlos primero de nosotros.',
       counts: '{n} pruebas: {f} apuntan a la autenticidad y {a} apuntan a un origen medieval.',

@@ -93,7 +93,7 @@ export default {
   pages: {
     index: {
       title: 'See The Shroud : explorer le Saint-Suaire de Turin et ses preuves',
-      description: 'Explorez et examinez de près le Saint-Suaire de Turin : zoom, négatif, 3D, carte des blessures, arguments pour et contre et sources. Gratuit, en 12 langues.',
+      description: "Découvrez le Saint-Suaire de Turin en ligne, gratuitement : zoomez, voyez le négatif et l’image en 3D, trouvez chaque plaie et pesez le pour et le contre.",
       h1: 'Examinez vous-même le Saint-Suaire de Turin',
       lede: 'Un linge de lin, long de 4,4 mètres, porte l’image pâle d’un homme flagellé et crucifié. Certains y voient un faux médiéval. D’autres, le linceul de Jésus. Voici les arguments des deux camps, avec toutes les sources, pour que vous puissiez juger par vous-même.',
       cta1: 'Explorer le linge', cta2: 'Lire le dossier',
@@ -194,8 +194,8 @@ export default {
     },
 
     evidence: {
-      title: 'Saint-Suaire de Turin : les preuves pour et contre | See The Shroud',
-      description: 'Les grands arguments sur le Saint-Suaire de Turin, pour et contre son authenticité, notés par solidité, avec la meilleure réponse sceptique et les sources.',
+      title: "Saint-Suaire de Turin : authentique ou faux ? Le pour et le contre | See The Shroud",
+      description: "Le Saint-Suaire de Turin est-il authentique ou un faux ? Les grands arguments pour et contre, notés par solidité, avec la meilleure réponse sceptique.",
       h1: 'Le dossier',
       lede: 'Tous les grands arguments sur le Saint-Suaire, pour et contre. Chacun est noté selon sa solidité, avec la meilleure objection, la meilleure réplique et les sources. Nous présentons les arguments contre l’authenticité dans toute leur force, car vous devez d’abord les entendre de notre bouche.',
       counts: '{n} pièces : {f} vont dans le sens de l’authenticité, {a} dans le sens d’une origine médiévale.',

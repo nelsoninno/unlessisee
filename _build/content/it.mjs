@@ -94,7 +94,7 @@ export default {
   pages: {
     index: {
       title: "See The Shroud: esplora la Sindone di Torino e le sue prove",
-      description: "Esplora ed esamina da vicino la Sindone di Torino: zoom, negativo, 3D, mappa delle ferite e le prove a favore e contro, con tutte le fonti. Gratis, in 12 lingue.",
+      description: "Scopri la Sindone di Torino online e gratis: ingrandisci, guarda il negativo e l'immagine in 3D, trova ogni ferita e valuta le prove a favore e contro.",
       h1: "Esamina con i tuoi occhi la Sindone di Torino",
       lede: "Un telo di lino lungo 4,4 metri porta l'immagine debole di un uomo flagellato e crocifisso. Alcuni lo considerano un falso medievale. Altri, il telo funerario di Gesù. Ecco le prove di entrambe le parti, con tutte le fonti, perché tu possa giudicare con la tua testa.",
       cta1: "Esplora il telo", cta2: "Leggi il fascicolo",
@@ -195,8 +195,8 @@ export default {
     },
 
     evidence: {
-      title: "Le prove sulla Sindone di Torino, a favore e contro | See The Shroud",
-      description: "I principali argomenti sulla Sindone di Torino, a favore e contro l'autenticità, valutati per forza, con la migliore risposta dello scettico e le fonti.",
+      title: "Sindone di Torino: autentica o falsa? Le prove a favore e contro | See The Shroud",
+      description: "La Sindone di Torino è autentica o un falso? I principali argomenti a favore e contro, valutati per forza, con la migliore risposta scettica e le fonti.",
       h1: "Il fascicolo",
       lede: "Tutti i principali argomenti sulla Sindone, a favore e contro. Ognuno è valutato in base alla sua forza, con l'obiezione migliore, la replica migliore e le fonti. Presentiamo gli argomenti contro l'autenticità con tutta la loro forza, perché è giusto che tu li senta prima da noi.",
       counts: "{n} reperti: {f} a favore dell'autenticità, {a} a favore di un'origine medievale.",

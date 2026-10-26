@@ -22,6 +22,18 @@
    "link": "evidence"
   },
   {
+   "id": "forgery",
+   "q": "Is the Shroud of Turin a forgery or a hoax?",
+   "a": "No one has shown that it is. The case for a forgery rests mainly on the 1988 carbon dating (AD 1260 to 1390) and on a 1389 letter by Bishop Pierre d'Arcis, who wrote that an earlier bishop had found the artist who painted it. The artist was never named, and no confession survives. On the other side, the 1978 scientific team found no paint or pigment forming the image (one microscopist, Walter McCrone, disagreed), and no one has reproduced all of its properties. A hoax means deception that has been proven, and that has not happened. Whether it is a medieval work or a first-century burial cloth is still open.",
+   "link": "evidence"
+  },
+  {
+   "id": "debunked",
+   "q": "Has the Shroud of Turin been debunked?",
+   "a": "No, and it has not been proven authentic either. The 1988 carbon dating is the strongest evidence against it, and it has not been overturned. But how the image was formed is still unexplained, and every attempt to copy it has missed some of its properties. Headlines often say debunked or proven after a single study. So far, no study has closed the case either way.",
+   "link": "evidence"
+  },
+  {
    "id": "jesus",
    "q": "Is the Shroud of Turin authentic? Is it the burial cloth of Jesus?",
    "a": "No test can prove whose body a cloth once wrapped. Science can test its age, its materials and how the image formed. The image matches the Gospel accounts of a man who was scourged, crowned with thorns and crucified in many details, but the 1988 carbon date points to the Middle Ages. Whether it is the shroud of Jesus is a judgment each person makes from the evidence, and for many, finally, a matter of faith.",
@@ -76,6 +88,18 @@
    "link": "explore"
   },
   {
+   "id": "face",
+   "q": "Is the face of Jesus on the Shroud of Turin?",
+   "a": "The cloth shows the face of a bearded man with long hair, swelling on the face and wounds on the head. Whether it is the face of Jesus depends on whether the cloth is authentic, and that is still debated. Some researchers argue that early Byzantine icons of Christ share features with it; others see only a shared artistic tradition. The \"real face of Jesus\" images that go viral are artists' or AI interpretations of the cloth, not photographs. On this site you can see the face in negative and in 3D.",
+   "link": "3d"
+  },
+  {
+   "id": "tall",
+   "q": "How tall was Jesus, according to the Shroud of Turin?",
+   "a": "The Gospels do not say how tall Jesus was. Estimates for the man on the Shroud range from about 1.62 to 1.87 meters (5 ft 4 in to 6 ft 1 in), because the cloth is soft, the image is faint and the body lay with the head bowed and the knees slightly bent. A 2010 computer study by Giulio Fanti and colleagues put him at about 1.75 meters (5 ft 9 in), give or take 2 cm. That is taller than an average man of the time and place, which historians estimate at about 1.65 meters (5 ft 5 in).",
+   "link": "explore"
+  },
+  {
    "id": "blood",
    "q": "Is there real blood on the Shroud?",
    "a": "Tests in the late 1970s and early 1980s found heme, bilirubin and other blood components in the red stains, and no image under the blood. It has not been shown with modern methods that the blood is human, and claims of a specific blood type are not reliable because the cloth is heavily contaminated.",
@@ -86,6 +110,30 @@
    "q": "Do the wounds on the Shroud match the crucifixion of Jesus?",
    "a": "They match the Gospel accounts closely: about 100 to 120 scourge marks, punctures around the head like a cap of thorns, a nail wound at the wrist, a wound in the side, and legs that were not broken. Some details, such as nails at the wrists rather than the palms, differ from medieval art. Skeptics answer that a well-informed artist could have known these details.",
    "link": "wounds"
+  },
+  {
+   "id": "died",
+   "q": "Did Jesus really die on the cross? What does the Shroud of Turin show?",
+   "a": "Historians, including those who are not Christians, broadly agree that Jesus was crucified and died. A 1986 medical review in the Journal of the American Medical Association concluded that he was dead before the spear wound to his side. The idea that he only fainted and later revived has very little support. If the Shroud is authentic, it points the same way: pathologists describe a body stiff with rigor mortis and a side wound that bled after death. If it is a medieval work, it tells us nothing about Jesus himself.",
+   "link": "wounds"
+  },
+  {
+   "id": "buried",
+   "q": "How was Jesus buried, and does the Shroud of Turin fit?",
+   "a": "The Gospels say Joseph of Arimathea took the body down on Friday afternoon and wrapped it in clean linen with spices brought by Nicodemus. They laid it in a new tomb cut in rock and rolled a stone across the entrance, in a hurry before the Sabbath began (Mark 15:42-46, John 19:38-42). The Shroud fits a hurried burial: one long linen sheet laid under and over the body, and blood marks that suggest the body was not washed. Whether the Gospels describe one large sheet or several strips is debated.",
+   "link": "wounds"
+  },
+  {
+   "id": "cloths",
+   "q": "What does the Bible say about Jesus' burial cloths? Could one be the Shroud of Turin?",
+   "a": "Mark, Matthew and Luke say the body was wrapped in a linen cloth, in Greek sindon, a word used for a large sheet. John says it was bound in linen cloths (othonia) with spices, and that on Easter morning Peter and another disciple saw the linen cloths lying in the empty tomb, with the cloth that had been on his head (soudarion) rolled up in a place by itself (John 20:5-7). Defenders read sindon as one large sheet like the Shroud; skeptics point to John's plural cloths. Serious scholars hold both readings.",
+   "link": "wounds"
+  },
+  {
+   "id": "bible",
+   "q": "Is the Shroud of Turin mentioned in the Bible?",
+   "a": "Not by name. The Gospels mention the linen Jesus was buried in and the cloths left in the empty tomb, but none says that an image was on them or that anyone kept them. A lost early gospel quoted by Saint Jerome, the Gospel of the Hebrews, says the risen Jesus gave his linen cloth to the servant of the priest, but it is not part of the Bible. The Shroud's documented history begins around 1354 in Lirey, France. Earlier links, such as the Image of Edessa, are possible but unproven.",
+   "link": "timeline"
   },
   {
    "id": "copy",
@@ -100,10 +148,22 @@
    "link": "about"
   },
   {
+   "id": "important",
+   "q": "Why is the Shroud of Turin important?",
+   "a": "Because of what it means either way. If it is authentic, it is a physical witness to the crucifixion and burial described in the Gospels, and its image is still unexplained by science. If it is a medieval work, it was made with a technique no one has managed to repeat. Its first photograph in 1898 revealed a hidden negative image and started more than a century of scientific study, making it one of the most studied objects in the world. When it is shown in Turin, millions of people come to see it.",
+   "link": "index"
+  },
+  {
    "id": "see",
    "q": "Where is the Shroud of Turin kept, and can I see it?",
    "a": "It is kept in the Cathedral of Saint John the Baptist in Turin, in a climate-controlled case, and is usually not on public view. It is shown during rare public exhibitions, such as those in 2010 and 2015, and in a 2020 live broadcast.",
    "link": "timeline"
+  },
+  {
+   "id": "experience",
+   "q": "Can I experience the Shroud of Turin online?",
+   "a": "Yes. The cloth itself is kept in Turin Cathedral and is only rarely shown to the public, so most people will never see it in person. On this site you can explore the whole cloth up close, switch to the negative, see the image in 3D, find each wound and burn mark, and weigh the evidence for and against, free and in 12 languages. Full-size replicas are also on display in museums, including the Museum of the Shroud in Turin.",
+   "link": "explore"
   },
   {
    "id": "visual",

@@ -93,7 +93,7 @@ export default {
   pages: {
     index: {
       title: 'See The Shroud: zobacz Całun Turyński i poznaj dowody',
-      description: 'Obejrzyj i zbadaj Całun Turyński z bliska: zoom, negatyw, 3D, mapa ran oraz dowody za i przeciw z każdym źródłem. Bezpłatnie, w 12 językach.',
+      description: "Zobacz Całun Turyński online, bezpłatnie: powiększaj, oglądaj negatyw i obraz 3D, znajdź każdą ranę i rozważ dowody za autentycznością i przeciw niej.",
       h1: 'Zbadaj Całun Turyński samodzielnie',
       lede: 'Lniane płótno o długości 4,4 metra nosi słaby obraz mężczyzny, który był biczowany i ukrzyżowany. Jedni nazywają je średniowiecznym fałszerstwem. Inni płótnem grobowym Jezusa. Oto dowody obu stron, z każdym źródłem, abyś mógł ocenić je samodzielnie.',
       cta1: 'Zobacz płótno', cta2: 'Przeczytaj akta sprawy',
@@ -194,8 +194,8 @@ export default {
     },
 
     evidence: {
-      title: 'Całun Turyński: dowody za i przeciw autentyczności | See The Shroud',
-      description: 'Każdy ważny argument o Całunie Turyńskim, za autentycznością i przeciw niej, oceniony pod względem siły, z najlepszą odpowiedzią sceptyka i linkami do źródeł.',
+      title: "Całun Turyński: autentyk czy fałszerstwo? Dowody za i przeciw | See The Shroud",
+      description: "Czy Całun Turyński jest autentyczny, czy to fałszerstwo? Wszystkie główne argumenty za i przeciw, ocenione według siły, z najlepszą odpowiedzią sceptyków.",
       h1: 'Akta sprawy',
       lede: 'Każdy ważny argument o Całunie, za i przeciw. Każdy jest oceniony pod względem siły, z najlepszym zarzutem, najlepszą repliką i źródłami. Argumenty przeciw autentyczności podajemy w pełnej sile, bo powinieneś najpierw usłyszeć je od nas.',
       counts: 'Liczba dowodów: {n}. Za autentycznością: {f}. Za średniowiecznym pochodzeniem: {a}.',

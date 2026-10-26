@@ -91,7 +91,7 @@ export function makeCtx(lang, L) {
       if (toLang === CONFIG.defaultLang) return '../' + file;
       return (isDefault ? '' : '../') + toLang + '/' + file;
     },
-    abs: (slug, toLang = lang) => base + (toLang === CONFIG.defaultLang ? '' : toLang + '/') + (slug === 'index' ? '' : slug + '.html'),
+    abs: (slug, toLang = lang) => base + (toLang === CONFIG.defaultLang ? '' : toLang + '/') + (slug === 'index' ? '' : slug),
     absAsset: p => base + p,
   };
 }

@@ -22,6 +22,18 @@
    "link": "evidence"
   },
   {
+   "id": "forgery",
+   "q": "La Sindone di Torino è un falso o una bufala?",
+   "a": "Nessuno lo ha dimostrato. La tesi del falso si basa soprattutto sulla datazione al carbonio del 1988 (dal 1260 al 1390 d.C.) e su una lettera del 1389 del vescovo Pierre d'Arcis, che scrisse che un vescovo precedente aveva trovato l'artista che l'aveva dipinta. Il nome dell'artista non fu mai fatto, e non ci è giunta alcuna confessione. Dall'altra parte, la squadra scientifica del 1978 non trovò pittura né pigmenti che formassero l'immagine (un microscopista, Walter McCrone, non era d'accordo), e nessuno ne ha riprodotto tutte le proprietà. Una bufala presuppone un inganno dimostrato, e questo non è avvenuto. Se sia un'opera medievale o un telo funerario del I secolo resta una questione aperta.",
+   "link": "evidence"
+  },
+  {
+   "id": "debunked",
+   "q": "È stato dimostrato che la Sindone di Torino è falsa?",
+   "a": "No, e non è stato dimostrato nemmeno che sia autentica. La datazione al carbonio del 1988 è la prova più forte contro, e non è stata ribaltata. Ma il modo in cui si è formata l'immagine resta inspiegato, e ogni tentativo di copiarla ha mancato qualcuna delle sue proprietà. I titoli dei giornali dicono spesso “smentita” o “dimostrata” dopo un solo studio. Finora nessuno studio ha chiuso il caso, né in un senso né nell'altro.",
+   "link": "evidence"
+  },
+  {
    "id": "jesus",
    "q": "La Sindone è autentica? È il lenzuolo funebre di Gesù?",
    "a": "Nessun test può dimostrare di chi fosse il corpo avvolto da un telo. La scienza può verificarne l'età, i materiali e il modo in cui si è formata l'immagine. In molti dettagli l'immagine corrisponde ai racconti dei Vangeli su un uomo flagellato, coronato di spine e crocifisso, ma la datazione al carbonio del 1988 indica il Medioevo. Se sia la sindone di Gesù è un giudizio che ciascuno dà a partire dalle prove e, per molti, alla fine, una questione di fede.",
@@ -76,6 +88,18 @@
    "link": "explore"
   },
   {
+   "id": "face",
+   "q": "Quello sulla Sindone di Torino è il volto di Gesù?",
+   "a": "Il telo mostra il volto di un uomo con la barba e i capelli lunghi, con gonfiori sul viso e ferite sulla testa. Se sia il volto di Gesù dipende dall'autenticità del telo, che è ancora dibattuta. Alcuni ricercatori sostengono che le prime icone bizantine di Cristo abbiano tratti in comune con essa; altri vi vedono solo una tradizione artistica condivisa. Le immagini del “vero volto di Gesù” che diventano virali sono interpretazioni del telo fatte da artisti o con l'IA, non fotografie. Su questo sito puoi vedere il volto in negativo e in 3D.",
+   "link": "3d"
+  },
+  {
+   "id": "tall",
+   "q": "Quanto era alto Gesù secondo la Sindone di Torino?",
+   "a": "I Vangeli non dicono quanto fosse alto Gesù. Le stime per l'uomo della Sindone vanno da circa 1,62 a 1,87 metri, perché il telo è morbido, l'immagine è tenue e il corpo giaceva con la testa china e le ginocchia leggermente piegate. Uno studio al computer del 2010, di Giulio Fanti e colleghi, lo ha stimato in circa 1,75 metri, con un margine di 2 cm in più o in meno. È più alto di un uomo medio di quel tempo e di quel luogo, che gli storici stimano intorno a 1,65 metri.",
+   "link": "explore"
+  },
+  {
    "id": "blood",
    "q": "Sulla Sindone c'è sangue vero?",
    "a": "Analisi della fine degli anni Settanta e dell'inizio degli anni Ottanta trovarono eme, bilirubina e altri componenti del sangue nelle macchie rosse, e nessuna immagine sotto il sangue. Non è stato dimostrato con metodi moderni che il sangue sia umano, e le affermazioni su un gruppo sanguigno specifico non sono affidabili, perché il telo è molto contaminato.",
@@ -86,6 +110,30 @@
    "q": "Le ferite della Sindone corrispondono alla crocifissione di Gesù?",
    "a": "Corrispondono da vicino ai racconti dei Vangeli: circa da 100 a 120 segni di flagello, ferite da punta intorno alla testa come un casco di spine, una ferita da chiodo al polso, una ferita al costato e gambe che non furono spezzate. Alcuni dettagli, come i chiodi nei polsi e non nei palmi, sono diversi dall'arte medievale. Gli scettici rispondono che un artista ben informato avrebbe potuto conoscerli.",
    "link": "wounds"
+  },
+  {
+   "id": "died",
+   "q": "Gesù è morto davvero sulla croce? Che cosa mostra la Sindone di Torino?",
+   "a": "Gli storici, compresi quelli non cristiani, concordano in generale sul fatto che Gesù fu crocifisso e morì. Una rassegna medica del 1986 sulla rivista Journal of the American Medical Association concluse che era già morto prima della ferita di lancia al costato. L'idea che fosse solo svenuto e poi si fosse ripreso ha pochissimo sostegno. Se la Sindone è autentica, indica la stessa direzione: i patologi descrivono un corpo irrigidito dal rigor mortis e una ferita al costato che sanguinò dopo la morte. Se è un'opera medievale, non ci dice nulla su Gesù stesso.",
+   "link": "wounds"
+  },
+  {
+   "id": "buried",
+   "q": "Come fu sepolto Gesù, e la Sindone di Torino è compatibile?",
+   "a": "I Vangeli dicono che Giuseppe d'Arimatea calò il corpo dalla croce il venerdì pomeriggio e lo avvolse in un lino pulito con gli aromi portati da Nicodemo. Lo deposero in un sepolcro nuovo scavato nella roccia e fecero rotolare una pietra all'ingresso, in fretta, prima che cominciasse il sabato (Mc 15,42-46; Gv 19,38-42). La Sindone è compatibile con una sepoltura frettolosa: un unico lungo lenzuolo di lino steso sotto e sopra il corpo, e macchie di sangue che fanno pensare che il corpo non sia stato lavato. Se i Vangeli descrivano un unico grande lenzuolo o più bende è oggetto di dibattito.",
+   "link": "wounds"
+  },
+  {
+   "id": "cloths",
+   "q": "Che cosa dice la Bibbia sui teli funerari di Gesù? Uno di essi potrebbe essere la Sindone di Torino?",
+   "a": "Marco, Matteo e Luca dicono che il corpo fu avvolto in un telo di lino, in greco sindon, una parola usata per un grande lenzuolo. Giovanni dice che fu avvolto in teli di lino (othonia) con gli aromi, e che la mattina di Pasqua Pietro e un altro discepolo videro i teli posati nel sepolcro vuoto, con il panno che era stato sul suo capo (soudarion) avvolto in un luogo a parte (Gv 20,5-7). I difensori leggono sindon come un unico grande lenzuolo, come la Sindone; gli scettici fanno notare il plurale usato da Giovanni. Studiosi seri sostengono entrambe le letture.",
+   "link": "wounds"
+  },
+  {
+   "id": "bible",
+   "q": "La Sindone di Torino è citata nella Bibbia?",
+   "a": "Non per nome. I Vangeli parlano del lino in cui fu sepolto Gesù e dei teli lasciati nel sepolcro vuoto, ma nessuno dice che vi fosse un'immagine o che qualcuno li abbia conservati. Un antico vangelo perduto citato da san Girolamo, il Vangelo degli Ebrei, dice che Gesù risorto diede il suo telo di lino al servo del sacerdote, ma non fa parte della Bibbia. La storia documentata della Sindone comincia intorno al 1354 a Lirey, in Francia. Collegamenti più antichi, come l'Immagine di Edessa, sono possibili ma non dimostrati.",
+   "link": "timeline"
   },
   {
    "id": "copy",
@@ -100,10 +148,22 @@
    "link": "about"
   },
   {
+   "id": "important",
+   "q": "Perché la Sindone di Torino è importante?",
+   "a": "Per ciò che significa in entrambi i casi. Se è autentica, è una testimonianza materiale della crocifissione e della sepoltura descritte nei Vangeli, e la scienza non sa ancora spiegarne l'immagine. Se è un'opera medievale, fu realizzata con una tecnica che nessuno è riuscito a ripetere. La sua prima fotografia, nel 1898, rivelò un'immagine negativa nascosta e diede inizio a più di un secolo di studi scientifici, facendone uno degli oggetti più studiati al mondo. Quando viene esposta a Torino, milioni di persone vanno a vederla.",
+   "link": "index"
+  },
+  {
    "id": "see",
    "q": "Dove si trova la Sindone di Torino, e si può vedere?",
    "a": "È conservata nel Duomo di San Giovanni Battista a Torino, in una teca a clima controllato, e di solito non è esposta al pubblico. Viene mostrata durante rare ostensioni pubbliche, come quelle del 2010 e del 2015, e in una diretta televisiva del 2020.",
    "link": "timeline"
+  },
+  {
+   "id": "experience",
+   "q": "Posso vedere la Sindone di Torino online?",
+   "a": "Sì. Il telo vero e proprio è conservato nel Duomo di Torino e viene mostrato al pubblico solo di rado, quindi la maggior parte delle persone non lo vedrà mai dal vivo. Su questo sito puoi esplorare tutto il telo da vicino, passare al negativo, vedere l'immagine in 3D, trovare ogni ferita e ogni bruciatura, e valutare le prove a favore e contro, gratis e in 12 lingue. Repliche a grandezza naturale sono esposte anche nei musei, tra cui il Museo della Sindone di Torino.",
+   "link": "explore"
   },
   {
    "id": "visual",

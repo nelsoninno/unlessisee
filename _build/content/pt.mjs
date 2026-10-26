@@ -93,7 +93,7 @@ export default {
   pages: {
     index: {
       title: 'See The Shroud: explore o Santo Sudário de Turim e suas evidências',
-      description: 'Explore e examine de perto o Santo Sudário de Turim: zoom, negativo, 3D, mapa das feridas e as evidências a favor e contra, com fontes. Grátis, em 12 idiomas.',
+      description: "Explore o Santo Sudário de Turim online, de graça: dê zoom, veja o negativo e a imagem em 3D, encontre cada ferida e pese as evidências a favor e contra.",
       h1: 'Examine o Santo Sudário de Turim por conta própria',
       lede: 'Um pano de linho de 4,4 metros traz a imagem tênue de um homem que foi flagelado e crucificado. Uns dizem que é uma falsificação medieval. Outros, que é a mortalha de Jesus. Aqui estão as evidências dos dois lados, com todas as fontes, para que você mesmo julgue.',
       cta1: 'Explorar o pano', cta2: 'Ler o dossiê',
@@ -194,8 +194,8 @@ export default {
     },
 
     evidence: {
-      title: 'Evidências sobre o Santo Sudário de Turim, a favor e contra | See The Shroud',
-      description: 'Os principais argumentos sobre o Santo Sudário de Turim, a favor e contra a autenticidade, classificados pela força, com a melhor resposta cética e as fontes.',
+      title: "Santo Sudário de Turim: autêntico ou falso? Provas a favor e contra | See The Shroud",
+      description: "O Santo Sudário de Turim é autêntico ou falso? Os grandes argumentos a favor e contra, avaliados pela força, com a melhor resposta cética e as fontes.",
       h1: 'O dossiê',
       lede: 'Todos os principais argumentos sobre o Sudário, a favor e contra. Cada um é classificado pela sua força, com a melhor objeção, a melhor réplica e as fontes. Incluímos os argumentos contra a autenticidade com toda a sua força, porque você deve ouvi-los primeiro de nós.',
       counts: '{n} itens: {f} apontam para a autenticidade, {a} apontam para uma origem medieval.',

@@ -22,6 +22,18 @@
    "link": "evidence"
   },
   {
+   "id": "forgery",
+   "q": "Ist das Grabtuch von Turin eine Fälschung oder ein Schwindel?",
+   "a": "Das hat niemand nachgewiesen. Die Argumente für eine Fälschung stützen sich vor allem auf die Radiokarbondatierung von 1988 (1260 bis 1390 n. Chr.) und auf einen Brief von Bischof Pierre d'Arcis aus dem Jahr 1389, der schrieb, ein früherer Bischof habe den Künstler gefunden, der es gemalt habe. Der Künstler wurde nie mit Namen genannt, und kein Geständnis ist erhalten. Auf der anderen Seite fand das wissenschaftliche Team von 1978 weder Farbe noch Pigment, die das Bild bilden (ein Mikroskopiker, Walter McCrone, widersprach), und niemand hat alle seine Eigenschaften nachgebildet. Ein Schwindel ist eine nachgewiesene Täuschung, und die gibt es nicht. Ob es ein Werk des Mittelalters oder ein Grabtuch aus dem ersten Jahrhundert ist, bleibt offen.",
+   "link": "evidence"
+  },
+  {
+   "id": "debunked",
+   "q": "Wurde das Grabtuch von Turin widerlegt?",
+   "a": "Nein, aber seine Echtheit ist auch nicht bewiesen. Die Radiokarbondatierung von 1988 ist der stärkste Beleg dagegen, und sie wurde nicht umgestoßen. Wie das Bild entstanden ist, bleibt jedoch ungeklärt, und jeder Versuch, es nachzubilden, hat einige seiner Eigenschaften verfehlt. Schlagzeilen sprechen oft schon nach einer einzigen Studie von „widerlegt“ oder „bewiesen“. Bisher hat keine Studie die Frage in die eine oder die andere Richtung entschieden.",
+   "link": "evidence"
+  },
+  {
    "id": "jesus",
    "q": "Ist das Grabtuch von Turin authentisch? Ist es das Grabtuch Jesu?",
    "a": "Kein Test kann beweisen, wessen Körper ein Tuch einmal umhüllt hat. Die Wissenschaft kann sein Alter, seine Materialien und die Entstehung des Bildes untersuchen. In vielen Einzelheiten passt das Bild zu den Berichten der Evangelien über einen Mann, der gegeißelt, mit Dornen gekrönt und gekreuzigt wurde, doch die Radiokarbondatierung von 1988 weist ins Mittelalter. Ob es das Grabtuch Jesu ist, muss jeder anhand der Belege selbst beurteilen, und für viele ist es am Ende eine Frage des Glaubens.",
@@ -76,6 +88,18 @@
    "link": "explore"
   },
   {
+   "id": "face",
+   "q": "Ist das Gesicht Jesu auf dem Grabtuch von Turin zu sehen?",
+   "a": "Das Tuch zeigt das Gesicht eines bärtigen Mannes mit langen Haaren, mit Schwellungen im Gesicht und Wunden am Kopf. Ob es das Gesicht Jesu ist, hängt davon ab, ob das Tuch echt ist, und das ist weiter umstritten. Manche Forscher argumentieren, dass frühe byzantinische Christusikonen Merkmale mit ihm teilen; andere sehen nur eine gemeinsame künstlerische Tradition. Die Bilder vom „wahren Gesicht Jesu“, die sich im Netz massenhaft verbreiten, sind Deutungen des Tuchs durch Künstler oder KI, keine Fotografien. Auf dieser Website können Sie das Gesicht im Negativ und in 3D sehen.",
+   "link": "3d"
+  },
+  {
+   "id": "tall",
+   "q": "Wie groß war Jesus laut dem Grabtuch von Turin?",
+   "a": "Die Evangelien sagen nicht, wie groß Jesus war. Die Schätzungen für den Mann auf dem Grabtuch reichen von etwa 1,62 bis 1,87 Metern, weil das Tuch weich und das Bild schwach ist und der Körper mit gesenktem Kopf und leicht angewinkelten Knien lag. Eine Computerstudie von Giulio Fanti und Kollegen aus dem Jahr 2010 kam auf etwa 1,75 Meter, plus oder minus 2 cm. Das ist größer als ein durchschnittlicher Mann jener Zeit und Gegend, dessen Größe Historiker auf etwa 1,65 Meter schätzen.",
+   "link": "explore"
+  },
+  {
    "id": "blood",
    "q": "Ist echtes Blut auf dem Grabtuch?",
    "a": "Untersuchungen Ende der 1970er- und Anfang der 1980er-Jahre fanden Häm, Bilirubin und andere Blutbestandteile in den roten Flecken, und kein Bild unter dem Blut. Mit modernen Methoden ist nicht nachgewiesen, dass das Blut menschlich ist, und Angaben zu einer bestimmten Blutgruppe sind nicht verlässlich, weil das Tuch stark verunreinigt ist.",
@@ -86,6 +110,30 @@
    "q": "Passen die Wunden auf dem Grabtuch zur Kreuzigung Jesu?",
    "a": "Sie passen eng zu den Berichten der Evangelien: etwa 100 bis 120 Geißelspuren, Einstiche rund um den Kopf wie von einer Haube aus Dornen, eine Nagelwunde am Handgelenk, eine Seitenwunde und Beine, die nicht gebrochen wurden. Manche Einzelheiten, etwa die Nägel in den Handgelenken statt in den Handflächen, weichen von der Kunst des Mittelalters ab. Skeptiker entgegnen, dass ein gut informierter Künstler diese Einzelheiten gekannt haben könnte.",
    "link": "wounds"
+  },
+  {
+   "id": "died",
+   "q": "Ist Jesus wirklich am Kreuz gestorben? Was zeigt das Grabtuch von Turin?",
+   "a": "Historiker, auch solche, die keine Christen sind, sind sich weitgehend einig, dass Jesus gekreuzigt wurde und starb. Eine medizinische Übersichtsarbeit von 1986 im Journal of the American Medical Association kam zu dem Schluss, dass er schon vor dem Lanzenstich in die Seite tot war. Die Vorstellung, er sei nur ohnmächtig geworden und später wieder zu sich gekommen, findet sehr wenig Unterstützung. Wenn das Grabtuch echt ist, weist es in dieselbe Richtung: Pathologen beschreiben einen Körper in Totenstarre und eine Seitenwunde, die nach dem Tod blutete. Ist es ein Werk des Mittelalters, sagt es über Jesus selbst nichts aus.",
+   "link": "wounds"
+  },
+  {
+   "id": "buried",
+   "q": "Wie wurde Jesus begraben, und passt das Grabtuch von Turin dazu?",
+   "a": "Die Evangelien berichten, dass Josef von Arimathäa den Leichnam am Freitagnachmittag abnahm und ihn in reines Leinen hüllte, mit wohlriechenden Stoffen, die Nikodemus mitbrachte. Sie legten ihn in ein neues, in den Felsen gehauenes Grab und wälzten einen Stein vor den Eingang, in Eile, bevor der Sabbat begann (Mk 15,42-46; Joh 19,38-42). Das Grabtuch passt zu einem eiligen Begräbnis: ein einziges langes Leinentuch unter und über dem Körper und Blutspuren, die darauf hindeuten, dass der Leichnam nicht gewaschen wurde. Ob die Evangelien ein einziges großes Tuch oder mehrere Streifen beschreiben, ist umstritten.",
+   "link": "wounds"
+  },
+  {
+   "id": "cloths",
+   "q": "Was sagt die Bibel über die Grabtücher Jesu? Könnte eines davon das Grabtuch von Turin sein?",
+   "a": "Markus, Matthäus und Lukas sagen, dass der Leichnam in ein Leinentuch gehüllt wurde, auf Griechisch sindon, ein Wort für ein großes Tuch. Johannes sagt, er wurde mit wohlriechenden Stoffen in Leinentücher (othonia) gebunden, und dass Petrus und ein anderer Jünger am Ostermorgen die Leinentücher im leeren Grab liegen sahen, und das Tuch, das auf seinem Kopf gelegen hatte (soudarion), zusammengerollt an einer besonderen Stelle (Joh 20,5-7). Befürworter der Echtheit verstehen sindon als ein einziges großes Tuch wie das Grabtuch; Skeptiker verweisen auf die Tücher im Plural bei Johannes. Ernsthafte Fachleute vertreten beide Lesarten.",
+   "link": "wounds"
+  },
+  {
+   "id": "bible",
+   "q": "Wird das Grabtuch von Turin in der Bibel erwähnt?",
+   "a": "Nicht namentlich. Die Evangelien erwähnen das Leinen, in dem Jesus begraben wurde, und die Tücher im leeren Grab, aber keines sagt, dass ein Bild darauf war oder dass jemand sie aufbewahrte. Ein verlorenes frühes Evangelium, das der heilige Hieronymus zitiert, das Hebräerevangelium, berichtet, der auferstandene Jesus habe sein Leinentuch dem Knecht des Priesters gegeben, doch es gehört nicht zur Bibel. Die belegte Geschichte des Grabtuchs beginnt um 1354 in Lirey in Frankreich. Frühere Verbindungen, etwa zum Bild von Edessa, sind möglich, aber nicht bewiesen.",
+   "link": "timeline"
   },
   {
    "id": "copy",
@@ -100,10 +148,22 @@
    "link": "about"
   },
   {
+   "id": "important",
+   "q": "Warum ist das Grabtuch von Turin so wichtig?",
+   "a": "Wegen dessen, was es in beiden Fällen bedeutet. Ist es echt, dann ist es ein greifbarer Zeuge der Kreuzigung und des Begräbnisses, von denen die Evangelien berichten, und sein Bild ist wissenschaftlich noch immer ungeklärt. Ist es ein Werk des Mittelalters, dann wurde es mit einer Technik hergestellt, die bisher niemand wiederholen konnte. Seine erste Fotografie im Jahr 1898 enthüllte ein verborgenes Negativbild und löste mehr als ein Jahrhundert wissenschaftlicher Forschung aus, sodass es zu den am meisten untersuchten Gegenständen der Welt gehört. Wenn es in Turin gezeigt wird, kommen Millionen Menschen, um es zu sehen.",
+   "link": "index"
+  },
+  {
    "id": "see",
    "q": "Wo wird das Grabtuch von Turin aufbewahrt, und kann man es sehen?",
    "a": "Es wird im Dom des heiligen Johannes des Täufers in Turin in einem klimatisierten Schrein aufbewahrt und ist meist nicht öffentlich zu sehen. Gezeigt wird es bei seltenen öffentlichen Ausstellungen, etwa 2010 und 2015, und 2020 in einer Liveübertragung.",
    "link": "timeline"
+  },
+  {
+   "id": "experience",
+   "q": "Kann man das Grabtuch von Turin online erleben?",
+   "a": "Ja. Das Tuch selbst wird im Turiner Dom aufbewahrt und nur selten öffentlich gezeigt, deshalb werden die meisten Menschen es nie mit eigenen Augen sehen. Auf dieser Website können Sie das ganze Tuch aus der Nähe erkunden, zum Negativ wechseln, das Bild in 3D sehen, jede Wunde und jede Brandstelle finden und die Belege dafür und dagegen abwägen, kostenlos und in 12 Sprachen. Nachbildungen in Originalgröße sind auch in Museen ausgestellt, darunter im Grabtuchmuseum (Museo della Sindone) in Turin.",
+   "link": "explore"
   },
   {
    "id": "visual",

@@ -94,7 +94,7 @@ export default {
   pages: {
     index: {
       title: 'See The Shroud: Das Grabtuch von Turin und seine Belege erkunden',
-      description: 'Untersuchen Sie das Grabtuch von Turin aus der Nähe: Zoom, Negativ, 3D, Wundenkarte und die Belege dafür und dagegen, mit Quellen. Kostenlos, in 12 Sprachen.',
+      description: "Erleben Sie das Grabtuch von Turin online und kostenlos: vergrößern, Negativ und 3D-Bild ansehen, jede Wunde finden und das Für und Wider abwägen.",
       h1: 'Prüfen Sie das Grabtuch von Turin selbst',
       lede: 'Ein Leinentuch, 4,4 Meter lang, trägt das blasse Bild eines Mannes, der gegeißelt und gekreuzigt wurde. Manche halten es für eine mittelalterliche Fälschung. Andere halten es für das Grabtuch Jesu. Hier finden Sie die Belege beider Seiten, mit allen Quellen, damit Sie selbst urteilen können.',
       cta1: 'Das Tuch erkunden', cta2: 'Die Fallakte lesen',
@@ -195,8 +195,8 @@ export default {
     },
 
     evidence: {
-      title: 'Grabtuch von Turin: Belege dafür und dagegen | See The Shroud',
-      description: 'Die wichtigsten Argumente über das Grabtuch von Turin, für und gegen die Echtheit, nach Stärke bewertet, mit der besten Antwort der Skeptiker und den Quellen.',
+      title: "Grabtuch von Turin: echt oder Fälschung? Belege dafür und dagegen | See The Shroud",
+      description: "Ist das Grabtuch von Turin echt oder eine Fälschung? Alle wichtigen Argumente dafür und dagegen, nach Stärke bewertet, mit der besten Antwort der Skeptiker.",
       h1: 'Die Fallakte',
       lede: 'Jedes wichtige Argument über das Grabtuch, dafür und dagegen. Jedes ist danach bewertet, wie stark es ist, mit dem besten Einwand, der besten Erwiderung und den Quellen. Die Argumente gegen die Echtheit zeigen wir in voller Stärke, denn Sie sollten sie zuerst von uns hören.',
       counts: '{n} Beweisstücke: {f} sprechen für die Echtheit, {a} für einen mittelalterlichen Ursprung.',

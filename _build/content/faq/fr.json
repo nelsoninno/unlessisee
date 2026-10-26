@@ -22,6 +22,18 @@
    "link": "evidence"
   },
   {
+   "id": "forgery",
+   "q": "Le Saint-Suaire de Turin est-il un faux ou une supercherie ?",
+   "a": "Personne ne l’a démontré. La thèse du faux repose surtout sur la datation au carbone 14 de 1988 (1260 à 1390 apr. J.-C.) et sur une lettre de 1389 de l’évêque Pierre d’Arcis, qui écrivait qu’un évêque précédent avait trouvé l’artiste qui l’avait peint. Cet artiste n’a jamais été nommé, et aucun aveu n’a été conservé. De l’autre côté, l’équipe scientifique de 1978 n’a trouvé ni peinture ni pigment formant l’image (un microscopiste, Walter McCrone, n’était pas d’accord), et personne n’a reproduit toutes ses propriétés. Parler de supercherie suppose une tromperie prouvée, et ce n’est pas le cas. Savoir s’il s’agit d’une œuvre médiévale ou d’un linceul du Ier siècle reste une question ouverte.",
+   "link": "evidence"
+  },
+  {
+   "id": "debunked",
+   "q": "Le Saint-Suaire de Turin a-t-il été démystifié ?",
+   "a": "Non, et son authenticité n’a pas non plus été prouvée. La datation au carbone 14 de 1988 est l’élément le plus fort contre lui, et elle n’a pas été invalidée. Mais la façon dont l’image s’est formée reste inexpliquée, et toutes les tentatives pour la copier ont manqué certaines de ses propriétés. Les gros titres annoncent souvent un faux « démystifié » ou une authenticité « prouvée » après une seule étude. Jusqu’ici, aucune étude n’a tranché la question, ni dans un sens ni dans l’autre.",
+   "link": "evidence"
+  },
+  {
    "id": "jesus",
    "q": "Le Saint-Suaire est-il authentique ? Est-ce le linceul de Jésus ?",
    "a": "Aucune analyse ne peut prouver quel corps un linge a enveloppé. La science peut mesurer son âge, ses matériaux et la façon dont l’image s’est formée. Sur de nombreux détails, l’image correspond aux récits des Évangiles sur un homme flagellé, couronné d’épines et crucifié, mais la datation au carbone 14 de 1988 renvoie au Moyen Âge. Savoir s’il s’agit du linceul de Jésus est un jugement que chacun forme à partir des éléments et, pour beaucoup, au bout du compte, une question de foi.",
@@ -76,6 +88,18 @@
    "link": "explore"
   },
   {
+   "id": "face",
+   "q": "Le visage de Jésus est-il sur le Saint-Suaire de Turin ?",
+   "a": "Le linge montre le visage d’un homme barbu aux cheveux longs, avec un visage enflé et des plaies à la tête. Savoir si c’est le visage de Jésus dépend de l’authenticité du linge, qui est encore débattue. Certains chercheurs soutiennent que les premières icônes byzantines du Christ ont des traits en commun avec lui ; d’autres n’y voient qu’une tradition artistique commune. Les images du « vrai visage de Jésus » qui circulent partout sur les réseaux sont des interprétations du linge par des artistes ou par l’IA, pas des photographies. Sur ce site, vous pouvez voir le visage en négatif et en 3D.",
+   "link": "3d"
+  },
+  {
+   "id": "tall",
+   "q": "Quelle taille faisait Jésus, d’après le Saint-Suaire de Turin ?",
+   "a": "Les Évangiles ne disent pas quelle taille faisait Jésus. Les estimations pour l’homme du Saint-Suaire vont d’environ 1,62 à 1,87 mètre, car le linge est souple, l’image est pâle et le corps reposait la tête inclinée et les genoux légèrement fléchis. Une étude informatique de 2010, menée par Giulio Fanti et ses collègues, l’estime à environ 1,75 mètre, à 2 cm près. C’est plus grand qu’un homme moyen de l’époque et de la région, dont les historiens estiment la taille à environ 1,65 mètre.",
+   "link": "explore"
+  },
+  {
    "id": "blood",
    "q": "Y a-t-il du vrai sang sur le Saint-Suaire ?",
    "a": "Des analyses de la fin des années 1970 et du début des années 1980 ont trouvé de l’hème, de la bilirubine et d’autres composants du sang dans les taches rouges, et aucune image sous le sang. Il n’a pas été démontré avec des méthodes modernes que ce sang est humain, et les affirmations sur un groupe sanguin précis ne sont pas fiables, car le linge est très contaminé.",
@@ -86,6 +110,30 @@
    "q": "Les plaies du Saint-Suaire correspondent-elles à la crucifixion de Jésus ?",
    "a": "Elles correspondent de près aux récits des Évangiles : environ 100 à 120 marques de flagellation, des perforations autour de la tête comme un casque d’épines, une plaie de clou au poignet, une plaie au côté et des jambes qui n’ont pas été brisées. Certains détails, comme les clous dans les poignets plutôt que dans les paumes, diffèrent de l’art médiéval. Les sceptiques répondent qu’un artiste bien informé aurait pu connaître ces détails.",
    "link": "wounds"
+  },
+  {
+   "id": "died",
+   "q": "Jésus est-il vraiment mort sur la croix ? Que montre le Saint-Suaire de Turin ?",
+   "a": "Les historiens, y compris ceux qui ne sont pas chrétiens, s’accordent largement à dire que Jésus a été crucifié et qu’il est mort. Une étude médicale publiée en 1986 dans le Journal of the American Medical Association a conclu qu’il était déjà mort avant le coup de lance au côté. L’idée qu’il se serait seulement évanoui avant de revenir à lui ne trouve que très peu de soutien. Si le Saint-Suaire est authentique, il va dans le même sens : des médecins légistes décrivent un corps raidi par la rigidité cadavérique et une plaie au côté qui a saigné après la mort. S’il s’agit d’une œuvre médiévale, il ne nous apprend rien sur Jésus lui-même.",
+   "link": "wounds"
+  },
+  {
+   "id": "buried",
+   "q": "Comment Jésus a-t-il été enseveli, et le Saint-Suaire de Turin correspond-il ?",
+   "a": "Les Évangiles disent que Joseph d’Arimathée a descendu le corps le vendredi après-midi et l’a enveloppé dans un linge de lin propre, avec des aromates apportés par Nicodème. Ils l’ont déposé dans un tombeau neuf taillé dans le roc et ont roulé une pierre devant l’entrée, à la hâte, avant le début du sabbat (Mc 15,42-46 ; Jn 19,38-42). Le Saint-Suaire correspond à un ensevelissement hâtif : un seul long drap de lin placé sous le corps et par-dessus, et des traces de sang qui laissent penser que le corps n’a pas été lavé. La question de savoir si les Évangiles décrivent un seul grand drap ou plusieurs bandes est débattue.",
+   "link": "wounds"
+  },
+  {
+   "id": "cloths",
+   "q": "Que dit la Bible sur les linges funéraires de Jésus ? L’un d’eux pourrait-il être le Saint-Suaire de Turin ?",
+   "a": "Marc, Matthieu et Luc disent que le corps a été enveloppé dans un drap de lin, en grec sindon, un mot employé pour un grand drap. Jean dit qu’il a été lié dans des linges (othonia) avec des aromates, et que le matin de Pâques, Pierre et un autre disciple ont vu les linges posés dans le tombeau vide, et le linge qui avait été sur sa tête (soudarion) roulé à part, à une autre place (Jn 20,5-7). Les défenseurs de l’authenticité lisent sindon comme un seul grand drap, semblable au Saint-Suaire ; les sceptiques soulignent les linges au pluriel chez Jean. Des spécialistes sérieux défendent les deux lectures.",
+   "link": "wounds"
+  },
+  {
+   "id": "bible",
+   "q": "Le Saint-Suaire de Turin est-il mentionné dans la Bible ?",
+   "a": "Pas nommément. Les Évangiles mentionnent le lin dans lequel Jésus a été enseveli et les linges laissés dans le tombeau vide, mais aucun ne dit qu’une image s’y trouvait ni que quelqu’un les a gardés. Un ancien évangile perdu, cité par saint Jérôme, l’Évangile des Hébreux, dit que Jésus ressuscité a donné son linceul au serviteur du prêtre, mais il ne fait pas partie de la Bible. L’histoire documentée du Saint-Suaire commence vers 1354 à Lirey, en France. Des liens plus anciens, comme l’Image d’Édesse, sont possibles mais non prouvés.",
+   "link": "timeline"
   },
   {
    "id": "copy",
@@ -100,10 +148,22 @@
    "link": "about"
   },
   {
+   "id": "important",
+   "q": "Pourquoi le Saint-Suaire de Turin est-il important ?",
+   "a": "En raison de ce qu’il signifie, quelle que soit la réponse. S’il est authentique, c’est un témoin matériel de la crucifixion et de l’ensevelissement décrits dans les Évangiles, et la science n’explique toujours pas son image. S’il s’agit d’une œuvre médiévale, il a été réalisé avec une technique que personne n’a réussi à reproduire. Sa première photographie, en 1898, a révélé une image négative cachée et lancé plus d’un siècle d’études scientifiques, ce qui en fait l’un des objets les plus étudiés au monde. Lors de ses ostensions à Turin, des millions de personnes viennent le voir.",
+   "link": "index"
+  },
+  {
    "id": "see",
    "q": "Où est conservé le Saint-Suaire de Turin, et peut-on le voir ?",
    "a": "Il est conservé dans la cathédrale Saint-Jean-Baptiste de Turin, dans une châsse à climat contrôlé, et il n’est généralement pas exposé au public. Il est montré lors de rares ostensions publiques, comme celles de 2010 et 2015, et lors d’une retransmission en direct en 2020.",
    "link": "timeline"
+  },
+  {
+   "id": "experience",
+   "q": "Peut-on découvrir le Saint-Suaire de Turin en ligne ?",
+   "a": "Oui. Le linge lui-même est conservé dans la cathédrale de Turin et n’est que rarement montré au public, si bien que la plupart des gens ne le verront jamais en vrai. Sur ce site, vous pouvez explorer tout le linge de près, passer au négatif, voir l’image en 3D, trouver chaque plaie et chaque brûlure, et peser les éléments pour et contre, gratuitement et en 12 langues. Des répliques grandeur nature sont aussi exposées dans des musées, dont le Musée du Saint-Suaire à Turin.",
+   "link": "explore"
   },
   {
    "id": "visual",

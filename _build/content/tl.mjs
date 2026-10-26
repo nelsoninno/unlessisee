@@ -93,7 +93,7 @@ export default {
   pages: {
     index: {
       title: "See The Shroud: Tuklasin ang Shroud of Turin at ang Ebidensiya Nito",
-      description: "Tuklasin at suriin nang malapitan ang Shroud of Turin: zoom, negative, 3D, mapa ng mga sugat, at ebidensiya para at laban na may source. Libre, sa 12 wika.",
+      description: "Maranasan ang Shroud of Turin online nang libre: mag-zoom, tingnan ang negative at 3D na imahe, hanapin ang bawat sugat, at timbangin ang ebidensiya.",
       h1: "Suriin mo mismo ang Shroud of Turin",
       lede: "Isang telang lino, 4.4 metro ang haba, ang may malabong imahe ng isang lalaking hinagupit at ipinako sa krus. May nagsasabing pamemeke ito noong Middle Ages. May iba namang nagsasabing ito ang telang ipinambalot sa bangkay ni Hesus. Narito ang ebidensiya mula sa magkabilang panig, kasama ang bawat source, para ikaw mismo ang humusga.",
       cta1: "Tuklasin ang tela", cta2: "Basahin ang case file",
@@ -194,8 +194,8 @@ export default {
     },
 
     evidence: {
-      title: "Ebidensiya tungkol sa Shroud of Turin, Para at Laban | See The Shroud",
-      description: "Bawat pangunahing argumento tungkol sa Shroud of Turin, para at laban, may marka ayon sa tibay, kasama ang pinakamahusay na sagot ng skeptic at mga source.",
+      title: "Shroud of Turin: Tunay o Peke? Ang Ebidensiya Para at Laban | See The Shroud",
+      description: "Tunay ba o peke ang Shroud of Turin? Bawat pangunahing argumento para at laban, may marka ng tibay, pinakamahusay na sagot ng skeptic at mga source.",
       h1: "Ang case file",
       lede: "Bawat pangunahing argumento tungkol sa Shroud, para at laban. May marka ang bawat isa ayon sa tibay nito, kasama ang pinakamahusay na pagtutol, ang pinakamahusay na tugon at ang mga source. Isinasama namin nang buong lakas ang mga argumento laban sa pagiging tunay, dahil dapat mo itong marinig muna mula sa amin.",
       counts: "{n} exhibit: {f} na tumuturo sa pagiging tunay, {a} na tumuturo sa medieval na pinagmulan.",

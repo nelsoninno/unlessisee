@@ -22,6 +22,18 @@
    "link": "evidence"
   },
   {
+   "id": "forgery",
+   "q": "Czy Całun Turyński to fałszerstwo albo mistyfikacja?",
+   "a": "Nikt tego nie wykazał. Argumenty za fałszerstwem opierają się głównie na datowaniu radiowęglowym z 1988 roku (1260 do 1390 n.e.) i na liście biskupa Pierre'a d'Arcisa z 1389 roku, który napisał, że jeden z wcześniejszych biskupów odnalazł artystę, który go namalował. Artysty nigdy nie wymieniono z imienia i nie zachował się żaden zapis jego przyznania się. Z drugiej strony zespół naukowy z 1978 roku nie znalazł farby ani pigmentu tworzących obraz (jeden mikroskopista, Walter McCrone, się z tym nie zgodził), a nikt nie odtworzył wszystkich jego cech. Mistyfikacja oznacza udowodnione oszustwo, a tego nie wykazano. Czy jest to dzieło średniowieczne, czy płótno grobowe z I wieku, pozostaje sprawą otwartą.",
+   "link": "evidence"
+  },
+  {
+   "id": "debunked",
+   "q": "Czy Całun Turyński został zdemaskowany jako fałszerstwo?",
+   "a": "Nie, ale nie dowiedziono też jego autentyczności. Datowanie radiowęglowe z 1988 roku jest najmocniejszym dowodem przeciw niemu i nie zostało obalone. Jednak to, jak powstał obraz, wciąż pozostaje niewyjaśnione, a każdej próbie jego skopiowania brakowało niektórych jego cech. Nagłówki często już po jednym badaniu ogłaszają „zdemaskowany” albo „udowodniony”. Jak dotąd żadne badanie nie rozstrzygnęło sprawy w żadną stronę.",
+   "link": "evidence"
+  },
+  {
    "id": "jesus",
    "q": "Czy Całun Turyński jest autentyczny? Czy to płótno grobowe Jezusa?",
    "a": "Żadne badanie nie może dowieść, czyje ciało owijało kiedyś płótno. Nauka może zbadać jego wiek, materiały i to, jak powstał obraz. Obraz w wielu szczegółach zgadza się z opisami Ewangelii o człowieku ubiczowanym, cierniem ukoronowanym i ukrzyżowanym, ale datowanie radiowęglowe z 1988 roku wskazuje na średniowiecze. To, czy jest to całun Jezusa, każdy ocenia sam na podstawie dowodów, a dla wielu jest to ostatecznie kwestia wiary.",
@@ -76,6 +88,18 @@
    "link": "explore"
   },
   {
+   "id": "face",
+   "q": "Czy na Całunie Turyńskim jest twarz Jezusa?",
+   "a": "Płótno ukazuje twarz brodatego mężczyzny o długich włosach, z opuchlizną na twarzy i ranami na głowie. Czy to twarz Jezusa, zależy od tego, czy płótno jest autentyczne, a to wciąż jest przedmiotem sporu. Niektórzy badacze twierdzą, że wczesne bizantyjskie ikony Chrystusa mają z nim wspólne cechy; inni widzą w tym tylko wspólną tradycję artystyczną. Popularne w sieci obrazy „prawdziwej twarzy Jezusa” to interpretacje płótna stworzone przez artystów lub sztuczną inteligencję, a nie fotografie. Na tej stronie możesz zobaczyć twarz w negatywie i w 3D.",
+   "link": "3d"
+  },
+  {
+   "id": "tall",
+   "q": "Jakiego wzrostu był Jezus według Całunu Turyńskiego?",
+   "a": "Ewangelie nie podają, jakiego wzrostu był Jezus. Szacunki dla mężczyzny z Całunu wynoszą od około 1,62 do 1,87 metra, bo płótno jest miękkie, obraz jest słaby, a ciało leżało z pochyloną głową i lekko ugiętymi kolanami. Według komputerowego badania z 2010 roku, którego autorami są Giulio Fanti i współpracownicy, mierzył około 1,75 metra, plus minus 2 cm. To więcej niż wzrost przeciętnego mężczyzny z tamtych czasów i miejsc, który historycy szacują na około 1,65 metra.",
+   "link": "explore"
+  },
+  {
    "id": "blood",
    "q": "Czy na Całunie jest prawdziwa krew?",
    "a": "Badania z końca lat 70. i początku lat 80. XX wieku wykazały w czerwonych plamach hem, bilirubinę i inne składniki krwi, a pod krwią nie znaleziono obrazu. Nowoczesnymi metodami nie wykazano, że krew jest ludzka, a twierdzenia o konkretnej grupie krwi nie są wiarygodne, bo płótno jest silnie zanieczyszczone.",
@@ -86,6 +110,30 @@
    "q": "Czy rany na Całunie odpowiadają ukrzyżowaniu Jezusa?",
    "a": "Ściśle odpowiadają opisom Ewangelii: około 100 do 120 śladów biczowania, nakłucia wokół głowy jak od czepca z cierni, rana po gwoździu w nadgarstku, rana w boku i nogi, których nie złamano. Niektóre szczegóły, takie jak gwoździe w nadgarstkach, a nie w dłoniach, różnią się od sztuki średniowiecznej. Sceptycy odpowiadają, że dobrze poinformowany artysta mógł znać te szczegóły.",
    "link": "wounds"
+  },
+  {
+   "id": "died",
+   "q": "Czy Jezus naprawdę umarł na krzyżu? Co pokazuje Całun Turyński?",
+   "a": "Historycy, także ci, którzy nie są chrześcijanami, są w dużej mierze zgodni, że Jezus został ukrzyżowany i umarł. Przegląd medyczny opublikowany w 1986 roku w Journal of the American Medical Association stwierdził, że Jezus nie żył już przed zadaniem rany włócznią w bok. Pogląd, że jedynie zemdlał, a później się ocknął, ma bardzo niewielkie poparcie. Jeśli Całun jest autentyczny, wskazuje w tę samą stronę: patolodzy opisują ciało zesztywniałe w stężeniu pośmiertnym i ranę w boku, która krwawiła po śmierci. Jeśli jest dziełem średniowiecznym, nie mówi nam nic o samym Jezusie.",
+   "link": "wounds"
+  },
+  {
+   "id": "buried",
+   "q": "Jak pochowano Jezusa i czy Całun Turyński do tego pasuje?",
+   "a": "Ewangelie mówią, że Józef z Arymatei zdjął ciało w piątek po południu i owinął je w czyste płótno z wonnościami przyniesionymi przez Nikodema. Złożyli je w nowym grobie wykutym w skale i zatoczyli kamień na wejście, w pośpiechu, zanim zaczął się szabat (Mk 15,42-46; J 19,38-42). Całun pasuje do pospiesznego pochówku: jedno długie lniane płótno położone pod ciałem i na nim oraz ślady krwi, które sugerują, że ciała nie obmyto. Sporne jest, czy Ewangelie opisują jedno duże płótno, czy kilka pasów.",
+   "link": "wounds"
+  },
+  {
+   "id": "cloths",
+   "q": "Co Biblia mówi o płótnach grobowych Jezusa? Czy jedno z nich może być Całunem Turyńskim?",
+   "a": "Marek, Mateusz i Łukasz mówią, że ciało owinięto w lniane płótno, po grecku sindon, słowem oznaczającym duże prześcieradło. Jan mówi, że obwiązano je płótnami (othonia) razem z wonnościami, a w poranek wielkanocny Piotr i drugi uczeń zobaczyli w pustym grobie leżące płótna, a chustę, która była na jego głowie (soudarion), zwiniętą osobno na jednym miejscu (J 20,5-7). Zwolennicy autentyczności rozumieją sindon jako jedno duże płótno, takie jak Całun; sceptycy wskazują na płótna w liczbie mnogiej u Jana. Poważni badacze bronią obu odczytań.",
+   "link": "wounds"
+  },
+  {
+   "id": "bible",
+   "q": "Czy Biblia wspomina o Całunie Turyńskim?",
+   "a": "Nie z nazwy. Ewangelie wspominają płótno, w którym pochowano Jezusa, i płótna pozostawione w pustym grobie, ale żadna nie mówi, że był na nich obraz ani że ktoś je zachował. Zaginiona wczesna ewangelia cytowana przez świętego Hieronima, Ewangelia Hebrajczyków, mówi, że zmartwychwstały Jezus dał swoje płótno słudze kapłana, ale nie należy ona do Biblii. Udokumentowana historia Całunu zaczyna się około 1354 roku w Lirey we Francji. Wcześniejsze powiązania, takie jak Wizerunek z Edessy, są możliwe, ale nieudowodnione.",
+   "link": "timeline"
   },
   {
    "id": "copy",
@@ -100,10 +148,22 @@
    "link": "about"
   },
   {
+   "id": "important",
+   "q": "Dlaczego Całun Turyński jest tak ważny?",
+   "a": "Ze względu na to, co oznacza w każdym z dwóch przypadków. Jeśli jest autentyczny, jest materialnym świadectwem ukrzyżowania i pochówku opisanych w Ewangeliach, a nauka wciąż nie wyjaśniła jego obrazu. Jeśli jest dziełem średniowiecznym, wykonano go techniką, której nikomu nie udało się powtórzyć. Jego pierwsze zdjęcie, z 1898 roku, ujawniło ukryty obraz negatywowy i zapoczątkowało ponad sto lat badań naukowych, przez co jest jednym z najczęściej badanych obiektów na świecie. Gdy jest wystawiany w Turynie, przychodzą go zobaczyć miliony ludzi.",
+   "link": "index"
+  },
+  {
    "id": "see",
    "q": "Gdzie jest przechowywany Całun Turyński i czy można go zobaczyć?",
    "a": "Jest przechowywany w katedrze św. Jana Chrzciciela w Turynie, w gablocie z kontrolowanym klimatem, i zwykle nie jest wystawiany publicznie. Pokazuje się go podczas rzadkich publicznych wystawień, jak w 2010 i 2015 roku, oraz podczas transmisji na żywo w 2020 roku.",
    "link": "timeline"
+  },
+  {
+   "id": "experience",
+   "q": "Czy można zobaczyć Całun Turyński online?",
+   "a": "Tak. Samo płótno jest przechowywane w katedrze w Turynie i tylko rzadko pokazywane publicznie, więc większość ludzi nigdy nie zobaczy go na własne oczy. Na tej stronie możesz obejrzeć z bliska całe płótno, przełączyć na negatyw, zobaczyć obraz w 3D, znaleźć każdą ranę i każde przypalenie oraz rozważyć dowody za i przeciw, bezpłatnie i w 12 językach. Repliki naturalnej wielkości można też oglądać w muzeach, między innymi w Muzeum Całunu w Turynie.",
+   "link": "explore"
   },
   {
    "id": "visual",

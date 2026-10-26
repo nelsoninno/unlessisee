@@ -92,7 +92,7 @@ export default {
   pages: {
     index: {
       title: 'See The Shroud: Explore the Shroud of Turin and Its Evidence',
-      description: 'Explore and examine the Shroud of Turin up close: zoom, negative, 3D, a wound map, and the evidence for and against with every source. Free, in 12 languages.',
+      description: "Experience the Shroud of Turin online, free: zoom in, see the negative and the 3D image, find each wound, and weigh the evidence for and against.",
       h1: 'Examine the Shroud of Turin for yourself',
       lede: 'A linen cloth, 4.4 meters long, carries the faint image of a man who was scourged and crucified. Some call it a medieval forgery. Others call it the burial cloth of Jesus. Here is the evidence from both sides, with every source, so you can judge it yourself.',
       cta1: 'Explore the cloth', cta2: 'Read the case file',
@@ -193,8 +193,8 @@ export default {
     },
 
     evidence: {
-      title: 'Shroud of Turin Evidence, For and Against | See The Shroud',
-      description: 'Every major argument about the Shroud of Turin, for and against authenticity, rated by strength, with the skeptic\'s best answer and links to the sources.',
+      title: "Shroud of Turin: Authentic or Forgery? The Evidence For and Against | See The Shroud",
+      description: "Is the Shroud of Turin authentic or a forgery? Every major argument for and against, rated by strength, with the skeptic's best answer and the sources.",
       h1: 'The case file',
       lede: 'Every major argument about the Shroud, for and against. Each one is rated by how strong it is, with the best objection, the best reply and the sources. We include the arguments against authenticity at full strength, because you should hear them from us first.',
       counts: '{n} exhibits: {f} pointing toward authenticity, {a} pointing toward a medieval origin.',

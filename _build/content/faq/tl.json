@@ -22,6 +22,18 @@
    "link": "evidence"
   },
   {
+   "id": "forgery",
+   "q": "Peke o panloloko ba ang Shroud of Turin?",
+   "a": "Wala pang nakapagpakita na ganoon nga. Pangunahing nakasandal ang argumentong peke ito sa carbon dating noong 1988 (AD 1260 hanggang 1390) at sa isang liham noong 1389 ni Obispo Pierre d'Arcis, na sumulat na natagpuan ng isang naunang obispo ang pintor na nagpinta nito. Hindi kailanman pinangalanan ang pintor, at walang pag-aming nananatili hanggang ngayon. Sa kabilang panig, walang nakitang pintura o pigment na bumubuo sa imahe ang siyentipikong grupo noong 1978 (hindi sumang-ayon ang isang microscopist, si Walter McCrone), at wala pang nakagaya sa lahat ng katangian nito. Ang panloloko ay nangangahulugang napatunayang panlilinlang, at hindi pa iyon nangyayari. Bukas pa ang tanong kung ito ay likha ng panahong medieval o telang panlibing mula sa unang siglo.",
+   "link": "evidence"
+  },
+  {
+   "id": "debunked",
+   "q": "Na-debunk na ba ang Shroud of Turin?",
+   "a": "Hindi, at hindi rin ito napatunayang tunay. Ang carbon dating noong 1988 ang pinakamatibay na ebidensiya laban dito, at hindi pa ito nababaligtad. Pero hindi pa rin naipaliliwanag kung paano nabuo ang imahe, at bawat pagtatangkang gayahin ito ay may ilang katangian nitong hindi nakuha. Madalas sabihin ng mga headline na debunked o proven na ito pagkatapos ng iisang pag-aaral. Sa ngayon, wala pang pag-aaral na nagsara sa usapin, sa alinmang panig.",
+   "link": "evidence"
+  },
+  {
    "id": "jesus",
    "q": "Tunay ba ang Shroud of Turin? Ito ba ang telang ipinambalot sa bangkay ni Hesus?",
    "a": "Walang pagsusuring makapagpapatunay kung kaninong katawan ang minsang binalot ng isang tela. Kayang suriin ng agham ang edad nito, ang mga materyales nito at kung paano nabuo ang imahe. Tugma ang imahe sa maraming detalye ng mga salaysay ng Ebanghelyo tungkol sa isang lalaking hinagupit, pinutungan ng koronang tinik at ipinako sa krus, pero tumuturo sa panahong medieval ang carbon dating noong 1988. Kung ito nga ang shroud ni Hesus ay pasyang ginagawa ng bawat tao mula sa ebidensiya, at para sa marami, sa huli, usapin ng pananampalataya.",
@@ -76,6 +88,18 @@
    "link": "explore"
   },
   {
+   "id": "face",
+   "q": "Mukha ba ni Hesus ang nasa Shroud of Turin?",
+   "a": "Makikita sa tela ang mukha ng isang lalaking may balbas at mahabang buhok, may pamamaga sa mukha at mga sugat sa ulo. Kung mukha ito ni Hesus ay nakasalalay sa kung tunay ang tela, at pinagtatalunan pa iyon. Ikinakatwiran ng ilang mananaliksik na may mga katangiang kahawig nito ang mga sinaunang Byzantine icon ni Kristo; ang nakikita naman ng iba ay iisang tradisyon lamang sa sining. Ang mga nagba-viral na larawan ng \"tunay na mukha ni Hesus\" ay interpretasyon ng mga artist o ng AI sa tela, hindi mga litrato. Sa site na ito, makikita mo ang mukha bilang negative at sa 3D.",
+   "link": "3d"
+  },
+  {
+   "id": "tall",
+   "q": "Gaano katangkad si Hesus, ayon sa Shroud of Turin?",
+   "a": "Hindi sinasabi ng mga Ebanghelyo kung gaano katangkad si Hesus. Mula mga 1.62 hanggang 1.87 metro ang mga tantiya para sa lalaki sa Shroud, dahil malambot ang tela, malabo ang imahe, at nakayuko ang ulo at bahagyang nakabaluktot ang mga tuhod ng katawan. Isang computer study noong 2010 nina Giulio Fanti at mga kasama ang naglagay sa kaniya sa mga 1.75 metro, may palugit na 2 cm pataas o pababa. Mas matangkad iyon kaysa sa karaniwang lalaki sa panahon at lugar na iyon, na tinatantiya ng mga historyador na mga 1.65 metro.",
+   "link": "explore"
+  },
+  {
    "id": "blood",
    "q": "May tunay bang dugo sa Shroud?",
    "a": "Nakakita ang mga pagsusuri noong huling bahagi ng dekada 1970 at unang bahagi ng dekada 1980 ng heme, bilirubin at iba pang sangkap ng dugo sa mga pulang mantsa, at walang imahe sa ilalim ng dugo. Hindi pa naipapakita sa makabagong pamamaraan na dugo ng tao ito, at hindi maaasahan ang mga claim tungkol sa isang tiyak na blood type dahil lubhang kontaminado ang tela.",
@@ -86,6 +110,30 @@
    "q": "Tugma ba ang mga sugat sa Shroud sa pagpapako kay Hesus sa krus?",
    "a": "Malapit silang tumutugma sa mga salaysay ng Ebanghelyo: mga 100 hanggang 120 marka ng hagupit, mga tusok sa paligid ng ulo na parang takip na tinik, sugat ng pako sa pulso, sugat sa tagiliran, at mga binting hindi binali. May ilang detalye, gaya ng mga pako sa pulso sa halip na sa palad, na iba sa sining noong panahong medieval. Sagot ng mga skeptic, maaaring alam ng isang pintor na may sapat na kaalaman ang mga detalyeng ito.",
    "link": "wounds"
+  },
+  {
+   "id": "died",
+   "q": "Talaga bang namatay si Hesus sa krus? Ano ang ipinapakita ng Shroud of Turin?",
+   "a": "Malawak na sumasang-ayon ang mga historyador, kasama ang mga hindi Kristiyano, na ipinako sa krus si Hesus at namatay. Nagtapos ang isang medical review noong 1986 sa Journal of the American Medical Association na patay na siya bago pa ang sugat ng sibat sa kaniyang tagiliran. Napakakaunti ang sumusuporta sa ideyang nawalan lamang siya ng malay at nagkamalay muli pagkatapos. Kung tunay ang Shroud, pareho ang itinuturo nito: inilalarawan ng mga pathologist ang isang katawang naninigas dahil sa rigor mortis at isang sugat sa tagiliran na dumugo matapos ang kamatayan. Kung likha ito ng panahong medieval, wala itong sinasabi tungkol kay Hesus mismo.",
+   "link": "wounds"
+  },
+  {
+   "id": "buried",
+   "q": "Paano inilibing si Hesus, at tugma ba ang Shroud of Turin?",
+   "a": "Ayon sa mga Ebanghelyo, ibinaba ni Jose na taga-Arimatea ang bangkay noong hapon ng Biyernes at binalot ito sa malinis na lino kasama ang mga pabangong dala ni Nicodemo. Inilagay nila ito sa isang bagong libingang inukit sa bato at iginulong ang isang bato sa pasukan, nang nagmamadali bago magsimula ang Sabbath (Marcos 15:42-46, Juan 19:38-42). Tugma ang Shroud sa isang minadaling libing: iisang mahabang telang lino na inilatag sa ilalim at ibabaw ng katawan, at mga marka ng dugo na nagpapahiwatig na hindi hinugasan ang katawan. Pinagtatalunan kung iisang malaking tela o ilang pirasong tela ang inilalarawan ng mga Ebanghelyo.",
+   "link": "wounds"
+  },
+  {
+   "id": "cloths",
+   "q": "Ano ang sinasabi ng Bibliya tungkol sa mga telang panlibing ni Hesus? Maaari bang isa rito ang Shroud of Turin?",
+   "a": "Sinasabi nina Marcos, Mateo at Lucas na binalot ang bangkay sa isang telang lino, sa Griyego sindon, salitang ginagamit para sa isang malaking tela. Sinasabi ni Juan na binalot ito ng mga telang lino (othonia) kasama ang mga pabango, at na noong umaga ng Pasko ng Pagkabuhay, nakita ni Pedro at ng isa pang alagad ang mga telang lino na nakalatag sa walang lamang libingan, at ang telang nasa ulo niya (soudarion) ay nakarolyo sa isang lugar na hiwalay (Juan 20:5-7). Binabasa ng mga tagapagtanggol ang sindon bilang iisang malaking tela gaya ng Shroud; itinuturo naman ng mga skeptic na maramihan ang mga tela sa salaysay ni Juan. May mga seryosong iskolar sa magkabilang pagbasa.",
+   "link": "wounds"
+  },
+  {
+   "id": "bible",
+   "q": "Binanggit ba sa Bibliya ang Shroud of Turin?",
+   "a": "Hindi sa pangalan. Binabanggit ng mga Ebanghelyo ang linong ipinambalot kay Hesus sa paglilibing at ang mga telang naiwan sa walang lamang libingan, pero wala ni isa ang nagsasabing may imahe sa mga ito o may nag-ingat sa mga ito. Isang nawalang sinaunang ebanghelyo na sinipi ni San Jeronimo, ang Ebanghelyo ng mga Hebreo, ang nagsasabing ibinigay ng muling nabuhay na si Hesus ang kaniyang telang lino sa alipin ng pari, pero hindi ito bahagi ng Bibliya. Nagsisimula ang dokumentadong kasaysayan ng Shroud noong mga 1354 sa Lirey, France. Posible ang mas naunang mga ugnayan, gaya ng Imahe ng Edessa, pero hindi napatunayan.",
+   "link": "timeline"
   },
   {
    "id": "copy",
@@ -100,10 +148,22 @@
    "link": "about"
   },
   {
+   "id": "important",
+   "q": "Bakit mahalaga ang Shroud of Turin?",
+   "a": "Dahil sa kahulugan nito, alinman ang totoo. Kung tunay ito, isa itong pisikal na saksi sa pagpapako sa krus at paglilibing na inilalarawan sa mga Ebanghelyo, at hindi pa rin naipaliliwanag ng agham ang imahe nito. Kung likha ito ng panahong medieval, ginawa ito sa isang pamamaraang wala pang nakaulit. Ang una nitong litrato noong 1898 ang naglantad ng isang nakatagong negative na imahe at nagsimula ng mahigit isang siglo ng siyentipikong pag-aaral, kaya isa ito sa mga pinakapinag-aralang bagay sa mundo. Kapag ipinapakita ito sa Turin, milyun-milyong tao ang dumarating para makita ito.",
+   "link": "index"
+  },
+  {
    "id": "see",
    "q": "Saan nakatago ang Shroud of Turin, at makikita ko ba ito?",
    "a": "Nakatago ito sa Katedral ni San Juan Bautista sa Turin, sa isang lalagyang kontrolado ang klima, at karaniwang hindi ipinapakita sa publiko. Ipinapakita ito sa mga bihirang pampublikong pagtatanghal, gaya noong 2010 at 2015, at sa isang live broadcast noong 2020.",
    "link": "timeline"
+  },
+  {
+   "id": "experience",
+   "q": "Puwede ko bang maranasan ang Shroud of Turin online?",
+   "a": "Oo. Nakatago ang mismong tela sa Katedral ng Turin at bihira lamang ipakita sa publiko, kaya karamihan ng tao ay hindi ito kailanman makikita nang personal. Sa site na ito, maaari mong tuklasin nang malapitan ang buong tela, lumipat sa negative, makita ang imahe sa 3D, hanapin ang bawat sugat at marka ng sunog, at timbangin ang ebidensiya para at laban, nang libre at sa 12 wika. May mga replica rin na kasinlaki ng tunay na nakadispley sa mga museo, kasama ang Museum of the Shroud sa Turin.",
+   "link": "explore"
   },
   {
    "id": "visual",
