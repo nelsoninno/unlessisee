@@ -186,7 +186,7 @@ export default {
       reliefH: 'L’image en 3D',
       reliefText: `<p>Quand on transforme la luminosité d’une photographie ordinaire en hauteur, on obtient un amas déformé : le nez s’enfonce, les ombres se soulèvent, l’arrière-plan se bombe. Quand on fait la même chose avec le Saint-Suaire, on obtient un visage et un corps cohérents. Comparez vous-même. Les deux vues ci-dessous utilisent exactement la même méthode.</p>`,
       reliefFaceAlt: 'Relief 3D du visage du Saint-Suaire', reliefFaceCap: 'Le visage du Saint-Suaire, luminosité transformée en hauteur.',
-      reliefPaintAlt: 'Relief 3D d’un visage peint, avec la même méthode', reliefPaintCap: 'Un visage peint, même méthode. Peinture : Tête du Christ, domaine public.',
+      reliefPaintAlt: 'Relief 3D d’un visage peint, avec la même méthode', reliefPaintCap: 'Un visage peint, avec la même méthode : il ne contient aucune information 3D utile. Peinture : Tête du Christ.',
       reliefBodyAlt: 'Relief 3D de toute l’image de face du Saint-Suaire', reliefBodyCap: 'Toute l’image de face en relief. Faites-la tourner pour voir la forme du corps.',
       reliefSkeptic: 'Mise en garde honnête : nos vues 3D sont une simple reconstitution de l’idée du VP-8, lissée pour le web. Elles montrent le principe. Ce ne sont pas des mesures scientifiques.',
       photosH: 'À propos de ces photographies',

@@ -1,0 +1,23 @@
+{
+ "arm": {
+  "alt": "Primer plano de un antebrazo en la fotografía de 1931, con un hilo de sangre que corre a lo largo de él",
+  "show": "Mostrar las dos direcciones",
+  "hide": "Ocultar las direcciones",
+  "cap": "Primer plano de un antebrazo en la fotografía de 1931. En nuestro trazado, la parte del hilo cerca de la muñeca y la parte hacia el codo corren en ángulos separados unos diez grados. Flechas dibujadas por nosotros; aproximadas.",
+  "one": "cerca de la muñeca",
+  "two": "hacia el codo"
+ },
+ "crown": {
+  "h2": "La corona de espinas",
+  "text": "En la frente y por toda la parte trasera de la cabeza, pequeños flujos de sangre salen de muchos puntos separados, como pinchazos de espinas afiladas. Cubren el cuero cabelludo, no solo una franja alrededor. Eso encaja mejor con un casco de espinas apretado sobre toda la cabeza que con el anillo prolijo que muestran la mayoría de las pinturas.",
+  "foreAlt": "Primer plano de la frente en la fotografía de 1931, con varios pequeños flujos de sangre",
+  "foreCap": "La frente: flujos de varios pinchazos, uno con la forma del número 3.",
+  "backAlt": "Primer plano de la parte trasera de la cabeza en la fotografía de 1931, con muchos pequeños flujos de sangre",
+  "backCap": "La parte trasera de la cabeza: muchos flujos separados por encima del cuello.",
+  "photoNote": "Fotografía de Giuseppe Enrie, 1931; contraste aumentado por nosotros para que las manchas se vean mejor.",
+  "h3": "Un casco, no un anillo",
+  "modelAlt": "Modelo 3D de un casco de espinas. Arrástralo para girarlo.",
+  "modelCap": "Arrástralo para darle la vuelta completa. Cerca de la mitad de las espinas apuntan hacia dentro, hacia el cuero cabelludo.",
+  "label": "Es nuestra propia ilustración de la idea. Nadie sabe cómo era la corona real."
+ }
+}

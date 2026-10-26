@@ -5,6 +5,20 @@
   "description": "Turn the Shroud of Turin's image into 3D yourself, compare it with a painting, and lay an artist's figure over the 1931 photograph. Free, in 12 languages.",
   "h1": "See the Shroud in 3D",
   "lede": "The faint image on the cloth holds 3D information that a painting or a photograph does not. Turn it, compare it, and see one artist's idea of the man it shows.",
-  "mirror": "The photograph is mirrored left to right here, so it lines up with the figure. The image on the cloth is a mirror image of the body, like the print of a stamp."
+  "mirror": "The photograph is mirrored left to right here, so it lines up with the figure. The image on the cloth is a mirror image of the body, like the print of a stamp.",
+  "fold": {
+   "h2": "Why there is a front and a back image",
+   "text": "The Shroud is one long cloth, about 4.4 meters. It was laid under the body, folded over the head, and brought down over the front to the feet. So the front of the body left the front image, the back left the back image, and the two heads meet in the middle of the cloth.",
+   "alt": "An artist's figure lying on one half of a long linen cloth, with the other half folded over the head and held above the body",
+   "flatAlt": "The whole Shroud laid flat: the front image on the left half, the back image on the right half, head to head in the middle",
+   "fold": "Fold over the head",
+   "foldSub": "the two heads meet here",
+   "front": "Front image",
+   "frontSub": "this half lay over the body",
+   "back": "Back image",
+   "backSub": "this half lay under the body",
+   "note": "The cloth in the picture already shows the image. That is only to make the idea clear: how and when the real image formed is still unknown.",
+   "label": "Artistic interpretation, not evidence."
+  }
  }
 }

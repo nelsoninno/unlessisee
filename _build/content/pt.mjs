@@ -186,7 +186,7 @@ export default {
       reliefH: 'A imagem em 3D',
       reliefText: `<p>Quando você transforma o brilho de uma fotografia comum em altura, o resultado é uma bagunça distorcida: o nariz afunda, as sombras sobem, o fundo se estufa. Quando faz o mesmo com o Sudário, obtém um rosto e um corpo coerentes. Compare você mesmo. As duas visualizações abaixo usam exatamente o mesmo método.</p>`,
       reliefFaceAlt: 'Relevo 3D do rosto do Sudário', reliefFaceCap: 'O rosto do Sudário, com o brilho transformado em altura.',
-      reliefPaintAlt: 'Relevo 3D de um rosto pintado, com o mesmo método', reliefPaintCap: 'Um rosto pintado, mesmo método. Pintura: Cabeça de Cristo, domínio público.',
+      reliefPaintAlt: 'Relevo 3D de um rosto pintado, com o mesmo método', reliefPaintCap: 'Um rosto pintado, com o mesmo método: não contém informação 3D útil. Pintura: Cabeça de Cristo.',
       reliefBodyAlt: 'Relevo 3D da imagem frontal completa do Sudário', reliefBodyCap: 'A imagem frontal completa em relevo. Gire para ver a forma do corpo.',
       reliefSkeptic: 'Um aviso justo: as nossas visualizações 3D são uma recriação simples da ideia do VP-8, suavizada para a web. Elas mostram o princípio. Não são uma medição científica.',
       photosH: 'Sobre estas fotografias',

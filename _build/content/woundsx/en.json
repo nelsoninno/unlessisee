@@ -1,0 +1,23 @@
+{
+ "arm": {
+  "alt": "Close-up of a forearm on the 1931 photograph, with a trail of blood running along it",
+  "show": "Show the two directions",
+  "hide": "Hide the directions",
+  "cap": "Close-up of a forearm on the 1931 photograph. In our tracing, the part of the trail near the wrist and the part toward the elbow run at angles about ten degrees apart. Arrows drawn by us; approximate.",
+  "one": "near the wrist",
+  "two": "toward the elbow"
+ },
+ "crown": {
+  "h2": "The crown of thorns",
+  "text": "On the forehead and all over the back of the head, small flows of blood start from many separate points, like punctures from sharp spines. They cover the scalp, not just a band around it. That fits a cap of thorns pressed onto the whole head better than the neat ring shown in most paintings.",
+  "foreAlt": "Close-up of the forehead on the 1931 photograph, with several small blood flows",
+  "foreCap": "The forehead: flows from several punctures, one shaped like the number 3.",
+  "backAlt": "Close-up of the back of the head on the 1931 photograph, with many small blood flows",
+  "backCap": "The back of the head: many separate flows above the neck.",
+  "photoNote": "Photograph by Giuseppe Enrie, 1931; contrast raised by us so the stains are easier to see.",
+  "h3": "A cap, not a ring",
+  "modelAlt": "3D model of a cap of thorns. Drag to turn it.",
+  "modelCap": "Drag to turn it all the way round. About half the thorns point inward, toward the scalp.",
+  "label": "Our own illustration of the idea. No one knows what the real crown looked like."
+ }
+}

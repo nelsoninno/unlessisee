@@ -5,6 +5,20 @@
   "description": "Verwandeln Sie das Bild des Grabtuchs von Turin selbst in 3D, vergleichen Sie es mit einem Gemälde und legen Sie eine Künstlerfigur auf die Fotografie von 1931.",
   "h1": "Das Grabtuch in 3D ansehen",
   "lede": "Das schwache Bild auf dem Tuch enthält 3D-Information, die ein Gemälde oder ein Foto nicht hat. Drehen Sie es, vergleichen Sie es und sehen Sie, wie sich ein Künstler den Mann darauf vorstellt.",
-  "mirror": "Die Fotografie ist hier von links nach rechts gespiegelt, damit sie zur Figur passt. Das Bild auf dem Tuch ist ein Spiegelbild des Körpers, wie der Abdruck eines Stempels."
+  "mirror": "Die Fotografie ist hier von links nach rechts gespiegelt, damit sie zur Figur passt. Das Bild auf dem Tuch ist ein Spiegelbild des Körpers, wie der Abdruck eines Stempels.",
+  "fold": {
+   "h2": "Warum es eine Vorder- und eine Rückenansicht gibt",
+   "text": "Das Grabtuch ist ein einziges langes Tuch, etwa 4,4 Meter. Es wurde unter den Körper gelegt, über den Kopf geschlagen und über die Vorderseite bis zu den Füßen gelegt. So hinterließ die Vorderseite des Körpers die Vorderansicht, der Rücken die Rückenansicht, und die beiden Köpfe treffen sich in der Mitte des Tuchs.",
+   "alt": "Eine Künstlerfigur liegt auf einer Hälfte eines langen Leinentuchs; die andere Hälfte ist über den Kopf geschlagen und wird über den Körper gehalten",
+   "flatAlt": "Das ganze Grabtuch flach ausgebreitet: die Vorderansicht auf der linken Hälfte, die Rückenansicht auf der rechten, Kopf an Kopf in der Mitte",
+   "fold": "Faltung über dem Kopf",
+   "foldSub": "hier treffen sich die Köpfe",
+   "front": "Vorderansicht",
+   "frontSub": "diese Hälfte lag über dem Körper",
+   "back": "Rückenansicht",
+   "backSub": "diese Hälfte lag unter dem Körper",
+   "note": "Das Tuch in der Darstellung zeigt bereits das Bild. Das dient nur dazu, die Idee deutlich zu machen: Wie und wann das echte Bild entstand, ist weiterhin unbekannt.",
+   "label": "Künstlerische Deutung, kein Beleg."
+  }
  }
 }

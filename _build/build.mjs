@@ -39,6 +39,10 @@ async function loadLang(lang) {
     copy.pages = { ...copy.pages, weigh: deepMerge(wEn.page, wLoc.page) };
     if (!copy.nav.some(n => n.slug === 'weigh')) { const i = copy.nav.findIndex(n => n.slug === 'evidence'); copy.nav = [...copy.nav]; copy.nav.splice(i + 1, 0, { slug: 'weigh', label: wLoc.nav || wEn.nav }); }
   }
+  // Wounds page extras (forearm close-up, crown of thorns) live in content/woundsx/<lang>.json, English as fallback
+  const wxEn = readJSON(path.join(__dirname, 'content', 'woundsx', CONFIG.defaultLang + '.json'), null);
+  const wxLoc = readJSON(path.join(__dirname, 'content', 'woundsx', lang + '.json'), null) || wxEn;
+  if (wxEn && copy.pages.wounds) copy.pages = { ...copy.pages, wounds: { ...copy.pages.wounds, x: deepMerge(wxEn, wxLoc) } };
   // "See it in 3D" page copy lives in content/in3d/<lang>.json (nav label + page copy), English as fallback
   const tEn = readJSON(path.join(__dirname, 'content', 'in3d', CONFIG.defaultLang + '.json'), null);
   const tLoc = readJSON(path.join(__dirname, 'content', 'in3d', lang + '.json'), null) || tEn;

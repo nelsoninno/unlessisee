@@ -1,0 +1,23 @@
+{
+ "arm": {
+  "alt": "Zbliżenie przedramienia na zdjęciu z 1931 roku, wzdłuż którego biegnie struga krwi",
+  "show": "Pokaż oba kierunki",
+  "hide": "Ukryj kierunki",
+  "cap": "Zbliżenie przedramienia na zdjęciu z 1931 roku. Na naszym obrysie część strugi przy nadgarstku i część biegnąca w stronę łokcia rozchodzą się pod kątem około dziesięciu stopni. Strzałki narysowane przez nas; w przybliżeniu.",
+  "one": "przy nadgarstku",
+  "two": "w stronę łokcia"
+ },
+ "crown": {
+  "h2": "Korona cierniowa",
+  "text": "Na czole i na całym tyle głowy małe strugi krwi zaczynają się w wielu osobnych miejscach, jak nakłucia ostrymi kolcami. Pokrywają skórę głowy, a nie tylko pas dookoła niej. To lepiej pasuje do czepca z cierni wciśniętego na całą głowę niż do schludnej obręczy z większości obrazów.",
+  "foreAlt": "Zbliżenie czoła na zdjęciu z 1931 roku, z kilkoma małymi strugami krwi",
+  "foreCap": "Czoło: strugi z kilku nakłuć, jedna w kształcie cyfry 3.",
+  "backAlt": "Zbliżenie tyłu głowy na zdjęciu z 1931 roku, z wieloma małymi strugami krwi",
+  "backCap": "Tył głowy: wiele osobnych strug nad karkiem.",
+  "photoNote": "Zdjęcie Giuseppe Enriego, 1931; kontrast zwiększony przez nas, aby plamy były lepiej widoczne.",
+  "h3": "Czepiec, nie obręcz",
+  "modelAlt": "Model 3D czepca z cierni. Przeciągnij, aby go obrócić.",
+  "modelCap": "Przeciągnij, aby obrócić go dookoła. Około połowy cierni jest skierowanych do środka, w stronę skóry głowy.",
+  "label": "Nasza własna ilustracja tej idei. Nikt nie wie, jak wyglądała prawdziwa korona."
+ }
+}

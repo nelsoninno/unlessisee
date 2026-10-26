@@ -1,0 +1,23 @@
+{
+ "arm": {
+  "alt": "Primo piano di un avambraccio nella fotografia del 1931, con una colatura di sangue che lo percorre",
+  "show": "Mostra le due direzioni",
+  "hide": "Nascondi le direzioni",
+  "cap": "Primo piano di un avambraccio nella fotografia del 1931. Nel nostro tracciato, il tratto della colatura vicino al polso e quello verso il gomito seguono angoli a circa dieci gradi l'uno dall'altro. Frecce disegnate da noi; approssimative.",
+  "one": "vicino al polso",
+  "two": "verso il gomito"
+ },
+ "crown": {
+  "h2": "La corona di spine",
+  "text": "Sulla fronte e su tutta la parte posteriore della testa, piccole colature di sangue partono da molti punti distinti, come punture di spine aguzze. Coprono il cuoio capelluto, non solo una fascia intorno. Questo si adatta meglio a un casco di spine premuto su tutta la testa che all'anello ordinato mostrato nella maggior parte dei dipinti.",
+  "foreAlt": "Primo piano della fronte nella fotografia del 1931, con diverse piccole colature di sangue",
+  "foreCap": "La fronte: colature da diverse punture, una a forma di numero 3.",
+  "backAlt": "Primo piano della parte posteriore della testa nella fotografia del 1931, con molte piccole colature di sangue",
+  "backCap": "La parte posteriore della testa: molte colature distinte sopra il collo.",
+  "photoNote": "Fotografia di Giuseppe Enrie, 1931; contrasto aumentato da noi perché le macchie si vedano meglio.",
+  "h3": "Un casco, non un anello",
+  "modelAlt": "Modello 3D di un casco di spine. Trascinalo per girarlo.",
+  "modelCap": "Trascinalo per fargli fare un giro completo. Circa metà delle spine punta verso l'interno, verso il cuoio capelluto.",
+  "label": "Una nostra illustrazione dell'idea. Nessuno sa come fosse la vera corona."
+ }
+}

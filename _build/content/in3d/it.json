@@ -5,6 +5,20 @@
   "description": "Trasforma tu stesso in 3D l'immagine della Sindone di Torino, confrontala con un dipinto e sovrapponi la figura di un artista alla fotografia del 1931. Gratis.",
   "h1": "Guarda la Sindone in 3D",
   "lede": "La tenue immagine sul telo contiene informazioni 3D che un dipinto o una fotografia non hanno. Ruotala, confrontala e scopri come un artista immagina l'uomo che mostra.",
-  "mirror": "Qui la fotografia è specchiata da sinistra a destra, per allinearla alla figura. L'immagine sul telo è un'immagine speculare del corpo, come l'impronta di un timbro."
+  "mirror": "Qui la fotografia è specchiata da sinistra a destra, per allinearla alla figura. L'immagine sul telo è un'immagine speculare del corpo, come l'impronta di un timbro.",
+  "fold": {
+   "h2": "Perché c'è un'immagine frontale e una dorsale",
+   "text": "La Sindone è un unico telo lungo, circa 4,4 metri. Fu steso sotto il corpo, ripiegato sopra la testa e portato lungo la parte anteriore fino ai piedi. Così la parte anteriore del corpo ha lasciato l'immagine frontale, la schiena l'immagine dorsale, e le due teste si incontrano al centro del telo.",
+   "alt": "La figura di un artista distesa su una metà di un lungo telo di lino, con l'altra metà ripiegata sopra la testa e sollevata sopra il corpo",
+   "flatAlt": "La Sindone intera distesa: l'immagine frontale sulla metà sinistra, l'immagine dorsale sulla metà destra, testa contro testa al centro",
+   "fold": "Piega sopra la testa",
+   "foldSub": "qui si incontrano le teste",
+   "front": "Immagine frontale",
+   "frontSub": "questa metà stava sopra il corpo",
+   "back": "Immagine dorsale",
+   "backSub": "questa metà stava sotto il corpo",
+   "note": "Il telo del disegno mostra già l'immagine. Serve solo a rendere chiara l'idea: come e quando si sia formata la vera immagine è ancora sconosciuto.",
+   "label": "Interpretazione artistica, non una prova."
+  }
  }
 }

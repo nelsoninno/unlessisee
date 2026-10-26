@@ -187,7 +187,7 @@ export default {
       reliefH: "L'immagine in 3D",
       reliefText: `<p>Se trasformi in altezza la luminosità di una fotografia normale, ottieni un groviglio distorto: il naso sprofonda, le ombre si sollevano, lo sfondo si gonfia. Se fai lo stesso con la Sindone, ottieni un volto e un corpo coerenti. Confrontali con i tuoi occhi. Entrambe le viste qui sotto usano esattamente lo stesso metodo.</p>`,
       reliefFaceAlt: "Rilievo 3D del volto della Sindone", reliefFaceCap: "Il volto della Sindone, con la luminosità trasformata in altezza.",
-      reliefPaintAlt: "Rilievo 3D di un volto dipinto, ottenuto con lo stesso metodo", reliefPaintCap: "Un volto dipinto, stesso metodo. Dipinto: Testa di Cristo, pubblico dominio.",
+      reliefPaintAlt: "Rilievo 3D di un volto dipinto, ottenuto con lo stesso metodo", reliefPaintCap: "Un volto dipinto, con lo stesso metodo: non contiene informazioni 3D utili. Dipinto: Testa di Cristo.",
       reliefBodyAlt: "Rilievo 3D dell'intera immagine frontale della Sindone", reliefBodyCap: "L'intera immagine frontale in rilievo. Ruotala per vedere la forma del corpo.",
       reliefSkeptic: "Un avvertimento onesto: le nostre viste 3D sono una semplice ricostruzione dell'idea del VP-8, levigata per il web. Mostrano il principio. Non sono una misura scientifica.",
       photosH: "Queste fotografie",

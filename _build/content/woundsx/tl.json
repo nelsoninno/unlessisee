@@ -1,0 +1,23 @@
+{
+ "arm": {
+  "alt": "Malapitang kuha ng isang bisig sa litrato noong 1931, na may bakas ng dugong umaagos sa kahabaan nito",
+  "show": "Ipakita ang dalawang direksyon",
+  "hide": "Itago ang mga direksyon",
+  "cap": "Malapitang kuha ng isang bisig sa litrato noong 1931. Sa aming pagguhit, ang bahagi ng bakas malapit sa pulso at ang bahaging patungo sa siko ay may mga anggulong mga sampung digri ang pagitan. Kami ang gumuhit ng mga arrow; tinatayang lamang.",
+  "one": "malapit sa pulso",
+  "two": "patungo sa siko"
+ },
+ "crown": {
+  "h2": "Ang koronang tinik",
+  "text": "Sa noo at sa buong likod ng ulo, maliliit na daloy ng dugo ang nagsisimula sa maraming magkakahiwalay na punto, gaya ng mga tusok ng matatalim na tinik. Tinatakpan nila ang anit, hindi lamang isang guhit sa paligid nito. Mas tugma ito sa isang takip na tinik na idiniin sa buong ulo kaysa sa maayos na singsing na makikita sa karamihan ng mga painting.",
+  "foreAlt": "Malapitang kuha ng noo sa litrato noong 1931, na may ilang maliliit na daloy ng dugo",
+  "foreCap": "Ang noo: mga daloy mula sa ilang tusok, ang isa ay hugis numero 3.",
+  "backAlt": "Malapitang kuha ng likod ng ulo sa litrato noong 1931, na may maraming maliliit na daloy ng dugo",
+  "backCap": "Ang likod ng ulo: maraming magkakahiwalay na daloy sa itaas ng leeg.",
+  "photoNote": "Litrato ni Giuseppe Enrie, 1931; itinaas namin ang contrast para mas madaling makita ang mga mantsa.",
+  "h3": "Takip, hindi singsing",
+  "modelAlt": "3D na modelo ng isang takip na tinik. I-drag para paikutin ito.",
+  "modelCap": "I-drag para paikutin ito nang buo. Mga kalahati ng mga tinik ay nakaturo papasok, patungo sa anit.",
+  "label": "Sarili naming ilustrasyon ng ideya. Walang nakakaalam kung ano ang hitsura ng tunay na korona."
+ }
+}

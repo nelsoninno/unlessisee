@@ -5,6 +5,20 @@
   "description": "Gawing 3D ang imahe ng Shroud of Turin, ihambing ito sa isang painting, at ipatong ang pigura ng isang artist sa litrato noong 1931. Libre, sa 12 wika.",
   "h1": "Tingnan ang Shroud sa 3D",
   "lede": "May 3D na impormasyon ang malabong imahe sa tela na wala sa isang painting o litrato. Paikutin ito, ihambing, at tingnan ang ideya ng isang artist tungkol sa lalaking ipinapakita nito.",
-  "mirror": "Binaliktad dito ang litrato mula kaliwa pakanan, para tumugma ito sa pigura. Ang imahe sa tela ay mirror image ng katawan, gaya ng tatak na iniiwan ng isang stamp."
+  "mirror": "Binaliktad dito ang litrato mula kaliwa pakanan, para tumugma ito sa pigura. Ang imahe sa tela ay mirror image ng katawan, gaya ng tatak na iniiwan ng isang stamp.",
+  "fold": {
+   "h2": "Kung bakit may imahe sa harap at imahe sa likod",
+   "text": "Ang Shroud ay isang mahabang tela, mga 4.4 metro. Inilatag ito sa ilalim ng katawan, itiniklop sa ibabaw ng ulo, at ibinaba sa harap hanggang sa mga paa. Kaya ang harap ng katawan ang nag-iwan ng imahe sa harap, ang likod ang nag-iwan ng imahe sa likod, at nagtatagpo ang dalawang ulo sa gitna ng tela.",
+   "alt": "Pigura ng isang artist na nakahiga sa isang kalahati ng mahabang telang linen, habang ang kabilang kalahati ay nakatiklop sa ibabaw ng ulo at nakataas sa itaas ng katawan",
+   "flatAlt": "Ang buong Shroud na nakalatag: ang imahe sa harap sa kaliwang kalahati, ang imahe sa likod sa kanang kalahati, magkadikit ang mga ulo sa gitna",
+   "fold": "Tupi sa ibabaw ng ulo",
+   "foldSub": "dito nagtatagpo ang mga ulo",
+   "front": "Imahe sa harap",
+   "frontSub": "nakapatong ito sa katawan",
+   "back": "Imahe sa likod",
+   "backSub": "nasa ilalim ito ng katawan",
+   "note": "Makikita na ang imahe sa tela sa larawang ito. Ginawa lamang ito para maging malinaw ang ideya: hindi pa rin alam kung paano at kailan nabuo ang tunay na imahe.",
+   "label": "Artistikong interpretasyon, hindi ebidensiya."
+  }
  }
 }

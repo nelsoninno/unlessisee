@@ -186,7 +186,7 @@ export default {
       reliefH: 'Obraz w 3D',
       reliefText: `<p>Gdy zamienisz jasność zwykłego zdjęcia na wysokość, dostajesz zniekształcony bałagan: nos się zapada, cienie się wznoszą, tło się wybrzusza. Gdy zrobisz to samo z Całunem, dostajesz spójną twarz i ciało. Porównaj je samodzielnie. Oba widoki poniżej używają dokładnie tej samej metody.</p>`,
       reliefFaceAlt: 'Relief 3D twarzy z Całunu', reliefFaceCap: 'Twarz z Całunu, jasność zamieniona na wysokość.',
-      reliefPaintAlt: 'Relief 3D malowanej twarzy, wykonany tą samą metodą', reliefPaintCap: 'Malowana twarz, ta sama metoda. Obraz: Głowa Chrystusa, domena publiczna.',
+      reliefPaintAlt: 'Relief 3D malowanej twarzy, wykonany tą samą metodą', reliefPaintCap: 'Malowana twarz, ta sama metoda: nie zawiera użytecznej informacji 3D. Obraz: Głowa Chrystusa.',
       reliefBodyAlt: 'Relief 3D całego przedniego obrazu Całunu', reliefBodyCap: 'Cały przedni obraz w reliefie. Obróć go, aby zobaczyć kształt ciała.',
       reliefSkeptic: 'Uczciwe ostrzeżenie: nasze widoki 3D to proste odtworzenie idei VP-8, wygładzone na potrzeby internetu. Pokazują zasadę. Nie są pomiarem naukowym.',
       photosH: 'O tych zdjęciach',

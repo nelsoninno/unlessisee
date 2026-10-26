@@ -101,7 +101,7 @@ ${a.caption ? `<figcaption>${a.caption}</figcaption>` : ''}</figure>`;
 }
 
 function relief(ctx, c, key, opts = {}) {
-  return `<div class="viewer" data-lazy-init="initRelief" data-relief="${key}" data-depth="${opts.depth || 0.35}" data-yaw="${opts.yaw || 0.55}" data-clay="${opts.clay === false ? 0 : 1}" data-ui='${attr(JSON.stringify(c.ui3d))}' role="img" aria-label="${attr(opts.label || '')}" style="${opts.style || ''}">
+  return `<div class="viewer" data-lazy-init="initRelief" data-relief="${key}" data-depth="${opts.depth || 0.35}" data-yaw="${opts.yaw || 0.55}" data-clay="${opts.clay === true ? 1 : 0}" data-ui='${attr(JSON.stringify(c.ui3d))}' role="img" aria-label="${attr(opts.label || '')}" style="${opts.style || ''}">
 <div class="viewer__fallback" hidden>${esc(c.ui3d.fallback)}</div></div>`;
 }
 
@@ -316,7 +316,18 @@ function artSection(ctx, c, p, t) {
 // ===================================================================== SEE IT IN 3D
 function in3d(ctx, page) {
   const c = ctx.L.copy, t = c.pages['3d'], p = c.pages.explore;
+  const F = t.fold, mid = 47.3;
+  const fold = F ? `<section class="linen band band--tight" id="front-and-back" style="padding-top:0"><div class="wrap">
+  <div class="measure"><h2>${esc(F.h2)}</h2><p>${esc(F.text)}</p><p class="art__label">${esc(F.label || c.pages.explore.ui.art.label)}</p></div>
+  <figure class="foldfig"><img src="${ctx.asset(IMG + 'art/cloth-folded-over-body-seetheshroud.org.webp')}" alt="${attr(F.alt)}" width="1600" height="616" loading="lazy"></figure>
+  <figure class="flatfig" dir="ltr"><div class="flatfig__top" style="--mid:${mid}%"><b>${esc(F.fold)}</b><span>${esc(F.foldSub)}</span></div>
+    <div class="flatfig__cloth" style="--mid:${mid}%"><img src="${ctx.asset(IMG + 'shroud/full-cloth-shroud-of-turin-seetheshroud.org.webp')}" alt="${attr(F.flatAlt)}" width="3000" height="769" loading="lazy"></div>
+    <div class="flatfig__halves" style="--mid:${mid}%"><div><b>${esc(F.front)}</b><span>${esc(F.frontSub)}</span></div><div><b>${esc(F.back)}</b><span>${esc(F.backSub)}</span></div></div>
+  </figure>
+  <p class="meta measure" style="margin-top:1rem">${esc(F.note)}</p>
+</div></section>` : '';
   const body = `${pageHead(ctx, t)}
+${fold}
 <section class="plate band" id="relief"><div class="wrap">
   <div class="measure"><h2>${p.reliefH}</h2>${p.reliefText}</div>
   <div class="split" style="margin-top:2.5rem;align-items:start">
@@ -473,9 +484,43 @@ function wounds(ctx, page) {
   </div>
   <div><div class="measure" style="margin-bottom:1.5rem">${p.intro}</div><div class="wound-list">${list}</div></div>
 </div></section>
-<section class="linen band"><div class="wrap">${breathFigure(ctx, c)}</div></section>
+<section class="linen band"><div class="wrap">${breathFigure(ctx, c)}${armFigure(ctx, p.x)}</div></section>
+${crownSection(ctx, c, p.x)}
 <section class="linen band band--tight" style="border-top:1px solid var(--linen-edge)"><div class="wrap prose">${p.after}</div></section>`;
-  return layout(ctx, page, { title: p.title, description: p.description, jsonld: siteGraph(ctx, page, p) }, body, ['assets/js/lists.js']);
+  return layout(ctx, page, { title: p.title, description: p.description, jsonld: siteGraph(ctx, page, p) }, body, ['assets/js/lists.js', ...v3d, 'assets/js/crown3d.js']);
+}
+
+// Forearm close-up with a toggle that draws the two directions of the blood trail
+function armFigure(ctx, X) {
+  if (!X || !X.arm) return '';
+  const a = X.arm, H = 125.4;
+  const ar = (x1, y1, x2, y2, cls) => `<line class="${cls}" x1="${x1}" y1="${y1 * H / 100}" x2="${x2}" y2="${y2 * H / 100}" marker-end="url(#ah-${cls})"/>`;
+  return `<figure class="armfig">
+  <div class="armfig__stack"><img src="${ctx.asset(IMG + 'wounds/forearm-blood-flows-shroud-of-turin-seetheshroud.org.webp')}" alt="${attr(a.alt)}" width="900" height="1129" loading="lazy">
+  <svg class="armfig__ov" id="arm-ov" viewBox="0 0 100 ${H}" aria-hidden="true"><defs>${['f1', 'f2'].map(k => `<marker id="ah-${k}" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" class="${k}"/></marker>`).join('')}</defs>
+  <line class="ext" x1="52" y1="${47 * H / 100}" x2="84" y2="${22 * H / 100}"/>
+  ${ar(20, 72, 51, 47.8, 'f1')}${ar(53, 44.8, 82, 29.5, 'f2')}
+  <text x="22" y="${80 * H / 100}" class="f1">1 · ${esc(a.one)}</text><text x="56" y="${25 * H / 100}" class="f2">2 · ${esc(a.two)}</text></svg></div>
+  <div class="btn-row"><button class="btn" type="button" data-ov-toggle aria-controls="arm-ov" aria-pressed="false" data-labels='${attr(JSON.stringify([a.show, a.hide]))}'>${esc(a.show)}</button></div>
+  <figcaption>${esc(a.cap)}</figcaption></figure>`;
+}
+
+// Crown of thorns: close-ups of the forehead and the back of the head, and our cap model
+function crownSection(ctx, c, X) {
+  if (!X || !X.crown) return '';
+  const k = X.crown;
+  return `<section class="plate band" id="crown"><div class="wrap">
+  <div class="measure"><h2>${esc(k.h2)}</h2><p>${esc(k.text)}</p></div>
+  <div class="crown-shots">
+    <figure><img src="${ctx.asset(IMG + 'wounds/forehead-wounds-shroud-of-turin-seetheshroud.org.webp')}" alt="${attr(k.foreAlt)}" width="800" height="789" loading="lazy"><figcaption>${esc(k.foreCap)}</figcaption></figure>
+    <figure><img src="${ctx.asset(IMG + 'wounds/back-of-head-wounds-shroud-of-turin-seetheshroud.org.webp')}" alt="${attr(k.backAlt)}" width="800" height="549" loading="lazy"><figcaption>${esc(k.backCap)}</figcaption></figure>
+  </div>
+  <p class="meta" style="margin-top:1rem">${esc(k.photoNote)}</p>
+  <div class="split" style="margin-top:3rem;align-items:center">
+    <div><h3 style="font-size:1.5rem">${esc(k.h3)}</h3><p class="art__label">${esc(k.label)}</p></div>
+    <figure><div class="viewer viewer--crown" data-lazy-init="initCrown3D" data-base="${ctx.asset('assets/models/crown-of-thorns').replace(/\?.*$/, '')}" role="img" aria-label="${attr(k.modelAlt)}"><div class="viewer__fallback" hidden>${esc(c.ui3d.fallback)}</div></div><figcaption>${esc(k.modelCap)}</figcaption></figure>
+  </div>
+</div></section>`;
 }
 
 function breathFigure(ctx, c) {

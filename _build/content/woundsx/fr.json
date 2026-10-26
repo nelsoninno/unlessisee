@@ -1,0 +1,23 @@
+{
+ "arm": {
+  "alt": "Gros plan d’un avant-bras sur la photographie de 1931, avec une coulée de sang qui le longe",
+  "show": "Montrer les deux directions",
+  "hide": "Masquer les directions",
+  "cap": "Gros plan d’un avant-bras sur la photographie de 1931. Sur notre tracé, la partie de la coulée près du poignet et la partie vers le coude suivent des angles écartés d’environ dix degrés. Flèches tracées par nous ; approximatives.",
+  "one": "près du poignet",
+  "two": "vers le coude"
+ },
+ "crown": {
+  "h2": "La couronne d’épines",
+  "text": "Sur le front et sur tout l’arrière de la tête, de petites coulées de sang partent de nombreux points distincts, comme des piqûres d’épines acérées. Elles couvrent le cuir chevelu, et pas seulement une bande autour. Cela correspond mieux à un casque d’épines enfoncé sur toute la tête qu’à l’anneau bien net montré dans la plupart des peintures.",
+  "foreAlt": "Gros plan du front sur la photographie de 1931, avec plusieurs petites coulées de sang",
+  "foreCap": "Le front : des coulées issues de plusieurs piqûres, dont une en forme de chiffre 3.",
+  "backAlt": "Gros plan de l’arrière de la tête sur la photographie de 1931, avec de nombreuses petites coulées de sang",
+  "backCap": "L’arrière de la tête : de nombreuses coulées distinctes au-dessus de la nuque.",
+  "photoNote": "Photographie de Giuseppe Enrie, 1931 ; contraste renforcé par nous pour que les taches soient plus faciles à voir.",
+  "h3": "Un casque, pas un anneau",
+  "modelAlt": "Modèle 3D d’un casque d’épines. Faites-le glisser pour le tourner.",
+  "modelCap": "Faites-le glisser pour lui faire faire un tour complet. Environ la moitié des épines pointent vers l’intérieur, vers le cuir chevelu.",
+  "label": "Notre propre illustration de l’idée. Personne ne sait à quoi ressemblait la vraie couronne."
+ }
+}

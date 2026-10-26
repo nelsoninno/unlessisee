@@ -1,0 +1,23 @@
+{
+ "arm": {
+  "alt": "Nahaufnahme eines Unterarms auf der Fotografie von 1931, mit einer Blutspur, die an ihm entlangläuft",
+  "show": "Beide Richtungen zeigen",
+  "hide": "Richtungen ausblenden",
+  "cap": "Nahaufnahme eines Unterarms auf der Fotografie von 1931. In unserer Nachzeichnung verlaufen der Teil der Spur nahe dem Handgelenk und der Teil zum Ellbogen hin in Winkeln, die etwa zehn Grad auseinanderliegen. Pfeile von uns gezeichnet; ungefähr.",
+  "one": "nahe dem Handgelenk",
+  "two": "zum Ellbogen hin"
+ },
+ "crown": {
+  "h2": "Die Dornenkrone",
+  "text": "Auf der Stirn und am ganzen Hinterkopf beginnen kleine Blutspuren an vielen einzelnen Stellen, wie Einstiche von spitzen Dornen. Sie bedecken die ganze Kopfhaut, nicht nur einen Streifen rundherum. Das passt besser zu einer Haube aus Dornen, die auf den ganzen Kopf gedrückt wurde, als zu dem ordentlichen Kranz, den die meisten Gemälde zeigen.",
+  "foreAlt": "Nahaufnahme der Stirn auf der Fotografie von 1931, mit mehreren kleinen Blutspuren",
+  "foreCap": "Die Stirn: Spuren aus mehreren Einstichen, eine davon in Form der Ziffer 3.",
+  "backAlt": "Nahaufnahme des Hinterkopfs auf der Fotografie von 1931, mit vielen kleinen Blutspuren",
+  "backCap": "Der Hinterkopf: viele einzelne Spuren über dem Nacken.",
+  "photoNote": "Fotografie von Giuseppe Enrie, 1931; Kontrast von uns verstärkt, damit die Flecken besser zu sehen sind.",
+  "h3": "Eine Haube, kein Kranz",
+  "modelAlt": "3D-Modell einer Haube aus Dornen. Ziehen Sie, um es zu drehen.",
+  "modelCap": "Ziehen Sie, um es ganz herumzudrehen. Etwa die Hälfte der Dornen zeigt nach innen, zur Kopfhaut.",
+  "label": "Unsere eigene Darstellung der Idee. Niemand weiß, wie die echte Krone aussah."
+ }
+}

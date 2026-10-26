@@ -5,6 +5,20 @@
   "description": "Transforme em 3D a imagem do Santo Sudário de Turim, compare-a com uma pintura e ponha a figura de um artista sobre a fotografia de 1931. Grátis, em 12 idiomas.",
   "h1": "Veja o Santo Sudário em 3D",
   "lede": "A imagem tênue do pano guarda uma informação 3D que uma pintura ou uma fotografia não têm. Gire, compare e veja como um artista imaginou o homem que ela mostra.",
-  "mirror": "Aqui a fotografia está espelhada da esquerda para a direita, para coincidir com a figura. A imagem do pano é uma imagem espelhada do corpo, como a marca de um carimbo."
+  "mirror": "Aqui a fotografia está espelhada da esquerda para a direita, para coincidir com a figura. A imagem do pano é uma imagem espelhada do corpo, como a marca de um carimbo.",
+  "fold": {
+   "h2": "Por que há uma imagem frontal e uma dorsal",
+   "text": "O Sudário é um único pano longo, de cerca de 4,4 metros. Ele foi colocado sob o corpo, dobrado sobre a cabeça e estendido pela frente até os pés. Assim, a frente do corpo deixou a imagem frontal, as costas deixaram a imagem dorsal, e as duas cabeças se encontram no meio do pano.",
+   "alt": "A figura de um artista deitada sobre uma metade de um longo pano de linho, com a outra metade dobrada sobre a cabeça e erguida acima do corpo",
+   "flatAlt": "O Sudário inteiro estendido: a imagem frontal na metade esquerda, a imagem dorsal na metade direita, cabeça com cabeça no meio",
+   "fold": "Dobra sobre a cabeça",
+   "foldSub": "aqui as duas cabeças se encontram",
+   "front": "Imagem frontal",
+   "frontSub": "esta metade cobria o corpo",
+   "back": "Imagem dorsal",
+   "backSub": "esta metade ficava sob o corpo",
+   "note": "O pano do desenho já mostra a imagem. Isso é só para deixar a ideia clara: como e quando a imagem real se formou ainda é desconhecido.",
+   "label": "Interpretação artística, não é evidência."
+  }
  }
 }

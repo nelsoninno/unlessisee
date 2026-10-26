@@ -5,6 +5,20 @@
   "description": "Samodzielnie zamień obraz z Całunu Turyńskiego w 3D, porównaj go z malowidłem i nałóż postać artysty na zdjęcie z 1931 roku. Za darmo, w 12 językach.",
   "h1": "Zobacz Całun w 3D",
   "lede": "Blady obraz na płótnie zawiera informację 3D, której nie ma malowidło ani zdjęcie. Obróć go, porównaj i zobacz, jak jeden artysta wyobraża sobie mężczyznę, którego ten obraz pokazuje.",
-  "mirror": "Zdjęcie jest tu odwrócone z lewej na prawą, aby pasowało do postaci. Obraz na płótnie jest lustrzanym odbiciem ciała, jak odcisk pieczątki."
+  "mirror": "Zdjęcie jest tu odwrócone z lewej na prawą, aby pasowało do postaci. Obraz na płótnie jest lustrzanym odbiciem ciała, jak odcisk pieczątki.",
+  "fold": {
+   "h2": "Dlaczego jest obraz przedni i tylny",
+   "text": "Całun to jedno długie płótno, około 4,4 metra. Położono je pod ciałem, przełożono nad głową i opuszczono z przodu aż do stóp. Dlatego przód ciała zostawił obraz przedni, plecy zostawiły obraz tylny, a obie głowy stykają się na środku płótna.",
+   "alt": "Postać stworzona przez artystę leży na jednej połowie długiego lnianego płótna, a druga połowa jest przełożona nad głową i uniesiona nad ciałem",
+   "flatAlt": "Cały Całun rozłożony płasko: obraz przedni na lewej połowie, obraz tylny na prawej, głowa przy głowie na środku",
+   "fold": "Zgięcie nad głową",
+   "foldSub": "tu stykają się głowy",
+   "front": "Obraz przedni",
+   "frontSub": "ta połowa leżała na ciele",
+   "back": "Obraz tylny",
+   "backSub": "ta połowa leżała pod ciałem",
+   "note": "Płótno na rysunku już pokazuje obraz. To tylko po to, by idea była jasna: jak i kiedy powstał prawdziwy obraz, wciąż nie wiadomo.",
+   "label": "Interpretacja artystyczna, nie dowód."
+  }
  }
 }

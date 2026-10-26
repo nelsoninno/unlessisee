@@ -187,7 +187,7 @@ export default {
       reliefH: 'Das Bild in 3D',
       reliefText: `<p>Wenn man die Helligkeit einer normalen Fotografie in Höhe umwandelt, erhält man ein verzerrtes Durcheinander: Die Nase sinkt ein, die Schatten heben sich, der Hintergrund wölbt sich. Macht man dasselbe mit dem Grabtuch, erhält man ein stimmiges Gesicht und einen stimmigen Körper. Vergleichen Sie selbst. Beide Ansichten unten verwenden genau dieselbe Methode.</p>`,
       reliefFaceAlt: '3D-Relief des Gesichts auf dem Grabtuch', reliefFaceCap: 'Das Gesicht auf dem Grabtuch, Helligkeit in Höhe umgewandelt.',
-      reliefPaintAlt: '3D-Relief eines gemalten Gesichts mit derselben Methode', reliefPaintCap: 'Ein gemaltes Gesicht, dieselbe Methode. Gemälde: Haupt Christi, gemeinfrei.',
+      reliefPaintAlt: '3D-Relief eines gemalten Gesichts mit derselben Methode', reliefPaintCap: 'Ein gemaltes Gesicht, mit derselben Methode: Es enthält keine brauchbare 3D-Information. Gemälde: Haupt Christi.',
       reliefBodyAlt: '3D-Relief der ganzen Vorderansicht des Grabtuchs', reliefBodyCap: 'Die ganze Vorderansicht im Relief. Drehen Sie sie, um die Form des Körpers zu sehen.',
       reliefSkeptic: 'Ein ehrlicher Hinweis: Unsere 3D-Ansichten sind eine einfache Nachbildung der VP-8-Idee, für das Web geglättet. Sie zeigen das Prinzip. Sie sind keine wissenschaftliche Messung.',
       photosH: 'Über diese Fotografien',

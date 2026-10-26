@@ -186,7 +186,7 @@ export default {
       reliefH: "Ang imahe sa 3D",
       reliefText: `<p>Kapag ginawa mong taas ang liwanag ng isang karaniwang litrato, magulo at baluktot ang lalabas: lumulubog ang ilong, umaangat ang mga anino, umuumbok ang background. Kapag ginawa mo rin iyon sa Shroud, buo at makatwirang mukha at katawan ang lalabas. Ikaw mismo ang maghambing. Eksaktong parehong paraan ang ginamit sa dalawang view sa ibaba.</p>`,
       reliefFaceAlt: "3D relief ng mukha sa Shroud", reliefFaceCap: "Ang mukha sa Shroud, ginawang taas ang liwanag.",
-      reliefPaintAlt: "3D relief ng isang pininturahang mukha gamit ang parehong paraan", reliefPaintCap: "Isang pininturahang mukha, parehong paraan. Painting: Head of Christ, public domain.",
+      reliefPaintAlt: "3D relief ng isang pininturahang mukha gamit ang parehong paraan", reliefPaintCap: "Isang pininturahang mukha, sa parehong paraan: wala itong kapaki-pakinabang na 3D na impormasyon. Painting: Head of Christ.",
       reliefBodyAlt: "3D relief ng buong imahe sa harap ng Shroud", reliefBodyCap: "Ang buong imahe sa harap bilang relief. Paikutin ito para makita ang hugis ng katawan.",
       reliefSkeptic: "Paalala: ang aming mga 3D view ay simpleng paggaya sa ideya ng VP-8, pinakinis para sa web. Ipinakikita nila ang prinsipyo. Hindi sila siyentipikong sukat.",
       photosH: "Tungkol sa mga litratong ito",

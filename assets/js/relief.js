@@ -70,11 +70,19 @@
     function addBtn(label,fn,pressed){var b=document.createElement('button');b.type='button';b.className='tool';b.textContent=label;b.setAttribute('aria-pressed',pressed?'true':'false');b.addEventListener('click',function(){var on=b.getAttribute('aria-pressed')!=='true';b.setAttribute('aria-pressed',on?'true':'false');fn(on);render();});bar.appendChild(b);}
     addRange(ui.depth||'Depth',0,0.9,depth,0.01,function(v){displace(v);});
     addRange(ui.light||'Light',-1.4,2.6,lightA,0.01,function(v){lightA=v;placeLight();});
-    addBtn(ui.clay||'Clay',function(on){mesh.material=on?clay:mat;},startClay);
-    if(!R.noNeg)addBtn(ui.negative||'Negative',function(on){
-      if(on&&!texNeg){invertTexture(R.tex,function(c){texNeg=new THREE.CanvasTexture(c);texNeg.colorSpace=THREE.SRGBColorSpace;mat.map=texNeg;mat.needsUpdate=true;render();});}
-      else{mat.map=on?texNeg:texPos;mat.needsUpdate=true;}
-    },false);
+    // Clay and Negative are one choice: pressing one turns the other off; pressing the active one again returns to the normal photo
+    var mode='normal', btns={};
+    function setMode(m){mode=(mode===m)?'normal':m;
+      Object.keys(btns).forEach(function(k){btns[k].setAttribute('aria-pressed',k===mode?'true':'false');});
+      if(mode==='clay'){mesh.material=clay;}
+      else{mesh.material=mat;
+        if(mode==='neg'&&!texNeg){invertTexture(R.tex,function(c){texNeg=new THREE.CanvasTexture(c);texNeg.colorSpace=THREE.SRGBColorSpace;if(mode==='neg'){mat.map=texNeg;mat.needsUpdate=true;render();}});}
+        else{mat.map=(mode==='neg')?texNeg:texPos;mat.needsUpdate=true;}}
+      render();}
+    function addMode(label,m){var b=document.createElement('button');b.type='button';b.className='tool';b.textContent=label;b.setAttribute('aria-pressed','false');b.addEventListener('click',function(){setMode(m);});bar.appendChild(b);btns[m]=b;}
+    addMode(ui.clay||'Clay','clay');
+    if(!R.noNeg)addMode(ui.negative||'Negative','neg');
+    if(startClay){mode='normal';setMode('clay');}
     el.appendChild(bar);
     window.addEventListener('resize',function(){w=el.clientWidth;h=el.clientHeight;renderer.setSize(w,h);cam.aspect=w/h;cam.updateProjectionMatrix();render();});
     var fb=el.querySelector('.viewer__fallback'); if(fb)fb.hidden=true;

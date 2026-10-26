@@ -652,3 +652,35 @@ h1{font-size:clamp(2.5rem,5.6vw,4.6rem)}
 .page-head--compact .meta{margin:0}
 .nav a.nav-cta--3d{background:transparent;color:var(--sepia);box-shadow:inset 0 0 0 1.5px var(--sepia);font-weight:600}
 .nav a.nav-cta--3d:hover,.nav a.nav-cta--3d[aria-current="page"]{background:var(--sepia);color:var(--white);box-shadow:none}
+
+/* Wounds: forearm close-up with direction overlay */
+.armfig{margin-top:3rem;max-width:560px;margin-inline:auto}
+.armfig__stack{position:relative;border-radius:14px;overflow:hidden}
+.armfig__stack img{display:block;width:100%;height:auto}
+.armfig__ov{position:absolute;inset:0;width:100%;height:100%;opacity:0;transition:opacity .35s}
+.armfig__ov.on{opacity:1}
+.armfig__ov line{stroke-width:1.3;stroke-linecap:round}
+.armfig__ov .f1{stroke:#E0564A;fill:#E0564A}.armfig__ov .f2{stroke:#F2C94C;fill:#F2C94C}
+.armfig__ov .ext{stroke:#E0564A;stroke-width:.6;stroke-dasharray:1.6 1.6;opacity:.85}
+.armfig__ov text{font-family:var(--font-sans);font-size:3.4px;font-weight:700;stroke:none!important;filter:drop-shadow(0 0 .5px rgba(0,0,0,.9)) drop-shadow(0 0 1px rgba(0,0,0,.6))}
+.armfig .btn-row{justify-content:center}
+.armfig figcaption{text-align:center}
+/* Wounds: crown of thorns */
+.crown-shots{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1.25rem;margin-top:2rem;align-items:start}
+.crown-shots img{display:block;width:100%;height:auto;border-radius:14px}
+.viewer--crown{aspect-ratio:4/3}
+@media (max-width:700px){.crown-shots{grid-template-columns:1fr}}
+/* 3D page: why a front and a back image */
+.foldfig{margin-top:2rem}.foldfig img{display:block;width:100%;height:auto;border-radius:14px}
+.flatfig{margin-top:1.5rem;font-family:var(--font-sans)}
+.flatfig__top{position:relative;height:3.2rem}
+.flatfig__top b,.flatfig__top span{position:absolute;left:var(--mid);transform:translateX(-50%);white-space:nowrap;text-align:center}
+.flatfig__top b{top:0;color:var(--sepia);font-size:1rem}.flatfig__top span{top:1.45rem;color:var(--ink-soft);font-size:.82rem}
+.flatfig__cloth{position:relative}
+.flatfig__cloth img{display:block;width:100%;height:auto;border-radius:6px}
+.flatfig__cloth::after{content:"";position:absolute;top:-.6rem;bottom:-.6rem;left:var(--mid);border-left:2.5px dashed var(--sepia)}
+.flatfig__halves{display:grid;grid-template-columns:var(--mid) 1fr;margin-top:.6rem}
+.flatfig__halves>div{border-top:2px solid var(--ink-soft);margin-inline:.3rem;padding-top:.5rem;text-align:center;display:grid}
+.flatfig__halves b{font-size:1rem;color:var(--ink)}.flatfig__halves span{font-size:.82rem;color:var(--ink-soft)}
+@media (max-width:600px){.flatfig__top span,.flatfig__halves span{font-size:.72rem;white-space:normal}.flatfig__halves b,.flatfig__top b{font-size:.85rem}}
+.armfig__ov text.f1,.armfig__ov text.f2{fill:#fff}

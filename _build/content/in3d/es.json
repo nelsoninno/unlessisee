@@ -5,6 +5,20 @@
   "description": "Convierte en 3D la imagen de la Sábana Santa de Turín, compárala con un cuadro y pon la figura de un artista sobre la fotografía de 1931. Gratis, en 12 idiomas.",
   "h1": "Mira la Sábana Santa en 3D",
   "lede": "La tenue imagen de la tela guarda información en 3D que una pintura o una fotografía no tienen. Gírala, compárala y mira cómo imaginó un artista al hombre que muestra.",
-  "mirror": "Aquí la fotografía está invertida de izquierda a derecha para que coincida con la figura. La imagen de la tela es una imagen en espejo del cuerpo, como la huella de un sello."
+  "mirror": "Aquí la fotografía está invertida de izquierda a derecha para que coincida con la figura. La imagen de la tela es una imagen en espejo del cuerpo, como la huella de un sello.",
+  "fold": {
+   "h2": "Por qué hay una imagen frontal y una dorsal",
+   "text": "La Sábana Santa es una sola tela larga, de unos 4,4 metros. Se colocó bajo el cuerpo, se dobló sobre la cabeza y se bajó por delante hasta los pies. Así, la parte delantera del cuerpo dejó la imagen frontal, la espalda dejó la imagen dorsal, y las dos cabezas se encuentran en el centro de la tela.",
+   "alt": "La figura de un artista acostada sobre una mitad de una larga tela de lino, con la otra mitad doblada sobre la cabeza y sostenida por encima del cuerpo",
+   "flatAlt": "La Sábana Santa entera extendida: la imagen frontal en la mitad izquierda, la imagen dorsal en la mitad derecha, cabeza con cabeza en el centro",
+   "fold": "Doblez sobre la cabeza",
+   "foldSub": "aquí se encuentran las dos cabezas",
+   "front": "Imagen frontal",
+   "frontSub": "esta mitad cubría el cuerpo",
+   "back": "Imagen dorsal",
+   "backSub": "esta mitad quedaba bajo el cuerpo",
+   "note": "La tela del dibujo ya muestra la imagen. Es solo para que la idea se entienda: cómo y cuándo se formó la imagen real sigue sin saberse.",
+   "label": "Interpretación artística, no es evidencia."
+  }
  }
 }

@@ -185,7 +185,7 @@ export default {
       reliefH: 'The image in 3D',
       reliefText: `<p>When you turn the brightness of a normal photograph into height, you get a distorted mess: the nose sinks, the shadows rise, the background bulges. When you do the same with the Shroud, you get a coherent face and body. Compare them yourself. Both views below use exactly the same method.</p>`,
       reliefFaceAlt: '3D relief of the face on the Shroud', reliefFaceCap: 'The Shroud face, brightness turned into height.',
-      reliefPaintAlt: '3D relief of a painted face using the same method', reliefPaintCap: 'A painted face, same method. Painting: Head of Christ, public domain.',
+      reliefPaintAlt: '3D relief of a painted face using the same method', reliefPaintCap: 'A painted face, using the same method: it holds no useful 3D information. Painting: Head of Christ.',
       reliefBodyAlt: '3D relief of the full front image of the Shroud', reliefBodyCap: 'The full front image in relief. Turn it to see the shape of the body.',
       reliefSkeptic: 'Fair warning: our 3D views are a simple re-creation of the VP-8 idea, smoothed for the web. They show the principle. They are not a scientific measurement.',
       photosH: 'About these photographs',

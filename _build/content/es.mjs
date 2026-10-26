@@ -186,7 +186,7 @@ export default {
       reliefH: 'La imagen en 3D',
       reliefText: `<p>Cuando conviertes el brillo de una fotografía normal en altura, obtienes un desorden deformado: la nariz se hunde, las sombras se elevan, el fondo se abomba. Cuando haces lo mismo con la Sábana Santa, obtienes un rostro y un cuerpo coherentes. Compáralos tú mismo. Las dos vistas de abajo usan exactamente el mismo método.</p>`,
       reliefFaceAlt: 'Relieve 3D del rostro de la Sábana Santa', reliefFaceCap: 'El rostro de la Sábana Santa, con el brillo convertido en altura.',
-      reliefPaintAlt: 'Relieve 3D de un rostro pintado, con el mismo método', reliefPaintCap: 'Un rostro pintado, con el mismo método. Pintura: Cabeza de Cristo, dominio público.',
+      reliefPaintAlt: 'Relieve 3D de un rostro pintado, con el mismo método', reliefPaintCap: 'Un rostro pintado, con el mismo método: no contiene información 3D útil. Pintura: Cabeza de Cristo.',
       reliefBodyAlt: 'Relieve 3D de la imagen frontal completa de la Sábana Santa', reliefBodyCap: 'La imagen frontal completa en relieve. Gírala para ver la forma del cuerpo.',
       reliefSkeptic: 'Una advertencia justa: nuestras vistas en 3D son una recreación sencilla de la idea del VP-8, suavizada para la web. Muestran el principio. No son una medición científica.',
       photosH: 'Sobre estas fotografías',
