@@ -6,10 +6,35 @@
   "outlines": "Outlines",
   "outlinesNote": "Outlines drawn by us on the 1931 photograph. The bloodstain areas are approximate.",
   "overlays": {
-   "burns": { "label": "Burn holes (1532)", "note": "Holes burned by the fire at Chambéry in 1532, patched by the Poor Clare nuns in 1534." },
-   "poker": { "label": "Poker holes", "note": "Four L-shaped groups of small burn holes, older than the 1532 fire." },
-   "blood": { "label": "Bloodstains", "note": "The main bloodstains: head, wrists, forearms, side, small of the back and feet. Approximate areas." },
-   "sample": { "label": "Carbon dating sample", "note": "The corner where the 1988 radiocarbon sample was cut (approximate)." }
+   "burns": {
+    "label": "Burn holes (1532)",
+    "note": "Holes burned by the fire at Chambéry in 1532, patched by the Poor Clare nuns in 1534."
+   },
+   "poker": {
+    "label": "Poker holes",
+    "note": "Four L-shaped groups of small burn holes, older than the 1532 fire."
+   },
+   "blood": {
+    "label": "Bloodstains",
+    "note": "The main bloodstains: head, wrists, forearms, side, small of the back and feet. Approximate areas."
+   },
+   "sample": {
+    "label": "Carbon dating sample",
+    "note": "The corner where the 1988 radiocarbon sample was cut (approximate)."
+   }
+  },
+  "art": {
+   "h2": "One artist's interpretation",
+   "text": "What might the man on the cloth have looked like? We made this figure with AI: an image from ChatGPT, turned into 3D with MakerWorld. It follows the marks on the cloth, such as the wounds, the crossed hands and the long hair. Slide to lay it over the 1931 photograph and compare.",
+   "label": "An artistic interpretation, made with AI. Not evidence, and not a reconstruction of a real body.",
+   "fade": "How visible the interpretation is",
+   "only": "Only the Shroud",
+   "half": "Both",
+   "full": "Only the interpretation",
+   "alt": "An artist's figure of the man of the Shroud laid over the 1931 photograph of the front image",
+   "figAlt": "The same figure in 3D, standing in front of the photograph. Drag to turn it.",
+   "cap3d": "Drag to turn the figure. The 1931 photograph of the front image stands behind it.",
+   "credit": "Figure made by See The Shroud with ChatGPT and MakerWorld Image-to-3D. Powered by MakerWorld-Image-to-3D. Shared under CC BY-NC-SA 4.0. Background: Giuseppe Enrie, 1931, digital edition by Rudolf Berwanger, CC BY-SA 4.0."
   }
  }
 }

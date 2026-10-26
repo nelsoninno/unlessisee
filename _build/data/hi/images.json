@@ -35,6 +35,12 @@
    "author": "इंडियन रिवाइज्ड वर्जन (IRV) हिंदी 2019, © Bridge Connectivity Solutions। हमने केवल पदों के बीच दिए गए क्रॉस-रेफ़रेंस हटाए हैं।",
    "license": "CC BY-SA 4.0",
    "source": "https://ebible.org/"
+  },
+  {
+   "what": "कलात्मक व्याख्या (एक्सप्लोरर): आकृति और 3D मॉडल",
+   "author": "See The Shroud ने ChatGPT (छवि) और MakerWorld Image-to-3D (3D मॉडल) से बनाया। Powered by MakerWorld-Image-to-3D",
+   "license": "CC BY-NC-SA 4.0",
+   "source": "https://makerworld.com/makerlab/imageTo3d"
   }
  ]
 }

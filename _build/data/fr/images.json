@@ -35,6 +35,12 @@
    "author": "World English Bible (anglais), Reina-Valera 1909 (espagnol) et Louis Segond 1910 (français)",
    "license": "Domaine public",
    "source": "https://ebible.org/"
+  },
+  {
+   "what": "Interprétation artistique (explorateur) : figure et modèle 3D",
+   "author": "Réalisée par See The Shroud avec ChatGPT (image) et MakerWorld Image-to-3D (modèle 3D). Powered by MakerWorld-Image-to-3D",
+   "license": "CC BY-NC-SA 4.0",
+   "source": "https://makerworld.com/makerlab/imageTo3d"
   }
  ]
 }

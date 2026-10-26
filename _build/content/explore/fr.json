@@ -10,6 +10,19 @@
    "poker": { "label": "Trous de tisonnier", "note": "Quatre groupes de petits trous de brûlure disposés en L, plus anciens que l’incendie de 1532." },
    "blood": { "label": "Taches de sang", "note": "Les principales taches de sang : tête, poignets, avant-bras, côté, creux des reins et pieds. Zones approximatives." },
    "sample": { "label": "Échantillon radiocarbone", "note": "Le coin où l’échantillon de 1988 pour le carbone 14 a été découpé (emplacement approximatif)." }
+  },
+  "art": {
+   "h2": "L’interprétation d’un artiste",
+   "text": "À quoi pouvait ressembler l’homme du linge ? Nous avons créé cette figure avec l’IA : une image de ChatGPT, transformée en 3D avec MakerWorld. Elle suit les marques du linge, comme les blessures, les mains croisées et les cheveux longs. Faites glisser pour la superposer à la photographie de 1931 et comparer.",
+   "label": "Une interprétation artistique, faite avec l’IA. Ce n’est pas une preuve, ni la reconstitution d’un corps réel.",
+   "fade": "Visibilité de l’interprétation",
+   "only": "Saint-Suaire seul",
+   "half": "Les deux",
+   "full": "Interprétation seule",
+   "alt": "Figure d’artiste de l’homme du Saint-Suaire, superposée à la photographie de 1931 de l’image de face",
+   "figAlt": "La même figure en 3D, debout devant la photographie. Faites-la glisser pour la faire tourner.",
+   "cap3d": "Faites glisser pour faire tourner la figure. Derrière elle se trouve la photographie de 1931 de l’image de face.",
+   "credit": "Figure réalisée par See The Shroud avec ChatGPT et MakerWorld Image-to-3D. Powered by MakerWorld-Image-to-3D. Partagée sous licence CC BY-NC-SA 4.0. Arrière-plan : Giuseppe Enrie, 1931, édition numérique de Rudolf Berwanger, CC BY-SA 4.0."
   }
  }
 }

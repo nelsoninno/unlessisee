@@ -35,6 +35,12 @@
    "author": "World English Bible (Ingles) at Ang Dating Biblia 1905 (Tagalog, mula sa CrossWire Bible Society)",
    "license": "Public domain",
    "source": "https://ebible.org/"
+  },
+  {
+   "what": "Artistikong interpretasyon (explorer): pigura at 3D model",
+   "author": "Ginawa ng See The Shroud gamit ang ChatGPT (imahe) at MakerWorld Image-to-3D (3D model). Powered by MakerWorld-Image-to-3D",
+   "license": "CC BY-NC-SA 4.0",
+   "source": "https://makerworld.com/makerlab/imageTo3d"
   }
  ]
 }

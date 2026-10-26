@@ -10,6 +10,19 @@
    "poker": { "label": "Mga poker hole", "note": "Apat na grupo ng maliliit na butas ng sunog na hugis L, mas matanda kaysa sa sunog noong 1532." },
    "blood": { "label": "Mantsa ng dugo", "note": "Ang mga pangunahing mantsa ng dugo: ulo, mga pulso, mga bisig, tagiliran, ibabang likod at mga paa. Tinatayang lokasyon." },
    "sample": { "label": "Carbon dating sample", "note": "Ang sulok kung saan ginupit ang sample para sa carbon dating noong 1988 (tinatayang lokasyon)." }
+  },
+  "art": {
+   "h2": "Interpretasyon ng isang artist",
+   "text": "Ano kaya ang itsura ng lalaki sa tela? Ginawa namin ang pigurang ito gamit ang AI: isang imahe mula sa ChatGPT, na ginawang 3D gamit ang MakerWorld. Sinusundan nito ang mga marka sa tela, gaya ng mga sugat, ang magkakrus na mga kamay at ang mahabang buhok. I-slide para ipatong ito sa litrato noong 1931 at paghambingin.",
+   "label": "Isang artistikong interpretasyon, ginawa gamit ang AI. Hindi ito ebidensiya, at hindi rin rekonstruksiyon ng isang tunay na katawan.",
+   "fade": "Gaano kalinaw ang interpretasyon",
+   "only": "Shroud lang",
+   "half": "Pareho",
+   "full": "Interpretasyon lang",
+   "alt": "Pigura ng isang artist ng lalaki sa Shroud, nakapatong sa litrato noong 1931 ng imahe sa harap",
+   "figAlt": "Ang parehong pigura sa 3D, nakatayo sa harap ng litrato. Hilahin ito para paikutin.",
+   "cap3d": "Hilahin para paikutin ang pigura. Nasa likod nito ang litrato noong 1931 ng imahe sa harap.",
+   "credit": "Pigurang ginawa ng See The Shroud gamit ang ChatGPT at MakerWorld Image-to-3D. Powered by MakerWorld-Image-to-3D. Ibinahagi sa ilalim ng CC BY-NC-SA 4.0. Background: Giuseppe Enrie, 1931, digital na edisyon ni Rudolf Berwanger, CC BY-SA 4.0."
   }
  }
 }

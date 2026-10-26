@@ -10,6 +10,19 @@
    "poker": { "label": "Furos de atiçador", "note": "Quatro grupos de pequenos furos de queimadura em forma de L, mais antigos que o incêndio de 1532." },
    "blood": { "label": "Manchas de sangue", "note": "As principais manchas de sangue: cabeça, pulsos, antebraços, lado, região lombar e pés. Áreas aproximadas." },
    "sample": { "label": "Amostra de radiocarbono", "note": "O canto onde a amostra de radiocarbono de 1988 foi cortada (localização aproximada)." }
+  },
+  "art": {
+   "h2": "A interpretação de um artista",
+   "text": "Como seria o homem do pano? Fizemos esta figura com IA: uma imagem do ChatGPT, transformada em 3D com o MakerWorld. Ela segue as marcas do pano, como as feridas, as mãos cruzadas e o cabelo comprido. Deslize para colocá-la sobre a fotografia de 1931 e comparar.",
+   "label": "Uma interpretação artística, feita com IA. Não é evidência, nem a reconstrução de um corpo real.",
+   "fade": "Quanto a interpretação aparece",
+   "only": "Só o Sudário",
+   "half": "Os dois",
+   "full": "Só a interpretação",
+   "alt": "Figura de um artista do homem do Sudário, colocada sobre a fotografia de 1931 da imagem frontal",
+   "figAlt": "A mesma figura em 3D, de pé diante da fotografia. Arraste para girá-la.",
+   "cap3d": "Arraste para girar a figura. Atrás dela está a fotografia de 1931 da imagem frontal.",
+   "credit": "Figura feita por See The Shroud com ChatGPT e MakerWorld Image-to-3D. Powered by MakerWorld-Image-to-3D. Compartilhada sob CC BY-NC-SA 4.0. Fundo: Giuseppe Enrie, 1931, edição digital de Rudolf Berwanger, CC BY-SA 4.0."
   }
  }
 }

@@ -10,6 +10,19 @@
    "poker": { "label": "Fori a L", "note": "Quattro gruppi di piccoli fori di bruciatura disposti a L, più antichi dell'incendio del 1532." },
    "blood": { "label": "Macchie di sangue", "note": "Le principali macchie di sangue: testa, polsi, avambracci, costato, zona lombare e piedi. Aree approssimative." },
    "sample": { "label": "Campione al radiocarbonio", "note": "L'angolo dove fu tagliato il campione per la datazione al radiocarbonio del 1988 (posizione approssimativa)." }
+  },
+  "art": {
+   "h2": "L'interpretazione di un artista",
+   "text": "Che aspetto poteva avere l'uomo del telo? Abbiamo creato questa figura con l'IA: un'immagine di ChatGPT, trasformata in 3D con MakerWorld. Segue i segni sul telo, come le ferite, le mani incrociate e i capelli lunghi. Scorri per sovrapporla alla fotografia del 1931 e confrontare.",
+   "label": "Un'interpretazione artistica, fatta con l'IA. Non è una prova, né la ricostruzione di un corpo reale.",
+   "fade": "Quanto si vede l'interpretazione",
+   "only": "Solo la Sindone",
+   "half": "Entrambe",
+   "full": "Solo l'interpretazione",
+   "alt": "Figura d'artista dell'uomo della Sindone, sovrapposta alla fotografia del 1931 dell'immagine frontale",
+   "figAlt": "La stessa figura in 3D, in piedi davanti alla fotografia. Trascinala per ruotarla.",
+   "cap3d": "Trascina per ruotare la figura. Dietro c'è la fotografia del 1931 dell'immagine frontale.",
+   "credit": "Figura realizzata da See The Shroud con ChatGPT e MakerWorld Image-to-3D. Powered by MakerWorld-Image-to-3D. Condivisa con licenza CC BY-NC-SA 4.0. Sfondo: Giuseppe Enrie, 1931, edizione digitale di Rudolf Berwanger, CC BY-SA 4.0."
   }
  }
 }

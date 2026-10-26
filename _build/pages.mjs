@@ -294,9 +294,31 @@ function explore(ctx, page) {
   </div>
   <p class="note" style="margin-top:2rem">${p.reliefSkeptic}</p>
 </div></section>
+${artSection(ctx, c, p)}
 <section class="linen band band--tight"><div class="wrap prose"><h2>${p.photosH}</h2>${p.photosText}</div></section>`;
   return layout(ctx, page, { title: p.title, description: p.description, jsonld: siteGraph(ctx, page, p) }, body,
-    ['assets/js/explorer.js', ...v3d, 'assets/js/data/relief-face.js', 'assets/js/data/relief-painting.js']);
+    ['assets/js/explorer.js', ...v3d, 'assets/js/data/relief-face.js', 'assets/js/data/relief-painting.js', 'assets/js/figure3d.js']);
+}
+
+// An artistic interpretation (AI figure) over the 1931 photograph, with a fade slider and a 3D view
+const ART_PLACE = { left: 0.273, top: 0.062, width: 0.454, height: 0.923, aspect: 900 / 1773 };
+function artSection(ctx, c, p) {
+  const a = p.ui.art; if (!a) return '';
+  const bg = ctx.asset(IMG + 'shroud/body-front-shroud-of-turin-seetheshroud.org.webp');
+  const fig = ctx.asset(IMG + 'art/artistic-interpretation-figure-seetheshroud.org.webp');
+  const P = ART_PLACE;
+  return `<section class="linen band" id="interpretation" aria-labelledby="art-h"><div class="wrap">
+  <div class="measure"><h2 id="art-h">${esc(a.h2)}</h2><p>${esc(a.text)}</p><p class="art__label">${esc(a.label)}</p></div>
+  <div class="art split" style="margin-top:2rem;align-items:start">
+    <figure>
+      <div class="art__stack" role="img" aria-label="${attr(a.alt)}"><img src="${bg}" alt="" width="900" height="1773" loading="lazy"><img class="art__fig" src="${fig}" alt="" loading="lazy" style="left:${P.left * 100}%;top:${P.top * 100}%;width:${P.width * 100}%;height:${P.height * 100}%"></div>
+      <div class="art__ctl"><label class="meta" for="art-fade">${esc(a.fade)}</label><input id="art-fade" type="range" min="0" max="100" value="55" data-art-fade>
+      <div class="btn-row art__btns"><button class="tool" type="button" data-art-set="0">${esc(a.only)}</button><button class="tool" type="button" data-art-set="50">${esc(a.half)}</button><button class="tool" type="button" data-art-set="100">${esc(a.full)}</button></div></div>
+    </figure>
+    <figure><div class="viewer viewer--figure" data-lazy-init="initFigure3D" data-base="${ctx.asset('assets/models/figure-3d').replace(/\?.*$/, '')}" data-bg="${bg}" data-place='${attr(JSON.stringify(P))}' role="img" aria-label="${attr(a.figAlt)}"><div class="viewer__fallback" hidden>${esc(c.ui3d.fallback)}</div></div><figcaption>${esc(a.cap3d)}</figcaption></figure>
+  </div>
+  <p class="meta art__credit">${esc(a.credit).replace('MakerWorld-Image-to-3D', '<a href="https://makerworld.com/makerlab/imageTo3d" target="_blank" rel="noopener">MakerWorld-Image-to-3D</a>').replace('CC BY-NC-SA 4.0', '<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">CC BY-NC-SA 4.0</a>')}</p>
+</div></section>`;
 }
 
 // ===================================================================== EVIDENCE

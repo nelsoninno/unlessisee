@@ -35,6 +35,12 @@
    "author": "World English Bible（英文）、Reina-Valera 1909（西班牙文）和新标点和合本（简体中文）",
    "license": "公有领域",
    "source": "https://ebible.org/"
+  },
+  {
+   "what": "艺术诠释（浏览页面）：人像和3D模型",
+   "author": "由See The Shroud使用ChatGPT（图像）和MakerWorld Image-to-3D（3D模型）制作。Powered by MakerWorld-Image-to-3D",
+   "license": "CC BY-NC-SA 4.0",
+   "source": "https://makerworld.com/makerlab/imageTo3d"
   }
  ]
 }

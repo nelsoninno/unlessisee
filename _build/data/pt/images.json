@@ -35,6 +35,12 @@
    "author": "Bíblia Livre (português), de Diego Santos, Mario Sérgio e Marco Teles",
    "license": "CC BY 4.0",
    "source": "https://ebible.org/"
+  },
+  {
+   "what": "Interpretação artística (explorador): figura e modelo 3D",
+   "author": "Feita por See The Shroud com ChatGPT (imagem) e MakerWorld Image-to-3D (modelo 3D). Powered by MakerWorld-Image-to-3D",
+   "license": "CC BY-NC-SA 4.0",
+   "source": "https://makerworld.com/makerlab/imageTo3d"
   }
  ]
 }

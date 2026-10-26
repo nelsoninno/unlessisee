@@ -635,3 +635,14 @@ h1{font-size:clamp(2.5rem,5.6vw,4.6rem)}
   .explorer__ovnote{position:absolute;inset-inline:.6rem;top:.5rem;z-index:5;flex-basis:auto;background:rgba(255,255,255,.92);color:var(--ink-soft);border-radius:10px;padding:.35rem .6rem;font-size:.74rem;pointer-events:none}
   .explorer__ovnote:empty{display:none}
 }
+
+/* Explore: the artistic interpretation */
+.art__label{display:inline-block;margin-top:.6rem;padding:.35rem .8rem;border-radius:999px;border:1px solid var(--sepia);color:var(--sepia);font-family:var(--font-sans);font-size:.85rem}
+.art__stack{position:relative;border-radius:14px;overflow:hidden;background:var(--linen-deep);max-width:460px;margin-inline:auto}
+.art__stack img{display:block;width:100%;height:auto}
+.art__stack .art__fig{position:absolute;max-width:none;object-fit:fill;transition:opacity .25s}
+.art__ctl{max-width:460px;margin:1rem auto 0;display:grid;gap:.6rem}
+.art__ctl input[type=range]{width:100%;accent-color:var(--sepia)}
+.art__btns{margin:0;justify-content:center}
+.viewer--figure{aspect-ratio:5/8;max-width:460px;margin-inline:auto;height:auto}
+.art__credit{margin-top:2rem;max-width:72ch}

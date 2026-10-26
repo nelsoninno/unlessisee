@@ -35,6 +35,12 @@
    "author": "World English Bible (angielski), Reina-Valera 1909 (hiszpański) i Uwspółcześniona Biblia Gdańska (polski, © 2018 Fundacja Wrota Nadziei)",
    "license": "Domena publiczna (WEB, Reina-Valera 1909). UBG: licencja CC BY-ND 4.0",
    "source": "https://ebible.org/"
+  },
+  {
+   "what": "Interpretacja artystyczna (eksplorator): postać i model 3D",
+   "author": "Wykonane przez See The Shroud za pomocą ChatGPT (obraz) i MakerWorld Image-to-3D (model 3D). Powered by MakerWorld-Image-to-3D",
+   "license": "CC BY-NC-SA 4.0",
+   "source": "https://makerworld.com/makerlab/imageTo3d"
   }
  ]
 }

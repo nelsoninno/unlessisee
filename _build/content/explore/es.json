@@ -10,6 +10,19 @@
    "poker": { "label": "Agujeros de atizador", "note": "Cuatro grupos de pequeños agujeros de quemadura en forma de L, anteriores al incendio de 1532." },
    "blood": { "label": "Manchas de sangre", "note": "Las principales manchas de sangre: cabeza, muñecas, antebrazos, costado, zona lumbar y pies. Zonas aproximadas." },
    "sample": { "label": "Muestra de radiocarbono", "note": "La esquina donde se cortó la muestra de radiocarbono de 1988 (ubicación aproximada)." }
+  },
+  "art": {
+   "h2": "La interpretación de un artista",
+   "text": "¿Cómo pudo haber sido el hombre de la tela? Hicimos esta figura con IA: una imagen de ChatGPT, convertida en 3D con MakerWorld. Sigue las marcas de la tela, como las heridas, las manos cruzadas y el cabello largo. Desliza para ponerla sobre la fotografía de 1931 y comparar.",
+   "label": "Una interpretación artística, hecha con IA. No es evidencia, ni la reconstrucción de un cuerpo real.",
+   "fade": "Qué tan visible es la interpretación",
+   "only": "Solo la Sábana Santa",
+   "half": "Las dos",
+   "full": "Solo la interpretación",
+   "alt": "Figura de un artista del hombre de la Sábana Santa, puesta sobre la fotografía de 1931 de la imagen frontal",
+   "figAlt": "La misma figura en 3D, de pie frente a la fotografía. Arrástrala para girarla.",
+   "cap3d": "Arrastra para girar la figura. Detrás está la fotografía de 1931 de la imagen frontal.",
+   "credit": "Figura hecha por See The Shroud con ChatGPT y MakerWorld Image-to-3D. Powered by MakerWorld-Image-to-3D. Compartida bajo CC BY-NC-SA 4.0. Fondo: Giuseppe Enrie, 1931, edición digital de Rudolf Berwanger, CC BY-SA 4.0."
   }
  }
 }

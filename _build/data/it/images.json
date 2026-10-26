@@ -35,6 +35,12 @@
    "author": "World English Bible (inglese), Reina-Valera 1909 (spagnolo) e Riveduta 1927 (italiano)",
    "license": "Pubblico dominio",
    "source": "https://ebible.org/"
+  },
+  {
+   "what": "Interpretazione artistica (esploratore): figura e modello 3D",
+   "author": "Realizzata da See The Shroud con ChatGPT (immagine) e MakerWorld Image-to-3D (modello 3D). Powered by MakerWorld-Image-to-3D",
+   "license": "CC BY-NC-SA 4.0",
+   "source": "https://makerworld.com/makerlab/imageTo3d"
   }
  ]
 }

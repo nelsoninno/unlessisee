@@ -35,6 +35,12 @@
    "author": "World English Bible (الإنجليزية)، وترجمة سميث وفاندايك (العربية)",
    "license": "ملكية عامة",
    "source": "https://ebible.org/"
+  },
+  {
+   "what": "تفسير فني (المستكشف): الشكل والنموذج ثلاثي الأبعاد",
+   "author": "صنعه موقع See The Shroud باستخدام ChatGPT (الصورة) و MakerWorld Image-to-3D (النموذج ثلاثي الأبعاد). Powered by MakerWorld-Image-to-3D",
+   "license": "CC BY-NC-SA 4.0",
+   "source": "https://makerworld.com/makerlab/imageTo3d"
   }
  ]
 }
