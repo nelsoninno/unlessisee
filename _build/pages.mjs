@@ -374,7 +374,7 @@ ${srcList(it.sources)}
   const claimsList = (CL.items || []).map(cl => {
     const links = (cl.exhibits || []).filter(id => exTitle[id]).map(id => `<a href="#${attr(id)}">${esc(exTitle[id])}</a>`).join(' &middot; ');
     return `<article class="heard" id="${attr(cl.id)}" data-side="${cl.side}">
-<div class="heard__head"><span class="exhibit__lean exhibit__lean--${cl.side}">${esc(cl.side === 'for' ? cc.tagFor : cc.tagAgainst)}</span><span class="verdict verdict--${attr(cl.verdict)}">${esc((cc.verdicts || {})[cl.verdict] || cl.verdict)}</span></div>
+<div class="heard__head"><span class="exhibit__lean exhibit__lean--${cl.side}">${esc(cl.side === 'for' ? cc.tagFor : cc.tagAgainst)}</span><span class="claim-verdict claim-verdict--${attr(cl.verdict)}">${esc((cc.verdicts || {})[cl.verdict] || cl.verdict)}</span></div>
 <h3 class="heard__q"><q>${esc(cl.claim)}</q></h3>
 <p>${esc(cl.check)}</p>
 ${links ? `<p class="meta heard__see">${esc(cc.seeExhibit)} ${links}</p>` : ''}${srcList(cl.sources)}

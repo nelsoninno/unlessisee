@@ -606,11 +606,11 @@ h1{font-size:clamp(2.5rem,5.6vw,4.6rem)}
 .heard p{font-size:1rem;line-height:1.65}
 .heard__see{margin-top:.8rem}
 .heard .sources{margin-top:.6rem}
-.verdict{font-family:var(--font-sans);font-size:.78rem;font-weight:600;padding:.2rem .7rem;border-radius:999px;border:1px solid var(--ink);color:var(--ink);white-space:nowrap}
-.verdict--false{background:var(--ink);color:var(--white)}
-.verdict--noevidence{border-color:var(--ink-soft);color:var(--ink-soft)}
-.verdict--unproven{border-style:dashed}
-.verdict--overstated,.verdict--partly{border-color:var(--sepia);color:var(--sepia)}
+.claim-verdict{font-family:var(--font-sans);font-size:.78rem;font-weight:600;padding:.2rem .7rem;border-radius:999px;border:1px solid var(--ink);color:var(--ink);white-space:nowrap}
+.claim-verdict--false{background:var(--ink);color:var(--white)}
+.claim-verdict--noevidence{border-color:var(--ink-soft);color:var(--ink-soft)}
+.claim-verdict--unproven{border-style:dashed}
+.claim-verdict--overstated,.claim-verdict--partly{border-color:var(--sepia);color:var(--sepia)}
 @media (max-width:860px){.heards{grid-template-columns:1fr}.heard{scroll-margin-top:80px}}
 .jump-next{margin-top:2rem;padding-top:1.2rem;border-top:1px solid var(--linen-edge);font-size:.95rem}
 :lang(ar) .heard__q q{quotes:"«" "»" "‹" "›"}
