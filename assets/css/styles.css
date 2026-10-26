@@ -684,3 +684,23 @@ h1{font-size:clamp(2.5rem,5.6vw,4.6rem)}
 .flatfig__halves b{font-size:1rem;color:var(--ink)}.flatfig__halves span{font-size:.82rem;color:var(--ink-soft)}
 @media (max-width:600px){.flatfig__top span,.flatfig__halves span{font-size:.72rem;white-space:normal}.flatfig__halves b,.flatfig__top b{font-size:.85rem}}
 .armfig__ov text.f1,.armfig__ov text.f2{fill:#fff}
+/* forearm lens: negative close-up turned the way the arm hung, so the active trail runs straight down */
+.armfig{max-width:620px}
+.armfig__row{display:flex;align-items:center;justify-content:center;gap:1rem}
+.armfig__lens{position:relative;flex:0 1 460px;aspect-ratio:1;max-width:100%;border-radius:50%;overflow:hidden;box-shadow:0 0 0 3px var(--light),0 10px 30px rgba(0,0,0,.35);background:#111}
+.armfig__rot{position:absolute;inset:0;transform:rotate(123.5deg);transition:transform 1.1s cubic-bezier(.45,.05,.25,1)}
+.armfig[data-pose="1"] .armfig__rot{transform:rotate(134.4deg)}
+.armfig__rot img{display:block;width:100%;height:100%;object-fit:cover}
+.armfig__ov line{transition:opacity .6s,stroke-width .6s}
+.armfig[data-pose="0"] .armfig__ov line.f1,.armfig[data-pose="1"] .armfig__ov line.f2{opacity:.3}
+.armfig[data-pose="0"] .armfig__ov line.f2,.armfig[data-pose="1"] .armfig__ov line.f1{stroke-width:1.8}
+.armfig__down{flex:0 0 auto;display:flex;flex-direction:column;align-items:center;gap:.4rem;width:4.5rem;text-align:center;font-size:.8rem;line-height:1.25;color:var(--ink-soft)}
+.armfig__down svg{width:20px;height:130px}
+.armfig__down line{stroke:currentColor;stroke-width:2;stroke-dasharray:5 4}.armfig__down path{fill:currentColor}
+.armfig__key{list-style:none;display:flex;flex-wrap:wrap;justify-content:center;gap:.5rem 1.5rem;margin:1rem 0 0;padding:0;font-size:.95rem}
+.armfig__key li{display:flex;align-items:center;gap:.5rem;opacity:.55;transition:opacity .6s}
+.armfig__key i{display:inline-block;width:1.6rem;height:4px;border-radius:2px}
+.armfig__key .k1 i{background:#E0564A}.armfig__key .k2 i{background:#F2C94C}
+.armfig[data-pose="0"] .k2,.armfig[data-pose="1"] .k1{opacity:1;font-weight:700}
+@media (prefers-reduced-motion:reduce){.armfig__rot{transition:none}}
+@media (max-width:480px){.armfig__down{width:3.2rem;font-size:.72rem}.armfig__down svg{height:90px}}

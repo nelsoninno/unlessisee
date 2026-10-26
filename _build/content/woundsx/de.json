@@ -3,9 +3,10 @@
   "alt": "Nahaufnahme eines Unterarms auf der Fotografie von 1931, mit einer Blutspur, die an ihm entlangläuft",
   "show": "Beide Richtungen zeigen",
   "hide": "Richtungen ausblenden",
-  "cap": "Nahaufnahme eines Unterarms auf der Fotografie von 1931. In unserer Nachzeichnung verlaufen der Teil der Spur nahe dem Handgelenk und der Teil zum Ellbogen hin in Winkeln, die etwa zehn Grad auseinanderliegen. Pfeile von uns gezeichnet; ungefähr.",
+  "cap": "Nahaufnahme eines Unterarms auf der Fotografie von 1931, im Negativ, damit das Blut hell erscheint. Sie ist so gedreht, wie der Arm am Kreuz hing, Handgelenk oben, sodass der hervorgehobene Teil der Spur senkrecht nach unten läuft. Drücken Sie den Knopf: Der Arm dreht sich um etwa zehn Grad, und der andere Teil läuft senkrecht nach unten. Welcher Teil zu welcher Haltung gehört, ist unsere Deutung. Pfeile von uns gezeichnet; ungefähr.",
   "one": "nahe dem Handgelenk",
-  "two": "zum Ellbogen hin"
+  "two": "zum Ellbogen hin",
+  "down": "Senkrecht nach unten"
  },
  "crown": {
   "h2": "Die Dornenkrone",
@@ -14,7 +15,7 @@
   "foreCap": "Die Stirn: Spuren aus mehreren Einstichen, eine davon in Form der Ziffer 3.",
   "backAlt": "Nahaufnahme des Hinterkopfs auf der Fotografie von 1931, mit vielen kleinen Blutspuren",
   "backCap": "Der Hinterkopf: viele einzelne Spuren über dem Nacken.",
-  "photoNote": "Fotografie von Giuseppe Enrie, 1931; Kontrast von uns verstärkt, damit die Flecken besser zu sehen sind.",
+  "photoNote": "Fotografie von Giuseppe Enrie, 1931, im Negativ, daher erscheint das Blut hell. Kontrast von uns verstärkt, damit die Flecken besser zu sehen sind.",
   "h3": "Eine Haube, kein Kranz",
   "modelAlt": "3D-Modell einer Haube aus Dornen. Ziehen Sie, um es zu drehen.",
   "modelCap": "Ziehen Sie, um es ganz herumzudrehen. Etwa die Hälfte der Dornen zeigt nach innen, zur Kopfhaut.",

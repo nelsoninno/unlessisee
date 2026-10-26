@@ -3,9 +3,10 @@
   "alt": "Malapitang kuha ng isang bisig sa litrato noong 1931, na may bakas ng dugong umaagos sa kahabaan nito",
   "show": "Ipakita ang dalawang direksyon",
   "hide": "Itago ang mga direksyon",
-  "cap": "Malapitang kuha ng isang bisig sa litrato noong 1931. Sa aming pagguhit, ang bahagi ng bakas malapit sa pulso at ang bahaging patungo sa siko ay may mga anggulong mga sampung digri ang pagitan. Kami ang gumuhit ng mga arrow; tinatayang lamang.",
+  "cap": "Malapitang kuha ng isang bisig sa litrato noong 1931, naka-negative para lumitaw na maliwanag ang dugo. Iniikot ito kung paano nakabitin ang braso sa krus, nasa itaas ang pulso, kaya ang naka-highlight na bahagi ng bakas ay dumadaloy nang tuwid pababa. Pindutin ang button: iikot ang braso nang mga sampung digri at ang kabilang bahagi ang dadaloy nang tuwid pababa. Kung aling bahagi ang tugma sa aling posisyon ay aming pagbasa. Kami ang gumuhit ng mga arrow; tinatayang lamang.",
   "one": "malapit sa pulso",
-  "two": "patungo sa siko"
+  "two": "patungo sa siko",
+  "down": "Tuwid pababa"
  },
  "crown": {
   "h2": "Ang koronang tinik",
@@ -14,7 +15,7 @@
   "foreCap": "Ang noo: mga daloy mula sa ilang tusok, ang isa ay hugis numero 3.",
   "backAlt": "Malapitang kuha ng likod ng ulo sa litrato noong 1931, na may maraming maliliit na daloy ng dugo",
   "backCap": "Ang likod ng ulo: maraming magkakahiwalay na daloy sa itaas ng leeg.",
-  "photoNote": "Litrato ni Giuseppe Enrie, 1931; itinaas namin ang contrast para mas madaling makita ang mga mantsa.",
+  "photoNote": "Litrato ni Giuseppe Enrie, 1931, naka-negative kaya maliwanag ang dugo. Itinaas namin ang contrast para mas madaling makita ang mga mantsa.",
   "h3": "Takip, hindi singsing",
   "modelAlt": "3D na modelo ng isang takip na tinik. I-drag para paikutin ito.",
   "modelCap": "I-drag para paikutin ito nang buo. Mga kalahati ng mga tinik ay nakaturo papasok, patungo sa anit.",

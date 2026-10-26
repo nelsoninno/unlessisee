@@ -3,9 +3,10 @@
   "alt": "Primer plano de un antebrazo en la fotografía de 1931, con un hilo de sangre que corre a lo largo de él",
   "show": "Mostrar las dos direcciones",
   "hide": "Ocultar las direcciones",
-  "cap": "Primer plano de un antebrazo en la fotografía de 1931. En nuestro trazado, la parte del hilo cerca de la muñeca y la parte hacia el codo corren en ángulos separados unos diez grados. Flechas dibujadas por nosotros; aproximadas.",
+  "cap": "Primer plano de un antebrazo en la fotografía de 1931, en negativo para que la sangre se vea clara. Está girado como colgaba el brazo en la cruz, con la muñeca arriba, así que la parte resaltada del hilo corre hacia abajo. Pulsa el botón: el brazo gira unos diez grados y la otra parte corre hacia abajo. Qué parte corresponde a cada posición es nuestra lectura. Flechas dibujadas por nosotros; aproximadas.",
   "one": "cerca de la muñeca",
-  "two": "hacia el codo"
+  "two": "hacia el codo",
+  "down": "Hacia abajo"
  },
  "crown": {
   "h2": "La corona de espinas",
@@ -14,7 +15,7 @@
   "foreCap": "La frente: flujos de varios pinchazos, uno con la forma del número 3.",
   "backAlt": "Primer plano de la parte trasera de la cabeza en la fotografía de 1931, con muchos pequeños flujos de sangre",
   "backCap": "La parte trasera de la cabeza: muchos flujos separados por encima del cuello.",
-  "photoNote": "Fotografía de Giuseppe Enrie, 1931; contraste aumentado por nosotros para que las manchas se vean mejor.",
+  "photoNote": "Fotografía de Giuseppe Enrie, 1931, en negativo, así que la sangre se ve clara. Contraste aumentado por nosotros para que las manchas se vean mejor.",
   "h3": "Un casco, no un anillo",
   "modelAlt": "Modelo 3D de un casco de espinas. Arrástralo para girarlo.",
   "modelCap": "Arrástralo para darle la vuelta completa. Cerca de la mitad de las espinas apuntan hacia dentro, hacia el cuero cabelludo.",

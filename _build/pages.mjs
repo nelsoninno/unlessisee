@@ -484,24 +484,27 @@ function wounds(ctx, page) {
   </div>
   <div><div class="measure" style="margin-bottom:1.5rem">${p.intro}</div><div class="wound-list">${list}</div></div>
 </div></section>
-<section class="linen band"><div class="wrap">${breathFigure(ctx, c)}${armFigure(ctx, p.x)}</div></section>
+<section class="linen band"><div class="wrap">${breathFigure(ctx, c)}${armFigure(ctx, p.x, p.breath)}</div></section>
 ${crownSection(ctx, c, p.x)}
 <section class="linen band band--tight" style="border-top:1px solid var(--linen-edge)"><div class="wrap prose">${p.after}</div></section>`;
   return layout(ctx, page, { title: p.title, description: p.description, jsonld: siteGraph(ctx, page, p) }, body, ['assets/js/lists.js', ...v3d, 'assets/js/crown3d.js']);
 }
 
 // Forearm close-up with a toggle that draws the two directions of the blood trail
-function armFigure(ctx, X) {
+function armFigure(ctx, X, B) {
   if (!X || !X.arm) return '';
-  const a = X.arm, H = 125.4;
-  const ar = (x1, y1, x2, y2, cls) => `<line class="${cls}" x1="${x1}" y1="${y1 * H / 100}" x2="${x2}" y2="${y2 * H / 100}" marker-end="url(#ah-${cls})"/>`;
-  return `<figure class="armfig">
-  <div class="armfig__stack"><img src="${ctx.asset(IMG + 'wounds/forearm-blood-flows-shroud-of-turin-seetheshroud.org.webp')}" alt="${attr(a.alt)}" width="900" height="1129" loading="lazy">
-  <svg class="armfig__ov" id="arm-ov" viewBox="0 0 100 ${H}" aria-hidden="true"><defs>${['f1', 'f2'].map(k => `<marker id="ah-${k}" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" class="${k}"/></marker>`).join('')}</defs>
-  <line class="ext" x1="52" y1="${47 * H / 100}" x2="84" y2="${22 * H / 100}"/>
-  ${ar(20, 72, 51, 47.8, 'f1')}${ar(53, 44.8, 82, 29.5, 'f2')}
-  <text x="22" y="${80 * H / 100}" class="f1">1 · ${esc(a.one)}</text><text x="56" y="${25 * H / 100}" class="f2">2 · ${esc(a.two)}</text></svg></div>
-  <div class="btn-row"><button class="btn" type="button" data-ov-toggle aria-controls="arm-ov" aria-pressed="false" data-labels='${attr(JSON.stringify([a.show, a.hide]))}'>${esc(a.show)}</button></div>
+  const a = X.arm;
+  // Trail directions measured on the square negative crop (percent). Rotations turn each trail straight down.
+  const ar = (x1, y1, x2, y2, k) => `<line class="${k}" x1="${x1}" y1="${y1}" x2="${x2}" y2="${y2}" marker-end="url(#ah-${k})"/>`;
+  return `<figure class="armfig" data-pose="0">
+  <div class="armfig__row" dir="ltr"><div class="armfig__lens"><div class="armfig__rot">
+    <img src="${ctx.asset(IMG + 'wounds/forearm-blood-flows-negative-shroud-of-turin-seetheshroud.org.webp')}" alt="${attr(a.alt)}" width="800" height="799" loading="lazy">
+    <svg class="armfig__ov on" id="arm-ov" viewBox="0 0 100 100" aria-hidden="true"><defs>${['f1', 'f2'].map(k => `<marker id="ah-${k}" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" class="${k}"/></marker>`).join('')}</defs>
+    ${ar(16, 86.6, 50.1, 53.2, 'f1')}${ar(52.3, 49.1, 84.2, 28, 'f2')}</svg>
+  </div></div>
+  <div class="armfig__down" aria-hidden="true"><svg viewBox="0 0 20 100"><line x1="10" y1="4" x2="10" y2="88"/><path d="M3 82L10 96L17 82z"/></svg><span>${esc(a.down || '')}</span></div></div>
+  <ul class="armfig__key"><li class="k1"><i></i>1 · ${esc(a.one)}</li><li class="k2"><i></i>2 · ${esc(a.two)}</li></ul>
+  <div class="btn-row"><button class="btn btn--solid" type="button" data-breath-btn data-labels='${attr(JSON.stringify([B.up, B.down]))}'>${esc(B.up)}</button><button class="btn" type="button" data-ov-toggle aria-controls="arm-ov" aria-pressed="true" data-labels='${attr(JSON.stringify([a.show, a.hide]))}'>${esc(a.hide)}</button></div>
   <figcaption>${esc(a.cap)}</figcaption></figure>`;
 }
 
@@ -512,8 +515,8 @@ function crownSection(ctx, c, X) {
   return `<section class="plate band" id="crown"><div class="wrap">
   <div class="measure"><h2>${esc(k.h2)}</h2><p>${esc(k.text)}</p></div>
   <div class="crown-shots">
-    <figure><img src="${ctx.asset(IMG + 'wounds/forehead-wounds-shroud-of-turin-seetheshroud.org.webp')}" alt="${attr(k.foreAlt)}" width="800" height="789" loading="lazy"><figcaption>${esc(k.foreCap)}</figcaption></figure>
-    <figure><img src="${ctx.asset(IMG + 'wounds/back-of-head-wounds-shroud-of-turin-seetheshroud.org.webp')}" alt="${attr(k.backAlt)}" width="800" height="549" loading="lazy"><figcaption>${esc(k.backCap)}</figcaption></figure>
+    <figure><img src="${ctx.asset(IMG + 'wounds/forehead-wounds-negative-shroud-of-turin-seetheshroud.org.webp')}" alt="${attr(k.foreAlt)}" width="800" height="789" loading="lazy"><figcaption>${esc(k.foreCap)}</figcaption></figure>
+    <figure><img src="${ctx.asset(IMG + 'wounds/back-of-head-wounds-negative-shroud-of-turin-seetheshroud.org.webp')}" alt="${attr(k.backAlt)}" width="800" height="549" loading="lazy"><figcaption>${esc(k.backCap)}</figcaption></figure>
   </div>
   <p class="meta" style="margin-top:1rem">${esc(k.photoNote)}</p>
   <div class="split" style="margin-top:3rem;align-items:center">

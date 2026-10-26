@@ -3,9 +3,10 @@
   "alt": "Zbliżenie przedramienia na zdjęciu z 1931 roku, wzdłuż którego biegnie struga krwi",
   "show": "Pokaż oba kierunki",
   "hide": "Ukryj kierunki",
-  "cap": "Zbliżenie przedramienia na zdjęciu z 1931 roku. Na naszym obrysie część strugi przy nadgarstku i część biegnąca w stronę łokcia rozchodzą się pod kątem około dziesięciu stopni. Strzałki narysowane przez nas; w przybliżeniu.",
+  "cap": "Zbliżenie przedramienia na zdjęciu z 1931 roku, w negatywie, aby krew była jasna. Jest obrócone tak, jak ramię wisiało na krzyżu, nadgarstkiem w górę, więc wyróżniona część strugi biegnie prosto w dół. Naciśnij przycisk: ramię obraca się o około dziesięć stopni i prosto w dół biegnie druga część. To, która część odpowiada której pozycji, jest naszą interpretacją. Strzałki narysowane przez nas; w przybliżeniu.",
   "one": "przy nadgarstku",
-  "two": "w stronę łokcia"
+  "two": "w stronę łokcia",
+  "down": "Prosto w dół"
  },
  "crown": {
   "h2": "Korona cierniowa",
@@ -14,7 +15,7 @@
   "foreCap": "Czoło: strugi z kilku nakłuć, jedna w kształcie cyfry 3.",
   "backAlt": "Zbliżenie tyłu głowy na zdjęciu z 1931 roku, z wieloma małymi strugami krwi",
   "backCap": "Tył głowy: wiele osobnych strug nad karkiem.",
-  "photoNote": "Zdjęcie Giuseppe Enriego, 1931; kontrast zwiększony przez nas, aby plamy były lepiej widoczne.",
+  "photoNote": "Zdjęcie Giuseppe Enriego, 1931, w negatywie, więc krew jest jasna. Kontrast zwiększony przez nas, aby plamy były lepiej widoczne.",
   "h3": "Czepiec, nie obręcz",
   "modelAlt": "Model 3D czepca z cierni. Przeciągnij, aby go obrócić.",
   "modelCap": "Przeciągnij, aby obrócić go dookoła. Około połowy cierni jest skierowanych do środka, w stronę skóry głowy.",
