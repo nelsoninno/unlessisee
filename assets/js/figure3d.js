@@ -27,7 +27,7 @@
       var H=M.hi[1]-M.lo[1]; fig.position.y=-H/2; group.add(fig);
       // the photograph behind, scaled so the figure covers the same part of the cloth as in the slider above
       var ph=H/place.height, pw=ph*place.aspect;
-      var bgt=loader.load(bg,render); bgt.colorSpace=THREE.SRGBColorSpace;
+      var bgt=loader.load(bg,render); bgt.colorSpace=THREE.SRGBColorSpace; bgt.wrapS=THREE.RepeatWrapping; bgt.repeat.x=-1; bgt.offset.x=1; // mirrored, like the cloth's image of the body
       var plane=new THREE.Mesh(new THREE.PlaneGeometry(pw,ph),new THREE.MeshBasicMaterial({map:bgt}));
       // figure spans y in [-H/2, H/2]; on the photo it spans [top, top+height] of the height, measured from the top
       var yTopPhoto=H/2+place.top*ph, cy=yTopPhoto-ph/2;

@@ -37,6 +37,7 @@ ${faq.map(f => `- [${f.q}](${d}faq.html#${f.id})`).join('\n')}
 - [Explore the cloth](${d}explore.html): zoomable full-cloth image with negative filter and annotated marks
 - [The case file](${d}evidence.html): ${L.data.evidence ? L.data.evidence.items.length : ''} arguments for and against, rated by strength, with the skeptic's best answer
 - [Claims you will hear, checked](${d}evidence.html#claims): ${L.data.claims ? L.data.claims.items.length : ''} popular claims from both sides (Leonardo da Vinci, NASA, the Church, the carbon date, pollen, coins over the eyes and more), each with a verdict and sources
+- [See it in 3D](${d}3d.html): the image turned into a 3D relief, compared with a painting, and an artist's figure (made with AI, clearly labeled) laid over the 1931 photograph
 - [Your verdict](${d}weigh.html): weigh 14 key points yourself; skeptic, neutral and believer presets
 - [The wounds](${d}wounds.html): each wound described by forensic pathologists, next to the Gospel text
 - [Carbon dating](${d}dating.html): the 1988 test, all twelve measurements, the sample, the reanalyses

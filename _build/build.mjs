@@ -39,6 +39,16 @@ async function loadLang(lang) {
     copy.pages = { ...copy.pages, weigh: deepMerge(wEn.page, wLoc.page) };
     if (!copy.nav.some(n => n.slug === 'weigh')) { const i = copy.nav.findIndex(n => n.slug === 'evidence'); copy.nav = [...copy.nav]; copy.nav.splice(i + 1, 0, { slug: 'weigh', label: wLoc.nav || wEn.nav }); }
   }
+  // "See it in 3D" page copy lives in content/in3d/<lang>.json (nav label + page copy), English as fallback
+  const tEn = readJSON(path.join(__dirname, 'content', 'in3d', CONFIG.defaultLang + '.json'), null);
+  const tLoc = readJSON(path.join(__dirname, 'content', 'in3d', lang + '.json'), null) || tEn;
+  if (tEn) {
+    copy.pages = { ...copy.pages, '3d': deepMerge(tEn.page, tLoc.page) };
+    if (!copy.nav.some(n => n.slug === '3d')) copy.nav = [...copy.nav, { slug: '3d', label: tLoc.nav || tEn.nav }];
+  }
+  // Menu order (Nelson, 25 Oct 2026)
+  const NAV_ORDER = ['explore', '3d', 'weigh', 'image', 'wounds', 'dating', 'timeline', 'videos', 'evidence', 'library', 'next', 'about'];
+  copy.nav = [...copy.nav].sort((a, b) => (NAV_ORDER.indexOf(a.slug) + 1 || 99) - (NAV_ORDER.indexOf(b.slug) + 1 || 99));
   // FAQ page copy lives in content/faq/<lang>.json, English as fallback
   const fEn = readJSON(path.join(__dirname, 'content', 'faq', CONFIG.defaultLang + '.json'), null);
   const fLoc = readJSON(path.join(__dirname, 'content', 'faq', lang + '.json'), null) || fEn;
@@ -151,7 +161,7 @@ function langSwitch(ctx, page, inFooter = false) {
 
 function header(ctx, page) {
   const c = ctx.L.copy;
-  const links = c.nav.map(n => `<a href="${ctx.href(n.slug)}"${n.slug === 'weigh' ? ' class="nav-cta"' : ''}${n.slug === page.slug ? ' aria-current="page"' : ''}>${esc(n.label)}</a>`).join('');
+  const links = c.nav.map(n => `<a href="${ctx.href(n.slug)}"${n.slug === 'weigh' ? ' class="nav-cta"' : n.slug === '3d' ? ' class="nav-cta nav-cta--3d"' : ''}${n.slug === page.slug ? ' aria-current="page"' : ''}>${esc(n.label)}</a>`).join('');
   return `<a class="skip" href="#main">${esc(c.ui.skip)}</a>
 <header class="site-head"><div class="wrap">
 <a class="brand" href="${ctx.href('index')}">${mark}<span>${esc(c.brand)}</span></a>

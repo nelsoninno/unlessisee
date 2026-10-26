@@ -209,7 +209,7 @@ function home(ctx, page) {
 
 <section class="plate band band--tight" id="three-d"><div class="wrap split split--wide-left">
   ${relief(ctx, c, 'face', { label: p.reliefAlt, depth: 0.45 })}
-  <div><h2>${p.d3H}</h2>${p.d3Text}<p class="note" style="margin-top:1.5rem">${p.d3Skeptic}</p><div class="btn-row"><a class="btn" href="${ctx.href('explore')}#relief">${esc(p.d3Cta)}</a></div></div>
+  <div><h2>${p.d3H}</h2>${p.d3Text}<p class="note" style="margin-top:1.5rem">${p.d3Skeptic}</p><div class="btn-row"><a class="btn" href="${ctx.href('3d')}">${esc(p.d3Cta)}</a></div></div>
 </div></section>
 
 <section class="linen band" id="marks"><div class="wrap split">
@@ -258,7 +258,7 @@ function explore(ctx, page) {
   data.image.src = ctx.asset(S.image ? S.image.src : IMG + 'shroud/full-cloth-shroud-of-turin-seetheshroud.org.webp');
   if (S.image && S.image.srcHi) data.image.srcHi = ctx.asset(S.image.srcHi);
   const body = `
-<section class="linen"><div class="wrap page-head" style="padding-bottom:1.5rem"><h1>${p.h1}</h1><p class="lede">${p.lede}</p></div></section>
+<section class="linen"><div class="wrap page-head page-head--compact"><h1>${p.h1}</h1><p class="meta">${p.ui.help}</p></div></section>
 <section class="explorer" aria-label="${attr(p.h1)}">
   <div class="explorer__bar" role="toolbar" aria-label="${attr(p.ui.tools)}">
     <button class="tool" type="button" data-tool="neg" aria-pressed="false">${esc(p.ui.negative)}</button>
@@ -286,23 +286,14 @@ function explore(ctx, page) {
   </div>
   <script type="application/json" id="explorer-data">${json(data)}</script>
 </section>
-<section class="plate band" id="relief"><div class="wrap">
-  <div class="measure"><h2>${p.reliefH}</h2>${p.reliefText}</div>
-  <div class="split" style="margin-top:2.5rem;align-items:start">
-    <figure>${relief(ctx, c, 'face', { label: p.reliefFaceAlt, depth: 0.45 })}<figcaption>${p.reliefFaceCap}</figcaption></figure>
-    <figure>${relief(ctx, c, 'painting', { label: p.reliefPaintAlt, depth: 0.45 })}<figcaption>${p.reliefPaintCap}</figcaption></figure>
-  </div>
-  <p class="note" style="margin-top:2rem">${p.reliefSkeptic}</p>
-</div></section>
-${artSection(ctx, c, p)}
 <section class="linen band band--tight"><div class="wrap prose"><h2>${p.photosH}</h2>${p.photosText}</div></section>`;
   return layout(ctx, page, { title: p.title, description: p.description, jsonld: siteGraph(ctx, page, p) }, body,
-    ['assets/js/explorer.js', ...v3d, 'assets/js/data/relief-face.js', 'assets/js/data/relief-painting.js', 'assets/js/figure3d.js']);
+    ['assets/js/explorer.js']);
 }
 
 // An artistic interpretation (AI figure) over the 1931 photograph, with a fade slider and a 3D view
 const ART_PLACE = { left: 0.273, top: 0.062, width: 0.454, height: 0.923, aspect: 900 / 1773 };
-function artSection(ctx, c, p) {
+function artSection(ctx, c, p, t) {
   const a = p.ui.art; if (!a) return '';
   const bg = ctx.asset(IMG + 'shroud/body-front-shroud-of-turin-seetheshroud.org.webp');
   const fig = ctx.asset(IMG + 'art/artistic-interpretation-figure-seetheshroud.org.webp');
@@ -311,14 +302,32 @@ function artSection(ctx, c, p) {
   <div class="measure"><h2 id="art-h">${esc(a.h2)}</h2><p>${esc(a.text)}</p><p class="art__label">${esc(a.label)}</p></div>
   <div class="art split" style="margin-top:2rem;align-items:start">
     <figure>
-      <div class="art__stack" role="img" aria-label="${attr(a.alt)}"><img src="${bg}" alt="" width="900" height="1773" loading="lazy"><img class="art__fig" src="${fig}" alt="" loading="lazy" style="left:${P.left * 100}%;top:${P.top * 100}%;width:${P.width * 100}%;height:${P.height * 100}%"></div>
+      <div class="art__stack" role="img" aria-label="${attr(a.alt)}"><img class="art__bg" src="${bg}" alt="" width="900" height="1773" loading="lazy"><img class="art__fig" src="${fig}" alt="" loading="lazy" style="left:${P.left * 100}%;top:${P.top * 100}%;width:${P.width * 100}%;height:${P.height * 100}%"></div>
       <div class="art__ctl"><label class="meta" for="art-fade">${esc(a.fade)}</label><input id="art-fade" type="range" min="0" max="100" value="55" data-art-fade>
       <div class="btn-row art__btns"><button class="tool" type="button" data-art-set="0">${esc(a.only)}</button><button class="tool" type="button" data-art-set="50">${esc(a.half)}</button><button class="tool" type="button" data-art-set="100">${esc(a.full)}</button></div></div>
     </figure>
     <figure><div class="viewer viewer--figure" data-lazy-init="initFigure3D" data-base="${ctx.asset('assets/models/figure-3d').replace(/\?.*$/, '')}" data-bg="${bg}" data-place='${attr(JSON.stringify(P))}' role="img" aria-label="${attr(a.figAlt)}"><div class="viewer__fallback" hidden>${esc(c.ui3d.fallback)}</div></div><figcaption>${esc(a.cap3d)}</figcaption></figure>
   </div>
-  <p class="meta art__credit">${esc(a.credit).replace('MakerWorld-Image-to-3D', '<a href="https://makerworld.com/makerlab/imageTo3d" target="_blank" rel="noopener">MakerWorld-Image-to-3D</a>').replace('CC BY-NC-SA 4.0', '<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">CC BY-NC-SA 4.0</a>')}</p>
+  ${t && t.mirror ? `<p class="meta art__credit">${esc(t.mirror)}</p>` : ''}
+  <p class="meta art__credit" style="margin-top:.6rem">${esc(a.credit).replace('MakerWorld-Image-to-3D', '<a href="https://makerworld.com/makerlab/imageTo3d" target="_blank" rel="noopener">MakerWorld-Image-to-3D</a>').replace('CC BY-SA 4.0', '<a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>')}</p>
 </div></section>`;
+}
+
+// ===================================================================== SEE IT IN 3D
+function in3d(ctx, page) {
+  const c = ctx.L.copy, t = c.pages['3d'], p = c.pages.explore;
+  const body = `${pageHead(ctx, t)}
+<section class="plate band" id="relief"><div class="wrap">
+  <div class="measure"><h2>${p.reliefH}</h2>${p.reliefText}</div>
+  <div class="split" style="margin-top:2.5rem;align-items:start">
+    <figure>${relief(ctx, c, 'face', { label: p.reliefFaceAlt, depth: 0.45 })}<figcaption>${p.reliefFaceCap}</figcaption></figure>
+    <figure>${relief(ctx, c, 'painting', { label: p.reliefPaintAlt, depth: 0.45 })}<figcaption>${p.reliefPaintCap}</figcaption></figure>
+  </div>
+  <p class="note" style="margin-top:2rem">${p.reliefSkeptic}</p>
+</div></section>
+${artSection(ctx, c, p, t)}`;
+  return layout(ctx, page, { title: t.title, description: t.description, jsonld: siteGraph(ctx, page, t) }, body,
+    [...v3d, 'assets/js/data/relief-face.js', 'assets/js/data/relief-painting.js', 'assets/js/figure3d.js']);
 }
 
 // ===================================================================== EVIDENCE
@@ -672,6 +681,7 @@ export function notFound(ctx) {
 export const pages = [
   { slug: 'index', render: home },
   { slug: 'explore', render: explore },
+  { slug: '3d', render: in3d },
   { slug: 'evidence', render: evidence, schemaType: 'CollectionPage' },
   { slug: 'weigh', render: weigh },
   { slug: 'wounds', render: wounds, schemaType: 'Article' },
