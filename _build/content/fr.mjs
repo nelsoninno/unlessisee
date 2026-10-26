@@ -44,6 +44,7 @@ export default {
   ui3d: { depth: 'Profondeur', light: 'Lumière', clay: 'Argile', negative: 'Négatif', fallback: 'Cette vue 3D a besoin de WebGL, que votre navigateur a désactivé.' },
   emanation: {
     label: 'Une hypothèse, mise en images. Pas une preuve.',
+    note: "À titre d’illustration seulement. Pour simplifier, la vidéo ne montre que la moitié avant du linge, avec la lumière projetée en ligne droite du corps vers lui.",
     alt: 'Animation : une lumière s’élève d’un corps placé sous un linge, l’image se forme sur le linge, puis le linge retombe à plat',
     captions: [
       'Un corps repose sous un linge, dans l’obscurité.',

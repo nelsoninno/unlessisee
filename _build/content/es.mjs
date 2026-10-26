@@ -44,6 +44,7 @@ export default {
   ui3d: { depth: 'Profundidad', light: 'Luz', clay: 'Arcilla', negative: 'Negativo', fallback: 'Esta vista en 3D necesita WebGL, y tu navegador lo tiene desactivado.' },
   emanation: {
     label: 'Una hipótesis, visualizada. No es evidencia.',
+    note: "Solo con fines ilustrativos. Para simplificar, el video muestra solo la mitad frontal de la tela, con la luz proyectándose en línea recta desde el cuerpo hacia ella.",
     alt: 'Animación: una luz sube desde un cuerpo bajo una tela de lino, la imagen se forma en la tela y la tela cae plana',
     captions: [
       'Un cuerpo yace bajo una tela de lino, en la oscuridad.',

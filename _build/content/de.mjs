@@ -45,6 +45,7 @@ export default {
   ui3d: { depth: 'Tiefe', light: 'Licht', clay: 'Ton', negative: 'Negativ', fallback: 'Diese 3D-Ansicht braucht WebGL, und Ihr Browser hat es ausgeschaltet.' },
   emanation: {
     label: 'Eine Hypothese, veranschaulicht. Kein Beleg.',
+    note: "Nur zur Veranschaulichung. Der Einfachheit halber zeigt das Video nur die vordere Hälfte des Tuchs, auf die das Licht vom Körper aus senkrecht projiziert wird.",
     alt: 'Animation: Licht steigt von einem Körper unter einem Leinentuch auf, das Bild entsteht auf dem Tuch, und das Tuch fällt flach zusammen',
     captions: [
       'Ein Körper liegt im Dunkeln unter einem Leinentuch.',

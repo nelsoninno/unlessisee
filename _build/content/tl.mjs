@@ -44,6 +44,7 @@ export default {
   ui3d: { depth: "Lalim", light: "Liwanag", clay: "Luwad", negative: "Negative", fallback: "Kailangan ng 3D view na ito ang WebGL, na naka-off sa iyong browser." },
   emanation: {
     label: "Isang hipotesis, isinalarawan. Hindi ebidensiya.",
+    note: "Para sa paglalarawan lamang. Para mapadali, ang harapang kalahati lang ng tela ang ipinapakita ng video, at ang liwanag na tuwid na tumatama rito mula sa katawan.",
     alt: "Animation: umaangat ang liwanag mula sa isang katawan sa ilalim ng telang lino, nabubuo ang imahe sa tela, at bumabagsak nang patag ang tela",
     captions: [
       "Isang katawan ang nakahiga sa ilalim ng telang lino, sa dilim.",

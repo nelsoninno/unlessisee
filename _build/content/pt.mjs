@@ -44,6 +44,7 @@ export default {
   ui3d: { depth: 'Profundidade', light: 'Luz', clay: 'Argila', negative: 'Negativo', fallback: 'Esta visualização 3D precisa de WebGL, que está desativado no seu navegador.' },
   emanation: {
     label: 'Uma hipótese, visualizada. Não é evidência.',
+    note: "Apenas para ilustração. Para simplificar, o vídeo mostra só a metade da frente do pano, com a luz projetada em linha reta do corpo até ele.",
     alt: 'Animação: uma luz sobe de um corpo sob um pano de linho, a imagem se forma no pano e o pano cai, plano',
     captions: [
       'Um corpo está sob um pano de linho, no escuro.',

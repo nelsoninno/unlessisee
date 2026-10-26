@@ -44,6 +44,7 @@ export default {
   ui3d: { depth: 'Głębia', light: 'Światło', clay: 'Glina', negative: 'Negatyw', fallback: 'Ten widok 3D wymaga WebGL, a Twoja przeglądarka ma go wyłączonego.' },
   emanation: {
     label: 'Jedna hipoteza, zobrazowana. To nie jest dowód.',
+    note: "Wyłącznie poglądowo. Dla uproszczenia film pokazuje tylko przednią połowę płótna i światło padające na nią z ciała w linii prostej.",
     alt: 'Animacja: światło unosi się z ciała pod lnianym płótnem, na płótnie powstaje obraz, a płótno opada płasko',
     captions: [
       'Ciało leży w ciemności pod lnianym płótnem.',

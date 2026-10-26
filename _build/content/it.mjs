@@ -45,6 +45,7 @@ export default {
   ui3d: { depth: "Profondità", light: "Luce", clay: "Argilla", negative: "Negativo", fallback: "Questa vista 3D richiede WebGL, che il tuo browser ha disattivato." },
   emanation: {
     label: "Un'ipotesi, visualizzata. Non è una prova.",
+    note: "Solo a scopo illustrativo. Per semplificare, il video mostra solo la metà anteriore del telo, con la luce proiettata in linea retta dal corpo verso di esso.",
     alt: "Animazione: la luce sale da un corpo sotto un telo di lino, l'immagine si forma sul telo e il telo ricade piatto",
     captions: [
       "Un corpo giace sotto un telo di lino, al buio.",

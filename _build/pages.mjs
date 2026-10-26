@@ -106,9 +106,15 @@ function relief(ctx, c, key, opts = {}) {
 }
 
 function emanation(ctx, c) {
-  return `<div class="viewer viewer--cinema" data-lazy-init="initEmanation" data-captions='${attr(JSON.stringify(c.emanation.captions))}' data-ui='${attr(JSON.stringify(c.emanation.ui))}' role="img" aria-label="${attr(c.emanation.alt)}">
-<p class="viewer__caption" aria-live="polite"></p>
-<div class="viewer__fallback" hidden>${esc(c.ui3d.fallback)}</div></div>`;
+  const E = c.emanation, V = 'assets/video/light-hypothesis-', S = '-shroud-of-turin-seetheshroud.org';
+  const src = f => ctx.asset(V + f).replace(/\?.*$/, '');
+  return `<figure class="lightvid" data-lazy-init="initLightVideo" data-steps="[0,2.7,3.2,3.6,4.0,4.7]">
+<div class="lightvid__frame"><video muted loop playsinline preload="none" width="1280" height="720" poster="${src('poster' + S + '.webp')}" aria-label="${attr(E.alt)}">
+<source data-src="${src('480' + S + '.mp4')}" type="video/mp4" media="(max-width: 700px)">
+<source data-src="${src(S.slice(1) + '.webm')}" type="video/webm">
+<source data-src="${src(S.slice(1) + '.mp4')}" type="video/mp4"></video>
+<button class="lightvid__toggle" type="button" aria-pressed="false" data-labels='${attr(JSON.stringify({ play: E.ui.play, pause: E.ui.pause }))}'>${esc(E.ui.play)}</button></div>
+<figcaption>${E.note ? `<p class="lightvid__note">${esc(E.note)}</p>` : ''}<ol class="lightvid__steps">${E.captions.map(t => `<li>${esc(t)}</li>`).join('')}</ol></figcaption></figure>`;
 }
 
 const v3d = ['assets/vendor/three.min.js', 'assets/js/relief.js'];
@@ -246,7 +252,7 @@ function home(ctx, page) {
 ${p.paths.map(x => `<a class="path" href="${ctx.href(x.slug)}"><h3>${x.h}</h3><p>${x.t}</p></a>`).join('')}
 </div></div></section>`;
   return layout(ctx, page, { title: p.title, description: p.description, preload: IMG + 'hero/face-positive-shroud-of-turin-seetheshroud.org.webp', jsonld: siteGraph(ctx, page, p, [faqLd]) }, body,
-    ['assets/js/hero.js', 'assets/js/lists.js', ...v3d, 'assets/js/data/relief-face.js', 'assets/js/data/relief-body.js', 'assets/js/emanation.js']);
+    ['assets/js/hero.js', 'assets/js/lists.js', ...v3d, 'assets/js/data/relief-face.js', 'assets/js/lightvid.js']);
 }
 
 // ===================================================================== EXPLORE
@@ -582,7 +588,7 @@ function image(ctx, page) {
   <div style="margin-top:2rem">${emanation(ctx, c)}</div>
   <div class="split" style="margin-top:3rem;align-items:start"><div>${p.emText}</div><div>${p.enea}</div></div>
 </div></section>`;
-  return layout(ctx, page, { title: p.title, description: p.description, jsonld: siteGraph(ctx, page, p) }, body, ['assets/js/lists.js', ...v3d, 'assets/js/data/relief-body.js', 'assets/js/emanation.js']);
+  return layout(ctx, page, { title: p.title, description: p.description, jsonld: siteGraph(ctx, page, p) }, body, ['assets/js/lists.js', 'assets/js/lightvid.js']);
 }
 
 function provenanceMap(ctx, c) {

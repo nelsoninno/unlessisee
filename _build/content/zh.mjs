@@ -46,6 +46,7 @@ export default {
   ui3d: { depth: '深度', light: '光照', clay: '黏土', negative: '负片', fallback: '这个3D视图需要WebGL，而你的浏览器关闭了WebGL。' },
   emanation: {
     label: '一种假说的可视化，并非证据。',
+    note: "仅作示意。为简化起见，视频只显示布的前半部分，以及光从身体直线投射到布上。",
     alt: '动画：光从亚麻布下的身体升起，图像在布上形成，然后布平落下来',
     captions: [
       '一具身体躺在亚麻布下，四周一片黑暗。',

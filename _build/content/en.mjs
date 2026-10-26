@@ -43,6 +43,7 @@ export default {
   ui3d: { depth: 'Depth', light: 'Light', clay: 'Clay', negative: 'Negative', fallback: 'This 3D view needs WebGL, which your browser has turned off.' },
   emanation: {
     label: 'One hypothesis, visualized. Not evidence.',
+    note: "For illustration only. To keep it simple, the video shows only the front half of the cloth, with the light projecting straight up from the body onto it.",
     alt: 'Animation: light rises from a body beneath a linen cloth, the image forms on the cloth, and the cloth falls flat',
     captions: [
       'A body lies under a linen cloth, in the dark.',
