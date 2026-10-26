@@ -3,7 +3,7 @@
   "alt": "Close-up of a forearm on the 1931 photograph, with a trail of blood running along it",
   "show": "Show the two directions",
   "hide": "Hide the directions",
-  "cap": "Close-up of a forearm on the 1931 photograph, in negative so the blood shows light. It is turned the way the arm hung on the cross, wrist up, so the highlighted part of the trail runs straight down. Press the button: the arm turns about ten degrees and the other part runs straight down. Which part goes with which position is our reading. Arrows drawn by us; approximate.",
+  "cap": "Close-up of a forearm on the 1931 photograph, in negative so the blood shows light. It is turned the way the arm hung on the cross, wrist up, so the highlighted part of the trail runs straight down. Press the button: the arm turns about ten degrees and the other part runs straight down. Which part goes with which position is our reading. Arrows drawn by us; approximate. The blood is tinted red by us; approximate.",
   "one": "near the wrist",
   "two": "toward the elbow",
   "down": "Straight down"
@@ -15,7 +15,7 @@
   "foreCap": "The forehead: flows from several punctures, one shaped like the number 3.",
   "backAlt": "Close-up of the back of the head on the 1931 photograph, with many small blood flows",
   "backCap": "The back of the head: many separate flows above the neck.",
-  "photoNote": "Photograph by Giuseppe Enrie, 1931, shown in negative, so the blood appears light. Contrast raised by us so the stains are easier to see.",
+  "photoNote": "Photograph by Giuseppe Enrie, 1931, shown in negative, so the blood appears light. Contrast raised by us so the stains are easier to see. The blood is tinted red by us; approximate.",
   "h3": "A cap, not a ring",
   "modelAlt": "3D model of a cap of thorns. Drag to turn it.",
   "modelCap": "Drag to turn it all the way round. About half the thorns point inward, toward the scalp.",

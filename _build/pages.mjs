@@ -498,7 +498,7 @@ function armFigure(ctx, X, B) {
   const ar = (x1, y1, x2, y2, k) => `<line class="${k}" x1="${x1}" y1="${y1}" x2="${x2}" y2="${y2}" marker-end="url(#ah-${k})"/>`;
   return `<figure class="armfig" data-pose="0">
   <div class="armfig__row" dir="ltr"><div class="armfig__lens"><div class="armfig__rot">
-    <img src="${ctx.asset(IMG + 'wounds/forearm-blood-flows-negative-shroud-of-turin-seetheshroud.org.webp')}" alt="${attr(a.alt)}" width="800" height="799" loading="lazy">
+    <img src="${ctx.asset(IMG + 'wounds/forearm-blood-flows-negative-red-shroud-of-turin-seetheshroud.org.webp')}" alt="${attr(a.alt)}" width="800" height="799" loading="lazy">
     <svg class="armfig__ov on" id="arm-ov" viewBox="0 0 100 100" aria-hidden="true"><defs>${['f1', 'f2'].map(k => `<marker id="ah-${k}" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" class="${k}"/></marker>`).join('')}</defs>
     ${ar(16, 86.6, 50.1, 53.2, 'f1')}${ar(52.3, 49.1, 84.2, 28, 'f2')}</svg>
   </div></div>
@@ -515,8 +515,8 @@ function crownSection(ctx, c, X) {
   return `<section class="plate band" id="crown"><div class="wrap">
   <div class="measure"><h2>${esc(k.h2)}</h2><p>${esc(k.text)}</p></div>
   <div class="crown-shots">
-    <figure><img src="${ctx.asset(IMG + 'wounds/forehead-wounds-negative-shroud-of-turin-seetheshroud.org.webp')}" alt="${attr(k.foreAlt)}" width="800" height="789" loading="lazy"><figcaption>${esc(k.foreCap)}</figcaption></figure>
-    <figure><img src="${ctx.asset(IMG + 'wounds/back-of-head-wounds-negative-shroud-of-turin-seetheshroud.org.webp')}" alt="${attr(k.backAlt)}" width="800" height="549" loading="lazy"><figcaption>${esc(k.backCap)}</figcaption></figure>
+    <figure><img src="${ctx.asset(IMG + 'wounds/forehead-wounds-negative-red-shroud-of-turin-seetheshroud.org.webp')}" alt="${attr(k.foreAlt)}" width="800" height="789" loading="lazy"><figcaption>${esc(k.foreCap)}</figcaption></figure>
+    <figure><img src="${ctx.asset(IMG + 'wounds/back-of-head-wounds-negative-red-shroud-of-turin-seetheshroud.org.webp')}" alt="${attr(k.backAlt)}" width="800" height="549" loading="lazy"><figcaption>${esc(k.backCap)}</figcaption></figure>
   </div>
   <p class="meta" style="margin-top:1rem">${esc(k.photoNote)}</p>
   <div class="split" style="margin-top:3rem;align-items:center">

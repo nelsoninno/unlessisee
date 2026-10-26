@@ -3,7 +3,7 @@
   "alt": "Detalhe de um antebraço na fotografia de 1931, com um filete de sangue escorrendo ao longo dele",
   "show": "Mostrar as duas direções",
   "hide": "Ocultar as direções",
-  "cap": "Detalhe de um antebraço na fotografia de 1931, em negativo para que o sangue apareça claro. Está girado como o braço pendia na cruz, com o pulso para cima, então a parte destacada do filete corre direto para baixo. Aperte o botão: o braço gira cerca de dez graus e a outra parte passa a correr para baixo. Qual parte corresponde a cada posição é leitura nossa. Setas desenhadas por nós; aproximadas.",
+  "cap": "Detalhe de um antebraço na fotografia de 1931, em negativo para que o sangue apareça claro. Está girado como o braço pendia na cruz, com o pulso para cima, então a parte destacada do filete corre direto para baixo. Aperte o botão: o braço gira cerca de dez graus e a outra parte passa a correr para baixo. Qual parte corresponde a cada posição é leitura nossa. Setas desenhadas por nós; aproximadas. O sangue foi tingido de vermelho por nós; aproximado.",
   "one": "perto do pulso",
   "two": "em direção ao cotovelo",
   "down": "Direto para baixo"
@@ -15,7 +15,7 @@
   "foreCap": "A testa: fluxos de várias perfurações, um deles com a forma do número 3.",
   "backAlt": "Detalhe da parte de trás da cabeça na fotografia de 1931, com muitos pequenos fluxos de sangue",
   "backCap": "A parte de trás da cabeça: muitos fluxos separados acima do pescoço.",
-  "photoNote": "Fotografia de Giuseppe Enrie, 1931, em negativo, por isso o sangue aparece claro. Contraste aumentado por nós para que as manchas fiquem mais fáceis de ver.",
+  "photoNote": "Fotografia de Giuseppe Enrie, 1931, em negativo, por isso o sangue aparece claro. Contraste aumentado por nós para que as manchas fiquem mais fáceis de ver. O sangue foi tingido de vermelho por nós; aproximado.",
   "h3": "Um capacete, não um anel",
   "modelAlt": "Modelo 3D de um capacete de espinhos. Arraste para girá-lo.",
   "modelCap": "Arraste para girá-lo por completo. Cerca de metade dos espinhos aponta para dentro, em direção ao couro cabeludo.",

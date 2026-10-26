@@ -3,7 +3,7 @@
   "alt": "Gros plan d’un avant-bras sur la photographie de 1931, avec une coulée de sang qui le longe",
   "show": "Montrer les deux directions",
   "hide": "Masquer les directions",
-  "cap": "Gros plan d’un avant-bras sur la photographie de 1931, en négatif pour que le sang apparaisse clair. Il est tourné comme le bras pendait sur la croix, poignet en haut, si bien que la partie mise en valeur de la coulée descend tout droit. Appuyez sur le bouton : le bras tourne d’environ dix degrés et l’autre partie descend tout droit. L’attribution de chaque partie à une position est notre lecture. Flèches tracées par nous ; approximatives.",
+  "cap": "Gros plan d’un avant-bras sur la photographie de 1931, en négatif pour que le sang apparaisse clair. Il est tourné comme le bras pendait sur la croix, poignet en haut, si bien que la partie mise en valeur de la coulée descend tout droit. Appuyez sur le bouton : le bras tourne d’environ dix degrés et l’autre partie descend tout droit. L’attribution de chaque partie à une position est notre lecture. Flèches tracées par nous ; approximatives. Le sang est teinté en rouge par nous ; approximatif.",
   "one": "près du poignet",
   "two": "vers le coude",
   "down": "Tout droit vers le bas"
@@ -15,7 +15,7 @@
   "foreCap": "Le front : des coulées issues de plusieurs piqûres, dont une en forme de chiffre 3.",
   "backAlt": "Gros plan de l’arrière de la tête sur la photographie de 1931, avec de nombreuses petites coulées de sang",
   "backCap": "L’arrière de la tête : de nombreuses coulées distinctes au-dessus de la nuque.",
-  "photoNote": "Photographie de Giuseppe Enrie, 1931, en négatif : le sang apparaît clair. Contraste renforcé par nous pour que les taches soient plus faciles à voir.",
+  "photoNote": "Photographie de Giuseppe Enrie, 1931, en négatif : le sang apparaît clair. Contraste renforcé par nous pour que les taches soient plus faciles à voir. Le sang est teinté en rouge par nous ; approximatif.",
   "h3": "Un casque, pas un anneau",
   "modelAlt": "Modèle 3D d’un casque d’épines. Faites-le glisser pour le tourner.",
   "modelCap": "Faites-le glisser pour lui faire faire un tour complet. Environ la moitié des épines pointent vers l’intérieur, vers le cuir chevelu.",
