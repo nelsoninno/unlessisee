@@ -317,7 +317,7 @@ function artSection(ctx, c, p, t) {
   </div>
   ${t && t.mirror ? `<p class="meta art__credit">${esc(t.mirror)}</p>` : ''}
   <p class="meta art__credit" style="margin-top:.6rem">${esc(a.credit).replace('MakerWorld-Image-to-3D', '<a href="https://makerworld.com/makerlab/imageTo3d" target="_blank" rel="noopener">MakerWorld-Image-to-3D</a>').replace('CC BY-SA 4.0', '<a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>')}</p>
-  ${a.lightCap ? `<figure class="lightfig"><img src="${ctx.asset(IMG + 'art/light-hypothesis-artistic-interpretation-seetheshroud.org.webp')}" alt="${attr(a.lightAlt || '')}" width="1672" height="941" loading="lazy"><figcaption>${esc(a.lightCap)}</figcaption></figure>` : ''}
+  ${a.lightCap ? `<figure class="lightfig"><img src="${ctx.asset(IMG + 'art/light-hypothesis-artistic-interpretation-seetheshroud.org.webp')}" alt="${attr(a.lightAlt || '')}" width="1672" height="941" loading="lazy"><figcaption>${esc(a.lightCap)}</figcaption><div class="btn-row"><a class="btn" href="${ctx.href('image')}#emanation">${esc((c.nav.find(n => n.slug === 'image') || {}).label || 'How it formed')}</a></div></figure>` : ''}
 </div></section>`;
 }
 
