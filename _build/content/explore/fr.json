@@ -6,10 +6,22 @@
   "outlines": "Contours",
   "outlinesNote": "Contours tracés par nous sur la photographie de 1931. Les zones des taches de sang sont approximatives.",
   "overlays": {
-   "burns": { "label": "Trous de brûlure (1532)", "note": "Trous laissés par l’incendie de Chambéry en 1532, rapiécés par les clarisses en 1534." },
-   "poker": { "label": "Trous de tisonnier", "note": "Quatre groupes de petits trous de brûlure disposés en L, plus anciens que l’incendie de 1532." },
-   "blood": { "label": "Taches de sang", "note": "Les principales taches de sang : tête, poignets, avant-bras, côté, creux des reins et pieds. Zones approximatives." },
-   "sample": { "label": "Échantillon radiocarbone", "note": "Le coin où l’échantillon de 1988 pour le carbone 14 a été découpé (emplacement approximatif)." }
+   "burns": {
+    "label": "Trous de brûlure (1532)",
+    "note": "Trous laissés par l’incendie de Chambéry en 1532, rapiécés par les clarisses en 1534."
+   },
+   "poker": {
+    "label": "Trous de tisonnier",
+    "note": "Quatre groupes de petits trous de brûlure disposés en L, plus anciens que l’incendie de 1532."
+   },
+   "blood": {
+    "label": "Taches de sang",
+    "note": "Les principales taches de sang : tête, poignets, avant-bras, côté, creux des reins et pieds. Zones approximatives."
+   },
+   "sample": {
+    "label": "Échantillon radiocarbone",
+    "note": "Le coin où l’échantillon de 1988 pour le carbone 14 a été découpé (emplacement approximatif)."
+   }
   },
   "art": {
    "h2": "L’interprétation d’un artiste",
@@ -22,7 +34,9 @@
    "alt": "Figure d’artiste de l’homme du Saint-Suaire, superposée à la photographie de 1931 de l’image de face",
    "figAlt": "La même figure en 3D, debout devant la photographie. Faites-la glisser pour la faire tourner.",
    "cap3d": "Faites glisser pour faire tourner la figure. Derrière elle se trouve la photographie de 1931 de l’image de face.",
-   "credit": "Figure réalisée par See The Shroud avec ChatGPT et MakerWorld Image-to-3D. Powered by MakerWorld-Image-to-3D. Partagée sous licence CC BY-SA 4.0. Arrière-plan : Giuseppe Enrie, 1931, édition numérique de Rudolf Berwanger, CC BY-SA 4.0."
+   "credit": "Figure réalisée par See The Shroud avec ChatGPT et MakerWorld Image-to-3D. Powered by MakerWorld-Image-to-3D. Partagée sous licence CC BY-SA 4.0. Arrière-plan : Giuseppe Enrie, 1931, édition numérique de Rudolf Berwanger, CC BY-SA 4.0.",
+   "lightCap": "L’hypothèse de la lumière, telle qu’un artiste l’imagine : le sang est déjà sur le lin, et la lumière vient du corps lui-même. Interprétation artistique, pas une preuve.",
+   "lightAlt": "Image d’artiste d’un corps sous un linge taché de sang, sur une dalle de pierre, éclairé de l’intérieur"
   }
  }
 }

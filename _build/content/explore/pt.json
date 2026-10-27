@@ -6,10 +6,22 @@
   "outlines": "Contornos",
   "outlinesNote": "Contornos traçados por nós sobre a fotografia de 1931. As áreas das manchas de sangue são aproximadas.",
   "overlays": {
-   "burns": { "label": "Furos de queimadura (1532)", "note": "Furos deixados pelo incêndio de Chambéry em 1532, remendados pelas freiras clarissas em 1534." },
-   "poker": { "label": "Furos de atiçador", "note": "Quatro grupos de pequenos furos de queimadura em forma de L, mais antigos que o incêndio de 1532." },
-   "blood": { "label": "Manchas de sangue", "note": "As principais manchas de sangue: cabeça, pulsos, antebraços, lado, região lombar e pés. Áreas aproximadas." },
-   "sample": { "label": "Amostra de radiocarbono", "note": "O canto onde a amostra de radiocarbono de 1988 foi cortada (localização aproximada)." }
+   "burns": {
+    "label": "Furos de queimadura (1532)",
+    "note": "Furos deixados pelo incêndio de Chambéry em 1532, remendados pelas freiras clarissas em 1534."
+   },
+   "poker": {
+    "label": "Furos de atiçador",
+    "note": "Quatro grupos de pequenos furos de queimadura em forma de L, mais antigos que o incêndio de 1532."
+   },
+   "blood": {
+    "label": "Manchas de sangue",
+    "note": "As principais manchas de sangue: cabeça, pulsos, antebraços, lado, região lombar e pés. Áreas aproximadas."
+   },
+   "sample": {
+    "label": "Amostra de radiocarbono",
+    "note": "O canto onde a amostra de radiocarbono de 1988 foi cortada (localização aproximada)."
+   }
   },
   "art": {
    "h2": "A interpretação de um artista",
@@ -22,7 +34,9 @@
    "alt": "Figura de um artista do homem do Sudário, colocada sobre a fotografia de 1931 da imagem frontal",
    "figAlt": "A mesma figura em 3D, de pé diante da fotografia. Arraste para girá-la.",
    "cap3d": "Arraste para girar a figura. Atrás dela está a fotografia de 1931 da imagem frontal.",
-   "credit": "Figura feita por See The Shroud com ChatGPT e MakerWorld Image-to-3D. Powered by MakerWorld-Image-to-3D. Compartilhada sob CC BY-SA 4.0. Fundo: Giuseppe Enrie, 1931, edição digital de Rudolf Berwanger, CC BY-SA 4.0."
+   "credit": "Figura feita por See The Shroud com ChatGPT e MakerWorld Image-to-3D. Powered by MakerWorld-Image-to-3D. Compartilhada sob CC BY-SA 4.0. Fundo: Giuseppe Enrie, 1931, edição digital de Rudolf Berwanger, CC BY-SA 4.0.",
+   "lightCap": "A hipótese da luz, como um artista a imagina: o sangue já está no linho, e a luz vem do próprio corpo. Interpretação artística, não evidência.",
+   "lightAlt": "Imagem artística de um corpo sob um pano de linho manchado de sangue, sobre uma laje de pedra, iluminado por dentro"
   }
  }
 }

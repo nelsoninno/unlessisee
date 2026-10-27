@@ -49,6 +49,7 @@ export default {
     alt: 'Animation: Licht steigt von einem Körper unter einem Leinentuch auf, das Bild entsteht auf dem Tuch, und das Tuch fällt flach zusammen',
     captions: [
       'Ein Körper liegt im Dunkeln unter einem Leinentuch.',
+      "Zuerst dringt das Blut durch Berührung in das Tuch ein. Bei Tests wurde unter den Blutflecken kein Körperbild gefunden.",
       'Hypothese: eine kurze, starke Freisetzung von Energie aus dem Körper selbst.',
       'Das Licht geht senkrecht nach oben und senkrecht nach unten, nicht in alle Richtungen.',
       'Nur die äußerste Oberfläche der Fasern verfärbt sich. Keine Farbe, keine Versengung.',

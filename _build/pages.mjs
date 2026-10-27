@@ -108,7 +108,7 @@ function relief(ctx, c, key, opts = {}) {
 function emanation(ctx, c) {
   const E = c.emanation, V = 'assets/video/light-hypothesis-v2-', S = '-shroud-of-turin-seetheshroud.org';
   const src = f => ctx.asset(V + f).replace(/\?.*$/, '');
-  return `<figure class="lightvid" data-lazy-init="initLightVideo" data-steps="[0,3.8,4.4,4.8,5.0,5.7]">
+  return `<figure class="lightvid" data-lazy-init="initLightVideo" data-steps="[0,2.4,3.8,4.4,4.8,5.0,5.7]">
 <div class="lightvid__frame"><video muted loop playsinline preload="none" width="1280" height="720" poster="${src('poster' + S + '.webp')}" aria-label="${attr(E.alt)}">
 <source data-src="${src('480' + S + '.mp4')}" type="video/mp4" media="(max-width: 700px)">
 <source data-src="${src(S.slice(1) + '.webm')}" type="video/webm">
@@ -317,6 +317,7 @@ function artSection(ctx, c, p, t) {
   </div>
   ${t && t.mirror ? `<p class="meta art__credit">${esc(t.mirror)}</p>` : ''}
   <p class="meta art__credit" style="margin-top:.6rem">${esc(a.credit).replace('MakerWorld-Image-to-3D', '<a href="https://makerworld.com/makerlab/imageTo3d" target="_blank" rel="noopener">MakerWorld-Image-to-3D</a>').replace('CC BY-SA 4.0', '<a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>')}</p>
+  ${a.lightCap ? `<figure class="lightfig"><img src="${ctx.asset(IMG + 'art/light-hypothesis-artistic-interpretation-seetheshroud.org.webp')}" alt="${attr(a.lightAlt || '')}" width="1672" height="941" loading="lazy"><figcaption>${esc(a.lightCap)}</figcaption></figure>` : ''}
 </div></section>`;
 }
 

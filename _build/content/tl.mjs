@@ -48,6 +48,7 @@ export default {
     alt: "Animation: umaangat ang liwanag mula sa isang katawan sa ilalim ng telang lino, nabubuo ang imahe sa tela, at bumabagsak nang patag ang tela",
     captions: [
       "Isang katawan ang nakahiga sa ilalim ng telang lino, sa dilim.",
+      "Una, tumatagos ang dugo sa tela sa pagdikit. Sa mga pagsusuri, walang nakitang imahe sa ilalim ng mga mantsa ng dugo.",
       "Hipotesis: isang maikli at matinding paglabas ng enerhiya mula sa katawan mismo.",
       "Tuwid na pataas at tuwid na pababa ang liwanag, hindi sa lahat ng direksiyon.",
       "Ang pinakalabas na ibabaw lamang ng mga hibla ang dumidilim. Walang pintura, walang sunog.",

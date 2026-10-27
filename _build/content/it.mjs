@@ -49,6 +49,7 @@ export default {
     alt: "Animazione: la luce sale da un corpo sotto un telo di lino, l'immagine si forma sul telo e il telo ricade piatto",
     captions: [
       "Un corpo giace sotto un telo di lino, al buio.",
+      "Prima il sangue impregna il telo per contatto. Le analisi non hanno trovato immagine sotto le macchie di sangue.",
       "Ipotesi: un breve e intenso rilascio di energia dal corpo stesso.",
       "La luce viaggia dritta verso l'alto e dritta verso il basso, non in tutte le direzioni.",
       "Si scurisce solo la superficie più esterna delle fibre. Nessuna pittura, nessuna bruciatura.",

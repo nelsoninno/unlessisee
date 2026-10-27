@@ -6,10 +6,22 @@
   "outlines": "Contorni",
   "outlinesNote": "Contorni tracciati da noi sulla fotografia del 1931. Le aree delle macchie di sangue sono approssimative.",
   "overlays": {
-   "burns": { "label": "Bruciature (1532)", "note": "Fori lasciati dall'incendio di Chambéry del 1532, rattoppati dalle clarisse nel 1534." },
-   "poker": { "label": "Fori a L", "note": "Quattro gruppi di piccoli fori di bruciatura disposti a L, più antichi dell'incendio del 1532." },
-   "blood": { "label": "Macchie di sangue", "note": "Le principali macchie di sangue: testa, polsi, avambracci, costato, zona lombare e piedi. Aree approssimative." },
-   "sample": { "label": "Campione al radiocarbonio", "note": "L'angolo dove fu tagliato il campione per la datazione al radiocarbonio del 1988 (posizione approssimativa)." }
+   "burns": {
+    "label": "Bruciature (1532)",
+    "note": "Fori lasciati dall'incendio di Chambéry del 1532, rattoppati dalle clarisse nel 1534."
+   },
+   "poker": {
+    "label": "Fori a L",
+    "note": "Quattro gruppi di piccoli fori di bruciatura disposti a L, più antichi dell'incendio del 1532."
+   },
+   "blood": {
+    "label": "Macchie di sangue",
+    "note": "Le principali macchie di sangue: testa, polsi, avambracci, costato, zona lombare e piedi. Aree approssimative."
+   },
+   "sample": {
+    "label": "Campione al radiocarbonio",
+    "note": "L'angolo dove fu tagliato il campione per la datazione al radiocarbonio del 1988 (posizione approssimativa)."
+   }
   },
   "art": {
    "h2": "L'interpretazione di un artista",
@@ -22,7 +34,9 @@
    "alt": "Figura d'artista dell'uomo della Sindone, sovrapposta alla fotografia del 1931 dell'immagine frontale",
    "figAlt": "La stessa figura in 3D, in piedi davanti alla fotografia. Trascinala per ruotarla.",
    "cap3d": "Trascina per ruotare la figura. Dietro c'è la fotografia del 1931 dell'immagine frontale.",
-   "credit": "Figura realizzata da See The Shroud con ChatGPT e MakerWorld Image-to-3D. Powered by MakerWorld-Image-to-3D. Condivisa con licenza CC BY-SA 4.0. Sfondo: Giuseppe Enrie, 1931, edizione digitale di Rudolf Berwanger, CC BY-SA 4.0."
+   "credit": "Figura realizzata da See The Shroud con ChatGPT e MakerWorld Image-to-3D. Powered by MakerWorld-Image-to-3D. Condivisa con licenza CC BY-SA 4.0. Sfondo: Giuseppe Enrie, 1931, edizione digitale di Rudolf Berwanger, CC BY-SA 4.0.",
+   "lightCap": "L'ipotesi della luce, come la immagina un artista: il sangue è già sul lino e la luce viene dal corpo stesso. Interpretazione artistica, non una prova.",
+   "lightAlt": "Immagine d'artista di un corpo sotto un telo di lino macchiato di sangue, su una lastra di pietra, illuminato dall'interno"
   }
  }
 }

@@ -6,10 +6,22 @@
   "outlines": "轮廓",
   "outlinesNote": "轮廓由我们在1931年的照片上绘制。血迹区域为大致位置。",
   "overlays": {
-   "burns": { "label": "烧洞（1532年）", "note": "1532年尚贝里火灾烧出的破洞，1534年由嘉勒会修女缝上补丁。" },
-   "poker": { "label": "火钳洞", "note": "四组呈L形排列的小烧洞，比1532年的火灾更早。" },
-   "blood": { "label": "血迹", "note": "主要血迹：头部、手腕、前臂、肋旁、腰部和脚。区域为大致位置。" },
-   "sample": { "label": "碳定年样本", "note": "1988年切取碳定年样本的那个角（大致位置）。" }
+   "burns": {
+    "label": "烧洞（1532年）",
+    "note": "1532年尚贝里火灾烧出的破洞，1534年由嘉勒会修女缝上补丁。"
+   },
+   "poker": {
+    "label": "火钳洞",
+    "note": "四组呈L形排列的小烧洞，比1532年的火灾更早。"
+   },
+   "blood": {
+    "label": "血迹",
+    "note": "主要血迹：头部、手腕、前臂、肋旁、腰部和脚。区域为大致位置。"
+   },
+   "sample": {
+    "label": "碳定年样本",
+    "note": "1988年切取碳定年样本的那个角（大致位置）。"
+   }
   },
   "art": {
    "h2": "一位艺术家的诠释",
@@ -22,7 +34,9 @@
    "alt": "艺术家创作的裹尸布上男人的形象，叠在1931年拍摄的正面图像照片上",
    "figAlt": "同一人像的3D模型，立在照片前面。拖动可以旋转。",
    "cap3d": "拖动可以旋转人像。后面是1931年拍摄的正面图像照片。",
-   "credit": "人像由See The Shroud使用ChatGPT和MakerWorld Image-to-3D制作。Powered by MakerWorld-Image-to-3D。以CC BY-SA 4.0共享。背景：Giuseppe Enrie，1931年，Rudolf Berwanger制作的数字版本，CC BY-SA 4.0。"
+   "credit": "人像由See The Shroud使用ChatGPT和MakerWorld Image-to-3D制作。Powered by MakerWorld-Image-to-3D。以CC BY-SA 4.0共享。背景：Giuseppe Enrie，1931年，Rudolf Berwanger制作的数字版本，CC BY-SA 4.0。",
+   "lightCap": "一位艺术家想象中的光假说：血迹已经在亚麻布上，光来自身体本身。艺术诠释，不是证据。",
+   "lightAlt": "艺术图像：石台上，一具身体躺在沾有血迹的亚麻布下，从内部发光"
   }
  }
 }

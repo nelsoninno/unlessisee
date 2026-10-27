@@ -48,6 +48,7 @@ export default {
     alt: 'Animation : une lumière s’élève d’un corps placé sous un linge, l’image se forme sur le linge, puis le linge retombe à plat',
     captions: [
       'Un corps repose sous un linge, dans l’obscurité.',
+      "D’abord, le sang imprègne le linge par contact. Les analyses n’ont trouvé aucune image sous les taches de sang.",
       'Hypothèse : une brève et intense libération d’énergie, venue du corps lui-même.',
       'La lumière va tout droit vers le haut et tout droit vers le bas, pas dans toutes les directions.',
       'Seule la surface la plus externe des fibres fonce. Ni peinture, ni brûlure.',

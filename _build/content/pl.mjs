@@ -48,6 +48,7 @@ export default {
     alt: 'Animacja: światło unosi się z ciała pod lnianym płótnem, na płótnie powstaje obraz, a płótno opada płasko',
     captions: [
       'Ciało leży w ciemności pod lnianym płótnem.',
+      "Najpierw krew wsiąka w płótno przez dotyk. Badania nie wykazały wizerunku pod plamami krwi.",
       'Hipoteza: krótkie, silne uwolnienie energii z samego ciała.',
       'Światło biegnie prosto w górę i prosto w dół, a nie we wszystkich kierunkach.',
       'Ciemnieje tylko najbardziej zewnętrzna warstwa włókien. Bez farby, bez przypalenia.',

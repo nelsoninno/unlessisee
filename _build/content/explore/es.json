@@ -6,10 +6,22 @@
   "outlines": "Contornos",
   "outlinesNote": "Contornos trazados por nosotros sobre la fotografía de 1931. Las zonas de las manchas de sangre son aproximadas.",
   "overlays": {
-   "burns": { "label": "Quemaduras (1532)", "note": "Agujeros que dejó el incendio de Chambéry en 1532, remendados por las monjas clarisas en 1534." },
-   "poker": { "label": "Agujeros de atizador", "note": "Cuatro grupos de pequeños agujeros de quemadura en forma de L, anteriores al incendio de 1532." },
-   "blood": { "label": "Manchas de sangre", "note": "Las principales manchas de sangre: cabeza, muñecas, antebrazos, costado, zona lumbar y pies. Zonas aproximadas." },
-   "sample": { "label": "Muestra de radiocarbono", "note": "La esquina donde se cortó la muestra de radiocarbono de 1988 (ubicación aproximada)." }
+   "burns": {
+    "label": "Quemaduras (1532)",
+    "note": "Agujeros que dejó el incendio de Chambéry en 1532, remendados por las monjas clarisas en 1534."
+   },
+   "poker": {
+    "label": "Agujeros de atizador",
+    "note": "Cuatro grupos de pequeños agujeros de quemadura en forma de L, anteriores al incendio de 1532."
+   },
+   "blood": {
+    "label": "Manchas de sangre",
+    "note": "Las principales manchas de sangre: cabeza, muñecas, antebrazos, costado, zona lumbar y pies. Zonas aproximadas."
+   },
+   "sample": {
+    "label": "Muestra de radiocarbono",
+    "note": "La esquina donde se cortó la muestra de radiocarbono de 1988 (ubicación aproximada)."
+   }
   },
   "art": {
    "h2": "La interpretación de un artista",
@@ -22,7 +34,9 @@
    "alt": "Figura de un artista del hombre de la Sábana Santa, puesta sobre la fotografía de 1931 de la imagen frontal",
    "figAlt": "La misma figura en 3D, de pie frente a la fotografía. Arrástrala para girarla.",
    "cap3d": "Arrastra para girar la figura. Detrás está la fotografía de 1931 de la imagen frontal.",
-   "credit": "Figura hecha por See The Shroud con ChatGPT y MakerWorld Image-to-3D. Powered by MakerWorld-Image-to-3D. Compartida bajo CC BY-SA 4.0. Fondo: Giuseppe Enrie, 1931, edición digital de Rudolf Berwanger, CC BY-SA 4.0."
+   "credit": "Figura hecha por See The Shroud con ChatGPT y MakerWorld Image-to-3D. Powered by MakerWorld-Image-to-3D. Compartida bajo CC BY-SA 4.0. Fondo: Giuseppe Enrie, 1931, edición digital de Rudolf Berwanger, CC BY-SA 4.0.",
+   "lightCap": "La hipótesis de la luz, como la imagina un artista: la sangre ya está en el lienzo y la luz sale del propio cuerpo. Interpretación artística, no evidencia.",
+   "lightAlt": "Imagen artística de un cuerpo bajo una tela de lino manchada de sangre, sobre una losa de piedra, iluminado desde dentro"
   }
  }
 }

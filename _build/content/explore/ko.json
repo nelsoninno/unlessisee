@@ -6,10 +6,22 @@
   "outlines": "윤곽선",
   "outlinesNote": "윤곽선은 저희가 1931년 사진 위에 그린 것입니다. 혈흔 영역은 대략적입니다.",
   "overlays": {
-   "burns": { "label": "불탄 구멍 (1532)", "note": "1532년 샹베리 화재로 생긴 구멍으로, 1534년 클라라회 수녀들이 천 조각을 덧대었습니다." },
-   "poker": { "label": "부지깽이 구멍", "note": "L자 모양으로 모인 작은 불탄 구멍 네 무리로, 1532년 화재보다 오래되었습니다." },
-   "blood": { "label": "혈흔", "note": "주요 혈흔: 머리, 손목, 아래팔, 옆구리, 허리, 발. 대략적인 영역입니다." },
-   "sample": { "label": "탄소 연대 시료", "note": "1988년 탄소 연대 측정 시료를 잘라 낸 모서리입니다(대략적 위치)." }
+   "burns": {
+    "label": "불탄 구멍 (1532)",
+    "note": "1532년 샹베리 화재로 생긴 구멍으로, 1534년 클라라회 수녀들이 천 조각을 덧대었습니다."
+   },
+   "poker": {
+    "label": "부지깽이 구멍",
+    "note": "L자 모양으로 모인 작은 불탄 구멍 네 무리로, 1532년 화재보다 오래되었습니다."
+   },
+   "blood": {
+    "label": "혈흔",
+    "note": "주요 혈흔: 머리, 손목, 아래팔, 옆구리, 허리, 발. 대략적인 영역입니다."
+   },
+   "sample": {
+    "label": "탄소 연대 시료",
+    "note": "1988년 탄소 연대 측정 시료를 잘라 낸 모서리입니다(대략적 위치)."
+   }
   },
   "art": {
    "h2": "한 예술가의 해석",
@@ -22,7 +34,9 @@
    "alt": "1931년 앞면 형상 사진 위에 겹쳐 놓은, 예술가가 만든 수의의 남자 인물상",
    "figAlt": "같은 인물상을 3D로 만들어 사진 앞에 세운 모습. 끌어서 돌려 보십시오.",
    "cap3d": "끌어서 인물상을 돌려 보십시오. 뒤에는 1931년 앞면 형상 사진이 있습니다.",
-   "credit": "See The Shroud가 ChatGPT와 MakerWorld Image-to-3D로 만든 인물상. Powered by MakerWorld-Image-to-3D. CC BY-SA 4.0로 공유합니다. 배경: Giuseppe Enrie, 1931년, Rudolf Berwanger의 디지털판, CC BY-SA 4.0."
+   "credit": "See The Shroud가 ChatGPT와 MakerWorld Image-to-3D로 만든 인물상. Powered by MakerWorld-Image-to-3D. CC BY-SA 4.0로 공유합니다. 배경: Giuseppe Enrie, 1931년, Rudolf Berwanger의 디지털판, CC BY-SA 4.0.",
+   "lightCap": "한 예술가가 상상한 빛 가설: 피는 이미 아마포에 묻어 있고, 빛은 몸 자체에서 나옵니다. 예술적 해석이며, 증거가 아닙니다.",
+   "lightAlt": "돌판 위, 피 묻은 아마포 아래에 누운 몸이 안에서부터 빛나는 예술 이미지"
   }
  }
 }

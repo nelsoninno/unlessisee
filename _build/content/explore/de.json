@@ -6,10 +6,22 @@
   "outlines": "Umrisse",
   "outlinesNote": "Die Umrisse haben wir auf der Fotografie von 1931 eingezeichnet. Die Bereiche der Blutflecken sind ungefähr.",
   "overlays": {
-   "burns": { "label": "Brandlöcher (1532)", "note": "Löcher vom Brand in Chambéry 1532, die die Klarissen 1534 flickten." },
-   "poker": { "label": "Schürhakenlöcher", "note": "Vier L-förmige Gruppen kleiner Brandlöcher, älter als der Brand von 1532." },
-   "blood": { "label": "Blutflecken", "note": "Die wichtigsten Blutflecken: Kopf, Handgelenke, Unterarme, Seite, unterer Rücken und Füße. Ungefähre Bereiche." },
-   "sample": { "label": "Radiokarbonprobe", "note": "Die Ecke, an der 1988 die Probe für die Radiokarbondatierung entnommen wurde (ungefähre Lage)." }
+   "burns": {
+    "label": "Brandlöcher (1532)",
+    "note": "Löcher vom Brand in Chambéry 1532, die die Klarissen 1534 flickten."
+   },
+   "poker": {
+    "label": "Schürhakenlöcher",
+    "note": "Vier L-förmige Gruppen kleiner Brandlöcher, älter als der Brand von 1532."
+   },
+   "blood": {
+    "label": "Blutflecken",
+    "note": "Die wichtigsten Blutflecken: Kopf, Handgelenke, Unterarme, Seite, unterer Rücken und Füße. Ungefähre Bereiche."
+   },
+   "sample": {
+    "label": "Radiokarbonprobe",
+    "note": "Die Ecke, an der 1988 die Probe für die Radiokarbondatierung entnommen wurde (ungefähre Lage)."
+   }
   },
   "art": {
    "h2": "Die Deutung eines Künstlers",
@@ -22,7 +34,9 @@
    "alt": "Künstlerische Figur des Mannes auf dem Grabtuch, über die Fotografie der Vorderansicht von 1931 gelegt",
    "figAlt": "Dieselbe Figur in 3D, vor der Fotografie stehend. Ziehen Sie daran, um sie zu drehen.",
    "cap3d": "Ziehen Sie, um die Figur zu drehen. Dahinter steht die Fotografie der Vorderansicht von 1931.",
-   "credit": "Figur erstellt von See The Shroud mit ChatGPT und MakerWorld Image-to-3D. Powered by MakerWorld-Image-to-3D. Geteilt unter CC BY-SA 4.0. Hintergrund: Giuseppe Enrie, 1931, digitale Ausgabe von Rudolf Berwanger, CC BY-SA 4.0."
+   "credit": "Figur erstellt von See The Shroud mit ChatGPT und MakerWorld Image-to-3D. Powered by MakerWorld-Image-to-3D. Geteilt unter CC BY-SA 4.0. Hintergrund: Giuseppe Enrie, 1931, digitale Ausgabe von Rudolf Berwanger, CC BY-SA 4.0.",
+   "lightCap": "Die Licht-Hypothese, wie ein Künstler sie sich vorstellt: Das Blut ist schon auf dem Leinen, und das Licht kommt aus dem Körper selbst. Künstlerische Deutung, kein Beleg.",
+   "lightAlt": "Künstlerisches Bild eines Körpers unter einem blutbefleckten Leinentuch auf einer Steinplatte, von innen beleuchtet"
   }
  }
 }

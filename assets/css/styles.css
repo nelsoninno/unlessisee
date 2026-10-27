@@ -725,3 +725,7 @@ h1{font-size:clamp(2.5rem,5.6vw,4.6rem)}
 .lightvid__big:focus-visible{outline:3px solid var(--light);outline-offset:4px;border-radius:50%}
 .lightvid.is-paused .lightvid__big{opacity:1;pointer-events:auto}
 .lightvid.is-paused .lightvid__toggle{display:none}
+/* light hypothesis artwork on the See it in 3D page */
+.lightfig{margin:3rem 0 0}
+.lightfig img{display:block;width:100%;height:auto;border-radius:16px;background:var(--tomb)}
+.lightfig figcaption{margin-top:.8rem;font-family:var(--font-sans);font-size:.9rem;color:var(--ink-soft);max-width:var(--measure)}

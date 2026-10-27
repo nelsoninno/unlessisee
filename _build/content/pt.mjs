@@ -48,6 +48,7 @@ export default {
     alt: 'Animação: uma luz sobe de um corpo sob um pano de linho, a imagem se forma no pano e o pano cai, plano',
     captions: [
       'Um corpo está sob um pano de linho, no escuro.',
+      "Primeiro, o sangue impregna o pano por contato. As análises não encontraram imagem debaixo das manchas de sangue.",
       'Hipótese: uma liberação de energia curta e intensa, vinda do próprio corpo.',
       'A luz segue em linha reta para cima e para baixo, não em todas as direções.',
       'Só a superfície mais externa das fibras escurece. Sem tinta, sem queimadura.',

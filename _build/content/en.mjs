@@ -47,6 +47,7 @@ export default {
     alt: 'Animation: light rises from a body beneath a linen cloth, the image forms on the cloth, and the cloth falls flat',
     captions: [
       'A body lies under a linen cloth, in the dark.',
+      "The blood soaks into the cloth first, by contact. Tests found no image under the bloodstains.",
       'Hypothesis: a short, intense release of energy from the body itself.',
       'The light travels straight up and straight down, not in all directions.',
       'Only the outermost surface of the fibers darkens. No paint, no scorch.',
