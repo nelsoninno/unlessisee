@@ -50,7 +50,7 @@ export default {
       'Un cuerpo yace bajo una tela de lino, en la oscuridad.',
       "Primero, la sangre empapa la tela por contacto. Los análisis no hallaron imagen debajo de las manchas de sangre.",
       'Hipótesis: una liberación de energía breve e intensa, desde el propio cuerpo.',
-      'La luz viaja en línea recta hacia arriba y hacia abajo, no en todas las direcciones.',
+      "La imagen parece proyectada en línea recta hacia arriba y hacia abajo: sin los costados del cuerpo, y más oscura donde la tela estaba más cerca. La hipótesis necesita una energía que viaje de la misma forma.",
       'Solo se oscurece la superficie más externa de las fibras. Sin pintura, sin quemadura.',
       'El físico John Jackson propuso que la tela cayó luego a través de un cuerpo que ya no estaba.',
       'Lo que queda es una imagen tenue que ningún experimento ha igualado todavía en todos sus detalles.'

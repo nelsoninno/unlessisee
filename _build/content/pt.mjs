@@ -50,7 +50,7 @@ export default {
       'Um corpo está sob um pano de linho, no escuro.',
       "Primeiro, o sangue impregna o pano por contato. As análises não encontraram imagem debaixo das manchas de sangue.",
       'Hipótese: uma liberação de energia curta e intensa, vinda do próprio corpo.',
-      'A luz segue em linha reta para cima e para baixo, não em todas as direções.',
+      "A imagem parece projetada em linha reta para cima e para baixo: sem as laterais do corpo, e mais escura onde o pano estava mais perto. A hipótese precisa de uma energia que viaje do mesmo jeito.",
       'Só a superfície mais externa das fibras escurece. Sem tinta, sem queimadura.',
       'O físico John Jackson propôs que o pano então caiu através de um corpo que já não estava ali.',
       'O que fica é uma imagem tênue que nenhum experimento conseguiu reproduzir em todos os detalhes.'

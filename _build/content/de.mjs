@@ -51,7 +51,7 @@ export default {
       'Ein Körper liegt im Dunkeln unter einem Leinentuch.',
       "Zuerst dringt das Blut durch Berührung in das Tuch ein. Bei Tests wurde unter den Blutflecken kein Körperbild gefunden.",
       'Hypothese: eine kurze, starke Freisetzung von Energie aus dem Körper selbst.',
-      'Das Licht geht senkrecht nach oben und senkrecht nach unten, nicht in alle Richtungen.',
+      "Das Bild wirkt wie senkrecht nach oben und unten projiziert: ohne die Seiten des Körpers und dunkler, wo das Tuch näher war. Die Hypothese braucht eine Energie, die sich genauso ausbreitet.",
       'Nur die äußerste Oberfläche der Fasern verfärbt sich. Keine Farbe, keine Versengung.',
       'Der Physiker John Jackson vermutete, dass das Tuch dann durch einen Körper fiel, der nicht mehr da war.',
       'Zurück bleibt ein blasses Bild, das bisher kein Experiment in allen Einzelheiten erreicht hat.'

@@ -50,7 +50,7 @@ export default {
       'Ciało leży w ciemności pod lnianym płótnem.',
       "Najpierw krew wsiąka w płótno przez dotyk. Badania nie wykazały wizerunku pod plamami krwi.",
       'Hipoteza: krótkie, silne uwolnienie energii z samego ciała.',
-      'Światło biegnie prosto w górę i prosto w dół, a nie we wszystkich kierunkach.',
+      "Wizerunek wygląda, jakby był rzutowany prosto w górę i w dół: bez boków ciała i ciemniejszy tam, gdzie płótno było bliżej. Hipoteza wymaga energii, która rozchodzi się w ten sam sposób.",
       'Ciemnieje tylko najbardziej zewnętrzna warstwa włókien. Bez farby, bez przypalenia.',
       'Fizyk John Jackson zaproponował, że płótno opadło potem przez ciało, którego już nie było.',
       'Zostaje słaby obraz, którego żaden eksperyment nie odtworzył jeszcze we wszystkich szczegółach.'

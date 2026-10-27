@@ -50,7 +50,7 @@ export default {
       "Isang katawan ang nakahiga sa ilalim ng telang lino, sa dilim.",
       "Una, tumatagos ang dugo sa tela sa pagdikit. Sa mga pagsusuri, walang nakitang imahe sa ilalim ng mga mantsa ng dugo.",
       "Hipotesis: isang maikli at matinding paglabas ng enerhiya mula sa katawan mismo.",
-      "Tuwid na pataas at tuwid na pababa ang liwanag, hindi sa lahat ng direksiyon.",
+      "Mukhang tuwid na ipinroyekta pataas at pababa ang imahe: walang tagiliran ng katawan, at mas madilim kung saan mas malapit ang tela. Kailangan ng hypothesis ng enerhiyang ganoon din ang daloy.",
       "Ang pinakalabas na ibabaw lamang ng mga hibla ang dumidilim. Walang pintura, walang sunog.",
       "Iminungkahi ng physicist na si John Jackson na bumagsak ang tela sa isang katawang wala na roon.",
       "Ang natitira ay isang malabong imahe na wala pang eksperimentong nakatumbas sa bawat detalye."

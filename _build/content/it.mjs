@@ -51,7 +51,7 @@ export default {
       "Un corpo giace sotto un telo di lino, al buio.",
       "Prima il sangue impregna il telo per contatto. Le analisi non hanno trovato immagine sotto le macchie di sangue.",
       "Ipotesi: un breve e intenso rilascio di energia dal corpo stesso.",
-      "La luce viaggia dritta verso l'alto e dritta verso il basso, non in tutte le direzioni.",
+      "L'immagine sembra proiettata dritta verso l'alto e verso il basso: senza i fianchi del corpo, e più scura dove il telo era più vicino. L'ipotesi richiede un'energia che viaggi allo stesso modo.",
       "Si scurisce solo la superficie più esterna delle fibre. Nessuna pittura, nessuna bruciatura.",
       "Il fisico John Jackson ha proposto che il telo sia poi ricaduto attraverso un corpo che non c'era più.",
       "Resta un'immagine debole che nessun esperimento ha ancora riprodotto in ogni dettaglio."

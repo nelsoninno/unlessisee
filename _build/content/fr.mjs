@@ -50,7 +50,7 @@ export default {
       'Un corps repose sous un linge, dans l’obscurité.',
       "D’abord, le sang imprègne le linge par contact. Les analyses n’ont trouvé aucune image sous les taches de sang.",
       'Hypothèse : une brève et intense libération d’énergie, venue du corps lui-même.',
-      'La lumière va tout droit vers le haut et tout droit vers le bas, pas dans toutes les directions.',
+      "L’image semble projetée tout droit vers le haut et vers le bas : sans les côtés du corps, et plus sombre là où le linge était plus proche. L’hypothèse exige une énergie qui se propage de la même façon.",
       'Seule la surface la plus externe des fibres fonce. Ni peinture, ni brûlure.',
       'Le physicien John Jackson a proposé que le linge soit ensuite retombé à travers un corps qui n’était plus là.',
       'Il reste une image pâle qu’aucune expérience n’a encore reproduite dans tous ses détails.'

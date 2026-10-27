@@ -49,7 +49,7 @@ export default {
       'A body lies under a linen cloth, in the dark.',
       "The blood soaks into the cloth first, by contact. Tests found no image under the bloodstains.",
       'Hypothesis: a short, intense release of energy from the body itself.',
-      'The light travels straight up and straight down, not in all directions.',
+      "The image looks as if projected straight up and down: no sides of the body, and darker where the cloth was closer. The hypothesis needs energy that travels the same way.",
       'Only the outermost surface of the fibers darkens. No paint, no scorch.',
       'Physicist John Jackson proposed that the cloth then fell through a body that was no longer there.',
       'What remains is a faint image that no experiment has yet matched in every detail.'
