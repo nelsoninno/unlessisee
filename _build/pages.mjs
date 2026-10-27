@@ -106,9 +106,9 @@ function relief(ctx, c, key, opts = {}) {
 }
 
 function emanation(ctx, c) {
-  const E = c.emanation, V = 'assets/video/light-hypothesis-', S = '-shroud-of-turin-seetheshroud.org';
+  const E = c.emanation, V = 'assets/video/light-hypothesis-v2-', S = '-shroud-of-turin-seetheshroud.org';
   const src = f => ctx.asset(V + f).replace(/\?.*$/, '');
-  return `<figure class="lightvid" data-lazy-init="initLightVideo" data-steps="[0,2.7,3.2,3.6,4.0,4.7]">
+  return `<figure class="lightvid" data-lazy-init="initLightVideo" data-steps="[0,3.8,4.4,4.8,5.0,5.7]">
 <div class="lightvid__frame"><video muted loop playsinline preload="none" width="1280" height="720" poster="${src('poster' + S + '.webp')}" aria-label="${attr(E.alt)}">
 <source data-src="${src('480' + S + '.mp4')}" type="video/mp4" media="(max-width: 700px)">
 <source data-src="${src(S.slice(1) + '.webm')}" type="video/webm">
